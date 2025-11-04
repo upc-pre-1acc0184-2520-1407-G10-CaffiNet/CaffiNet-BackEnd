@@ -1,0 +1,3896 @@
+cafeteria_id;pet_friendly;tipo_musica;iluminacion;enchufes;wifi;terraza;estilo_decorativo
+1;no;alegre;tenue;sí;no;sí;minimalista
+2;no;calmada;cálida;sí;no;no;rústico
+3;sí;sin música;cálida;sí;no;no;vintage
+4;no;alegre;cálida;no;no;sí;industrial
+5;sí;sin música;brillante;sí;no;no;artístico
+6;sí;sin música;tenue;no;no;no;rústico
+7;no;sin música;cálida;no;sí;no;artístico
+8;no;alegre;tenue;no;no;sí;minimalista
+9;sí;alegre;cálida;sí;no;no;rústico
+10;sí;alegre;brillante;sí;no;no;vintage
+11;no;calmada;cálida;sí;sí;no;minimalista
+12;sí;calmada;brillante;sí;sí;no;industrial
+13;no;alegre;brillante;sí;no;sí;rústico
+14;sí;calmada;tenue;no;sí;sí;vintage
+15;no;alegre;tenue;sí;no;no;vintage
+16;sí;sin música;brillante;sí;no;sí;rústico
+17;sí;calmada;brillante;no;no;no;vintage
+18;sí;calmada;cálida;sí;sí;sí;artístico
+19;sí;alegre;brillante;no;sí;sí;rústico
+20;sí;calmada;tenue;sí;no;sí;artístico
+21;sí;calmada;tenue;sí;no;sí;moderno
+22;sí;alegre;tenue;sí;no;sí;rústico
+23;no;sin música;brillante;sí;no;no;rústico
+24;no;alegre;tenue;no;no;sí;rústico
+25;no;sin música;cálida;no;sí;sí;vintage
+26;no;alegre;brillante;sí;no;sí;vintage
+27;no;calmada;tenue;no;sí;sí;rústico
+28;sí;alegre;tenue;sí;sí;sí;vintage
+29;sí;sin música;brillante;no;no;no;industrial
+30;no;alegre;tenue;sí;no;no;vintage
+31;sí;alegre;brillante;sí;sí;no;rústico
+32;no;alegre;brillante;sí;no;sí;moderno
+33;sí;alegre;tenue;sí;no;sí;industrial
+34;sí;calmada;cálida;no;no;no;rústico
+35;sí;alegre;brillante;sí;sí;sí;minimalista
+36;sí;sin música;brillante;no;sí;no;moderno
+37;sí;alegre;tenue;no;no;no;vintage
+38;no;alegre;cálida;sí;sí;sí;rústico
+39;no;alegre;tenue;no;no;no;rústico
+40;no;sin música;brillante;no;sí;sí;moderno
+41;no;calmada;tenue;no;no;sí;artístico
+42;sí;calmada;cálida;sí;sí;no;industrial
+43;sí;sin música;tenue;no;sí;sí;vintage
+44;no;calmada;brillante;sí;sí;no;industrial
+45;no;sin música;cálida;sí;no;no;artístico
+46;sí;alegre;cálida;sí;sí;sí;rústico
+47;sí;sin música;brillante;sí;sí;no;vintage
+48;sí;sin música;tenue;no;sí;sí;artístico
+49;sí;calmada;brillante;sí;sí;no;vintage
+50;no;calmada;brillante;sí;sí;sí;minimalista
+51;no;calmada;brillante;sí;no;no;moderno
+52;sí;alegre;tenue;sí;no;sí;artístico
+53;sí;sin música;tenue;sí;no;sí;rústico
+54;sí;alegre;cálida;no;no;no;industrial
+55;sí;sin música;tenue;sí;no;no;minimalista
+56;no;calmada;brillante;sí;sí;no;minimalista
+57;no;calmada;brillante;no;no;sí;rústico
+58;no;alegre;brillante;sí;sí;sí;vintage
+59;no;sin música;tenue;sí;no;no;artístico
+60;no;alegre;tenue;sí;sí;sí;minimalista
+61;no;alegre;cálida;sí;no;sí;artístico
+62;sí;alegre;cálida;sí;sí;no;industrial
+63;sí;sin música;cálida;sí;sí;sí;minimalista
+64;no;calmada;cálida;sí;no;no;rústico
+65;no;alegre;brillante;no;sí;sí;minimalista
+66;sí;alegre;cálida;sí;sí;no;moderno
+67;no;sin música;tenue;sí;no;no;moderno
+68;sí;calmada;cálida;sí;no;no;artístico
+69;no;calmada;cálida;sí;sí;sí;moderno
+70;sí;alegre;brillante;no;sí;no;rústico
+71;no;sin música;tenue;sí;no;sí;artístico
+72;sí;calmada;cálida;sí;sí;sí;industrial
+73;no;calmada;tenue;no;sí;no;vintage
+74;no;calmada;tenue;no;no;no;minimalista
+75;sí;calmada;brillante;no;sí;sí;artístico
+76;sí;alegre;cálida;no;no;sí;industrial
+77;sí;alegre;cálida;no;no;no;artístico
+78;sí;calmada;brillante;no;no;no;artístico
+79;no;alegre;brillante;no;sí;no;vintage
+80;no;calmada;cálida;sí;sí;no;industrial
+81;sí;sin música;tenue;no;no;no;minimalista
+82;sí;sin música;tenue;no;sí;no;moderno
+83;no;calmada;brillante;no;no;sí;vintage
+84;no;calmada;tenue;sí;no;sí;minimalista
+85;sí;calmada;cálida;no;sí;sí;industrial
+86;no;alegre;cálida;no;no;no;industrial
+87;sí;alegre;cálida;no;no;sí;artístico
+88;sí;sin música;cálida;sí;no;sí;industrial
+89;no;alegre;brillante;no;no;no;industrial
+90;no;sin música;brillante;no;no;no;rústico
+91;sí;sin música;cálida;no;no;no;artístico
+92;no;calmada;brillante;sí;sí;no;vintage
+93;no;calmada;brillante;no;no;no;moderno
+94;sí;alegre;tenue;sí;sí;sí;vintage
+95;no;alegre;tenue;no;no;no;vintage
+96;no;sin música;tenue;sí;no;sí;vintage
+97;no;calmada;cálida;sí;sí;no;artístico
+98;sí;alegre;brillante;no;sí;sí;minimalista
+99;no;calmada;brillante;sí;no;sí;moderno
+100;sí;alegre;tenue;sí;sí;no;moderno
+101;sí;alegre;brillante;no;no;no;vintage
+102;no;sin música;cálida;sí;no;no;vintage
+103;no;sin música;brillante;no;sí;no;moderno
+104;no;alegre;tenue;sí;no;sí;rústico
+105;sí;calmada;cálida;sí;sí;sí;artístico
+106;sí;alegre;tenue;sí;no;sí;artístico
+107;sí;sin música;brillante;sí;sí;no;vintage
+108;sí;alegre;tenue;no;no;no;vintage
+109;sí;calmada;cálida;sí;sí;no;industrial
+110;no;calmada;cálida;no;no;no;industrial
+111;sí;calmada;cálida;no;no;no;artístico
+112;sí;alegre;tenue;no;no;sí;vintage
+113;sí;sin música;tenue;sí;no;no;moderno
+114;sí;alegre;brillante;sí;no;no;vintage
+115;sí;alegre;tenue;sí;no;no;industrial
+116;no;sin música;cálida;no;sí;sí;industrial
+117;no;sin música;brillante;sí;sí;sí;vintage
+118;no;sin música;brillante;sí;sí;no;industrial
+119;sí;sin música;cálida;sí;no;sí;vintage
+120;no;sin música;cálida;sí;sí;sí;industrial
+121;no;calmada;brillante;no;no;sí;moderno
+122;sí;sin música;brillante;sí;sí;no;rústico
+123;no;calmada;tenue;sí;no;no;moderno
+124;sí;calmada;cálida;no;sí;sí;moderno
+125;no;sin música;brillante;sí;no;no;vintage
+126;sí;alegre;cálida;sí;no;no;minimalista
+127;sí;sin música;cálida;sí;sí;no;minimalista
+128;sí;alegre;tenue;no;sí;sí;moderno
+129;sí;alegre;brillante;sí;sí;no;minimalista
+130;sí;alegre;tenue;sí;sí;no;artístico
+131;sí;calmada;brillante;sí;no;no;minimalista
+132;no;calmada;tenue;no;sí;sí;minimalista
+133;no;calmada;brillante;sí;sí;sí;artístico
+134;no;sin música;brillante;sí;no;sí;rústico
+135;sí;calmada;brillante;no;sí;sí;industrial
+136;no;sin música;cálida;sí;sí;no;rústico
+137;no;alegre;cálida;sí;sí;no;artístico
+138;no;sin música;brillante;sí;no;no;minimalista
+139;no;sin música;brillante;no;sí;no;artístico
+140;sí;sin música;tenue;no;sí;no;artístico
+141;sí;alegre;tenue;sí;sí;sí;industrial
+142;sí;sin música;tenue;sí;sí;sí;rústico
+143;sí;alegre;tenue;sí;no;no;artístico
+144;no;calmada;cálida;no;sí;no;industrial
+145;sí;sin música;tenue;sí;no;sí;rústico
+146;sí;calmada;cálida;no;no;sí;vintage
+147;no;calmada;cálida;no;sí;no;rústico
+148;no;calmada;brillante;sí;no;sí;minimalista
+149;no;alegre;brillante;no;no;no;minimalista
+150;no;calmada;cálida;no;no;sí;moderno
+151;no;alegre;brillante;sí;no;sí;rústico
+152;no;sin música;brillante;sí;no;sí;rústico
+153;sí;sin música;cálida;sí;sí;no;vintage
+154;no;alegre;tenue;sí;sí;no;industrial
+155;no;calmada;brillante;no;no;sí;rústico
+156;sí;sin música;brillante;sí;no;no;industrial
+157;sí;sin música;brillante;no;no;no;minimalista
+158;sí;sin música;brillante;sí;no;sí;artístico
+159;no;calmada;cálida;no;sí;sí;minimalista
+160;sí;sin música;brillante;sí;sí;sí;industrial
+161;no;calmada;cálida;sí;no;sí;moderno
+162;sí;sin música;tenue;sí;no;no;minimalista
+163;sí;calmada;tenue;no;sí;no;artístico
+164;sí;alegre;cálida;no;no;no;industrial
+165;no;sin música;brillante;no;sí;sí;vintage
+166;sí;calmada;cálida;no;sí;sí;industrial
+167;sí;sin música;cálida;no;sí;sí;minimalista
+168;sí;sin música;brillante;no;no;no;minimalista
+169;no;calmada;tenue;no;sí;no;vintage
+170;no;sin música;brillante;no;sí;sí;minimalista
+171;no;sin música;tenue;no;sí;sí;vintage
+172;no;sin música;tenue;sí;no;no;moderno
+173;sí;sin música;cálida;sí;sí;sí;vintage
+174;no;alegre;tenue;no;no;no;vintage
+175;sí;alegre;brillante;sí;sí;no;vintage
+176;sí;calmada;brillante;sí;no;no;moderno
+177;no;alegre;brillante;sí;no;no;rústico
+178;no;calmada;cálida;no;no;no;moderno
+179;no;sin música;tenue;sí;sí;sí;vintage
+180;sí;alegre;cálida;sí;no;no;vintage
+181;no;calmada;tenue;sí;sí;no;vintage
+182;sí;sin música;brillante;no;no;sí;vintage
+183;sí;calmada;brillante;sí;sí;no;industrial
+184;no;alegre;brillante;sí;sí;sí;industrial
+185;no;calmada;cálida;sí;no;no;minimalista
+186;no;alegre;tenue;no;sí;sí;vintage
+187;sí;calmada;cálida;no;no;sí;moderno
+188;sí;sin música;cálida;sí;sí;sí;vintage
+189;no;calmada;brillante;no;sí;no;minimalista
+190;sí;sin música;cálida;sí;no;sí;vintage
+191;sí;alegre;cálida;no;sí;no;vintage
+192;no;sin música;tenue;sí;sí;sí;rústico
+193;no;calmada;cálida;no;no;sí;industrial
+194;no;alegre;cálida;no;sí;no;vintage
+195;no;alegre;brillante;no;sí;sí;industrial
+196;sí;sin música;cálida;sí;no;no;industrial
+197;no;alegre;cálida;no;no;no;artístico
+198;no;calmada;cálida;sí;sí;sí;industrial
+199;no;alegre;tenue;no;sí;sí;artístico
+200;no;calmada;tenue;no;no;sí;minimalista
+201;sí;alegre;tenue;sí;sí;sí;rústico
+202;sí;alegre;tenue;sí;sí;no;industrial
+203;sí;sin música;cálida;no;no;sí;rústico
+204;no;alegre;brillante;no;no;sí;artístico
+205;sí;calmada;tenue;sí;no;no;rústico
+206;no;alegre;tenue;no;no;no;vintage
+207;sí;calmada;cálida;sí;sí;no;vintage
+208;sí;sin música;cálida;no;sí;no;rústico
+209;sí;sin música;brillante;sí;sí;no;rústico
+210;sí;calmada;cálida;no;sí;sí;minimalista
+211;sí;alegre;tenue;sí;no;no;industrial
+212;sí;calmada;brillante;no;no;no;minimalista
+213;sí;alegre;brillante;no;sí;no;industrial
+214;no;alegre;tenue;no;sí;no;vintage
+215;sí;sin música;cálida;no;sí;no;rústico
+216;sí;calmada;brillante;sí;sí;no;industrial
+217;sí;sin música;cálida;no;sí;no;minimalista
+218;sí;alegre;brillante;sí;no;sí;artístico
+219;sí;sin música;tenue;sí;no;sí;minimalista
+220;no;calmada;brillante;sí;no;no;vintage
+221;sí;sin música;tenue;sí;no;sí;moderno
+222;sí;sin música;tenue;no;no;no;rústico
+223;no;sin música;brillante;sí;no;sí;vintage
+224;no;alegre;cálida;no;no;no;vintage
+225;sí;alegre;cálida;sí;no;no;artístico
+226;sí;sin música;cálida;sí;no;sí;rústico
+227;no;sin música;brillante;no;sí;no;minimalista
+228;no;sin música;brillante;no;sí;no;minimalista
+229;no;alegre;brillante;sí;sí;sí;artístico
+230;no;calmada;cálida;no;sí;sí;minimalista
+231;no;calmada;brillante;no;sí;no;moderno
+232;sí;sin música;brillante;sí;sí;sí;vintage
+233;sí;sin música;cálida;no;sí;sí;moderno
+234;no;calmada;brillante;no;sí;no;artístico
+235;no;alegre;brillante;no;no;sí;moderno
+236;no;calmada;cálida;no;no;no;rústico
+237;no;sin música;brillante;sí;no;no;moderno
+238;no;alegre;tenue;sí;no;sí;rústico
+239;no;sin música;cálida;sí;sí;no;rústico
+240;no;sin música;cálida;sí;no;no;industrial
+241;no;calmada;tenue;no;sí;sí;minimalista
+242;sí;sin música;tenue;no;no;no;minimalista
+243;no;sin música;tenue;no;sí;no;rústico
+244;sí;alegre;tenue;no;no;sí;vintage
+245;sí;calmada;brillante;no;no;sí;moderno
+246;sí;sin música;brillante;no;sí;sí;industrial
+247;sí;calmada;tenue;sí;sí;sí;vintage
+248;sí;sin música;cálida;no;sí;sí;vintage
+249;no;calmada;brillante;no;sí;sí;artístico
+250;sí;alegre;tenue;sí;sí;no;vintage
+251;no;sin música;tenue;no;sí;no;industrial
+252;sí;sin música;cálida;no;no;no;vintage
+253;no;sin música;tenue;no;sí;no;industrial
+254;sí;sin música;cálida;sí;no;sí;artístico
+255;sí;alegre;cálida;no;sí;no;moderno
+256;sí;sin música;brillante;sí;sí;sí;vintage
+257;no;calmada;tenue;no;sí;no;moderno
+258;sí;alegre;brillante;sí;no;sí;vintage
+259;sí;sin música;tenue;no;sí;sí;rústico
+260;sí;alegre;cálida;sí;no;sí;industrial
+261;no;alegre;brillante;sí;no;no;moderno
+262;sí;alegre;tenue;sí;no;sí;rústico
+263;sí;sin música;tenue;no;sí;sí;moderno
+264;no;sin música;cálida;no;sí;no;minimalista
+265;sí;alegre;cálida;sí;sí;sí;moderno
+266;no;sin música;brillante;no;no;sí;rústico
+267;sí;sin música;brillante;no;sí;no;artístico
+268;no;calmada;brillante;sí;no;sí;moderno
+269;sí;sin música;cálida;no;sí;sí;rústico
+270;sí;calmada;tenue;sí;no;no;moderno
+271;no;calmada;tenue;sí;sí;no;rústico
+272;no;sin música;cálida;no;no;no;artístico
+273;no;alegre;cálida;no;sí;no;industrial
+274;no;alegre;cálida;no;sí;no;industrial
+275;no;calmada;brillante;sí;no;no;artístico
+276;sí;alegre;tenue;sí;no;sí;vintage
+277;no;calmada;cálida;sí;no;sí;industrial
+278;no;calmada;tenue;sí;sí;sí;moderno
+279;sí;sin música;tenue;no;sí;no;minimalista
+280;sí;alegre;cálida;no;sí;no;vintage
+281;sí;sin música;tenue;no;sí;sí;rústico
+282;sí;alegre;tenue;sí;no;sí;industrial
+283;sí;calmada;cálida;sí;sí;sí;vintage
+284;no;calmada;cálida;no;sí;no;artístico
+285;no;sin música;cálida;sí;sí;no;rústico
+286;no;sin música;tenue;no;no;sí;rústico
+287;no;sin música;brillante;sí;sí;no;artístico
+288;no;sin música;cálida;sí;no;sí;industrial
+289;sí;alegre;tenue;no;sí;no;artístico
+290;no;alegre;brillante;sí;no;sí;minimalista
+291;sí;sin música;brillante;no;sí;no;minimalista
+292;no;sin música;tenue;sí;no;no;minimalista
+293;sí;sin música;cálida;sí;sí;no;artístico
+294;sí;calmada;tenue;sí;sí;sí;industrial
+295;no;alegre;cálida;sí;sí;sí;rústico
+296;no;alegre;tenue;sí;sí;sí;rústico
+297;sí;calmada;tenue;no;sí;sí;rústico
+298;sí;alegre;brillante;no;no;sí;moderno
+299;no;alegre;cálida;no;no;sí;moderno
+300;no;alegre;brillante;sí;sí;sí;industrial
+301;sí;alegre;cálida;no;no;sí;industrial
+302;sí;alegre;tenue;no;sí;no;artístico
+303;no;alegre;cálida;sí;sí;sí;rústico
+304;sí;calmada;brillante;sí;sí;no;minimalista
+305;no;sin música;brillante;sí;no;sí;moderno
+306;sí;calmada;cálida;sí;no;sí;moderno
+307;sí;calmada;brillante;no;sí;no;artístico
+308;sí;sin música;brillante;sí;no;sí;moderno
+309;no;sin música;brillante;no;no;sí;minimalista
+310;sí;calmada;brillante;sí;no;sí;artístico
+311;sí;alegre;tenue;no;sí;no;industrial
+312;no;alegre;brillante;no;sí;no;rústico
+313;sí;sin música;brillante;sí;sí;sí;rústico
+314;sí;sin música;brillante;no;sí;sí;industrial
+315;sí;calmada;tenue;sí;no;no;artístico
+316;sí;alegre;tenue;sí;sí;sí;vintage
+317;no;calmada;tenue;no;sí;sí;industrial
+318;no;sin música;tenue;no;sí;no;moderno
+319;no;calmada;brillante;sí;sí;no;rústico
+320;no;alegre;brillante;sí;sí;no;industrial
+321;sí;calmada;tenue;no;sí;sí;moderno
+322;sí;alegre;brillante;sí;sí;sí;rústico
+323;no;sin música;brillante;sí;sí;no;minimalista
+324;sí;sin música;brillante;sí;no;sí;industrial
+325;no;calmada;cálida;no;no;no;moderno
+326;no;alegre;cálida;sí;no;no;vintage
+327;no;calmada;cálida;no;sí;no;industrial
+328;sí;calmada;brillante;no;sí;sí;artístico
+329;no;calmada;brillante;no;no;sí;industrial
+330;no;calmada;tenue;sí;sí;sí;moderno
+331;sí;calmada;brillante;sí;sí;no;artístico
+332;no;alegre;tenue;sí;sí;no;artístico
+333;no;sin música;tenue;sí;no;no;artístico
+334;sí;sin música;tenue;no;no;sí;minimalista
+335;no;alegre;cálida;sí;no;sí;minimalista
+336;sí;alegre;brillante;sí;sí;sí;artístico
+337;sí;sin música;tenue;no;sí;no;moderno
+338;no;sin música;cálida;no;no;sí;rústico
+339;no;alegre;brillante;sí;no;no;industrial
+340;sí;alegre;tenue;sí;no;sí;industrial
+341;no;calmada;cálida;sí;no;no;rústico
+342;sí;sin música;cálida;sí;sí;no;minimalista
+343;sí;sin música;brillante;sí;no;sí;rústico
+344;sí;calmada;cálida;no;sí;sí;moderno
+345;sí;calmada;cálida;sí;sí;no;artístico
+346;sí;alegre;brillante;sí;no;sí;minimalista
+347;sí;sin música;cálida;sí;sí;sí;minimalista
+348;no;alegre;tenue;no;no;sí;artístico
+349;sí;alegre;brillante;sí;sí;no;minimalista
+350;sí;calmada;cálida;sí;sí;no;artístico
+351;no;alegre;cálida;no;sí;sí;artístico
+352;sí;calmada;tenue;no;sí;no;rústico
+353;sí;alegre;cálida;sí;sí;no;vintage
+354;no;sin música;tenue;no;no;no;artístico
+355;no;calmada;cálida;sí;no;no;artístico
+356;no;sin música;brillante;sí;sí;no;artístico
+357;sí;alegre;cálida;no;no;no;rústico
+358;sí;alegre;cálida;no;sí;no;rústico
+359;no;calmada;tenue;sí;no;sí;artístico
+360;sí;sin música;tenue;sí;no;sí;industrial
+361;no;sin música;cálida;no;sí;sí;rústico
+362;no;alegre;cálida;no;sí;no;moderno
+363;no;sin música;cálida;sí;no;no;rústico
+364;sí;alegre;brillante;no;no;sí;minimalista
+365;sí;alegre;brillante;no;no;sí;rústico
+366;sí;calmada;cálida;no;no;sí;minimalista
+367;no;sin música;tenue;no;sí;sí;moderno
+368;sí;calmada;tenue;no;sí;no;vintage
+369;sí;calmada;brillante;sí;sí;no;vintage
+370;no;alegre;cálida;sí;no;sí;moderno
+371;sí;alegre;brillante;sí;no;no;vintage
+372;no;alegre;tenue;no;sí;no;moderno
+373;sí;alegre;brillante;sí;no;no;artístico
+374;no;calmada;brillante;sí;sí;no;industrial
+375;sí;alegre;cálida;no;sí;no;industrial
+376;no;alegre;tenue;sí;sí;sí;vintage
+377;sí;sin música;cálida;no;no;no;minimalista
+378;sí;calmada;brillante;sí;no;no;industrial
+379;sí;calmada;brillante;no;no;sí;industrial
+380;no;sin música;tenue;sí;sí;no;artístico
+381;sí;alegre;tenue;no;sí;no;moderno
+382;no;alegre;tenue;sí;no;sí;artístico
+383;sí;sin música;brillante;no;sí;sí;moderno
+384;sí;sin música;tenue;sí;sí;sí;artístico
+385;sí;sin música;cálida;no;no;sí;minimalista
+386;sí;calmada;cálida;sí;no;sí;moderno
+387;sí;sin música;brillante;no;no;sí;industrial
+388;sí;alegre;cálida;no;no;no;rústico
+389;sí;sin música;tenue;sí;sí;no;vintage
+390;sí;sin música;brillante;sí;no;sí;vintage
+391;no;sin música;tenue;no;no;sí;vintage
+392;no;calmada;tenue;no;sí;sí;industrial
+393;sí;alegre;cálida;sí;no;no;artístico
+394;no;sin música;tenue;no;no;sí;industrial
+395;no;calmada;tenue;no;sí;sí;vintage
+396;sí;alegre;brillante;no;sí;no;moderno
+397;no;alegre;cálida;no;sí;sí;rústico
+398;sí;alegre;brillante;sí;sí;no;minimalista
+399;no;alegre;tenue;sí;no;no;moderno
+400;sí;sin música;brillante;no;no;no;industrial
+401;sí;sin música;cálida;no;sí;no;rústico
+402;no;sin música;cálida;sí;no;sí;rústico
+403;sí;calmada;brillante;sí;sí;sí;rústico
+404;no;sin música;brillante;sí;no;sí;moderno
+405;sí;alegre;brillante;sí;no;no;moderno
+406;no;sin música;tenue;no;sí;no;minimalista
+407;sí;sin música;brillante;no;no;no;minimalista
+408;no;calmada;tenue;no;sí;sí;artístico
+409;sí;sin música;cálida;sí;sí;sí;moderno
+410;no;alegre;tenue;sí;no;sí;industrial
+411;no;calmada;tenue;sí;sí;no;moderno
+412;no;calmada;cálida;no;sí;no;rústico
+413;sí;alegre;cálida;no;no;no;artístico
+414;no;sin música;tenue;sí;no;sí;moderno
+415;sí;sin música;brillante;no;no;sí;minimalista
+416;sí;sin música;tenue;no;sí;sí;industrial
+417;sí;alegre;cálida;no;no;sí;minimalista
+418;no;calmada;tenue;sí;no;no;moderno
+419;sí;calmada;cálida;no;no;no;moderno
+420;no;calmada;brillante;sí;sí;no;minimalista
+421;no;alegre;tenue;no;sí;no;artístico
+422;sí;alegre;brillante;no;no;sí;artístico
+423;no;alegre;cálida;no;sí;sí;industrial
+424;no;sin música;cálida;no;no;sí;minimalista
+425;no;calmada;tenue;no;sí;no;moderno
+426;no;calmada;tenue;sí;sí;sí;rústico
+427;sí;calmada;brillante;no;sí;sí;minimalista
+428;no;alegre;brillante;sí;sí;sí;rústico
+429;sí;calmada;cálida;sí;no;sí;rústico
+430;sí;alegre;brillante;sí;no;no;industrial
+431;no;calmada;cálida;no;no;sí;rústico
+432;sí;alegre;brillante;sí;sí;sí;moderno
+433;sí;alegre;tenue;no;no;no;minimalista
+434;sí;alegre;brillante;no;sí;sí;industrial
+435;no;sin música;tenue;sí;no;sí;vintage
+436;sí;calmada;brillante;sí;no;no;rústico
+437;no;alegre;brillante;no;no;no;industrial
+438;no;sin música;brillante;sí;sí;no;vintage
+439;sí;alegre;brillante;no;sí;no;artístico
+440;sí;alegre;cálida;no;sí;no;industrial
+441;sí;sin música;brillante;sí;no;no;rústico
+442;sí;sin música;cálida;no;sí;sí;minimalista
+443;no;sin música;cálida;sí;sí;no;vintage
+444;no;sin música;brillante;no;no;sí;rústico
+445;sí;alegre;brillante;no;no;no;artístico
+446;sí;sin música;brillante;sí;sí;sí;moderno
+447;sí;calmada;brillante;sí;sí;sí;industrial
+448;sí;alegre;brillante;no;no;sí;moderno
+449;no;calmada;cálida;no;no;sí;industrial
+450;sí;sin música;tenue;sí;sí;no;artístico
+451;sí;calmada;cálida;sí;no;no;minimalista
+452;no;sin música;tenue;sí;no;no;minimalista
+453;sí;calmada;cálida;no;no;no;artístico
+454;sí;calmada;brillante;sí;sí;no;artístico
+455;sí;calmada;tenue;sí;no;sí;industrial
+456;sí;sin música;tenue;no;no;no;vintage
+457;no;sin música;brillante;no;sí;no;minimalista
+458;sí;alegre;cálida;sí;sí;sí;vintage
+459;sí;sin música;tenue;no;sí;sí;industrial
+460;no;calmada;cálida;no;no;sí;artístico
+461;no;sin música;brillante;sí;no;no;moderno
+462;sí;sin música;cálida;no;no;sí;moderno
+463;sí;sin música;tenue;no;no;no;rústico
+464;no;sin música;cálida;sí;sí;sí;vintage
+465;sí;alegre;cálida;no;sí;sí;rústico
+466;no;alegre;brillante;sí;no;sí;rústico
+467;sí;alegre;tenue;no;sí;sí;moderno
+468;no;sin música;cálida;sí;no;no;vintage
+469;sí;alegre;brillante;sí;sí;no;moderno
+470;no;alegre;cálida;no;sí;sí;rústico
+471;sí;sin música;brillante;no;sí;no;artístico
+472;no;sin música;tenue;no;no;sí;rústico
+473;no;calmada;brillante;no;no;no;artístico
+474;no;calmada;cálida;sí;sí;no;industrial
+475;sí;alegre;tenue;no;sí;no;vintage
+476;sí;calmada;brillante;sí;no;no;vintage
+477;sí;alegre;tenue;no;sí;no;artístico
+478;no;sin música;brillante;no;no;sí;artístico
+479;sí;alegre;tenue;sí;no;sí;industrial
+480;no;alegre;tenue;no;sí;no;rústico
+481;sí;alegre;cálida;no;sí;no;minimalista
+482;sí;calmada;cálida;sí;no;sí;moderno
+483;sí;calmada;tenue;no;no;sí;artístico
+484;no;alegre;tenue;sí;sí;no;artístico
+485;sí;alegre;tenue;sí;sí;no;minimalista
+486;no;calmada;brillante;no;sí;sí;industrial
+487;no;sin música;brillante;no;sí;sí;vintage
+488;sí;calmada;tenue;no;sí;sí;moderno
+489;no;sin música;tenue;no;sí;no;vintage
+490;sí;sin música;brillante;sí;no;sí;minimalista
+491;sí;calmada;brillante;no;sí;no;minimalista
+492;sí;alegre;brillante;sí;sí;sí;vintage
+493;sí;alegre;brillante;sí;sí;no;industrial
+494;sí;calmada;cálida;sí;sí;sí;artístico
+495;sí;calmada;brillante;no;no;no;vintage
+496;sí;sin música;tenue;no;no;sí;vintage
+497;sí;alegre;tenue;no;sí;no;artístico
+498;no;sin música;cálida;sí;no;no;artístico
+499;sí;alegre;cálida;sí;sí;no;industrial
+500;no;alegre;tenue;sí;no;sí;rústico
+501;no;calmada;tenue;sí;no;no;moderno
+502;no;sin música;cálida;no;no;no;vintage
+503;sí;calmada;brillante;sí;no;sí;industrial
+504;no;calmada;cálida;no;no;no;industrial
+505;no;sin música;brillante;sí;sí;no;vintage
+506;no;sin música;brillante;sí;no;no;minimalista
+507;no;calmada;tenue;no;no;no;industrial
+508;no;alegre;tenue;sí;no;no;moderno
+509;no;calmada;tenue;no;no;no;moderno
+510;no;alegre;tenue;no;no;sí;artístico
+511;sí;calmada;cálida;sí;sí;no;vintage
+512;no;alegre;brillante;sí;no;sí;industrial
+513;no;calmada;cálida;no;no;no;industrial
+514;no;sin música;brillante;sí;no;no;artístico
+515;no;calmada;brillante;no;no;no;industrial
+516;no;calmada;tenue;no;no;no;moderno
+517;sí;calmada;tenue;no;sí;sí;moderno
+518;sí;alegre;cálida;sí;sí;sí;artístico
+519;sí;calmada;brillante;sí;sí;no;vintage
+520;no;calmada;brillante;sí;no;sí;rústico
+521;no;sin música;tenue;sí;sí;sí;artístico
+522;no;sin música;tenue;no;sí;sí;rústico
+523;no;calmada;tenue;no;no;sí;artístico
+524;no;alegre;cálida;no;sí;no;rústico
+525;no;sin música;brillante;sí;no;no;vintage
+526;sí;calmada;tenue;no;no;sí;rústico
+527;sí;sin música;brillante;no;no;no;minimalista
+528;sí;calmada;tenue;no;sí;sí;moderno
+529;no;sin música;brillante;no;sí;sí;rústico
+530;sí;alegre;cálida;no;no;no;artístico
+531;sí;sin música;brillante;sí;sí;no;industrial
+532;sí;alegre;cálida;no;no;no;artístico
+533;sí;alegre;tenue;no;no;sí;vintage
+534;no;alegre;tenue;no;no;no;moderno
+535;sí;alegre;cálida;no;sí;sí;artístico
+536;sí;calmada;brillante;sí;no;sí;industrial
+537;no;alegre;tenue;no;no;sí;artístico
+538;sí;alegre;brillante;no;sí;sí;industrial
+539;no;calmada;tenue;sí;no;no;artístico
+540;sí;sin música;cálida;sí;sí;no;minimalista
+541;no;calmada;brillante;no;no;sí;moderno
+542;sí;alegre;brillante;sí;sí;sí;minimalista
+543;no;calmada;tenue;sí;sí;no;industrial
+544;no;alegre;cálida;no;no;no;vintage
+545;no;calmada;cálida;no;no;no;industrial
+546;no;sin música;tenue;sí;no;sí;industrial
+547;no;alegre;cálida;no;no;sí;vintage
+548;sí;sin música;brillante;no;no;sí;vintage
+549;no;calmada;cálida;no;sí;no;industrial
+550;no;alegre;cálida;sí;sí;no;moderno
+551;no;calmada;cálida;no;no;no;artístico
+552;sí;alegre;cálida;no;no;no;rústico
+553;no;sin música;tenue;no;no;sí;vintage
+554;sí;sin música;cálida;no;sí;no;rústico
+555;no;calmada;cálida;sí;no;sí;vintage
+556;no;alegre;brillante;no;sí;no;artístico
+557;no;alegre;brillante;no;sí;sí;rústico
+558;no;sin música;tenue;sí;no;sí;artístico
+559;sí;alegre;cálida;sí;no;sí;industrial
+560;sí;sin música;tenue;no;sí;sí;vintage
+561;no;calmada;brillante;sí;sí;sí;moderno
+562;no;calmada;cálida;sí;sí;no;industrial
+563;sí;alegre;brillante;sí;no;no;moderno
+564;sí;sin música;brillante;no;no;no;artístico
+565;sí;alegre;tenue;no;no;sí;vintage
+566;sí;sin música;cálida;sí;no;sí;vintage
+567;no;alegre;cálida;no;no;no;artístico
+568;sí;sin música;cálida;sí;no;sí;rústico
+569;no;calmada;tenue;no;no;no;industrial
+570;no;calmada;cálida;no;no;no;artístico
+571;sí;calmada;brillante;no;no;no;industrial
+572;no;calmada;brillante;sí;no;sí;vintage
+573;sí;calmada;brillante;no;sí;no;artístico
+574;no;sin música;tenue;no;sí;no;artístico
+575;sí;sin música;cálida;no;sí;no;rústico
+576;no;sin música;cálida;no;no;sí;artístico
+577;sí;calmada;tenue;no;no;sí;vintage
+578;no;sin música;brillante;no;sí;no;minimalista
+579;sí;sin música;cálida;sí;sí;sí;minimalista
+580;sí;calmada;brillante;no;sí;sí;minimalista
+581;sí;sin música;brillante;no;no;no;minimalista
+582;no;alegre;brillante;no;sí;no;rústico
+583;sí;alegre;brillante;sí;sí;sí;moderno
+584;no;alegre;tenue;no;sí;sí;minimalista
+585;sí;alegre;tenue;sí;no;sí;rústico
+586;no;alegre;cálida;no;sí;no;vintage
+587;no;calmada;cálida;no;no;no;vintage
+588;no;calmada;brillante;sí;no;sí;vintage
+589;no;calmada;cálida;sí;sí;no;artístico
+590;sí;sin música;cálida;sí;no;no;rústico
+591;no;sin música;cálida;sí;no;sí;industrial
+592;sí;alegre;cálida;sí;sí;no;minimalista
+593;no;calmada;cálida;sí;no;sí;moderno
+594;no;sin música;brillante;sí;sí;no;artístico
+595;sí;alegre;cálida;no;sí;sí;vintage
+596;sí;alegre;cálida;sí;sí;no;vintage
+597;sí;sin música;tenue;no;sí;sí;rústico
+598;no;sin música;tenue;sí;no;sí;vintage
+599;no;calmada;cálida;no;no;no;rústico
+600;no;calmada;tenue;no;sí;no;moderno
+601;sí;calmada;brillante;no;sí;sí;rústico
+602;sí;calmada;cálida;sí;sí;sí;minimalista
+603;no;alegre;brillante;no;sí;sí;vintage
+604;no;sin música;brillante;sí;sí;sí;rústico
+605;sí;sin música;brillante;sí;no;no;minimalista
+606;no;calmada;cálida;sí;sí;no;vintage
+607;no;calmada;brillante;sí;no;no;industrial
+608;no;alegre;cálida;sí;sí;no;minimalista
+609;sí;calmada;brillante;no;no;sí;minimalista
+610;sí;alegre;cálida;no;no;sí;artístico
+611;sí;sin música;brillante;no;sí;no;industrial
+612;no;sin música;cálida;sí;sí;no;minimalista
+613;sí;calmada;tenue;sí;sí;sí;artístico
+614;sí;calmada;tenue;sí;sí;no;moderno
+615;no;calmada;cálida;sí;sí;sí;artístico
+616;sí;calmada;cálida;no;sí;sí;rústico
+617;no;alegre;brillante;sí;sí;no;minimalista
+618;sí;sin música;brillante;sí;sí;no;minimalista
+619;no;calmada;cálida;sí;no;no;industrial
+620;sí;sin música;brillante;no;sí;sí;moderno
+621;no;alegre;brillante;sí;sí;sí;industrial
+622;sí;sin música;tenue;no;no;sí;artístico
+623;no;calmada;tenue;no;sí;no;vintage
+624;no;calmada;brillante;no;sí;no;vintage
+625;no;calmada;tenue;no;no;no;vintage
+626;sí;sin música;brillante;no;sí;sí;industrial
+627;no;calmada;cálida;no;sí;sí;artístico
+628;no;alegre;brillante;no;sí;sí;vintage
+629;sí;sin música;brillante;no;sí;sí;moderno
+630;no;sin música;cálida;no;sí;no;vintage
+631;no;calmada;cálida;no;sí;sí;moderno
+632;no;calmada;tenue;no;sí;no;minimalista
+633;sí;alegre;cálida;sí;no;sí;moderno
+634;no;sin música;tenue;no;no;no;industrial
+635;no;sin música;brillante;no;no;no;rústico
+636;sí;calmada;brillante;sí;no;no;rústico
+637;sí;alegre;cálida;no;sí;no;rústico
+638;sí;sin música;brillante;sí;no;no;vintage
+639;no;calmada;brillante;no;sí;sí;moderno
+640;no;alegre;brillante;no;sí;sí;rústico
+641;sí;alegre;brillante;no;sí;sí;moderno
+642;sí;sin música;brillante;sí;no;sí;minimalista
+643;sí;calmada;tenue;no;sí;no;moderno
+644;no;sin música;brillante;sí;no;no;artístico
+645;no;calmada;cálida;sí;no;no;rústico
+646;sí;alegre;cálida;no;sí;sí;rústico
+647;no;calmada;brillante;sí;sí;sí;industrial
+648;no;sin música;cálida;no;sí;sí;industrial
+649;no;sin música;tenue;sí;sí;sí;vintage
+650;sí;alegre;tenue;sí;sí;no;artístico
+651;sí;sin música;brillante;sí;no;no;rústico
+652;no;sin música;tenue;sí;no;no;rústico
+653;no;calmada;tenue;sí;no;no;artístico
+654;sí;calmada;cálida;no;no;no;rústico
+655;no;sin música;tenue;sí;sí;no;industrial
+656;sí;alegre;cálida;no;sí;sí;industrial
+657;no;alegre;cálida;sí;sí;no;artístico
+658;no;sin música;brillante;no;no;no;vintage
+659;sí;alegre;cálida;no;no;no;minimalista
+660;no;sin música;cálida;sí;sí;sí;rústico
+661;no;alegre;tenue;no;no;no;rústico
+662;no;sin música;tenue;sí;sí;sí;artístico
+663;no;calmada;brillante;no;sí;sí;minimalista
+664;no;calmada;cálida;no;sí;sí;moderno
+665;sí;calmada;cálida;no;no;sí;moderno
+666;sí;alegre;tenue;no;sí;no;vintage
+667;sí;calmada;cálida;no;no;no;rústico
+668;no;alegre;cálida;no;sí;no;vintage
+669;no;alegre;brillante;sí;sí;sí;industrial
+670;sí;calmada;tenue;no;no;no;rústico
+671;sí;alegre;tenue;no;sí;no;rústico
+672;no;alegre;brillante;no;sí;sí;artístico
+673;sí;calmada;brillante;sí;no;sí;industrial
+674;no;alegre;tenue;no;no;sí;minimalista
+675;no;sin música;cálida;no;no;sí;minimalista
+676;sí;calmada;tenue;no;sí;sí;vintage
+677;no;sin música;brillante;no;no;sí;vintage
+678;no;sin música;tenue;no;sí;sí;minimalista
+679;no;alegre;tenue;no;sí;sí;rústico
+680;no;alegre;tenue;sí;no;sí;rústico
+681;sí;sin música;brillante;no;sí;sí;rústico
+682;sí;sin música;cálida;sí;sí;no;vintage
+683;no;sin música;brillante;no;no;sí;vintage
+684;sí;calmada;tenue;sí;sí;no;vintage
+685;no;sin música;brillante;sí;no;no;artístico
+686;sí;calmada;tenue;no;sí;sí;minimalista
+687;no;calmada;tenue;no;sí;sí;moderno
+688;sí;calmada;cálida;no;sí;sí;artístico
+689;sí;alegre;tenue;sí;no;no;moderno
+690;no;calmada;cálida;no;no;no;industrial
+691;sí;alegre;tenue;sí;sí;no;vintage
+692;sí;sin música;brillante;sí;sí;no;artístico
+693;sí;alegre;cálida;no;no;no;minimalista
+694;sí;alegre;brillante;no;no;sí;minimalista
+695;sí;sin música;cálida;sí;sí;no;industrial
+696;sí;calmada;cálida;sí;sí;no;industrial
+697;no;alegre;tenue;no;no;no;industrial
+698;sí;calmada;brillante;sí;sí;sí;industrial
+699;no;sin música;tenue;sí;sí;sí;industrial
+700;sí;alegre;tenue;sí;no;no;rústico
+701;sí;sin música;cálida;sí;no;no;artístico
+702;sí;alegre;tenue;no;sí;sí;moderno
+703;sí;sin música;cálida;sí;sí;no;artístico
+704;no;calmada;tenue;sí;no;no;industrial
+705;sí;alegre;brillante;sí;sí;sí;vintage
+706;no;sin música;cálida;sí;no;no;minimalista
+707;no;calmada;brillante;sí;sí;no;vintage
+708;sí;calmada;tenue;sí;no;sí;rústico
+709;no;sin música;brillante;sí;no;no;vintage
+710;sí;sin música;tenue;no;sí;no;vintage
+711;no;calmada;tenue;no;no;no;rústico
+712;no;calmada;tenue;sí;no;no;industrial
+713;sí;calmada;brillante;sí;sí;no;industrial
+714;no;calmada;tenue;sí;sí;no;minimalista
+715;no;sin música;cálida;sí;sí;no;vintage
+716;sí;alegre;tenue;sí;sí;sí;vintage
+717;sí;alegre;tenue;sí;sí;no;moderno
+718;sí;sin música;cálida;sí;no;no;vintage
+719;sí;sin música;brillante;no;sí;no;artístico
+720;sí;alegre;brillante;no;no;sí;artístico
+721;sí;sin música;tenue;sí;sí;sí;artístico
+722;sí;alegre;cálida;sí;sí;sí;minimalista
+723;sí;alegre;brillante;no;sí;no;industrial
+724;sí;alegre;tenue;sí;no;sí;industrial
+725;no;alegre;cálida;no;sí;no;rústico
+726;sí;calmada;brillante;no;sí;sí;minimalista
+727;sí;alegre;tenue;sí;sí;sí;artístico
+728;no;sin música;brillante;sí;sí;no;artístico
+729;no;calmada;brillante;no;sí;sí;artístico
+730;sí;sin música;cálida;no;sí;sí;rústico
+731;sí;alegre;cálida;sí;no;no;minimalista
+732;no;sin música;tenue;sí;no;no;rústico
+733;sí;sin música;cálida;no;no;sí;rústico
+734;no;alegre;tenue;sí;sí;no;artístico
+735;sí;calmada;brillante;sí;sí;sí;vintage
+736;no;sin música;cálida;sí;no;sí;industrial
+737;no;calmada;brillante;no;no;sí;rústico
+738;sí;sin música;tenue;sí;sí;no;artístico
+739;no;sin música;brillante;sí;sí;sí;vintage
+740;no;calmada;brillante;no;sí;no;minimalista
+741;sí;alegre;brillante;no;sí;sí;rústico
+742;no;calmada;tenue;no;sí;sí;rústico
+743;no;calmada;tenue;no;sí;sí;rústico
+744;no;calmada;cálida;no;no;sí;rústico
+745;sí;alegre;tenue;no;no;sí;moderno
+746;sí;sin música;tenue;no;no;no;artístico
+747;no;sin música;tenue;sí;no;no;rústico
+748;sí;alegre;tenue;no;sí;no;minimalista
+749;sí;sin música;cálida;no;sí;no;artístico
+750;sí;calmada;brillante;no;no;sí;artístico
+751;no;calmada;tenue;sí;no;sí;moderno
+752;sí;sin música;brillante;no;sí;no;rústico
+753;sí;calmada;cálida;sí;sí;no;moderno
+754;sí;alegre;brillante;no;sí;no;vintage
+755;sí;sin música;brillante;sí;no;no;minimalista
+756;sí;alegre;brillante;sí;no;sí;artístico
+757;sí;alegre;cálida;sí;sí;no;moderno
+758;sí;sin música;cálida;sí;no;sí;vintage
+759;no;sin música;tenue;no;sí;sí;moderno
+760;no;sin música;cálida;sí;sí;no;rústico
+761;sí;sin música;tenue;sí;sí;sí;artístico
+762;no;sin música;brillante;no;sí;sí;artístico
+763;sí;calmada;tenue;sí;no;sí;minimalista
+764;sí;calmada;tenue;sí;sí;no;minimalista
+765;sí;sin música;cálida;no;no;sí;artístico
+766;no;calmada;cálida;no;sí;sí;minimalista
+767;sí;alegre;brillante;sí;no;sí;minimalista
+768;no;sin música;cálida;no;no;sí;vintage
+769;sí;calmada;cálida;sí;sí;sí;industrial
+770;no;alegre;tenue;sí;no;no;minimalista
+771;sí;alegre;brillante;sí;sí;sí;artístico
+772;sí;sin música;brillante;no;no;sí;rústico
+773;no;sin música;tenue;sí;sí;no;moderno
+774;sí;sin música;brillante;no;no;sí;minimalista
+775;no;calmada;brillante;sí;no;sí;minimalista
+776;sí;sin música;brillante;sí;no;sí;rústico
+777;no;alegre;brillante;sí;no;no;artístico
+778;sí;calmada;tenue;no;no;no;vintage
+779;no;alegre;cálida;sí;no;sí;moderno
+780;no;alegre;cálida;sí;no;sí;minimalista
+781;sí;alegre;tenue;sí;no;sí;moderno
+782;no;alegre;tenue;sí;sí;no;artístico
+783;no;sin música;tenue;sí;sí;no;moderno
+784;sí;calmada;cálida;no;sí;no;rústico
+785;sí;sin música;cálida;sí;sí;sí;industrial
+786;sí;calmada;tenue;no;no;sí;artístico
+787;sí;sin música;tenue;sí;sí;sí;minimalista
+788;no;alegre;cálida;sí;no;no;minimalista
+789;no;sin música;tenue;sí;no;no;vintage
+790;sí;sin música;cálida;sí;no;no;rústico
+791;no;alegre;brillante;sí;no;sí;minimalista
+792;sí;alegre;cálida;sí;sí;sí;artístico
+793;sí;sin música;cálida;no;sí;sí;vintage
+794;no;alegre;brillante;sí;no;no;moderno
+795;no;sin música;cálida;sí;no;no;rústico
+796;no;alegre;tenue;sí;sí;sí;industrial
+797;no;sin música;brillante;no;sí;sí;rústico
+798;no;calmada;tenue;no;no;sí;rústico
+799;sí;sin música;cálida;sí;no;no;minimalista
+800;sí;sin música;cálida;sí;no;no;rústico
+801;no;sin música;cálida;sí;sí;sí;moderno
+802;no;sin música;brillante;sí;no;no;vintage
+803;sí;sin música;cálida;sí;no;no;industrial
+804;no;sin música;brillante;sí;sí;sí;artístico
+805;no;sin música;cálida;sí;sí;sí;artístico
+806;sí;calmada;tenue;sí;no;no;moderno
+807;no;sin música;brillante;sí;sí;no;vintage
+808;sí;alegre;brillante;no;sí;sí;rústico
+809;sí;sin música;brillante;sí;sí;sí;industrial
+810;no;calmada;brillante;no;sí;sí;moderno
+811;no;calmada;brillante;sí;no;no;moderno
+812;no;sin música;cálida;no;no;no;minimalista
+813;no;calmada;cálida;sí;sí;no;rústico
+814;sí;alegre;cálida;no;sí;sí;moderno
+815;sí;alegre;cálida;no;sí;sí;minimalista
+816;sí;calmada;tenue;no;no;sí;industrial
+817;sí;sin música;cálida;sí;sí;no;vintage
+818;sí;sin música;brillante;sí;no;no;artístico
+819;sí;alegre;brillante;sí;no;sí;industrial
+820;sí;alegre;brillante;sí;no;no;moderno
+821;no;sin música;cálida;sí;sí;sí;rústico
+822;sí;alegre;brillante;no;no;sí;vintage
+823;no;alegre;cálida;no;no;sí;vintage
+824;sí;calmada;cálida;no;sí;sí;minimalista
+825;no;sin música;cálida;no;no;sí;vintage
+826;sí;alegre;brillante;sí;sí;no;artístico
+827;no;alegre;brillante;sí;no;no;moderno
+828;sí;sin música;brillante;sí;sí;no;moderno
+829;sí;sin música;tenue;no;sí;sí;artístico
+830;sí;calmada;cálida;sí;sí;sí;vintage
+831;no;sin música;brillante;no;sí;sí;vintage
+832;no;sin música;tenue;no;sí;no;moderno
+833;no;alegre;brillante;no;no;sí;moderno
+834;no;calmada;cálida;no;sí;no;vintage
+835;sí;calmada;tenue;no;no;sí;moderno
+836;sí;sin música;brillante;sí;no;sí;vintage
+837;sí;alegre;cálida;no;no;no;industrial
+838;sí;sin música;tenue;sí;sí;sí;rústico
+839;no;sin música;tenue;sí;sí;no;industrial
+840;no;sin música;tenue;no;no;sí;minimalista
+841;no;sin música;cálida;no;sí;sí;minimalista
+842;sí;alegre;brillante;no;no;sí;artístico
+843;no;sin música;tenue;no;sí;sí;minimalista
+844;sí;calmada;cálida;no;no;sí;moderno
+845;sí;calmada;cálida;sí;sí;sí;vintage
+846;sí;alegre;cálida;no;sí;sí;minimalista
+847;no;alegre;tenue;no;sí;sí;minimalista
+848;no;alegre;cálida;sí;no;sí;rústico
+849;no;alegre;tenue;no;no;no;vintage
+850;sí;calmada;brillante;no;no;no;industrial
+851;sí;calmada;tenue;no;no;sí;minimalista
+852;no;calmada;brillante;no;no;sí;rústico
+853;sí;alegre;cálida;sí;sí;no;vintage
+854;sí;calmada;tenue;sí;sí;no;rústico
+855;sí;alegre;brillante;sí;no;sí;artístico
+856;no;alegre;cálida;sí;sí;no;industrial
+857;no;calmada;cálida;sí;no;no;industrial
+858;no;alegre;cálida;sí;no;sí;vintage
+859;no;alegre;cálida;sí;sí;sí;minimalista
+860;sí;calmada;tenue;no;no;no;vintage
+861;no;alegre;brillante;sí;sí;sí;rústico
+862;no;alegre;tenue;sí;no;sí;moderno
+863;sí;sin música;tenue;no;sí;sí;moderno
+864;sí;sin música;tenue;no;sí;no;minimalista
+865;no;alegre;brillante;no;sí;sí;minimalista
+866;no;calmada;tenue;no;sí;sí;moderno
+867;sí;calmada;cálida;sí;sí;sí;vintage
+868;sí;sin música;tenue;sí;sí;sí;rústico
+869;sí;alegre;cálida;no;no;no;artístico
+870;sí;alegre;cálida;sí;no;no;industrial
+871;no;calmada;cálida;sí;sí;sí;industrial
+872;sí;alegre;cálida;no;no;sí;vintage
+873;sí;alegre;tenue;sí;sí;no;minimalista
+874;no;sin música;cálida;sí;no;sí;vintage
+875;no;alegre;brillante;sí;no;sí;industrial
+876;sí;sin música;brillante;no;sí;sí;industrial
+877;sí;sin música;cálida;no;sí;no;minimalista
+878;sí;sin música;tenue;no;no;no;rústico
+879;no;alegre;tenue;no;sí;no;moderno
+880;no;alegre;tenue;no;no;sí;minimalista
+881;sí;alegre;brillante;no;no;sí;industrial
+882;no;alegre;cálida;sí;sí;sí;vintage
+883;no;sin música;brillante;sí;no;sí;minimalista
+884;no;sin música;cálida;no;sí;no;rústico
+885;sí;alegre;brillante;no;sí;no;industrial
+886;no;calmada;tenue;no;sí;sí;moderno
+887;sí;calmada;cálida;no;sí;sí;rústico
+888;no;alegre;tenue;no;no;no;moderno
+889;sí;sin música;cálida;sí;sí;no;minimalista
+890;sí;calmada;tenue;no;no;sí;moderno
+891;no;calmada;brillante;no;no;no;moderno
+892;no;sin música;tenue;sí;no;no;minimalista
+893;sí;alegre;brillante;sí;sí;no;vintage
+894;no;alegre;cálida;sí;no;no;rústico
+895;sí;alegre;brillante;sí;no;sí;industrial
+896;sí;alegre;tenue;sí;sí;sí;moderno
+897;no;sin música;cálida;no;no;no;minimalista
+898;sí;calmada;brillante;sí;sí;sí;minimalista
+899;no;calmada;brillante;sí;no;sí;rústico
+900;sí;calmada;brillante;no;no;no;vintage
+901;sí;calmada;tenue;no;no;sí;rústico
+902;no;calmada;tenue;sí;no;sí;industrial
+903;no;calmada;tenue;sí;sí;no;vintage
+904;sí;calmada;cálida;sí;sí;no;rústico
+905;no;sin música;cálida;no;no;sí;moderno
+906;sí;alegre;brillante;sí;sí;no;vintage
+907;no;sin música;tenue;sí;sí;sí;moderno
+908;sí;alegre;cálida;sí;no;sí;minimalista
+909;no;alegre;brillante;sí;sí;sí;industrial
+910;sí;calmada;cálida;no;sí;sí;moderno
+911;no;alegre;tenue;no;sí;sí;moderno
+912;sí;calmada;cálida;sí;no;sí;vintage
+913;no;sin música;cálida;sí;sí;sí;vintage
+914;no;alegre;cálida;sí;sí;no;vintage
+915;sí;sin música;brillante;no;no;no;moderno
+916;no;alegre;brillante;sí;no;sí;industrial
+917;no;alegre;cálida;sí;sí;sí;vintage
+918;no;calmada;cálida;no;sí;sí;artístico
+919;no;calmada;tenue;no;sí;sí;moderno
+920;no;alegre;tenue;no;no;no;minimalista
+921;no;calmada;brillante;sí;no;no;moderno
+922;sí;alegre;brillante;sí;no;no;industrial
+923;no;alegre;tenue;no;sí;sí;rústico
+924;no;calmada;cálida;sí;no;no;moderno
+925;sí;sin música;cálida;no;sí;sí;moderno
+926;sí;calmada;cálida;no;no;no;vintage
+927;no;calmada;brillante;no;no;sí;moderno
+928;sí;sin música;brillante;sí;sí;no;industrial
+929;sí;alegre;tenue;sí;sí;no;artístico
+930;no;alegre;brillante;no;sí;sí;artístico
+931;sí;alegre;brillante;sí;sí;sí;moderno
+932;sí;alegre;cálida;no;sí;sí;rústico
+933;no;calmada;cálida;sí;sí;sí;industrial
+934;no;alegre;tenue;sí;sí;no;rústico
+935;sí;alegre;brillante;sí;sí;no;moderno
+936;no;sin música;cálida;no;no;no;artístico
+937;sí;calmada;tenue;no;sí;sí;minimalista
+938;no;sin música;cálida;no;no;sí;industrial
+939;no;calmada;cálida;no;sí;sí;minimalista
+940;no;calmada;brillante;sí;sí;no;rústico
+941;no;alegre;cálida;sí;sí;no;moderno
+942;sí;sin música;brillante;no;no;sí;artístico
+943;sí;calmada;cálida;sí;sí;sí;vintage
+944;sí;calmada;brillante;sí;no;sí;artístico
+945;no;calmada;tenue;sí;no;no;vintage
+946;sí;calmada;brillante;no;sí;no;artístico
+947;sí;sin música;tenue;no;sí;no;rústico
+948;sí;calmada;cálida;sí;no;no;minimalista
+949;sí;alegre;brillante;sí;sí;no;industrial
+950;no;calmada;brillante;no;sí;no;rústico
+951;no;sin música;brillante;sí;no;no;industrial
+952;sí;sin música;brillante;sí;sí;sí;artístico
+953;no;calmada;brillante;no;no;no;rústico
+954;sí;sin música;brillante;no;no;sí;moderno
+955;sí;calmada;tenue;no;sí;sí;minimalista
+956;no;sin música;cálida;no;sí;sí;minimalista
+957;sí;sin música;tenue;sí;no;sí;artístico
+958;no;sin música;cálida;no;no;sí;industrial
+959;sí;alegre;brillante;sí;sí;no;minimalista
+960;sí;calmada;cálida;sí;no;sí;vintage
+961;no;alegre;tenue;sí;no;no;vintage
+962;sí;sin música;brillante;sí;no;sí;vintage
+963;no;calmada;cálida;sí;sí;no;industrial
+964;sí;sin música;tenue;no;no;sí;artístico
+965;sí;sin música;brillante;no;no;no;artístico
+966;sí;sin música;tenue;sí;sí;no;rústico
+967;sí;calmada;brillante;sí;no;no;industrial
+968;sí;calmada;tenue;no;no;sí;vintage
+969;sí;calmada;tenue;sí;sí;sí;minimalista
+970;no;alegre;brillante;sí;no;no;artístico
+971;sí;calmada;brillante;sí;no;no;vintage
+972;sí;sin música;brillante;sí;sí;no;moderno
+973;no;alegre;brillante;sí;sí;no;vintage
+974;sí;calmada;cálida;no;no;no;rústico
+975;sí;calmada;brillante;sí;sí;sí;rústico
+976;no;alegre;brillante;sí;no;sí;artístico
+977;sí;sin música;cálida;no;sí;sí;moderno
+978;no;alegre;tenue;no;sí;no;vintage
+979;sí;calmada;tenue;sí;no;no;industrial
+980;sí;alegre;tenue;sí;no;sí;rústico
+981;sí;calmada;brillante;sí;sí;sí;minimalista
+982;sí;sin música;brillante;no;sí;no;artístico
+983;no;alegre;tenue;no;sí;sí;industrial
+984;no;sin música;cálida;sí;no;sí;vintage
+985;sí;calmada;brillante;sí;sí;no;industrial
+986;sí;alegre;brillante;sí;no;sí;artístico
+987;sí;alegre;cálida;no;sí;no;artístico
+988;sí;calmada;tenue;sí;sí;sí;minimalista
+989;sí;calmada;tenue;sí;sí;no;industrial
+990;sí;alegre;tenue;no;sí;sí;artístico
+991;sí;alegre;cálida;sí;sí;no;rústico
+992;no;sin música;tenue;no;no;no;artístico
+993;no;calmada;cálida;sí;sí;no;artístico
+994;sí;sin música;tenue;sí;no;sí;moderno
+995;no;calmada;tenue;no;no;sí;minimalista
+996;no;alegre;cálida;no;sí;no;moderno
+997;sí;calmada;tenue;no;no;sí;artístico
+998;sí;alegre;cálida;no;sí;sí;rústico
+999;no;calmada;tenue;no;sí;no;artístico
+1000;sí;alegre;cálida;sí;no;no;moderno
+1001;sí;alegre;tenue;sí;no;no;vintage
+1002;sí;calmada;cálida;no;no;no;minimalista
+1003;no;alegre;brillante;no;sí;no;artístico
+1004;sí;sin música;brillante;sí;sí;sí;rústico
+1005;no;calmada;brillante;sí;sí;sí;moderno
+1006;sí;sin música;cálida;sí;no;sí;vintage
+1007;no;sin música;cálida;no;sí;no;vintage
+1008;no;sin música;cálida;sí;no;no;moderno
+1009;no;calmada;cálida;sí;sí;sí;rústico
+1010;sí;alegre;brillante;no;sí;no;moderno
+1011;no;alegre;brillante;no;no;no;industrial
+1012;no;sin música;tenue;no;sí;no;minimalista
+1013;sí;calmada;cálida;no;no;no;vintage
+1014;no;sin música;brillante;sí;sí;sí;vintage
+1015;no;calmada;tenue;sí;no;no;minimalista
+1016;sí;alegre;brillante;sí;no;sí;vintage
+1017;no;alegre;cálida;sí;no;no;artístico
+1018;no;sin música;cálida;no;no;no;minimalista
+1019;sí;sin música;cálida;sí;no;sí;moderno
+1020;sí;sin música;brillante;sí;sí;no;industrial
+1021;sí;sin música;cálida;no;no;no;vintage
+1022;no;alegre;tenue;sí;no;no;artístico
+1023;no;alegre;tenue;sí;no;no;industrial
+1024;no;alegre;tenue;no;no;sí;rústico
+1025;no;alegre;brillante;no;sí;sí;rústico
+1026;no;sin música;brillante;sí;sí;no;minimalista
+1027;no;alegre;tenue;no;sí;no;artístico
+1028;no;alegre;cálida;sí;sí;no;industrial
+1029;sí;calmada;brillante;sí;no;sí;moderno
+1030;no;calmada;cálida;no;sí;no;rústico
+1031;no;calmada;cálida;no;sí;sí;minimalista
+1032;sí;alegre;cálida;sí;sí;sí;vintage
+1033;no;calmada;brillante;sí;no;no;minimalista
+1034;sí;sin música;brillante;sí;sí;no;moderno
+1035;sí;calmada;brillante;no;sí;no;artístico
+1036;sí;alegre;brillante;no;no;sí;artístico
+1037;no;alegre;cálida;sí;sí;sí;vintage
+1038;no;calmada;tenue;sí;sí;sí;minimalista
+1039;sí;sin música;cálida;no;no;sí;vintage
+1040;sí;alegre;brillante;sí;sí;sí;industrial
+1041;no;sin música;cálida;no;no;sí;minimalista
+1042;sí;calmada;cálida;no;no;sí;rústico
+1043;sí;sin música;brillante;sí;sí;no;artístico
+1044;no;alegre;tenue;no;no;sí;vintage
+1045;no;calmada;tenue;sí;sí;sí;industrial
+1046;no;alegre;brillante;no;no;no;vintage
+1047;sí;alegre;cálida;sí;sí;sí;artístico
+1048;no;alegre;brillante;sí;sí;sí;moderno
+1049;sí;sin música;tenue;no;no;sí;artístico
+1050;sí;calmada;tenue;sí;sí;no;industrial
+1051;sí;alegre;tenue;no;no;sí;artístico
+1052;no;alegre;cálida;no;sí;no;moderno
+1053;no;calmada;tenue;sí;no;no;vintage
+1054;no;sin música;brillante;no;sí;no;vintage
+1055;sí;calmada;brillante;no;sí;no;moderno
+1056;sí;sin música;cálida;sí;sí;no;industrial
+1057;no;alegre;tenue;no;no;sí;moderno
+1058;no;sin música;brillante;sí;no;no;moderno
+1059;sí;calmada;tenue;no;no;no;minimalista
+1060;no;alegre;cálida;no;sí;sí;artístico
+1061;sí;sin música;tenue;sí;no;no;industrial
+1062;no;sin música;tenue;no;no;sí;minimalista
+1063;no;alegre;brillante;no;sí;no;vintage
+1064;no;sin música;tenue;sí;no;no;industrial
+1065;no;calmada;tenue;no;no;sí;moderno
+1066;sí;sin música;cálida;no;sí;sí;artístico
+1067;sí;alegre;tenue;no;no;sí;vintage
+1068;no;sin música;brillante;sí;no;no;industrial
+1069;no;calmada;brillante;no;no;sí;moderno
+1070;no;sin música;cálida;no;no;sí;rústico
+1071;sí;sin música;tenue;sí;no;no;minimalista
+1072;sí;calmada;cálida;sí;no;sí;rústico
+1073;no;sin música;tenue;sí;no;sí;artístico
+1074;no;alegre;brillante;no;sí;sí;moderno
+1075;no;sin música;tenue;sí;no;sí;rústico
+1076;sí;sin música;brillante;no;sí;sí;industrial
+1077;sí;calmada;cálida;sí;no;sí;industrial
+1078;sí;calmada;tenue;no;no;sí;moderno
+1079;no;alegre;tenue;no;no;sí;minimalista
+1080;no;alegre;brillante;no;sí;no;industrial
+1081;no;sin música;tenue;sí;no;sí;rústico
+1082;no;alegre;tenue;sí;no;no;artístico
+1083;sí;alegre;tenue;sí;sí;sí;moderno
+1084;sí;sin música;cálida;sí;sí;no;minimalista
+1085;sí;sin música;tenue;no;sí;no;industrial
+1086;no;sin música;tenue;no;no;sí;vintage
+1087;no;sin música;cálida;no;sí;sí;rústico
+1088;sí;calmada;cálida;sí;sí;no;moderno
+1089;sí;sin música;tenue;no;no;no;industrial
+1090;sí;alegre;cálida;no;no;no;vintage
+1091;no;sin música;brillante;no;no;sí;minimalista
+1092;no;alegre;tenue;no;no;no;minimalista
+1093;sí;calmada;tenue;sí;sí;no;moderno
+1094;no;alegre;tenue;sí;no;sí;moderno
+1095;sí;calmada;cálida;no;sí;no;rústico
+1096;sí;calmada;tenue;sí;sí;sí;minimalista
+1097;sí;calmada;brillante;no;no;no;moderno
+1098;sí;alegre;brillante;no;sí;sí;minimalista
+1099;sí;calmada;cálida;no;no;sí;moderno
+1100;sí;calmada;tenue;no;no;no;minimalista
+1101;sí;sin música;brillante;no;no;no;moderno
+1102;sí;alegre;cálida;no;sí;no;rústico
+1103;sí;calmada;cálida;no;sí;sí;industrial
+1104;no;alegre;cálida;sí;sí;sí;minimalista
+1105;no;sin música;brillante;sí;no;sí;rústico
+1106;sí;calmada;cálida;sí;sí;sí;artístico
+1107;no;sin música;tenue;no;sí;sí;rústico
+1108;sí;alegre;brillante;sí;sí;no;artístico
+1109;sí;alegre;cálida;no;sí;no;minimalista
+1110;sí;alegre;cálida;sí;no;no;rústico
+1111;sí;calmada;cálida;sí;sí;sí;minimalista
+1112;no;alegre;brillante;sí;no;sí;industrial
+1113;no;calmada;tenue;sí;no;no;vintage
+1114;sí;alegre;tenue;sí;no;no;moderno
+1115;sí;sin música;tenue;sí;no;no;minimalista
+1116;no;alegre;tenue;sí;no;sí;moderno
+1117;no;sin música;cálida;no;no;sí;industrial
+1118;sí;alegre;cálida;sí;sí;sí;vintage
+1119;sí;alegre;cálida;no;sí;sí;industrial
+1120;no;alegre;tenue;sí;no;no;minimalista
+1121;no;calmada;brillante;no;no;no;vintage
+1122;no;calmada;brillante;no;no;no;artístico
+1123;no;sin música;cálida;sí;no;sí;rústico
+1124;no;alegre;brillante;no;sí;no;minimalista
+1125;no;alegre;cálida;sí;sí;no;industrial
+1126;sí;sin música;cálida;sí;sí;no;industrial
+1127;no;alegre;brillante;sí;no;sí;rústico
+1128;no;sin música;tenue;no;no;sí;rústico
+1129;no;calmada;cálida;no;no;sí;vintage
+1130;no;alegre;brillante;sí;sí;no;vintage
+1131;sí;sin música;tenue;no;sí;no;rústico
+1132;sí;alegre;brillante;no;no;sí;rústico
+1133;sí;alegre;brillante;no;sí;no;minimalista
+1134;no;calmada;brillante;sí;sí;sí;artístico
+1135;sí;alegre;cálida;sí;no;sí;artístico
+1136;no;alegre;cálida;sí;no;sí;rústico
+1137;sí;alegre;cálida;sí;no;no;vintage
+1138;no;alegre;cálida;no;sí;no;rústico
+1139;sí;sin música;brillante;no;no;no;artístico
+1140;sí;sin música;brillante;no;sí;no;industrial
+1141;no;alegre;cálida;no;sí;no;minimalista
+1142;sí;alegre;tenue;sí;sí;sí;industrial
+1143;sí;sin música;brillante;sí;sí;sí;industrial
+1144;sí;alegre;tenue;no;no;no;minimalista
+1145;sí;sin música;cálida;sí;sí;sí;vintage
+1146;sí;calmada;brillante;sí;no;sí;moderno
+1147;no;calmada;cálida;no;sí;no;industrial
+1148;sí;calmada;brillante;sí;no;no;minimalista
+1149;no;alegre;tenue;sí;no;sí;moderno
+1150;no;sin música;tenue;sí;sí;sí;minimalista
+1151;sí;sin música;tenue;sí;sí;sí;artístico
+1152;no;alegre;brillante;sí;no;sí;rústico
+1153;no;sin música;tenue;no;sí;sí;artístico
+1154;no;calmada;brillante;no;no;no;minimalista
+1155;no;calmada;brillante;sí;no;no;vintage
+1156;no;calmada;tenue;sí;sí;sí;artístico
+1157;no;alegre;tenue;no;sí;no;artístico
+1158;sí;calmada;cálida;sí;sí;sí;minimalista
+1159;no;alegre;cálida;no;sí;sí;artístico
+1160;sí;sin música;cálida;no;no;sí;moderno
+1161;sí;calmada;cálida;sí;no;no;moderno
+1162;sí;calmada;brillante;sí;no;no;vintage
+1163;sí;calmada;tenue;sí;no;sí;industrial
+1164;sí;sin música;cálida;sí;sí;no;industrial
+1165;sí;sin música;cálida;sí;sí;sí;moderno
+1166;no;alegre;cálida;sí;no;sí;minimalista
+1167;sí;alegre;tenue;sí;no;no;vintage
+1168;no;alegre;tenue;sí;no;no;rústico
+1169;sí;sin música;cálida;sí;sí;no;vintage
+1170;no;alegre;tenue;sí;sí;no;minimalista
+1171;sí;sin música;tenue;sí;no;sí;industrial
+1172;sí;calmada;tenue;no;sí;no;vintage
+1173;no;sin música;tenue;sí;no;no;vintage
+1174;sí;sin música;cálida;no;no;no;vintage
+1175;no;calmada;cálida;sí;no;no;minimalista
+1176;no;sin música;tenue;sí;no;no;artístico
+1177;no;calmada;cálida;sí;sí;sí;vintage
+1178;sí;alegre;brillante;no;sí;no;artístico
+1179;sí;alegre;tenue;no;no;sí;rústico
+1180;no;calmada;brillante;sí;sí;no;rústico
+1181;sí;alegre;brillante;sí;sí;no;rústico
+1182;sí;sin música;tenue;sí;sí;sí;rústico
+1183;no;sin música;brillante;sí;sí;no;rústico
+1184;sí;alegre;cálida;sí;sí;no;rústico
+1185;sí;calmada;cálida;no;no;sí;industrial
+1186;sí;alegre;cálida;sí;no;sí;artístico
+1187;sí;alegre;brillante;sí;sí;sí;moderno
+1188;no;sin música;brillante;no;no;sí;moderno
+1189;sí;sin música;brillante;sí;sí;sí;artístico
+1190;sí;calmada;cálida;no;sí;no;industrial
+1191;no;sin música;brillante;sí;no;sí;artístico
+1192;sí;calmada;tenue;no;no;no;rústico
+1193;no;alegre;brillante;sí;sí;sí;industrial
+1194;no;sin música;brillante;no;sí;no;minimalista
+1195;sí;sin música;cálida;no;no;sí;moderno
+1196;no;calmada;tenue;sí;sí;sí;artístico
+1197;no;alegre;brillante;sí;sí;no;moderno
+1198;sí;sin música;brillante;no;no;no;industrial
+1199;no;calmada;cálida;no;sí;no;artístico
+1200;no;alegre;brillante;no;no;sí;moderno
+1201;no;calmada;brillante;no;sí;no;moderno
+1202;sí;alegre;cálida;sí;no;no;artístico
+1203;no;calmada;brillante;no;no;sí;rústico
+1204;sí;calmada;cálida;sí;sí;sí;industrial
+1205;sí;sin música;brillante;sí;sí;sí;artístico
+1206;no;alegre;brillante;sí;sí;sí;rústico
+1207;sí;alegre;cálida;no;sí;sí;minimalista
+1208;sí;sin música;tenue;no;sí;no;rústico
+1209;sí;calmada;tenue;sí;no;no;rústico
+1210;sí;sin música;tenue;sí;no;sí;vintage
+1211;sí;sin música;brillante;sí;sí;sí;minimalista
+1212;sí;sin música;brillante;no;sí;sí;rústico
+1213;no;sin música;cálida;no;no;no;moderno
+1214;sí;sin música;cálida;sí;sí;no;artístico
+1215;sí;calmada;brillante;sí;no;no;moderno
+1216;no;calmada;brillante;sí;no;no;artístico
+1217;sí;alegre;tenue;sí;no;no;artístico
+1218;sí;calmada;brillante;no;no;sí;vintage
+1219;sí;sin música;brillante;no;no;no;moderno
+1220;no;calmada;cálida;sí;sí;sí;artístico
+1221;sí;sin música;brillante;no;sí;sí;minimalista
+1222;no;calmada;brillante;sí;no;no;minimalista
+1223;no;calmada;cálida;no;no;sí;artístico
+1224;sí;sin música;brillante;no;sí;sí;rústico
+1225;sí;alegre;cálida;sí;sí;no;vintage
+1226;sí;sin música;tenue;sí;sí;sí;vintage
+1227;no;calmada;brillante;sí;no;sí;rústico
+1228;sí;calmada;brillante;sí;no;sí;rústico
+1229;no;calmada;cálida;no;sí;no;industrial
+1230;no;sin música;tenue;sí;no;no;industrial
+1231;no;sin música;cálida;sí;sí;no;moderno
+1232;no;calmada;cálida;sí;sí;no;moderno
+1233;no;alegre;brillante;no;no;sí;rústico
+1234;no;calmada;brillante;no;sí;no;rústico
+1235;sí;alegre;cálida;sí;sí;sí;moderno
+1236;no;alegre;brillante;sí;sí;sí;artístico
+1237;sí;calmada;tenue;no;sí;sí;minimalista
+1238;sí;alegre;cálida;sí;no;sí;moderno
+1239;sí;sin música;tenue;sí;no;no;minimalista
+1240;sí;alegre;brillante;sí;no;sí;rústico
+1241;no;calmada;tenue;no;sí;sí;minimalista
+1242;no;alegre;cálida;no;no;no;vintage
+1243;no;alegre;brillante;no;no;no;artístico
+1244;sí;sin música;tenue;no;no;sí;artístico
+1245;sí;calmada;cálida;sí;no;no;industrial
+1246;no;alegre;brillante;sí;no;no;rústico
+1247;sí;alegre;brillante;sí;no;no;minimalista
+1248;no;sin música;brillante;no;no;sí;minimalista
+1249;sí;alegre;cálida;sí;no;sí;rústico
+1250;sí;sin música;brillante;no;sí;no;artístico
+1251;sí;calmada;brillante;no;sí;no;vintage
+1252;no;sin música;tenue;no;no;no;industrial
+1253;sí;calmada;cálida;sí;no;no;artístico
+1254;sí;sin música;cálida;sí;no;sí;vintage
+1255;sí;calmada;cálida;sí;no;no;rústico
+1256;no;alegre;tenue;no;sí;sí;rústico
+1257;no;sin música;tenue;sí;no;no;moderno
+1258;no;calmada;tenue;sí;sí;sí;rústico
+1259;sí;alegre;tenue;sí;sí;sí;moderno
+1260;no;calmada;brillante;no;sí;no;artístico
+1261;no;sin música;cálida;sí;no;no;artístico
+1262;sí;alegre;tenue;no;sí;sí;minimalista
+1263;no;calmada;brillante;sí;no;no;minimalista
+1264;sí;calmada;cálida;no;no;no;moderno
+1265;sí;sin música;cálida;no;sí;no;minimalista
+1266;sí;calmada;cálida;sí;sí;no;vintage
+1267;sí;sin música;brillante;no;sí;sí;vintage
+1268;no;calmada;brillante;no;no;sí;artístico
+1269;sí;calmada;brillante;no;sí;sí;moderno
+1270;sí;sin música;tenue;sí;sí;no;rústico
+1271;no;sin música;tenue;no;sí;no;moderno
+1272;no;sin música;cálida;sí;sí;no;minimalista
+1273;no;sin música;tenue;no;no;no;industrial
+1274;sí;sin música;cálida;no;no;sí;moderno
+1275;sí;sin música;tenue;no;no;no;moderno
+1276;no;alegre;brillante;sí;sí;sí;moderno
+1277;sí;sin música;brillante;sí;no;no;moderno
+1278;sí;calmada;cálida;sí;sí;sí;artístico
+1279;no;calmada;brillante;no;sí;sí;industrial
+1280;sí;calmada;brillante;sí;no;sí;moderno
+1281;no;alegre;cálida;no;sí;no;moderno
+1282;no;sin música;tenue;no;sí;sí;minimalista
+1283;sí;alegre;cálida;no;sí;sí;artístico
+1284;sí;alegre;tenue;no;sí;no;vintage
+1285;sí;alegre;brillante;sí;sí;no;rústico
+1286;no;calmada;tenue;no;sí;sí;moderno
+1287;sí;sin música;brillante;no;no;no;minimalista
+1288;sí;alegre;cálida;no;sí;sí;vintage
+1289;sí;alegre;cálida;sí;sí;no;artístico
+1290;sí;alegre;cálida;no;no;no;industrial
+1291;sí;calmada;brillante;sí;no;sí;rústico
+1292;sí;alegre;tenue;sí;no;no;vintage
+1293;sí;sin música;brillante;sí;no;sí;moderno
+1294;no;calmada;cálida;no;sí;no;minimalista
+1295;no;alegre;brillante;no;no;no;minimalista
+1296;sí;alegre;cálida;no;sí;sí;minimalista
+1297;sí;calmada;cálida;no;sí;no;minimalista
+1298;sí;sin música;cálida;sí;sí;no;rústico
+1299;no;alegre;brillante;no;sí;no;vintage
+1300;no;alegre;cálida;sí;sí;no;industrial
+1301;no;alegre;brillante;no;sí;no;minimalista
+1302;no;calmada;brillante;sí;no;sí;moderno
+1303;sí;sin música;brillante;no;no;no;artístico
+1304;sí;calmada;cálida;no;sí;sí;artístico
+1305;sí;alegre;cálida;no;sí;no;moderno
+1306;no;calmada;cálida;no;sí;no;artístico
+1307;sí;calmada;cálida;sí;no;no;moderno
+1308;sí;sin música;brillante;sí;no;sí;vintage
+1309;sí;calmada;cálida;sí;sí;sí;moderno
+1310;sí;calmada;brillante;no;sí;sí;minimalista
+1311;sí;calmada;brillante;no;no;no;artístico
+1312;sí;calmada;brillante;no;no;sí;minimalista
+1313;sí;calmada;cálida;sí;sí;sí;minimalista
+1314;no;calmada;brillante;sí;sí;no;moderno
+1315;no;calmada;brillante;sí;no;sí;minimalista
+1316;sí;sin música;tenue;no;sí;no;industrial
+1317;no;alegre;tenue;sí;no;no;industrial
+1318;sí;calmada;tenue;sí;no;no;moderno
+1319;sí;calmada;brillante;no;sí;no;moderno
+1320;sí;sin música;brillante;sí;no;sí;industrial
+1321;no;sin música;brillante;no;sí;no;industrial
+1322;sí;alegre;tenue;no;no;no;rústico
+1323;sí;sin música;brillante;sí;sí;no;industrial
+1324;sí;alegre;cálida;no;sí;no;rústico
+1325;sí;alegre;cálida;sí;no;sí;industrial
+1326;no;calmada;brillante;sí;sí;sí;vintage
+1327;sí;calmada;tenue;sí;sí;no;minimalista
+1328;sí;calmada;tenue;no;sí;sí;industrial
+1329;sí;sin música;tenue;sí;no;sí;industrial
+1330;sí;calmada;tenue;no;sí;no;industrial
+1331;sí;alegre;cálida;sí;no;no;minimalista
+1332;sí;sin música;brillante;no;sí;sí;rústico
+1333;no;calmada;brillante;sí;no;sí;industrial
+1334;sí;sin música;brillante;no;sí;no;rústico
+1335;sí;alegre;tenue;no;sí;no;industrial
+1336;sí;alegre;tenue;sí;no;sí;minimalista
+1337;sí;sin música;brillante;no;no;no;rústico
+1338;no;sin música;cálida;no;no;sí;minimalista
+1339;sí;alegre;tenue;sí;no;sí;industrial
+1340;no;calmada;brillante;sí;no;no;moderno
+1341;no;sin música;cálida;sí;no;no;artístico
+1342;sí;alegre;cálida;no;sí;sí;artístico
+1343;no;calmada;tenue;sí;no;no;rústico
+1344;sí;calmada;cálida;no;sí;sí;minimalista
+1345;no;calmada;cálida;sí;no;no;industrial
+1346;no;calmada;cálida;no;no;sí;industrial
+1347;sí;calmada;brillante;no;sí;no;artístico
+1348;no;alegre;brillante;sí;sí;sí;moderno
+1349;sí;alegre;brillante;sí;no;no;artístico
+1350;no;sin música;tenue;sí;no;no;artístico
+1351;sí;calmada;brillante;no;no;no;artístico
+1352;sí;calmada;cálida;sí;sí;sí;artístico
+1353;no;calmada;brillante;no;no;sí;artístico
+1354;sí;alegre;brillante;no;no;sí;moderno
+1355;no;alegre;tenue;no;sí;no;rústico
+1356;sí;alegre;tenue;no;no;sí;minimalista
+1357;sí;sin música;cálida;no;sí;sí;industrial
+1358;no;sin música;tenue;no;no;sí;vintage
+1359;no;sin música;tenue;no;sí;sí;minimalista
+1360;no;alegre;cálida;no;sí;sí;vintage
+1361;no;sin música;cálida;no;no;no;industrial
+1362;sí;alegre;tenue;no;no;no;artístico
+1363;sí;calmada;cálida;sí;no;no;moderno
+1364;sí;calmada;brillante;sí;sí;no;industrial
+1365;sí;sin música;brillante;no;sí;no;industrial
+1366;no;calmada;cálida;sí;no;sí;minimalista
+1367;no;sin música;brillante;sí;no;sí;minimalista
+1368;sí;alegre;brillante;no;no;sí;rústico
+1369;no;alegre;tenue;no;no;sí;industrial
+1370;sí;alegre;tenue;no;no;sí;moderno
+1371;sí;alegre;cálida;sí;sí;no;rústico
+1372;no;alegre;cálida;sí;no;no;minimalista
+1373;sí;calmada;tenue;sí;no;no;industrial
+1374;sí;alegre;cálida;sí;no;sí;minimalista
+1375;no;alegre;tenue;sí;sí;sí;moderno
+1376;sí;sin música;cálida;sí;sí;sí;industrial
+1377;no;alegre;brillante;sí;sí;sí;minimalista
+1378;sí;calmada;cálida;sí;no;sí;artístico
+1379;sí;alegre;tenue;no;no;no;rústico
+1380;sí;calmada;brillante;no;sí;sí;moderno
+1381;sí;alegre;cálida;no;sí;sí;vintage
+1382;no;calmada;tenue;sí;no;no;minimalista
+1383;no;alegre;tenue;sí;no;sí;vintage
+1384;no;sin música;brillante;sí;sí;no;artístico
+1385;no;calmada;cálida;no;sí;sí;rústico
+1386;sí;sin música;cálida;no;sí;no;moderno
+1387;no;alegre;brillante;no;no;no;artístico
+1388;sí;alegre;cálida;sí;no;sí;rústico
+1389;no;sin música;cálida;no;sí;sí;moderno
+1390;sí;alegre;cálida;no;no;sí;vintage
+1391;no;sin música;tenue;no;no;no;minimalista
+1392;sí;calmada;tenue;sí;no;no;artístico
+1393;sí;sin música;tenue;sí;sí;no;artístico
+1394;sí;alegre;cálida;no;sí;no;industrial
+1395;no;alegre;tenue;sí;sí;no;rústico
+1396;no;calmada;tenue;sí;sí;no;industrial
+1397;no;sin música;tenue;sí;sí;sí;rústico
+1398;sí;alegre;tenue;no;no;sí;moderno
+1399;sí;calmada;brillante;no;sí;no;minimalista
+1400;no;alegre;cálida;no;no;sí;industrial
+1401;no;alegre;brillante;sí;no;sí;artístico
+1402;sí;calmada;tenue;sí;sí;sí;artístico
+1403;sí;sin música;brillante;no;sí;sí;industrial
+1404;no;sin música;cálida;no;sí;no;rústico
+1405;no;alegre;tenue;no;no;no;minimalista
+1406;sí;calmada;brillante;no;no;no;rústico
+1407;no;sin música;tenue;no;no;no;moderno
+1408;no;alegre;cálida;no;sí;no;artístico
+1409;no;sin música;tenue;no;no;no;minimalista
+1410;sí;alegre;tenue;sí;sí;sí;industrial
+1411;no;alegre;tenue;sí;no;no;industrial
+1412;sí;sin música;tenue;no;sí;no;moderno
+1413;sí;calmada;tenue;no;no;no;moderno
+1414;no;alegre;brillante;sí;no;no;moderno
+1415;sí;alegre;cálida;no;sí;sí;industrial
+1416;no;sin música;tenue;no;no;sí;industrial
+1417;no;alegre;tenue;sí;no;sí;minimalista
+1418;sí;calmada;tenue;sí;no;sí;vintage
+1419;no;calmada;cálida;no;sí;sí;industrial
+1420;sí;alegre;tenue;no;no;no;moderno
+1421;no;calmada;cálida;sí;sí;no;rústico
+1422;sí;alegre;cálida;sí;no;sí;artístico
+1423;no;calmada;cálida;sí;sí;sí;rústico
+1424;sí;sin música;cálida;no;no;no;rústico
+1425;no;calmada;tenue;no;no;sí;moderno
+1426;no;alegre;tenue;sí;sí;no;artístico
+1427;sí;calmada;cálida;sí;sí;sí;industrial
+1428;no;calmada;brillante;sí;no;no;artístico
+1429;sí;alegre;cálida;sí;sí;no;vintage
+1430;sí;alegre;tenue;no;sí;sí;rústico
+1431;sí;calmada;brillante;no;sí;no;rústico
+1432;sí;sin música;tenue;sí;no;sí;rústico
+1433;no;alegre;brillante;no;sí;sí;rústico
+1434;no;sin música;cálida;no;sí;sí;vintage
+1435;sí;sin música;cálida;no;sí;sí;minimalista
+1436;no;calmada;cálida;sí;no;sí;industrial
+1437;sí;alegre;cálida;no;no;sí;moderno
+1438;no;alegre;tenue;no;sí;sí;minimalista
+1439;no;calmada;tenue;sí;sí;sí;rústico
+1440;sí;calmada;tenue;sí;no;no;moderno
+1441;no;sin música;cálida;no;sí;sí;artístico
+1442;no;sin música;tenue;no;no;sí;rústico
+1443;sí;alegre;tenue;no;sí;sí;minimalista
+1444;no;calmada;tenue;no;sí;sí;artístico
+1445;no;alegre;tenue;no;sí;sí;minimalista
+1446;no;sin música;tenue;no;sí;no;rústico
+1447;sí;sin música;cálida;no;sí;sí;minimalista
+1448;sí;calmada;tenue;no;no;sí;industrial
+1449;no;alegre;brillante;no;sí;sí;vintage
+1450;sí;sin música;brillante;no;no;sí;artístico
+1451;no;alegre;cálida;sí;sí;no;vintage
+1452;sí;calmada;brillante;no;sí;no;vintage
+1453;sí;calmada;tenue;sí;no;no;rústico
+1454;no;alegre;tenue;sí;no;sí;artístico
+1455;no;calmada;cálida;sí;sí;no;rústico
+1456;sí;alegre;brillante;no;no;no;vintage
+1457;no;calmada;cálida;sí;sí;sí;vintage
+1458;sí;calmada;brillante;no;no;sí;vintage
+1459;no;sin música;brillante;no;sí;sí;moderno
+1460;no;calmada;cálida;no;no;no;artístico
+1461;sí;calmada;cálida;sí;sí;sí;rústico
+1462;sí;sin música;brillante;sí;sí;sí;moderno
+1463;sí;alegre;brillante;sí;sí;no;rústico
+1464;sí;alegre;cálida;sí;no;sí;moderno
+1465;no;calmada;brillante;sí;sí;no;rústico
+1466;sí;alegre;tenue;sí;sí;no;minimalista
+1467;no;calmada;brillante;sí;no;no;minimalista
+1468;no;sin música;tenue;sí;no;no;vintage
+1469;sí;sin música;brillante;sí;no;sí;industrial
+1470;sí;calmada;cálida;sí;no;sí;moderno
+1471;sí;alegre;cálida;no;no;sí;industrial
+1472;no;sin música;brillante;no;no;no;moderno
+1473;no;sin música;tenue;sí;no;sí;vintage
+1474;no;calmada;brillante;sí;sí;sí;minimalista
+1475;sí;sin música;brillante;sí;sí;no;vintage
+1476;sí;calmada;tenue;sí;sí;no;rústico
+1477;sí;alegre;brillante;no;no;no;artístico
+1478;sí;alegre;cálida;sí;no;sí;artístico
+1479;sí;calmada;brillante;sí;no;sí;moderno
+1480;sí;sin música;tenue;no;no;no;vintage
+1481;no;calmada;tenue;no;sí;sí;artístico
+1482;sí;alegre;cálida;no;no;no;artístico
+1483;sí;sin música;cálida;no;no;sí;vintage
+1484;sí;sin música;cálida;no;no;no;moderno
+1485;no;sin música;cálida;no;no;no;vintage
+1486;no;alegre;brillante;no;sí;sí;moderno
+1487;no;alegre;brillante;sí;no;sí;rústico
+1488;no;calmada;cálida;sí;no;no;industrial
+1489;sí;sin música;brillante;no;sí;sí;artístico
+1490;no;calmada;cálida;sí;sí;no;rústico
+1491;sí;calmada;tenue;no;no;no;artístico
+1492;sí;sin música;tenue;sí;no;sí;moderno
+1493;no;alegre;brillante;sí;no;sí;vintage
+1494;no;calmada;cálida;sí;no;no;minimalista
+1495;sí;sin música;brillante;no;sí;sí;artístico
+1496;no;alegre;tenue;no;no;sí;rústico
+1497;sí;alegre;brillante;no;no;no;vintage
+1498;sí;alegre;brillante;no;no;no;moderno
+1499;no;calmada;brillante;no;sí;no;vintage
+1500;no;calmada;tenue;no;sí;sí;artístico
+1501;no;calmada;brillante;sí;no;sí;vintage
+1502;sí;alegre;brillante;no;sí;sí;vintage
+1503;no;sin música;cálida;no;sí;no;minimalista
+1504;sí;calmada;brillante;no;sí;no;rústico
+1505;no;alegre;tenue;no;sí;sí;industrial
+1506;no;sin música;brillante;no;sí;no;rústico
+1507;no;alegre;brillante;no;sí;sí;minimalista
+1508;sí;sin música;tenue;no;sí;no;moderno
+1509;no;alegre;cálida;sí;no;no;artístico
+1510;sí;calmada;brillante;no;no;no;industrial
+1511;sí;calmada;tenue;sí;sí;no;artístico
+1512;no;alegre;tenue;no;sí;sí;moderno
+1513;no;alegre;tenue;sí;no;sí;moderno
+1514;sí;alegre;cálida;sí;sí;no;rústico
+1515;no;alegre;tenue;sí;no;sí;vintage
+1516;sí;calmada;cálida;no;sí;sí;artístico
+1517;sí;sin música;tenue;no;sí;no;moderno
+1518;no;alegre;brillante;sí;no;sí;vintage
+1519;no;sin música;tenue;no;no;no;artístico
+1520;sí;alegre;tenue;no;sí;sí;rústico
+1521;sí;sin música;cálida;no;sí;sí;industrial
+1522;no;sin música;tenue;no;sí;sí;artístico
+1523;no;alegre;cálida;no;no;sí;minimalista
+1524;no;calmada;brillante;no;no;sí;minimalista
+1525;no;alegre;cálida;no;no;sí;industrial
+1526;sí;calmada;cálida;no;no;no;moderno
+1527;sí;alegre;cálida;sí;sí;sí;moderno
+1528;no;sin música;tenue;no;no;no;rústico
+1529;no;alegre;brillante;no;sí;sí;industrial
+1530;sí;calmada;tenue;sí;sí;sí;moderno
+1531;no;alegre;brillante;sí;no;no;moderno
+1532;no;sin música;brillante;no;sí;sí;minimalista
+1533;no;calmada;tenue;sí;sí;no;industrial
+1534;no;calmada;tenue;no;sí;sí;moderno
+1535;sí;sin música;brillante;sí;no;sí;artístico
+1536;no;alegre;brillante;sí;sí;sí;moderno
+1537;sí;calmada;tenue;no;sí;no;vintage
+1538;no;alegre;brillante;sí;sí;no;artístico
+1539;sí;calmada;cálida;sí;sí;no;vintage
+1540;sí;sin música;tenue;no;no;no;industrial
+1541;no;alegre;cálida;no;sí;sí;vintage
+1542;sí;alegre;tenue;no;no;no;vintage
+1543;no;calmada;tenue;sí;sí;no;vintage
+1544;sí;alegre;cálida;sí;sí;sí;vintage
+1545;no;alegre;brillante;sí;no;sí;minimalista
+1546;no;alegre;cálida;sí;sí;no;artístico
+1547;sí;calmada;cálida;sí;sí;no;artístico
+1548;sí;sin música;tenue;sí;no;no;industrial
+1549;sí;alegre;cálida;sí;sí;sí;minimalista
+1550;sí;alegre;cálida;no;no;no;vintage
+1551;no;calmada;cálida;no;sí;sí;minimalista
+1552;no;alegre;cálida;no;sí;sí;moderno
+1553;sí;alegre;tenue;no;sí;no;artístico
+1554;no;alegre;cálida;no;no;no;rústico
+1555;no;sin música;cálida;no;sí;sí;industrial
+1556;no;calmada;cálida;sí;sí;sí;industrial
+1557;no;alegre;tenue;sí;no;sí;moderno
+1558;sí;sin música;tenue;sí;sí;no;industrial
+1559;no;alegre;tenue;no;sí;sí;moderno
+1560;sí;calmada;brillante;sí;no;no;moderno
+1561;sí;sin música;cálida;no;no;sí;industrial
+1562;sí;alegre;brillante;sí;no;sí;minimalista
+1563;sí;sin música;tenue;no;no;sí;moderno
+1564;sí;calmada;brillante;no;no;sí;moderno
+1565;no;sin música;cálida;sí;sí;no;minimalista
+1566;sí;sin música;cálida;no;no;no;artístico
+1567;no;calmada;brillante;no;no;sí;industrial
+1568;no;alegre;brillante;sí;sí;sí;rústico
+1569;sí;calmada;brillante;sí;sí;sí;rústico
+1570;no;sin música;cálida;sí;sí;no;artístico
+1571;no;calmada;cálida;no;no;sí;moderno
+1572;sí;alegre;tenue;no;no;sí;minimalista
+1573;no;sin música;cálida;sí;no;no;industrial
+1574;sí;alegre;tenue;no;sí;sí;artístico
+1575;no;sin música;brillante;no;sí;sí;artístico
+1576;no;alegre;brillante;sí;sí;no;minimalista
+1577;sí;alegre;brillante;no;no;sí;industrial
+1578;sí;calmada;tenue;sí;sí;sí;rústico
+1579;no;alegre;tenue;sí;no;sí;artístico
+1580;sí;alegre;brillante;no;sí;no;industrial
+1581;no;calmada;cálida;sí;no;sí;artístico
+1582;sí;sin música;cálida;no;sí;no;artístico
+1583;no;sin música;tenue;no;sí;no;rústico
+1584;sí;calmada;cálida;sí;no;no;artístico
+1585;no;alegre;cálida;no;sí;sí;rústico
+1586;sí;calmada;tenue;no;sí;sí;industrial
+1587;no;sin música;brillante;no;sí;no;industrial
+1588;sí;calmada;tenue;no;sí;sí;minimalista
+1589;sí;sin música;tenue;no;sí;sí;minimalista
+1590;no;calmada;tenue;no;sí;sí;moderno
+1591;sí;calmada;tenue;sí;no;no;artístico
+1592;no;alegre;brillante;sí;no;sí;rústico
+1593;sí;alegre;cálida;sí;sí;sí;industrial
+1594;no;alegre;brillante;no;no;sí;minimalista
+1595;sí;alegre;cálida;sí;no;no;minimalista
+1596;no;calmada;brillante;sí;sí;sí;rústico
+1597;sí;calmada;tenue;sí;no;sí;rústico
+1598;sí;sin música;brillante;no;no;no;industrial
+1599;sí;calmada;brillante;sí;sí;sí;vintage
+1600;sí;calmada;tenue;no;no;no;minimalista
+1601;no;calmada;cálida;no;no;no;artístico
+1602;sí;sin música;cálida;no;no;sí;moderno
+1603;no;sin música;tenue;sí;sí;sí;industrial
+1604;no;sin música;brillante;no;no;no;moderno
+1605;no;calmada;cálida;no;no;no;moderno
+1606;sí;sin música;cálida;no;no;sí;vintage
+1607;sí;calmada;brillante;sí;no;no;minimalista
+1608;sí;alegre;tenue;sí;no;sí;artístico
+1609;no;calmada;tenue;sí;sí;no;minimalista
+1610;no;sin música;cálida;sí;sí;sí;moderno
+1611;sí;calmada;tenue;no;no;no;minimalista
+1612;no;calmada;brillante;no;sí;no;artístico
+1613;no;calmada;tenue;no;sí;no;artístico
+1614;sí;calmada;cálida;sí;sí;sí;vintage
+1615;no;alegre;cálida;no;sí;no;artístico
+1616;sí;alegre;cálida;sí;no;sí;artístico
+1617;sí;calmada;brillante;sí;sí;no;artístico
+1618;no;sin música;brillante;no;no;sí;vintage
+1619;no;calmada;brillante;no;sí;no;industrial
+1620;sí;calmada;tenue;sí;no;sí;rústico
+1621;no;alegre;tenue;no;no;no;minimalista
+1622;no;alegre;tenue;sí;sí;sí;artístico
+1623;sí;sin música;cálida;sí;sí;sí;rústico
+1624;sí;sin música;brillante;no;sí;no;industrial
+1625;no;alegre;brillante;no;no;sí;vintage
+1626;sí;sin música;tenue;sí;no;sí;artístico
+1627;no;sin música;brillante;sí;sí;sí;rústico
+1628;sí;sin música;cálida;sí;no;no;moderno
+1629;no;sin música;brillante;sí;no;no;moderno
+1630;sí;sin música;cálida;no;no;sí;artístico
+1631;sí;calmada;brillante;sí;no;no;industrial
+1632;no;alegre;cálida;no;sí;no;moderno
+1633;sí;calmada;brillante;sí;no;sí;artístico
+1634;sí;sin música;cálida;no;no;no;minimalista
+1635;no;alegre;brillante;no;no;sí;artístico
+1636;sí;calmada;brillante;sí;no;no;moderno
+1637;sí;sin música;tenue;sí;sí;no;vintage
+1638;no;calmada;cálida;no;sí;sí;industrial
+1639;no;alegre;brillante;no;sí;sí;rústico
+1640;no;sin música;cálida;no;sí;sí;moderno
+1641;no;sin música;brillante;no;no;no;artístico
+1642;no;alegre;cálida;no;no;no;industrial
+1643;no;alegre;tenue;sí;sí;sí;vintage
+1644;sí;calmada;cálida;sí;no;no;industrial
+1645;sí;alegre;brillante;sí;sí;no;artístico
+1646;sí;calmada;brillante;no;sí;sí;industrial
+1647;sí;calmada;tenue;sí;no;no;industrial
+1648;no;sin música;brillante;sí;sí;no;rústico
+1649;no;calmada;brillante;no;no;no;minimalista
+1650;no;alegre;cálida;no;sí;sí;artístico
+1651;no;calmada;brillante;sí;no;no;vintage
+1652;no;sin música;tenue;sí;no;no;minimalista
+1653;no;alegre;cálida;no;no;sí;rústico
+1654;sí;calmada;brillante;sí;no;sí;industrial
+1655;sí;sin música;brillante;sí;sí;sí;artístico
+1656;no;alegre;brillante;sí;no;no;industrial
+1657;sí;alegre;cálida;sí;sí;sí;minimalista
+1658;no;calmada;brillante;sí;no;no;moderno
+1659;no;calmada;brillante;sí;sí;sí;minimalista
+1660;no;sin música;tenue;sí;sí;no;artístico
+1661;sí;calmada;brillante;no;no;no;artístico
+1662;sí;sin música;brillante;no;no;sí;rústico
+1663;no;alegre;cálida;no;no;no;moderno
+1664;sí;sin música;brillante;sí;sí;sí;rústico
+1665;no;alegre;tenue;no;sí;no;rústico
+1666;no;sin música;tenue;no;sí;sí;artístico
+1667;no;sin música;brillante;sí;sí;sí;industrial
+1668;no;alegre;cálida;no;no;sí;rústico
+1669;sí;alegre;cálida;no;sí;sí;artístico
+1670;no;alegre;cálida;sí;no;no;minimalista
+1671;sí;alegre;brillante;no;no;no;vintage
+1672;sí;calmada;tenue;no;no;no;industrial
+1673;sí;alegre;cálida;no;sí;sí;minimalista
+1674;no;alegre;cálida;sí;no;sí;artístico
+1675;no;sin música;brillante;sí;no;sí;vintage
+1676;no;sin música;brillante;no;no;sí;moderno
+1677;no;sin música;tenue;no;no;no;rústico
+1678;no;sin música;tenue;no;sí;sí;minimalista
+1679;sí;calmada;tenue;sí;sí;sí;minimalista
+1680;sí;sin música;tenue;sí;sí;sí;minimalista
+1681;sí;calmada;cálida;sí;no;no;industrial
+1682;sí;sin música;tenue;sí;sí;no;industrial
+1683;sí;alegre;tenue;sí;no;sí;vintage
+1684;no;sin música;cálida;sí;sí;no;moderno
+1685;sí;sin música;tenue;no;no;no;vintage
+1686;sí;calmada;cálida;sí;no;no;vintage
+1687;sí;calmada;tenue;no;no;sí;moderno
+1688;no;sin música;tenue;sí;no;no;industrial
+1689;sí;calmada;tenue;sí;sí;sí;minimalista
+1690;sí;alegre;brillante;sí;sí;no;rústico
+1691;no;sin música;cálida;no;no;no;rústico
+1692;no;sin música;brillante;no;no;no;rústico
+1693;no;calmada;cálida;sí;no;no;industrial
+1694;no;calmada;brillante;no;sí;sí;rústico
+1695;no;calmada;tenue;sí;sí;sí;moderno
+1696;no;sin música;tenue;no;no;no;artístico
+1697;sí;calmada;brillante;no;no;no;vintage
+1698;no;calmada;cálida;no;no;no;rústico
+1699;sí;sin música;brillante;no;no;sí;moderno
+1700;no;alegre;brillante;no;no;no;industrial
+1701;sí;alegre;tenue;sí;sí;sí;industrial
+1702;no;alegre;cálida;no;no;sí;artístico
+1703;sí;calmada;tenue;no;no;sí;rústico
+1704;sí;alegre;tenue;no;no;sí;moderno
+1705;no;sin música;cálida;sí;sí;sí;vintage
+1706;no;sin música;brillante;no;no;sí;minimalista
+1707;sí;alegre;cálida;sí;sí;no;vintage
+1708;no;sin música;tenue;sí;no;no;vintage
+1709;no;calmada;brillante;no;no;sí;vintage
+1710;sí;alegre;cálida;no;no;sí;vintage
+1711;no;alegre;tenue;no;sí;sí;vintage
+1712;no;calmada;tenue;sí;no;sí;industrial
+1713;no;calmada;tenue;no;no;sí;industrial
+1714;sí;alegre;tenue;sí;no;no;industrial
+1715;sí;calmada;cálida;sí;sí;sí;rústico
+1716;no;calmada;cálida;no;sí;no;industrial
+1717;sí;sin música;cálida;sí;sí;sí;moderno
+1718;sí;alegre;cálida;no;sí;no;vintage
+1719;no;calmada;cálida;no;no;no;moderno
+1720;no;sin música;brillante;no;sí;sí;industrial
+1721;sí;sin música;tenue;sí;no;sí;artístico
+1722;no;alegre;tenue;no;sí;sí;vintage
+1723;no;sin música;tenue;no;sí;no;minimalista
+1724;sí;calmada;tenue;sí;sí;no;rústico
+1725;sí;sin música;cálida;no;no;no;vintage
+1726;sí;alegre;tenue;no;no;sí;vintage
+1727;sí;sin música;cálida;no;no;no;moderno
+1728;no;sin música;tenue;no;no;no;rústico
+1729;no;alegre;brillante;no;sí;sí;vintage
+1730;sí;calmada;cálida;no;sí;no;rústico
+1731;no;calmada;brillante;sí;no;no;industrial
+1732;no;sin música;tenue;sí;sí;no;minimalista
+1733;sí;calmada;brillante;sí;no;sí;industrial
+1734;no;calmada;cálida;no;sí;no;moderno
+1735;no;sin música;cálida;sí;sí;sí;vintage
+1736;sí;calmada;brillante;sí;no;sí;minimalista
+1737;sí;sin música;cálida;sí;sí;sí;artístico
+1738;sí;sin música;tenue;no;sí;no;artístico
+1739;no;sin música;tenue;sí;sí;sí;vintage
+1740;no;calmada;cálida;sí;sí;sí;vintage
+1741;sí;calmada;tenue;sí;sí;no;vintage
+1742;no;sin música;brillante;no;no;no;vintage
+1743;no;calmada;tenue;no;no;no;industrial
+1744;sí;sin música;cálida;no;no;sí;moderno
+1745;sí;alegre;brillante;sí;sí;sí;artístico
+1746;sí;alegre;cálida;sí;no;sí;industrial
+1747;no;alegre;tenue;no;sí;no;moderno
+1748;no;calmada;tenue;sí;no;no;artístico
+1749;no;calmada;tenue;sí;no;no;rústico
+1750;no;calmada;brillante;sí;no;sí;moderno
+1751;no;sin música;cálida;sí;no;no;vintage
+1752;sí;calmada;tenue;sí;no;sí;industrial
+1753;sí;alegre;tenue;sí;no;sí;rústico
+1754;no;calmada;tenue;no;no;sí;rústico
+1755;no;sin música;tenue;no;no;no;vintage
+1756;no;alegre;brillante;sí;no;sí;moderno
+1757;sí;alegre;cálida;sí;no;no;rústico
+1758;sí;alegre;cálida;no;no;sí;industrial
+1759;no;alegre;tenue;sí;sí;no;industrial
+1760;no;calmada;tenue;sí;sí;no;moderno
+1761;no;calmada;brillante;sí;sí;no;vintage
+1762;sí;sin música;cálida;no;sí;sí;vintage
+1763;no;calmada;tenue;no;sí;no;minimalista
+1764;no;alegre;brillante;sí;no;no;industrial
+1765;sí;sin música;tenue;no;no;no;minimalista
+1766;no;alegre;cálida;sí;no;no;rústico
+1767;sí;alegre;tenue;no;no;sí;minimalista
+1768;sí;calmada;cálida;sí;sí;no;minimalista
+1769;no;calmada;brillante;no;sí;no;artístico
+1770;sí;alegre;brillante;no;sí;sí;rústico
+1771;sí;calmada;brillante;no;no;no;minimalista
+1772;sí;sin música;cálida;no;no;sí;rústico
+1773;no;alegre;brillante;no;no;sí;vintage
+1774;no;calmada;cálida;sí;no;sí;industrial
+1775;no;alegre;brillante;sí;no;no;minimalista
+1776;sí;alegre;cálida;no;sí;sí;rústico
+1777;no;sin música;brillante;no;no;no;rústico
+1778;sí;calmada;brillante;no;sí;no;industrial
+1779;no;calmada;cálida;no;sí;no;vintage
+1780;no;alegre;brillante;sí;sí;sí;minimalista
+1781;no;alegre;cálida;sí;sí;no;moderno
+1782;no;sin música;tenue;sí;no;no;vintage
+1783;no;sin música;brillante;sí;sí;sí;industrial
+1784;sí;calmada;tenue;no;sí;sí;artístico
+1785;sí;sin música;cálida;sí;no;no;rústico
+1786;no;sin música;cálida;sí;no;no;rústico
+1787;sí;sin música;tenue;no;sí;no;moderno
+1788;no;alegre;cálida;no;no;sí;artístico
+1789;no;calmada;tenue;sí;no;sí;industrial
+1790;sí;alegre;tenue;sí;no;sí;rústico
+1791;sí;sin música;brillante;sí;sí;no;industrial
+1792;sí;sin música;brillante;no;sí;no;moderno
+1793;no;sin música;brillante;no;no;sí;moderno
+1794;no;sin música;brillante;sí;no;sí;industrial
+1795;no;sin música;cálida;no;sí;sí;minimalista
+1796;sí;alegre;brillante;sí;sí;sí;vintage
+1797;sí;calmada;brillante;sí;no;sí;rústico
+1798;sí;calmada;cálida;no;sí;no;moderno
+1799;sí;alegre;tenue;no;no;sí;artístico
+1800;sí;calmada;brillante;no;no;no;rústico
+1801;sí;alegre;cálida;no;sí;no;artístico
+1802;no;alegre;cálida;sí;no;no;industrial
+1803;sí;alegre;cálida;no;sí;no;moderno
+1804;no;alegre;brillante;sí;sí;sí;vintage
+1805;no;sin música;tenue;no;sí;no;moderno
+1806;sí;sin música;cálida;no;no;sí;moderno
+1807;sí;calmada;tenue;sí;sí;no;rústico
+1808;sí;sin música;cálida;no;sí;no;artístico
+1809;sí;alegre;tenue;sí;sí;sí;rústico
+1810;sí;sin música;tenue;sí;no;sí;artístico
+1811;no;calmada;cálida;no;no;sí;vintage
+1812;sí;calmada;brillante;sí;sí;no;vintage
+1813;no;calmada;brillante;sí;no;no;rústico
+1814;no;calmada;brillante;no;no;sí;artístico
+1815;no;alegre;cálida;no;sí;sí;artístico
+1816;no;alegre;cálida;no;sí;sí;minimalista
+1817;no;sin música;tenue;no;no;sí;industrial
+1818;sí;alegre;tenue;no;no;sí;minimalista
+1819;sí;sin música;tenue;no;no;no;vintage
+1820;no;sin música;brillante;sí;no;sí;artístico
+1821;no;sin música;tenue;sí;sí;no;moderno
+1822;no;sin música;brillante;no;no;no;rústico
+1823;sí;alegre;tenue;sí;sí;sí;artístico
+1824;no;alegre;tenue;no;sí;sí;artístico
+1825;no;sin música;tenue;sí;sí;sí;artístico
+1826;sí;sin música;brillante;sí;no;sí;artístico
+1827;no;calmada;cálida;sí;no;no;minimalista
+1828;no;sin música;tenue;no;no;no;artístico
+1829;sí;sin música;cálida;no;no;sí;industrial
+1830;no;alegre;cálida;sí;sí;no;artístico
+1831;no;calmada;brillante;sí;no;sí;moderno
+1832;sí;alegre;cálida;sí;sí;sí;minimalista
+1833;no;alegre;tenue;sí;no;sí;artístico
+1834;no;sin música;brillante;sí;no;no;rústico
+1835;sí;alegre;brillante;no;sí;sí;moderno
+1836;no;alegre;brillante;no;sí;no;industrial
+1837;sí;alegre;tenue;no;no;no;minimalista
+1838;no;calmada;cálida;sí;sí;sí;minimalista
+1839;no;alegre;cálida;sí;no;sí;minimalista
+1840;no;alegre;cálida;sí;sí;sí;rústico
+1841;no;calmada;cálida;no;sí;sí;rústico
+1842;no;sin música;cálida;sí;no;sí;moderno
+1843;no;calmada;cálida;no;sí;no;industrial
+1844;no;calmada;brillante;sí;sí;sí;moderno
+1845;no;alegre;brillante;no;sí;no;industrial
+1846;sí;alegre;cálida;no;sí;no;vintage
+1847;sí;alegre;cálida;sí;sí;sí;moderno
+1848;sí;sin música;tenue;no;sí;sí;vintage
+1849;sí;sin música;tenue;sí;no;no;industrial
+1850;no;sin música;brillante;no;sí;sí;artístico
+1851;no;alegre;cálida;no;sí;no;vintage
+1852;sí;sin música;cálida;sí;sí;sí;rústico
+1853;no;sin música;brillante;sí;sí;sí;artístico
+1854;sí;sin música;cálida;no;sí;sí;vintage
+1855;no;sin música;tenue;no;sí;sí;rústico
+1856;no;calmada;brillante;no;sí;no;vintage
+1857;sí;alegre;cálida;no;sí;sí;minimalista
+1858;no;sin música;brillante;no;sí;sí;vintage
+1859;sí;sin música;cálida;no;no;sí;vintage
+1860;sí;alegre;cálida;no;no;sí;artístico
+1861;sí;sin música;brillante;sí;no;sí;artístico
+1862;sí;calmada;tenue;sí;sí;sí;industrial
+1863;no;sin música;tenue;no;no;sí;rústico
+1864;sí;alegre;tenue;sí;no;sí;minimalista
+1865;sí;alegre;cálida;no;no;sí;minimalista
+1866;sí;alegre;tenue;no;sí;sí;moderno
+1867;sí;alegre;tenue;no;no;sí;industrial
+1868;no;calmada;tenue;no;sí;no;minimalista
+1869;sí;sin música;cálida;no;sí;sí;industrial
+1870;sí;calmada;brillante;sí;no;no;minimalista
+1871;no;calmada;brillante;no;sí;no;vintage
+1872;no;alegre;tenue;sí;sí;sí;industrial
+1873;sí;alegre;cálida;sí;sí;sí;vintage
+1874;no;sin música;tenue;no;sí;sí;moderno
+1875;sí;alegre;cálida;no;sí;sí;rústico
+1876;sí;calmada;tenue;sí;no;sí;vintage
+1877;sí;sin música;cálida;no;no;sí;rústico
+1878;no;calmada;cálida;no;sí;sí;rústico
+1879;no;calmada;cálida;sí;no;no;minimalista
+1880;no;alegre;cálida;sí;sí;no;rústico
+1881;sí;sin música;cálida;sí;no;no;artístico
+1882;sí;calmada;cálida;sí;sí;sí;artístico
+1883;sí;alegre;cálida;sí;no;sí;moderno
+1884;sí;alegre;brillante;no;no;sí;artístico
+1885;no;alegre;cálida;no;no;no;vintage
+1886;sí;sin música;brillante;no;sí;sí;rústico
+1887;no;alegre;tenue;sí;sí;no;vintage
+1888;no;calmada;tenue;no;sí;no;rústico
+1889;sí;alegre;cálida;sí;sí;no;rústico
+1890;no;sin música;cálida;sí;no;no;vintage
+1891;sí;alegre;tenue;no;sí;sí;vintage
+1892;sí;calmada;cálida;no;sí;sí;vintage
+1893;no;sin música;brillante;sí;no;no;moderno
+1894;no;alegre;brillante;sí;sí;no;moderno
+1895;sí;alegre;brillante;no;sí;no;vintage
+1896;no;alegre;tenue;no;no;sí;artístico
+1897;sí;sin música;cálida;no;no;no;minimalista
+1898;sí;calmada;cálida;no;sí;no;moderno
+1899;no;sin música;cálida;sí;sí;sí;vintage
+1900;no;calmada;cálida;no;no;sí;minimalista
+1901;sí;sin música;cálida;no;sí;no;artístico
+1902;sí;alegre;cálida;sí;no;sí;industrial
+1903;no;calmada;cálida;sí;no;no;moderno
+1904;no;alegre;tenue;sí;sí;no;rústico
+1905;no;sin música;brillante;no;no;no;minimalista
+1906;no;sin música;tenue;sí;no;no;vintage
+1907;sí;sin música;cálida;sí;no;sí;vintage
+1908;no;calmada;brillante;sí;no;no;moderno
+1909;sí;sin música;tenue;sí;sí;no;rústico
+1910;no;calmada;tenue;no;sí;no;industrial
+1911;no;sin música;cálida;no;no;no;vintage
+1912;no;sin música;brillante;no;sí;no;moderno
+1913;no;sin música;tenue;sí;no;sí;minimalista
+1914;sí;alegre;cálida;no;sí;no;minimalista
+1915;no;calmada;cálida;no;no;no;industrial
+1916;no;alegre;tenue;sí;sí;no;artístico
+1917;no;calmada;brillante;sí;sí;no;rústico
+1918;sí;alegre;tenue;sí;sí;sí;industrial
+1919;sí;alegre;cálida;no;no;no;rústico
+1920;sí;alegre;cálida;no;no;no;minimalista
+1921;no;alegre;brillante;sí;no;no;artístico
+1922;sí;alegre;tenue;no;no;no;moderno
+1923;sí;calmada;tenue;no;no;no;industrial
+1924;no;calmada;tenue;sí;no;no;industrial
+1925;no;alegre;cálida;no;no;sí;artístico
+1926;sí;alegre;tenue;no;no;sí;moderno
+1927;no;calmada;tenue;sí;sí;no;moderno
+1928;no;calmada;brillante;sí;sí;sí;artístico
+1929;no;calmada;cálida;sí;sí;sí;moderno
+1930;no;sin música;tenue;sí;sí;no;moderno
+1931;sí;sin música;cálida;no;sí;no;industrial
+1932;sí;sin música;tenue;sí;no;no;vintage
+1933;no;alegre;tenue;no;sí;sí;industrial
+1934;no;alegre;tenue;no;sí;no;industrial
+1935;sí;calmada;cálida;sí;no;no;moderno
+1936;sí;calmada;brillante;sí;sí;sí;rústico
+1937;no;calmada;cálida;sí;sí;no;minimalista
+1938;no;calmada;tenue;sí;sí;sí;rústico
+1939;no;sin música;cálida;no;sí;sí;moderno
+1940;no;sin música;brillante;no;sí;sí;minimalista
+1941;no;alegre;cálida;no;sí;sí;minimalista
+1942;no;calmada;tenue;no;sí;sí;artístico
+1943;sí;calmada;tenue;no;no;sí;industrial
+1944;no;sin música;tenue;no;no;no;moderno
+1945;no;sin música;brillante;no;no;no;minimalista
+1946;no;sin música;brillante;sí;sí;sí;vintage
+1947;sí;sin música;brillante;sí;no;no;artístico
+1948;no;calmada;cálida;sí;no;sí;artístico
+1949;sí;sin música;tenue;sí;no;sí;vintage
+1950;sí;sin música;cálida;sí;no;sí;minimalista
+1951;sí;alegre;brillante;no;no;no;rústico
+1952;no;alegre;brillante;no;sí;sí;minimalista
+1953;no;alegre;cálida;sí;sí;no;vintage
+1954;no;alegre;brillante;no;no;no;industrial
+1955;sí;calmada;cálida;no;sí;no;vintage
+1956;no;sin música;tenue;no;sí;sí;artístico
+1957;sí;calmada;brillante;sí;sí;sí;moderno
+1958;sí;sin música;tenue;no;sí;no;rústico
+1959;sí;sin música;tenue;sí;no;sí;moderno
+1960;no;calmada;tenue;sí;no;sí;vintage
+1961;no;alegre;brillante;sí;sí;no;minimalista
+1962;no;alegre;brillante;no;no;sí;vintage
+1963;no;alegre;brillante;sí;no;sí;minimalista
+1964;no;sin música;brillante;no;sí;sí;vintage
+1965;no;alegre;brillante;sí;sí;sí;moderno
+1966;sí;sin música;tenue;no;no;sí;rústico
+1967;no;sin música;tenue;sí;sí;sí;industrial
+1968;no;alegre;brillante;no;no;sí;rústico
+1969;no;alegre;brillante;no;sí;no;industrial
+1970;no;alegre;brillante;no;sí;no;vintage
+1971;no;sin música;cálida;no;sí;no;moderno
+1972;sí;sin música;tenue;sí;no;sí;artístico
+1973;no;sin música;cálida;no;sí;sí;industrial
+1974;no;alegre;tenue;no;sí;no;rústico
+1975;sí;alegre;tenue;sí;sí;sí;vintage
+1976;sí;alegre;tenue;sí;sí;sí;industrial
+1977;sí;calmada;brillante;no;no;sí;vintage
+1978;no;sin música;brillante;sí;sí;sí;artístico
+1979;sí;calmada;tenue;no;no;sí;moderno
+1980;sí;calmada;tenue;sí;sí;no;vintage
+1981;no;alegre;cálida;sí;sí;sí;moderno
+1982;no;alegre;tenue;no;sí;no;moderno
+1983;sí;alegre;tenue;sí;sí;sí;vintage
+1984;sí;calmada;tenue;sí;no;sí;industrial
+1985;no;sin música;brillante;sí;no;sí;minimalista
+1986;sí;calmada;brillante;sí;sí;sí;rústico
+1987;sí;sin música;cálida;no;sí;sí;artístico
+1988;no;alegre;brillante;sí;no;no;industrial
+1989;sí;sin música;cálida;sí;sí;sí;vintage
+1990;no;calmada;brillante;no;sí;sí;rústico
+1991;sí;calmada;brillante;no;no;no;vintage
+1992;sí;sin música;brillante;no;no;sí;moderno
+1993;sí;alegre;brillante;sí;sí;sí;artístico
+1994;no;calmada;tenue;sí;sí;no;vintage
+1995;sí;calmada;tenue;no;no;no;industrial
+1996;no;sin música;tenue;no;no;no;vintage
+1997;sí;alegre;cálida;no;sí;no;artístico
+1998;sí;alegre;brillante;sí;sí;no;vintage
+1999;no;sin música;tenue;sí;no;sí;moderno
+2000;no;sin música;tenue;sí;no;sí;moderno
+2001;no;alegre;cálida;sí;sí;no;industrial
+2002;sí;sin música;cálida;no;no;sí;minimalista
+2003;no;sin música;tenue;sí;sí;sí;artístico
+2004;no;sin música;brillante;sí;sí;no;rústico
+2005;no;calmada;brillante;no;no;sí;minimalista
+2006;no;sin música;tenue;sí;sí;no;industrial
+2007;no;calmada;cálida;no;no;no;vintage
+2008;sí;alegre;cálida;no;no;no;industrial
+2009;sí;alegre;cálida;sí;sí;sí;moderno
+2010;sí;sin música;tenue;no;no;no;industrial
+2011;no;sin música;brillante;no;no;no;vintage
+2012;sí;calmada;brillante;sí;no;sí;artístico
+2013;no;alegre;brillante;no;sí;no;industrial
+2014;sí;sin música;tenue;sí;no;no;vintage
+2015;sí;sin música;tenue;sí;no;no;minimalista
+2016;sí;alegre;brillante;no;no;no;industrial
+2017;no;alegre;tenue;sí;no;no;vintage
+2018;no;alegre;brillante;no;no;sí;rústico
+2019;sí;sin música;tenue;no;sí;no;vintage
+2020;no;calmada;brillante;no;no;sí;moderno
+2021;no;sin música;tenue;sí;no;no;industrial
+2022;sí;alegre;cálida;sí;no;no;rústico
+2023;no;calmada;brillante;no;sí;sí;moderno
+2024;no;sin música;cálida;sí;no;no;moderno
+2025;no;alegre;brillante;no;no;sí;artístico
+2026;no;sin música;cálida;sí;sí;sí;artístico
+2027;sí;alegre;brillante;sí;no;sí;minimalista
+2028;no;sin música;brillante;no;no;no;moderno
+2029;sí;sin música;brillante;no;sí;no;industrial
+2030;sí;calmada;brillante;sí;sí;sí;vintage
+2031;no;calmada;tenue;no;sí;no;moderno
+2032;sí;calmada;tenue;sí;no;sí;moderno
+2033;no;sin música;cálida;no;no;sí;artístico
+2034;no;calmada;tenue;no;sí;no;industrial
+2035;sí;sin música;cálida;no;no;sí;artístico
+2036;no;alegre;brillante;no;no;no;vintage
+2037;sí;calmada;cálida;sí;sí;sí;artístico
+2038;no;sin música;brillante;sí;no;no;industrial
+2039;sí;alegre;brillante;no;no;sí;minimalista
+2040;no;alegre;cálida;no;sí;sí;rústico
+2041;sí;calmada;cálida;sí;no;no;rústico
+2042;no;sin música;cálida;sí;sí;no;artístico
+2043;sí;sin música;cálida;sí;sí;no;minimalista
+2044;sí;calmada;cálida;no;no;sí;rústico
+2045;no;sin música;cálida;sí;sí;no;artístico
+2046;sí;calmada;tenue;sí;sí;no;minimalista
+2047;no;sin música;brillante;no;sí;sí;moderno
+2048;no;sin música;tenue;sí;no;sí;industrial
+2049;sí;alegre;brillante;no;sí;sí;industrial
+2050;sí;alegre;cálida;sí;no;no;vintage
+2051;sí;calmada;brillante;sí;sí;no;industrial
+2052;no;calmada;brillante;no;sí;sí;industrial
+2053;no;calmada;cálida;sí;sí;no;rústico
+2054;no;calmada;cálida;sí;sí;sí;minimalista
+2055;sí;calmada;brillante;no;no;sí;rústico
+2056;no;calmada;cálida;sí;sí;sí;vintage
+2057;no;calmada;tenue;sí;sí;sí;vintage
+2058;sí;alegre;brillante;sí;sí;sí;vintage
+2059;no;sin música;cálida;no;sí;sí;vintage
+2060;sí;alegre;tenue;sí;sí;no;moderno
+2061;no;sin música;brillante;no;sí;sí;moderno
+2062;sí;calmada;cálida;sí;sí;sí;vintage
+2063;sí;sin música;brillante;no;sí;no;minimalista
+2064;no;calmada;cálida;no;sí;sí;artístico
+2065;sí;calmada;tenue;no;sí;no;industrial
+2066;sí;alegre;tenue;no;no;sí;vintage
+2067;no;sin música;tenue;no;no;no;moderno
+2068;no;alegre;tenue;sí;no;no;artístico
+2069;no;alegre;tenue;sí;sí;no;industrial
+2070;no;sin música;tenue;sí;sí;no;vintage
+2071;no;alegre;brillante;no;sí;no;minimalista
+2072;sí;sin música;tenue;no;sí;no;rústico
+2073;no;calmada;tenue;no;no;no;industrial
+2074;no;calmada;brillante;sí;no;sí;artístico
+2075;sí;calmada;cálida;no;no;no;rústico
+2076;no;calmada;tenue;sí;sí;no;vintage
+2077;sí;sin música;tenue;no;no;sí;industrial
+2078;no;alegre;tenue;sí;sí;sí;industrial
+2079;no;alegre;cálida;sí;sí;no;moderno
+2080;sí;calmada;brillante;sí;sí;no;rústico
+2081;no;sin música;brillante;sí;no;no;artístico
+2082;no;alegre;tenue;no;sí;sí;industrial
+2083;no;alegre;tenue;no;no;sí;moderno
+2084;sí;sin música;brillante;sí;no;no;artístico
+2085;no;alegre;brillante;no;no;sí;industrial
+2086;no;calmada;brillante;no;sí;sí;vintage
+2087;sí;calmada;cálida;no;sí;no;minimalista
+2088;sí;calmada;brillante;no;no;no;artístico
+2089;no;calmada;cálida;no;sí;no;minimalista
+2090;sí;alegre;tenue;no;sí;sí;vintage
+2091;no;calmada;brillante;sí;no;sí;rústico
+2092;sí;calmada;tenue;no;sí;no;moderno
+2093;no;alegre;cálida;sí;sí;sí;minimalista
+2094;sí;calmada;cálida;no;no;sí;rústico
+2095;sí;calmada;tenue;sí;sí;no;moderno
+2096;sí;calmada;cálida;sí;sí;sí;minimalista
+2097;sí;sin música;brillante;sí;no;sí;artístico
+2098;sí;alegre;cálida;sí;no;sí;industrial
+2099;sí;alegre;cálida;sí;no;sí;minimalista
+2100;no;sin música;tenue;sí;sí;no;minimalista
+2101;no;alegre;tenue;sí;sí;no;minimalista
+2102;no;sin música;tenue;sí;sí;sí;minimalista
+2103;sí;calmada;brillante;sí;sí;sí;rústico
+2104;sí;calmada;cálida;no;sí;sí;industrial
+2105;no;alegre;tenue;no;no;no;vintage
+2106;no;calmada;brillante;sí;no;no;moderno
+2107;no;sin música;tenue;sí;sí;sí;vintage
+2108;sí;calmada;cálida;sí;sí;sí;vintage
+2109;no;calmada;brillante;sí;sí;no;industrial
+2110;no;calmada;tenue;no;sí;sí;moderno
+2111;no;alegre;tenue;no;sí;no;moderno
+2112;no;sin música;brillante;no;no;sí;minimalista
+2113;sí;alegre;cálida;no;no;sí;vintage
+2114;no;sin música;cálida;sí;no;no;moderno
+2115;no;calmada;brillante;sí;no;sí;industrial
+2116;sí;sin música;tenue;no;sí;sí;moderno
+2117;no;alegre;brillante;sí;no;no;artístico
+2118;no;sin música;brillante;sí;no;sí;vintage
+2119;no;calmada;tenue;no;no;no;industrial
+2120;no;sin música;cálida;no;sí;no;industrial
+2121;no;calmada;tenue;sí;sí;no;industrial
+2122;sí;sin música;brillante;sí;sí;sí;industrial
+2123;no;calmada;brillante;no;sí;sí;industrial
+2124;sí;calmada;brillante;sí;sí;sí;moderno
+2125;no;calmada;brillante;sí;sí;sí;artístico
+2126;sí;calmada;tenue;no;no;sí;minimalista
+2127;no;calmada;brillante;sí;no;no;industrial
+2128;sí;sin música;tenue;no;sí;sí;vintage
+2129;sí;alegre;tenue;sí;no;no;vintage
+2130;no;alegre;cálida;sí;sí;no;artístico
+2131;sí;sin música;brillante;no;sí;sí;moderno
+2132;no;calmada;brillante;sí;sí;sí;artístico
+2133;no;sin música;tenue;no;sí;no;industrial
+2134;sí;calmada;brillante;no;sí;no;vintage
+2135;sí;calmada;brillante;sí;no;sí;rústico
+2136;no;calmada;tenue;sí;sí;sí;moderno
+2137;sí;calmada;brillante;no;sí;sí;vintage
+2138;no;alegre;tenue;sí;no;sí;industrial
+2139;no;calmada;brillante;no;no;sí;vintage
+2140;sí;sin música;brillante;sí;no;sí;vintage
+2141;sí;calmada;tenue;sí;no;sí;vintage
+2142;no;calmada;tenue;no;no;sí;moderno
+2143;no;calmada;tenue;sí;sí;sí;artístico
+2144;sí;calmada;tenue;sí;sí;no;vintage
+2145;sí;calmada;brillante;sí;no;no;rústico
+2146;sí;calmada;tenue;sí;sí;sí;rústico
+2147;sí;calmada;tenue;no;sí;sí;minimalista
+2148;sí;sin música;cálida;sí;no;no;artístico
+2149;no;alegre;cálida;sí;no;no;minimalista
+2150;no;sin música;brillante;sí;sí;no;vintage
+2151;sí;sin música;brillante;no;no;sí;moderno
+2152;sí;calmada;tenue;no;sí;no;moderno
+2153;no;sin música;brillante;sí;no;no;artístico
+2154;no;alegre;tenue;no;no;no;industrial
+2155;no;calmada;cálida;sí;sí;no;artístico
+2156;sí;sin música;brillante;sí;no;no;industrial
+2157;sí;sin música;cálida;no;no;sí;artístico
+2158;no;sin música;brillante;no;no;no;minimalista
+2159;sí;alegre;cálida;sí;no;sí;vintage
+2160;sí;alegre;tenue;no;sí;no;industrial
+2161;sí;alegre;cálida;no;no;sí;artístico
+2162;sí;sin música;cálida;no;sí;sí;moderno
+2163;sí;alegre;cálida;sí;no;sí;artístico
+2164;no;sin música;tenue;no;no;sí;artístico
+2165;sí;calmada;tenue;no;sí;no;vintage
+2166;no;sin música;tenue;no;no;sí;rústico
+2167;sí;sin música;cálida;sí;no;sí;artístico
+2168;no;sin música;cálida;no;no;no;vintage
+2169;no;sin música;cálida;no;no;sí;vintage
+2170;no;calmada;brillante;no;sí;no;vintage
+2171;sí;sin música;tenue;no;sí;sí;moderno
+2172;sí;calmada;tenue;no;sí;sí;minimalista
+2173;sí;sin música;tenue;sí;no;no;artístico
+2174;sí;alegre;cálida;sí;sí;no;vintage
+2175;sí;alegre;tenue;sí;no;sí;moderno
+2176;sí;calmada;cálida;sí;sí;no;rústico
+2177;sí;sin música;tenue;no;sí;sí;rústico
+2178;no;alegre;brillante;sí;no;no;moderno
+2179;sí;alegre;cálida;no;no;no;moderno
+2180;sí;alegre;tenue;sí;no;no;rústico
+2181;no;calmada;cálida;no;no;sí;rústico
+2182;sí;alegre;tenue;no;no;sí;artístico
+2183;sí;calmada;cálida;no;no;no;rústico
+2184;sí;calmada;tenue;sí;sí;sí;minimalista
+2185;sí;sin música;cálida;sí;sí;no;industrial
+2186;no;sin música;brillante;no;sí;sí;rústico
+2187;sí;sin música;brillante;no;sí;sí;moderno
+2188;sí;calmada;brillante;sí;sí;sí;artístico
+2189;sí;calmada;cálida;sí;no;no;moderno
+2190;no;calmada;brillante;sí;sí;no;vintage
+2191;sí;alegre;tenue;sí;sí;no;vintage
+2192;no;calmada;cálida;sí;no;sí;rústico
+2193;sí;calmada;tenue;sí;no;no;rústico
+2194;no;sin música;cálida;no;no;no;vintage
+2195;sí;sin música;brillante;sí;no;no;vintage
+2196;sí;sin música;brillante;sí;no;no;rústico
+2197;sí;calmada;tenue;sí;no;no;vintage
+2198;sí;sin música;tenue;sí;sí;no;moderno
+2199;no;sin música;cálida;no;sí;no;artístico
+2200;sí;sin música;cálida;sí;sí;no;industrial
+2201;no;calmada;brillante;sí;no;no;industrial
+2202;sí;alegre;brillante;no;sí;sí;minimalista
+2203;no;calmada;cálida;no;no;sí;artístico
+2204;sí;alegre;brillante;sí;no;sí;moderno
+2205;no;alegre;brillante;sí;sí;no;minimalista
+2206;no;sin música;brillante;sí;no;sí;artístico
+2207;no;sin música;tenue;no;no;sí;minimalista
+2208;sí;calmada;brillante;no;sí;sí;vintage
+2209;no;alegre;cálida;sí;sí;sí;rústico
+2210;sí;sin música;cálida;no;no;sí;moderno
+2211;no;sin música;cálida;sí;no;sí;industrial
+2212;no;alegre;brillante;no;no;sí;minimalista
+2213;sí;sin música;brillante;sí;sí;sí;industrial
+2214;sí;calmada;cálida;sí;no;no;artístico
+2215;sí;calmada;brillante;no;no;no;minimalista
+2216;no;sin música;tenue;no;no;sí;rústico
+2217;sí;calmada;tenue;sí;sí;sí;vintage
+2218;no;sin música;cálida;no;sí;sí;artístico
+2219;no;alegre;brillante;no;sí;no;moderno
+2220;sí;calmada;tenue;no;sí;no;rústico
+2221;sí;calmada;cálida;sí;no;no;moderno
+2222;sí;sin música;brillante;sí;no;sí;industrial
+2223;no;alegre;cálida;sí;no;no;artístico
+2224;no;calmada;cálida;sí;sí;no;artístico
+2225;no;calmada;cálida;sí;no;no;rústico
+2226;no;sin música;brillante;sí;sí;sí;industrial
+2227;no;calmada;brillante;no;no;sí;artístico
+2228;no;calmada;tenue;sí;no;no;minimalista
+2229;sí;calmada;cálida;no;sí;sí;minimalista
+2230;sí;sin música;cálida;no;sí;no;industrial
+2231;sí;calmada;tenue;sí;sí;sí;rústico
+2232;sí;sin música;cálida;no;sí;sí;artístico
+2233;no;sin música;cálida;no;no;sí;industrial
+2234;sí;calmada;tenue;sí;no;no;artístico
+2235;sí;sin música;brillante;sí;no;no;industrial
+2236;sí;calmada;tenue;sí;sí;sí;minimalista
+2237;no;alegre;cálida;no;sí;no;artístico
+2238;sí;sin música;tenue;no;no;no;moderno
+2239;no;alegre;tenue;sí;sí;no;artístico
+2240;no;calmada;cálida;no;sí;no;artístico
+2241;no;sin música;tenue;sí;sí;sí;rústico
+2242;no;calmada;tenue;sí;sí;no;moderno
+2243;sí;alegre;cálida;sí;sí;no;rústico
+2244;sí;alegre;tenue;sí;no;no;industrial
+2245;no;alegre;tenue;no;no;sí;artístico
+2246;sí;sin música;tenue;sí;no;sí;rústico
+2247;sí;calmada;brillante;no;sí;sí;artístico
+2248;no;alegre;brillante;sí;sí;sí;industrial
+2249;no;sin música;cálida;no;sí;no;minimalista
+2250;no;sin música;tenue;sí;sí;sí;minimalista
+2251;sí;calmada;cálida;sí;no;no;rústico
+2252;no;calmada;cálida;sí;no;no;minimalista
+2253;no;calmada;brillante;no;sí;sí;industrial
+2254;sí;alegre;brillante;no;no;sí;rústico
+2255;no;calmada;brillante;sí;sí;no;minimalista
+2256;sí;sin música;brillante;no;no;no;moderno
+2257;no;calmada;cálida;sí;no;sí;minimalista
+2258;no;sin música;tenue;sí;no;no;rústico
+2259;sí;calmada;tenue;no;no;no;vintage
+2260;no;alegre;tenue;no;sí;sí;moderno
+2261;no;calmada;brillante;sí;no;no;vintage
+2262;sí;alegre;cálida;sí;sí;sí;artístico
+2263;no;calmada;brillante;no;no;sí;minimalista
+2264;no;calmada;brillante;no;sí;sí;artístico
+2265;no;calmada;tenue;sí;sí;no;artístico
+2266;sí;calmada;brillante;no;no;no;rústico
+2267;sí;sin música;tenue;no;no;sí;rústico
+2268;sí;sin música;tenue;sí;sí;no;rústico
+2269;no;alegre;tenue;no;sí;sí;minimalista
+2270;sí;alegre;cálida;no;no;no;vintage
+2271;sí;calmada;brillante;no;no;sí;artístico
+2272;sí;alegre;tenue;sí;sí;sí;rústico
+2273;sí;sin música;cálida;no;no;no;industrial
+2274;sí;calmada;brillante;sí;no;no;industrial
+2275;sí;alegre;cálida;sí;no;no;minimalista
+2276;sí;alegre;tenue;sí;sí;no;rústico
+2277;sí;calmada;tenue;sí;sí;sí;moderno
+2278;no;calmada;cálida;sí;sí;no;moderno
+2279;sí;calmada;brillante;sí;sí;no;industrial
+2280;no;calmada;brillante;no;no;no;minimalista
+2281;no;sin música;brillante;no;no;sí;minimalista
+2282;sí;calmada;brillante;sí;sí;no;artístico
+2283;sí;alegre;brillante;no;sí;sí;moderno
+2284;sí;sin música;brillante;sí;no;no;industrial
+2285;no;sin música;cálida;no;sí;sí;minimalista
+2286;sí;sin música;brillante;no;no;sí;artístico
+2287;sí;sin música;brillante;sí;no;no;artístico
+2288;sí;alegre;cálida;no;no;no;moderno
+2289;sí;calmada;cálida;no;sí;sí;industrial
+2290;no;alegre;brillante;no;sí;no;artístico
+2291;no;sin música;brillante;sí;sí;sí;industrial
+2292;sí;alegre;tenue;sí;no;no;minimalista
+2293;no;calmada;cálida;no;no;sí;moderno
+2294;no;alegre;brillante;sí;sí;no;industrial
+2295;sí;alegre;cálida;no;sí;sí;vintage
+2296;no;alegre;tenue;no;no;no;moderno
+2297;sí;calmada;cálida;no;no;sí;moderno
+2298;no;alegre;cálida;sí;no;no;rústico
+2299;no;calmada;brillante;sí;no;no;rústico
+2300;sí;alegre;tenue;no;no;sí;rústico
+2301;sí;alegre;brillante;no;sí;sí;moderno
+2302;sí;alegre;cálida;sí;sí;no;moderno
+2303;no;alegre;tenue;no;sí;no;industrial
+2304;sí;calmada;tenue;sí;no;no;artístico
+2305;no;sin música;tenue;no;no;sí;artístico
+2306;sí;alegre;tenue;no;sí;no;industrial
+2307;sí;calmada;cálida;sí;no;no;rústico
+2308;no;sin música;cálida;no;no;sí;industrial
+2309;sí;sin música;tenue;no;no;no;rústico
+2310;sí;alegre;cálida;no;sí;no;moderno
+2311;no;sin música;tenue;sí;no;sí;minimalista
+2312;sí;calmada;cálida;no;sí;sí;artístico
+2313;no;alegre;brillante;no;no;no;industrial
+2314;no;sin música;brillante;no;sí;sí;moderno
+2315;no;sin música;brillante;sí;no;sí;vintage
+2316;no;alegre;cálida;no;no;no;vintage
+2317;no;sin música;tenue;sí;no;no;rústico
+2318;sí;calmada;brillante;sí;no;no;rústico
+2319;sí;alegre;brillante;sí;sí;no;vintage
+2320;sí;calmada;cálida;no;sí;no;minimalista
+2321;no;calmada;brillante;no;no;sí;industrial
+2322;no;sin música;tenue;no;sí;no;vintage
+2323;sí;sin música;tenue;no;no;no;moderno
+2324;no;sin música;cálida;no;sí;sí;minimalista
+2325;sí;calmada;cálida;sí;sí;no;industrial
+2326;no;alegre;cálida;no;no;sí;moderno
+2327;sí;sin música;tenue;sí;sí;sí;industrial
+2328;sí;calmada;tenue;sí;no;no;vintage
+2329;no;calmada;cálida;no;sí;no;rústico
+2330;no;alegre;cálida;no;no;no;rústico
+2331;no;sin música;tenue;sí;no;sí;artístico
+2332;no;sin música;cálida;no;no;no;artístico
+2333;sí;calmada;tenue;no;no;sí;artístico
+2334;no;calmada;cálida;no;sí;sí;minimalista
+2335;no;sin música;cálida;no;sí;sí;vintage
+2336;sí;sin música;brillante;no;no;no;minimalista
+2337;no;alegre;cálida;no;no;sí;artístico
+2338;sí;sin música;tenue;no;no;no;industrial
+2339;sí;alegre;tenue;no;sí;sí;industrial
+2340;sí;alegre;tenue;no;no;sí;vintage
+2341;sí;calmada;cálida;sí;no;sí;artístico
+2342;no;calmada;cálida;sí;sí;sí;artístico
+2343;sí;sin música;cálida;sí;no;no;minimalista
+2344;no;sin música;brillante;sí;no;no;industrial
+2345;no;calmada;cálida;sí;sí;sí;rústico
+2346;sí;calmada;cálida;no;sí;no;moderno
+2347;sí;sin música;brillante;no;no;no;industrial
+2348;sí;sin música;tenue;no;sí;sí;industrial
+2349;sí;alegre;brillante;no;no;no;vintage
+2350;no;calmada;cálida;sí;sí;sí;minimalista
+2351;sí;sin música;tenue;no;no;sí;moderno
+2352;no;sin música;brillante;sí;sí;no;minimalista
+2353;no;calmada;tenue;sí;sí;sí;vintage
+2354;sí;calmada;brillante;sí;no;no;moderno
+2355;sí;alegre;brillante;sí;no;no;vintage
+2356;no;sin música;brillante;sí;no;no;industrial
+2357;sí;alegre;cálida;sí;no;no;rústico
+2358;sí;alegre;tenue;no;no;sí;vintage
+2359;sí;alegre;brillante;no;no;sí;artístico
+2360;no;alegre;brillante;no;no;no;artístico
+2361;sí;calmada;tenue;no;no;no;vintage
+2362;no;alegre;tenue;sí;no;sí;artístico
+2363;no;alegre;cálida;no;no;no;artístico
+2364;no;calmada;tenue;sí;no;sí;artístico
+2365;sí;alegre;cálida;sí;sí;no;rústico
+2366;sí;alegre;brillante;no;no;sí;moderno
+2367;sí;sin música;brillante;no;no;no;industrial
+2368;sí;calmada;tenue;sí;sí;sí;vintage
+2369;sí;calmada;tenue;sí;sí;no;artístico
+2370;sí;sin música;cálida;no;sí;no;rústico
+2371;no;calmada;tenue;sí;sí;no;artístico
+2372;no;alegre;brillante;sí;sí;sí;minimalista
+2373;sí;calmada;cálida;no;no;no;vintage
+2374;no;alegre;tenue;sí;no;sí;industrial
+2375;sí;alegre;cálida;no;no;sí;moderno
+2376;no;calmada;tenue;sí;no;sí;artístico
+2377;sí;calmada;cálida;sí;no;no;vintage
+2378;sí;sin música;tenue;no;sí;no;industrial
+2379;no;alegre;brillante;no;sí;no;vintage
+2380;no;sin música;tenue;no;no;sí;artístico
+2381;sí;calmada;brillante;no;sí;sí;minimalista
+2382;sí;calmada;brillante;sí;no;sí;industrial
+2383;sí;alegre;cálida;sí;sí;sí;rústico
+2384;sí;sin música;brillante;no;sí;sí;minimalista
+2385;sí;sin música;tenue;no;no;no;moderno
+2386;no;sin música;cálida;no;sí;sí;minimalista
+2387;sí;alegre;tenue;no;sí;no;minimalista
+2388;no;alegre;brillante;no;sí;no;moderno
+2389;sí;sin música;tenue;sí;no;no;industrial
+2390;no;calmada;cálida;no;no;sí;artístico
+2391;no;calmada;cálida;sí;no;no;artístico
+2392;sí;sin música;cálida;no;no;no;industrial
+2393;no;alegre;brillante;sí;no;no;vintage
+2394;sí;sin música;tenue;sí;sí;no;vintage
+2395;no;sin música;cálida;no;sí;sí;moderno
+2396;sí;sin música;cálida;sí;no;sí;rústico
+2397;no;alegre;tenue;no;sí;sí;industrial
+2398;sí;calmada;tenue;no;sí;no;artístico
+2399;sí;calmada;cálida;sí;no;no;moderno
+2400;no;alegre;brillante;no;no;sí;vintage
+2401;sí;sin música;brillante;sí;no;no;minimalista
+2402;sí;alegre;cálida;sí;no;sí;artístico
+2403;no;calmada;tenue;sí;sí;no;artístico
+2404;no;sin música;cálida;no;sí;sí;vintage
+2405;sí;alegre;tenue;no;sí;sí;industrial
+2406;sí;sin música;brillante;no;no;no;rústico
+2407;no;alegre;cálida;sí;no;no;moderno
+2408;no;calmada;cálida;sí;no;no;industrial
+2409;sí;alegre;tenue;sí;no;no;artístico
+2410;sí;alegre;cálida;sí;no;no;moderno
+2411;sí;calmada;cálida;no;sí;no;minimalista
+2412;no;sin música;cálida;sí;sí;no;vintage
+2413;sí;calmada;tenue;no;sí;sí;moderno
+2414;no;sin música;brillante;sí;no;sí;vintage
+2415;sí;alegre;tenue;no;no;sí;industrial
+2416;sí;sin música;tenue;sí;no;sí;industrial
+2417;no;alegre;brillante;no;sí;no;moderno
+2418;no;alegre;brillante;sí;sí;sí;vintage
+2419;sí;sin música;brillante;sí;sí;sí;artístico
+2420;no;calmada;cálida;no;no;sí;rústico
+2421;sí;sin música;brillante;sí;sí;no;vintage
+2422;no;sin música;brillante;no;sí;sí;moderno
+2423;no;calmada;tenue;no;no;sí;moderno
+2424;no;sin música;cálida;no;sí;sí;rústico
+2425;no;sin música;cálida;no;sí;no;minimalista
+2426;no;alegre;tenue;sí;no;sí;industrial
+2427;no;calmada;brillante;no;no;sí;artístico
+2428;sí;alegre;cálida;no;sí;sí;vintage
+2429;sí;alegre;tenue;sí;sí;no;rústico
+2430;sí;alegre;tenue;no;sí;no;moderno
+2431;no;sin música;tenue;no;no;sí;minimalista
+2432;sí;calmada;tenue;sí;sí;sí;minimalista
+2433;no;alegre;brillante;no;no;sí;minimalista
+2434;sí;alegre;cálida;no;sí;sí;artístico
+2435;no;alegre;brillante;sí;no;sí;artístico
+2436;no;sin música;tenue;no;sí;sí;vintage
+2437;sí;alegre;tenue;no;no;sí;artístico
+2438;sí;calmada;tenue;sí;no;no;moderno
+2439;no;alegre;cálida;no;no;no;vintage
+2440;sí;calmada;cálida;sí;sí;sí;industrial
+2441;no;sin música;cálida;sí;no;no;rústico
+2442;no;alegre;tenue;no;sí;no;industrial
+2443;no;calmada;cálida;sí;no;sí;moderno
+2444;sí;alegre;brillante;no;no;no;moderno
+2445;no;alegre;tenue;no;sí;sí;rústico
+2446;sí;calmada;tenue;sí;sí;no;minimalista
+2447;no;sin música;tenue;no;no;no;vintage
+2448;no;calmada;brillante;sí;sí;sí;vintage
+2449;sí;calmada;brillante;sí;sí;no;moderno
+2450;no;calmada;tenue;no;sí;sí;rústico
+2451;sí;alegre;cálida;no;sí;sí;minimalista
+2452;no;calmada;cálida;sí;no;no;rústico
+2453;no;sin música;tenue;no;no;no;moderno
+2454;no;calmada;tenue;sí;no;sí;vintage
+2455;no;calmada;brillante;sí;sí;sí;rústico
+2456;sí;sin música;cálida;sí;sí;sí;artístico
+2457;sí;calmada;cálida;sí;sí;sí;artístico
+2458;sí;calmada;brillante;sí;no;sí;vintage
+2459;no;alegre;brillante;no;sí;no;minimalista
+2460;sí;sin música;cálida;no;sí;no;rústico
+2461;no;alegre;cálida;no;no;sí;industrial
+2462;no;sin música;cálida;sí;sí;sí;minimalista
+2463;no;alegre;cálida;no;sí;no;industrial
+2464;sí;calmada;brillante;no;no;no;industrial
+2465;no;calmada;tenue;no;no;sí;industrial
+2466;sí;sin música;brillante;no;no;sí;artístico
+2467;no;calmada;brillante;sí;no;no;minimalista
+2468;sí;calmada;brillante;sí;no;no;vintage
+2469;sí;sin música;tenue;no;sí;no;rústico
+2470;no;alegre;brillante;no;no;no;artístico
+2471;sí;alegre;brillante;sí;no;sí;vintage
+2472;no;sin música;tenue;sí;sí;no;industrial
+2473;no;sin música;cálida;no;sí;no;industrial
+2474;sí;alegre;brillante;no;sí;no;minimalista
+2475;sí;alegre;brillante;no;sí;sí;minimalista
+2476;no;calmada;brillante;no;no;no;artístico
+2477;sí;calmada;cálida;no;sí;no;industrial
+2478;sí;alegre;tenue;sí;no;sí;rústico
+2479;no;sin música;tenue;sí;sí;no;minimalista
+2480;sí;sin música;tenue;no;sí;sí;artístico
+2481;no;alegre;tenue;sí;sí;sí;rústico
+2482;no;alegre;cálida;no;sí;sí;industrial
+2483;sí;calmada;tenue;no;no;sí;minimalista
+2484;no;sin música;brillante;no;no;sí;industrial
+2485;sí;calmada;cálida;sí;no;no;minimalista
+2486;no;alegre;brillante;sí;sí;no;industrial
+2487;sí;alegre;brillante;no;no;no;minimalista
+2488;sí;sin música;tenue;sí;sí;sí;industrial
+2489;sí;alegre;cálida;sí;no;sí;vintage
+2490;no;alegre;brillante;sí;sí;sí;rústico
+2491;no;alegre;cálida;sí;no;sí;rústico
+2492;sí;calmada;tenue;sí;sí;sí;artístico
+2493;no;alegre;brillante;no;sí;no;rústico
+2494;sí;calmada;tenue;sí;no;no;vintage
+2495;sí;sin música;cálida;sí;sí;no;artístico
+2496;no;sin música;brillante;no;sí;no;industrial
+2497;no;sin música;brillante;sí;no;sí;industrial
+2498;sí;sin música;tenue;no;no;no;artístico
+2499;no;alegre;brillante;no;sí;sí;artístico
+2500;no;calmada;brillante;sí;no;no;industrial
+2501;no;calmada;tenue;no;sí;no;rústico
+2502;no;sin música;tenue;no;sí;no;moderno
+2503;sí;sin música;brillante;sí;no;sí;vintage
+2504;no;alegre;cálida;no;no;no;minimalista
+2505;sí;calmada;cálida;no;no;sí;vintage
+2506;sí;alegre;brillante;sí;sí;no;minimalista
+2507;no;calmada;brillante;sí;no;sí;rústico
+2508;sí;calmada;tenue;no;no;sí;vintage
+2509;no;alegre;brillante;sí;sí;no;vintage
+2510;no;alegre;tenue;no;no;sí;rústico
+2511;no;alegre;brillante;no;sí;sí;minimalista
+2512;sí;alegre;cálida;sí;no;sí;moderno
+2513;sí;calmada;cálida;sí;sí;no;artístico
+2514;sí;alegre;brillante;sí;no;sí;minimalista
+2515;no;alegre;cálida;sí;no;sí;minimalista
+2516;no;calmada;tenue;no;sí;sí;industrial
+2517;sí;alegre;brillante;sí;no;no;artístico
+2518;no;alegre;tenue;no;no;sí;rústico
+2519;sí;alegre;cálida;no;no;sí;minimalista
+2520;no;alegre;tenue;no;no;sí;minimalista
+2521;no;alegre;tenue;no;no;sí;industrial
+2522;no;alegre;brillante;sí;sí;no;vintage
+2523;sí;alegre;cálida;no;no;no;rústico
+2524;sí;sin música;cálida;no;sí;sí;moderno
+2525;no;sin música;tenue;sí;no;sí;rústico
+2526;no;calmada;cálida;sí;sí;sí;industrial
+2527;no;alegre;tenue;no;no;no;moderno
+2528;no;sin música;tenue;sí;sí;no;minimalista
+2529;sí;alegre;brillante;sí;sí;no;rústico
+2530;sí;alegre;cálida;no;sí;no;minimalista
+2531;no;alegre;tenue;no;sí;no;artístico
+2532;no;sin música;brillante;no;sí;no;vintage
+2533;sí;alegre;brillante;sí;sí;no;industrial
+2534;sí;calmada;cálida;sí;sí;no;moderno
+2535;sí;alegre;tenue;no;sí;sí;vintage
+2536;sí;calmada;cálida;no;sí;no;industrial
+2537;no;alegre;brillante;no;no;sí;rústico
+2538;no;alegre;cálida;sí;sí;sí;artístico
+2539;no;alegre;cálida;sí;no;no;artístico
+2540;no;sin música;cálida;no;no;no;industrial
+2541;sí;calmada;tenue;sí;no;sí;industrial
+2542;sí;calmada;brillante;sí;no;sí;rústico
+2543;no;sin música;tenue;sí;no;no;rústico
+2544;no;calmada;cálida;no;no;no;rústico
+2545;sí;sin música;tenue;no;sí;no;vintage
+2546;no;alegre;tenue;no;sí;no;rústico
+2547;no;alegre;brillante;sí;no;no;moderno
+2548;sí;alegre;brillante;no;no;no;moderno
+2549;sí;calmada;cálida;sí;sí;sí;rústico
+2550;sí;calmada;tenue;no;sí;no;vintage
+2551;sí;alegre;brillante;sí;no;sí;vintage
+2552;sí;calmada;brillante;no;sí;no;moderno
+2553;sí;calmada;tenue;sí;no;sí;industrial
+2554;no;calmada;brillante;sí;no;sí;artístico
+2555;no;sin música;brillante;sí;sí;no;minimalista
+2556;sí;calmada;brillante;sí;no;sí;minimalista
+2557;no;calmada;brillante;sí;no;sí;artístico
+2558;sí;sin música;tenue;no;no;no;industrial
+2559;no;calmada;cálida;no;no;sí;minimalista
+2560;sí;calmada;cálida;no;sí;no;minimalista
+2561;no;sin música;cálida;sí;sí;no;rústico
+2562;no;sin música;tenue;sí;sí;sí;moderno
+2563;sí;alegre;brillante;sí;sí;no;industrial
+2564;no;sin música;cálida;no;no;sí;moderno
+2565;no;alegre;brillante;sí;no;no;rústico
+2566;sí;alegre;tenue;no;sí;sí;moderno
+2567;no;alegre;tenue;sí;sí;no;rústico
+2568;no;sin música;brillante;no;no;no;vintage
+2569;no;calmada;brillante;no;no;sí;vintage
+2570;no;sin música;tenue;sí;no;sí;rústico
+2571;sí;sin música;brillante;sí;no;sí;moderno
+2572;sí;sin música;tenue;no;sí;no;rústico
+2573;sí;sin música;tenue;no;no;no;moderno
+2574;sí;alegre;tenue;sí;sí;no;industrial
+2575;sí;alegre;brillante;no;no;sí;moderno
+2576;sí;alegre;brillante;sí;sí;no;minimalista
+2577;sí;sin música;tenue;sí;sí;no;rústico
+2578;sí;calmada;tenue;sí;no;sí;moderno
+2579;no;sin música;tenue;sí;sí;no;minimalista
+2580;sí;calmada;brillante;no;sí;no;rústico
+2581;sí;sin música;tenue;no;no;sí;minimalista
+2582;sí;calmada;cálida;no;no;no;moderno
+2583;sí;alegre;cálida;no;no;sí;industrial
+2584;no;sin música;tenue;no;no;sí;rústico
+2585;sí;alegre;tenue;sí;sí;no;rústico
+2586;no;alegre;tenue;no;sí;no;moderno
+2587;sí;calmada;brillante;sí;no;no;minimalista
+2588;no;sin música;tenue;sí;no;no;rústico
+2589;sí;calmada;tenue;no;no;sí;industrial
+2590;no;calmada;tenue;no;no;no;rústico
+2591;sí;calmada;brillante;sí;no;no;vintage
+2592;sí;alegre;cálida;sí;sí;sí;artístico
+2593;sí;calmada;tenue;sí;sí;no;vintage
+2594;sí;alegre;brillante;sí;no;no;minimalista
+2595;sí;sin música;tenue;sí;sí;sí;minimalista
+2596;no;alegre;brillante;no;sí;sí;minimalista
+2597;sí;sin música;cálida;no;sí;no;artístico
+2598;no;alegre;cálida;sí;no;sí;minimalista
+2599;no;alegre;tenue;no;no;sí;industrial
+2600;sí;alegre;brillante;sí;sí;no;rústico
+2601;no;alegre;tenue;sí;no;sí;rústico
+2602;sí;calmada;cálida;sí;sí;sí;industrial
+2603;sí;alegre;brillante;sí;sí;no;minimalista
+2604;sí;calmada;cálida;no;sí;no;artístico
+2605;sí;sin música;cálida;sí;no;sí;vintage
+2606;sí;sin música;brillante;sí;sí;sí;rústico
+2607;no;alegre;brillante;no;no;no;minimalista
+2608;sí;alegre;tenue;no;no;sí;rústico
+2609;no;calmada;tenue;no;no;sí;rústico
+2610;sí;calmada;cálida;sí;no;no;rústico
+2611;no;sin música;cálida;sí;no;no;moderno
+2612;sí;calmada;tenue;sí;sí;sí;rústico
+2613;no;sin música;brillante;sí;no;no;rústico
+2614;sí;alegre;tenue;no;sí;sí;vintage
+2615;no;calmada;tenue;no;sí;sí;vintage
+2616;no;sin música;tenue;no;sí;sí;rústico
+2617;sí;sin música;cálida;sí;sí;no;minimalista
+2618;sí;calmada;brillante;sí;sí;no;moderno
+2619;no;calmada;tenue;no;sí;no;artístico
+2620;no;alegre;tenue;no;no;sí;minimalista
+2621;no;alegre;cálida;sí;no;no;artístico
+2622;sí;sin música;brillante;sí;no;sí;minimalista
+2623;no;calmada;cálida;sí;no;no;industrial
+2624;sí;sin música;brillante;sí;no;sí;moderno
+2625;sí;alegre;tenue;sí;sí;sí;vintage
+2626;sí;alegre;tenue;sí;no;sí;rústico
+2627;no;alegre;tenue;no;sí;no;moderno
+2628;no;sin música;cálida;no;sí;sí;industrial
+2629;no;sin música;tenue;sí;sí;sí;industrial
+2630;no;sin música;cálida;no;sí;no;vintage
+2631;no;sin música;cálida;sí;no;sí;moderno
+2632;no;alegre;brillante;sí;no;sí;artístico
+2633;sí;calmada;cálida;no;no;no;moderno
+2634;sí;alegre;brillante;sí;no;sí;moderno
+2635;no;calmada;cálida;no;no;sí;industrial
+2636;no;alegre;tenue;sí;sí;no;minimalista
+2637;no;sin música;brillante;no;no;sí;moderno
+2638;no;alegre;brillante;no;sí;no;vintage
+2639;no;alegre;cálida;sí;sí;no;vintage
+2640;no;alegre;tenue;no;no;no;rústico
+2641;no;alegre;cálida;no;no;sí;rústico
+2642;sí;alegre;tenue;sí;no;sí;minimalista
+2643;sí;calmada;tenue;no;no;no;industrial
+2644;no;alegre;cálida;sí;no;no;vintage
+2645;sí;sin música;cálida;no;sí;no;rústico
+2646;no;calmada;brillante;no;sí;no;minimalista
+2647;sí;alegre;brillante;sí;no;no;minimalista
+2648;no;alegre;cálida;no;no;no;vintage
+2649;no;calmada;cálida;sí;sí;sí;rústico
+2650;no;calmada;cálida;sí;no;no;artístico
+2651;sí;sin música;brillante;no;no;no;artístico
+2652;sí;sin música;brillante;no;no;no;rústico
+2653;no;sin música;tenue;sí;no;no;vintage
+2654;sí;alegre;cálida;sí;sí;no;artístico
+2655;sí;calmada;tenue;no;sí;sí;artístico
+2656;sí;alegre;tenue;sí;sí;sí;artístico
+2657;sí;calmada;tenue;sí;sí;sí;vintage
+2658;sí;calmada;cálida;no;sí;no;minimalista
+2659;sí;calmada;cálida;sí;no;sí;vintage
+2660;sí;calmada;cálida;no;no;no;vintage
+2661;no;calmada;brillante;no;no;no;rústico
+2662;no;calmada;cálida;no;sí;no;vintage
+2663;no;sin música;brillante;no;sí;no;moderno
+2664;sí;alegre;brillante;sí;no;no;artístico
+2665;no;alegre;tenue;sí;no;sí;artístico
+2666;no;sin música;tenue;no;no;sí;artístico
+2667;no;sin música;tenue;no;sí;no;minimalista
+2668;sí;sin música;brillante;no;no;sí;rústico
+2669;no;calmada;cálida;no;no;no;rústico
+2670;sí;alegre;cálida;no;sí;no;minimalista
+2671;sí;sin música;brillante;sí;no;no;artístico
+2672;sí;sin música;cálida;no;sí;sí;artístico
+2673;sí;calmada;cálida;sí;no;no;rústico
+2674;sí;sin música;brillante;sí;sí;sí;minimalista
+2675;no;calmada;brillante;sí;sí;sí;industrial
+2676;sí;alegre;brillante;sí;no;no;industrial
+2677;sí;calmada;tenue;no;no;no;moderno
+2678;sí;alegre;cálida;sí;sí;sí;minimalista
+2679;sí;calmada;brillante;no;sí;sí;artístico
+2680;sí;sin música;cálida;no;no;no;rústico
+2681;sí;alegre;cálida;no;sí;sí;rústico
+2682;sí;sin música;tenue;no;sí;no;minimalista
+2683;sí;alegre;tenue;sí;sí;no;rústico
+2684;sí;sin música;cálida;no;sí;no;minimalista
+2685;no;alegre;tenue;no;sí;sí;vintage
+2686;sí;sin música;tenue;sí;no;no;rústico
+2687;no;sin música;cálida;sí;no;no;artístico
+2688;no;sin música;cálida;sí;sí;no;industrial
+2689;no;alegre;tenue;no;sí;sí;moderno
+2690;no;calmada;brillante;no;no;sí;minimalista
+2691;no;sin música;tenue;no;sí;sí;industrial
+2692;sí;alegre;brillante;sí;no;no;industrial
+2693;sí;sin música;brillante;no;sí;sí;minimalista
+2694;sí;alegre;cálida;sí;sí;sí;artístico
+2695;no;sin música;tenue;sí;sí;no;moderno
+2696;no;sin música;tenue;sí;sí;sí;minimalista
+2697;sí;alegre;tenue;sí;no;sí;artístico
+2698;no;calmada;cálida;no;sí;sí;artístico
+2699;sí;alegre;tenue;no;sí;sí;industrial
+2700;sí;alegre;cálida;no;no;no;minimalista
+2701;no;alegre;tenue;no;no;no;vintage
+2702;sí;alegre;brillante;sí;no;sí;vintage
+2703;no;calmada;brillante;no;sí;sí;vintage
+2704;no;alegre;cálida;no;sí;no;industrial
+2705;no;sin música;tenue;no;sí;sí;minimalista
+2706;no;alegre;tenue;no;sí;sí;artístico
+2707;sí;sin música;tenue;sí;no;sí;artístico
+2708;no;calmada;cálida;sí;sí;sí;rústico
+2709;no;alegre;cálida;no;sí;sí;industrial
+2710;no;calmada;tenue;sí;no;sí;rústico
+2711;sí;sin música;brillante;no;sí;sí;vintage
+2712;no;sin música;cálida;no;sí;sí;industrial
+2713;sí;calmada;tenue;sí;no;sí;moderno
+2714;sí;sin música;tenue;no;sí;sí;industrial
+2715;sí;alegre;tenue;no;sí;sí;moderno
+2716;no;calmada;brillante;no;sí;sí;rústico
+2717;no;calmada;cálida;sí;no;no;artístico
+2718;no;sin música;tenue;no;sí;sí;moderno
+2719;no;calmada;cálida;sí;sí;no;rústico
+2720;no;alegre;brillante;sí;no;no;vintage
+2721;sí;sin música;cálida;no;no;sí;rústico
+2722;no;alegre;brillante;sí;sí;no;moderno
+2723;no;sin música;cálida;sí;no;no;industrial
+2724;sí;sin música;tenue;sí;no;no;moderno
+2725;sí;sin música;cálida;sí;no;sí;artístico
+2726;sí;sin música;tenue;sí;no;no;rústico
+2727;sí;sin música;tenue;no;no;sí;moderno
+2728;no;alegre;cálida;no;no;sí;minimalista
+2729;no;calmada;brillante;sí;no;sí;minimalista
+2730;sí;sin música;cálida;no;no;sí;industrial
+2731;no;sin música;tenue;no;sí;sí;industrial
+2732;sí;sin música;cálida;no;no;no;vintage
+2733;no;sin música;brillante;no;sí;no;moderno
+2734;no;sin música;cálida;no;sí;no;moderno
+2735;no;sin música;cálida;no;sí;sí;moderno
+2736;sí;calmada;cálida;no;sí;no;artístico
+2737;no;calmada;cálida;no;no;sí;moderno
+2738;no;sin música;cálida;no;no;sí;artístico
+2739;no;sin música;brillante;no;no;no;artístico
+2740;no;alegre;brillante;no;no;sí;vintage
+2741;sí;alegre;tenue;sí;sí;sí;minimalista
+2742;no;sin música;cálida;no;no;sí;moderno
+2743;sí;alegre;brillante;no;sí;sí;artístico
+2744;sí;alegre;tenue;no;no;no;artístico
+2745;no;calmada;tenue;sí;sí;no;artístico
+2746;sí;sin música;cálida;no;no;sí;artístico
+2747;sí;calmada;cálida;no;no;sí;industrial
+2748;sí;calmada;cálida;no;no;sí;minimalista
+2749;sí;alegre;cálida;no;no;sí;minimalista
+2750;no;sin música;cálida;sí;sí;no;moderno
+2751;sí;sin música;brillante;sí;sí;no;artístico
+2752;no;sin música;brillante;sí;sí;sí;minimalista
+2753;sí;sin música;cálida;sí;no;no;rústico
+2754;no;alegre;tenue;sí;no;no;minimalista
+2755;sí;sin música;brillante;no;no;sí;moderno
+2756;sí;sin música;brillante;no;no;no;vintage
+2757;sí;sin música;tenue;sí;sí;sí;industrial
+2758;sí;alegre;brillante;no;no;no;artístico
+2759;no;calmada;brillante;no;no;no;rústico
+2760;sí;calmada;brillante;no;sí;sí;vintage
+2761;no;calmada;tenue;sí;no;no;minimalista
+2762;no;calmada;brillante;sí;sí;no;minimalista
+2763;sí;calmada;brillante;sí;no;no;artístico
+2764;sí;sin música;tenue;sí;sí;no;vintage
+2765;sí;calmada;cálida;no;sí;no;minimalista
+2766;no;sin música;cálida;sí;sí;no;moderno
+2767;sí;alegre;brillante;no;no;sí;artístico
+2768;no;calmada;tenue;sí;sí;no;industrial
+2769;no;calmada;brillante;sí;sí;sí;minimalista
+2770;no;calmada;brillante;no;sí;sí;vintage
+2771;no;calmada;cálida;no;sí;sí;vintage
+2772;no;alegre;brillante;no;no;sí;minimalista
+2773;sí;calmada;tenue;no;no;sí;vintage
+2774;no;calmada;brillante;no;sí;no;artístico
+2775;no;alegre;tenue;no;no;sí;vintage
+2776;sí;calmada;brillante;no;no;no;industrial
+2777;no;calmada;brillante;no;sí;no;artístico
+2778;no;calmada;tenue;no;no;no;industrial
+2779;sí;calmada;tenue;no;sí;no;vintage
+2780;no;calmada;tenue;no;no;sí;industrial
+2781;no;alegre;brillante;no;sí;sí;artístico
+2782;sí;calmada;tenue;sí;no;sí;vintage
+2783;sí;alegre;tenue;no;no;sí;moderno
+2784;no;alegre;tenue;no;sí;sí;vintage
+2785;no;calmada;cálida;sí;sí;sí;minimalista
+2786;sí;calmada;cálida;sí;no;no;artístico
+2787;sí;sin música;tenue;no;sí;no;industrial
+2788;no;alegre;cálida;sí;no;no;minimalista
+2789;no;calmada;tenue;sí;sí;sí;vintage
+2790;no;calmada;cálida;sí;no;sí;minimalista
+2791;no;alegre;tenue;sí;sí;no;rústico
+2792;sí;alegre;tenue;no;sí;no;minimalista
+2793;sí;alegre;brillante;sí;sí;sí;vintage
+2794;sí;calmada;tenue;no;sí;no;moderno
+2795;no;calmada;brillante;no;sí;no;vintage
+2796;no;alegre;tenue;sí;no;no;industrial
+2797;sí;sin música;brillante;sí;sí;sí;minimalista
+2798;sí;alegre;tenue;no;no;sí;vintage
+2799;sí;alegre;brillante;sí;no;sí;minimalista
+2800;sí;alegre;tenue;no;sí;no;rústico
+2801;no;alegre;cálida;no;no;sí;rústico
+2802;no;calmada;cálida;sí;sí;no;vintage
+2803;sí;calmada;cálida;no;sí;sí;moderno
+2804;no;sin música;brillante;sí;sí;sí;artístico
+2805;sí;calmada;cálida;sí;sí;sí;minimalista
+2806;sí;calmada;cálida;no;sí;sí;moderno
+2807;sí;alegre;brillante;no;no;no;industrial
+2808;sí;alegre;brillante;no;no;sí;industrial
+2809;no;alegre;brillante;sí;no;no;rústico
+2810;sí;alegre;cálida;no;no;sí;moderno
+2811;no;calmada;tenue;no;sí;sí;industrial
+2812;no;calmada;tenue;no;sí;no;artístico
+2813;no;sin música;tenue;sí;no;no;vintage
+2814;no;alegre;cálida;sí;no;no;minimalista
+2815;sí;sin música;brillante;sí;no;no;vintage
+2816;no;calmada;tenue;sí;sí;no;artístico
+2817;no;sin música;brillante;sí;no;sí;industrial
+2818;sí;calmada;brillante;sí;sí;no;moderno
+2819;sí;sin música;brillante;sí;no;sí;minimalista
+2820;sí;calmada;tenue;no;sí;sí;industrial
+2821;no;alegre;brillante;sí;sí;sí;minimalista
+2822;sí;sin música;tenue;sí;no;no;minimalista
+2823;sí;alegre;brillante;no;sí;no;rústico
+2824;sí;calmada;brillante;no;no;sí;industrial
+2825;no;alegre;tenue;sí;sí;no;vintage
+2826;no;calmada;tenue;no;sí;sí;industrial
+2827;no;alegre;cálida;sí;sí;no;industrial
+2828;sí;calmada;cálida;no;sí;no;vintage
+2829;sí;calmada;tenue;no;sí;no;artístico
+2830;no;calmada;brillante;sí;sí;sí;minimalista
+2831;sí;alegre;brillante;no;sí;sí;artístico
+2832;no;alegre;cálida;no;no;no;moderno
+2833;no;sin música;tenue;sí;sí;sí;moderno
+2834;no;calmada;tenue;no;sí;no;vintage
+2835;no;sin música;cálida;no;no;sí;artístico
+2836;sí;calmada;tenue;sí;sí;no;rústico
+2837;sí;sin música;tenue;sí;no;no;artístico
+2838;no;calmada;brillante;no;sí;sí;artístico
+2839;sí;alegre;tenue;no;no;sí;artístico
+2840;sí;sin música;brillante;no;no;sí;vintage
+2841;sí;alegre;brillante;no;no;no;moderno
+2842;sí;sin música;tenue;no;no;no;artístico
+2843;no;calmada;tenue;no;no;sí;rústico
+2844;sí;sin música;cálida;no;sí;sí;artístico
+2845;no;sin música;tenue;no;sí;sí;vintage
+2846;sí;calmada;cálida;no;no;sí;rústico
+2847;sí;sin música;cálida;no;sí;sí;rústico
+2848;sí;calmada;cálida;sí;no;no;minimalista
+2849;sí;sin música;cálida;no;sí;no;moderno
+2850;no;alegre;tenue;sí;sí;sí;moderno
+2851;no;calmada;cálida;no;sí;no;minimalista
+2852;sí;alegre;tenue;sí;no;no;vintage
+2853;no;sin música;cálida;sí;sí;no;minimalista
+2854;no;calmada;tenue;no;sí;no;industrial
+2855;sí;sin música;cálida;no;no;sí;industrial
+2856;sí;alegre;tenue;no;sí;no;artístico
+2857;no;calmada;cálida;no;no;sí;minimalista
+2858;sí;alegre;cálida;no;sí;sí;minimalista
+2859;no;alegre;tenue;sí;sí;no;industrial
+2860;sí;sin música;tenue;sí;no;no;industrial
+2861;no;alegre;tenue;no;sí;no;rústico
+2862;sí;calmada;cálida;no;sí;no;moderno
+2863;no;sin música;tenue;no;no;no;vintage
+2864;no;alegre;tenue;no;no;sí;moderno
+2865;sí;calmada;cálida;sí;no;no;vintage
+2866;sí;calmada;brillante;no;sí;no;artístico
+2867;no;calmada;cálida;no;no;no;vintage
+2868;sí;calmada;cálida;sí;sí;sí;artístico
+2869;sí;calmada;cálida;sí;no;no;industrial
+2870;sí;sin música;brillante;sí;no;sí;artístico
+2871;no;sin música;brillante;no;sí;no;rústico
+2872;no;alegre;tenue;no;sí;sí;rústico
+2873;sí;calmada;brillante;sí;no;sí;moderno
+2874;no;alegre;cálida;sí;no;no;moderno
+2875;no;sin música;tenue;no;no;no;artístico
+2876;no;calmada;cálida;sí;no;sí;vintage
+2877;no;calmada;cálida;no;no;sí;minimalista
+2878;sí;calmada;brillante;sí;no;no;minimalista
+2879;sí;alegre;cálida;no;no;sí;rústico
+2880;no;calmada;tenue;sí;no;no;minimalista
+2881;no;sin música;tenue;no;no;no;minimalista
+2882;sí;alegre;tenue;sí;sí;sí;vintage
+2883;sí;calmada;cálida;no;sí;sí;rústico
+2884;no;calmada;brillante;no;no;no;moderno
+2885;sí;sin música;brillante;no;sí;sí;minimalista
+2886;sí;calmada;tenue;sí;sí;sí;artístico
+2887;no;alegre;tenue;no;sí;sí;vintage
+2888;sí;sin música;cálida;no;no;sí;rústico
+2889;no;sin música;tenue;no;sí;sí;artístico
+2890;sí;sin música;tenue;sí;sí;no;moderno
+2891;no;calmada;brillante;sí;sí;sí;minimalista
+2892;no;alegre;brillante;sí;sí;no;vintage
+2893;no;sin música;brillante;no;no;no;minimalista
+2894;no;alegre;brillante;sí;sí;sí;vintage
+2895;sí;alegre;tenue;sí;sí;sí;artístico
+2896;no;sin música;cálida;sí;sí;no;moderno
+2897;no;calmada;tenue;sí;sí;sí;moderno
+2898;sí;alegre;cálida;no;sí;sí;rústico
+2899;sí;calmada;brillante;no;no;sí;industrial
+2900;no;calmada;brillante;no;sí;no;vintage
+2901;no;alegre;tenue;sí;no;sí;vintage
+2902;no;calmada;cálida;sí;sí;no;industrial
+2903;sí;sin música;tenue;sí;no;sí;rústico
+2904;no;sin música;cálida;no;sí;no;moderno
+2905;sí;sin música;tenue;no;sí;sí;moderno
+2906;sí;sin música;cálida;no;sí;sí;vintage
+2907;no;sin música;tenue;no;sí;no;industrial
+2908;sí;alegre;brillante;sí;sí;no;rústico
+2909;sí;alegre;brillante;no;sí;no;rústico
+2910;sí;alegre;cálida;sí;no;no;industrial
+2911;no;alegre;cálida;sí;sí;no;vintage
+2912;no;calmada;brillante;no;no;sí;vintage
+2913;sí;calmada;tenue;sí;no;sí;moderno
+2914;sí;sin música;cálida;no;sí;no;vintage
+2915;sí;calmada;brillante;sí;sí;sí;minimalista
+2916;no;alegre;tenue;sí;sí;sí;moderno
+2917;no;calmada;brillante;sí;no;no;minimalista
+2918;no;calmada;cálida;no;no;sí;rústico
+2919;no;sin música;tenue;no;no;sí;minimalista
+2920;no;alegre;cálida;no;sí;sí;vintage
+2921;no;sin música;brillante;sí;no;sí;moderno
+2922;no;sin música;tenue;no;sí;sí;rústico
+2923;sí;alegre;brillante;sí;no;sí;vintage
+2924;sí;alegre;tenue;no;no;no;vintage
+2925;sí;alegre;tenue;no;sí;no;rústico
+2926;no;calmada;brillante;sí;sí;no;vintage
+2927;no;alegre;cálida;sí;sí;no;minimalista
+2928;no;calmada;tenue;sí;no;sí;rústico
+2929;sí;sin música;tenue;no;no;sí;moderno
+2930;no;alegre;cálida;sí;no;sí;moderno
+2931;sí;sin música;brillante;sí;no;sí;minimalista
+2932;sí;alegre;brillante;no;no;no;minimalista
+2933;sí;alegre;brillante;sí;no;sí;artístico
+2934;sí;alegre;cálida;no;no;no;minimalista
+2935;no;sin música;tenue;no;no;sí;minimalista
+2936;no;sin música;cálida;sí;sí;sí;artístico
+2937;no;alegre;cálida;sí;sí;no;minimalista
+2938;no;calmada;cálida;sí;no;no;moderno
+2939;sí;sin música;cálida;sí;sí;no;vintage
+2940;sí;sin música;tenue;no;sí;no;moderno
+2941;sí;alegre;tenue;no;no;sí;artístico
+2942;no;calmada;cálida;no;sí;no;industrial
+2943;no;sin música;brillante;no;sí;sí;moderno
+2944;sí;calmada;tenue;no;sí;sí;rústico
+2945;sí;sin música;tenue;no;no;sí;rústico
+2946;no;sin música;tenue;sí;no;no;moderno
+2947;no;calmada;tenue;sí;no;no;rústico
+2948;no;sin música;cálida;sí;no;no;minimalista
+2949;sí;calmada;cálida;sí;sí;no;minimalista
+2950;no;calmada;brillante;no;no;sí;vintage
+2951;no;sin música;tenue;sí;no;sí;industrial
+2952;sí;alegre;brillante;sí;sí;no;industrial
+2953;no;sin música;tenue;sí;sí;no;industrial
+2954;sí;alegre;brillante;no;no;sí;moderno
+2955;no;calmada;tenue;sí;no;sí;artístico
+2956;sí;sin música;tenue;no;no;sí;vintage
+2957;sí;calmada;cálida;sí;no;no;industrial
+2958;no;calmada;tenue;sí;no;no;moderno
+2959;no;alegre;cálida;sí;no;no;rústico
+2960;no;alegre;brillante;no;sí;no;industrial
+2961;no;alegre;cálida;sí;sí;sí;artístico
+2962;sí;alegre;tenue;sí;no;sí;industrial
+2963;no;calmada;brillante;no;sí;sí;vintage
+2964;sí;calmada;tenue;sí;sí;sí;minimalista
+2965;no;alegre;brillante;no;no;no;artístico
+2966;no;sin música;tenue;sí;no;no;moderno
+2967;no;calmada;brillante;sí;no;no;minimalista
+2968;sí;sin música;tenue;no;no;no;moderno
+2969;no;alegre;cálida;no;no;no;moderno
+2970;no;sin música;brillante;no;no;no;minimalista
+2971;no;alegre;tenue;sí;sí;sí;rústico
+2972;no;calmada;brillante;no;sí;sí;moderno
+2973;sí;calmada;cálida;sí;no;no;minimalista
+2974;no;calmada;cálida;no;sí;no;moderno
+2975;sí;sin música;brillante;sí;sí;sí;rústico
+2976;no;sin música;brillante;sí;no;sí;vintage
+2977;no;alegre;cálida;sí;sí;sí;industrial
+2978;no;sin música;cálida;no;no;no;moderno
+2979;sí;sin música;cálida;sí;sí;no;rústico
+2980;no;alegre;cálida;sí;sí;no;artístico
+2981;no;sin música;tenue;sí;no;sí;minimalista
+2982;sí;alegre;cálida;sí;sí;no;minimalista
+2983;no;alegre;brillante;no;no;no;moderno
+2984;sí;alegre;brillante;sí;sí;no;industrial
+2985;no;alegre;tenue;sí;sí;sí;vintage
+2986;sí;alegre;tenue;sí;sí;sí;minimalista
+2987;sí;alegre;cálida;sí;sí;sí;artístico
+2988;no;alegre;brillante;no;no;no;vintage
+2989;sí;sin música;cálida;no;no;sí;rústico
+2990;no;alegre;brillante;sí;sí;no;vintage
+2991;no;calmada;cálida;no;sí;sí;rústico
+2992;no;sin música;brillante;no;no;no;moderno
+2993;sí;calmada;tenue;sí;no;sí;rústico
+2994;sí;alegre;brillante;no;sí;sí;moderno
+2995;sí;sin música;cálida;no;no;no;rústico
+2996;no;alegre;tenue;no;sí;no;industrial
+2997;no;alegre;tenue;sí;sí;no;artístico
+2998;no;alegre;brillante;no;no;no;minimalista
+2999;sí;alegre;brillante;sí;sí;no;industrial
+3000;no;alegre;brillante;sí;sí;no;moderno
+3001;sí;alegre;cálida;no;sí;no;vintage
+3002;sí;sin música;brillante;sí;sí;sí;artístico
+3003;no;sin música;cálida;sí;sí;sí;artístico
+3004;no;calmada;brillante;sí;no;no;vintage
+3005;no;sin música;cálida;no;no;sí;moderno
+3006;no;sin música;brillante;no;no;no;minimalista
+3007;no;calmada;cálida;sí;no;sí;moderno
+3008;sí;sin música;tenue;no;no;no;minimalista
+3009;no;sin música;brillante;sí;no;no;moderno
+3010;sí;calmada;tenue;sí;no;no;minimalista
+3011;sí;sin música;cálida;sí;sí;no;vintage
+3012;no;alegre;cálida;no;no;sí;industrial
+3013;sí;sin música;tenue;sí;sí;no;moderno
+3014;sí;sin música;tenue;sí;sí;sí;minimalista
+3015;sí;sin música;cálida;no;no;no;vintage
+3016;sí;calmada;brillante;sí;no;sí;vintage
+3017;sí;alegre;brillante;sí;sí;no;industrial
+3018;sí;calmada;cálida;no;sí;no;minimalista
+3019;no;alegre;tenue;no;sí;no;rústico
+3020;no;calmada;tenue;sí;no;no;rústico
+3021;sí;calmada;tenue;no;no;no;moderno
+3022;sí;alegre;tenue;no;no;no;rústico
+3023;no;calmada;brillante;sí;no;no;moderno
+3024;sí;sin música;cálida;sí;no;sí;rústico
+3025;no;alegre;cálida;no;sí;sí;minimalista
+3026;no;sin música;cálida;sí;no;sí;minimalista
+3027;sí;calmada;brillante;sí;no;no;vintage
+3028;no;sin música;brillante;sí;no;sí;rústico
+3029;no;calmada;cálida;no;sí;no;moderno
+3030;sí;calmada;brillante;no;no;no;industrial
+3031;no;alegre;cálida;no;sí;sí;artístico
+3032;sí;calmada;brillante;sí;no;no;minimalista
+3033;sí;alegre;tenue;sí;no;sí;industrial
+3034;no;sin música;cálida;sí;sí;no;rústico
+3035;no;calmada;brillante;no;no;no;vintage
+3036;no;alegre;tenue;no;no;no;artístico
+3037;sí;sin música;cálida;no;sí;sí;rústico
+3038;sí;alegre;cálida;sí;sí;sí;vintage
+3039;sí;calmada;tenue;no;no;no;artístico
+3040;no;sin música;cálida;sí;sí;sí;moderno
+3041;sí;sin música;tenue;no;sí;no;artístico
+3042;sí;calmada;cálida;sí;no;sí;industrial
+3043;no;calmada;brillante;sí;sí;no;minimalista
+3044;no;calmada;tenue;no;no;no;industrial
+3045;sí;alegre;brillante;no;sí;sí;artístico
+3046;no;alegre;brillante;no;no;sí;minimalista
+3047;sí;sin música;brillante;no;no;no;minimalista
+3048;sí;alegre;cálida;no;no;no;minimalista
+3049;no;sin música;tenue;no;no;sí;moderno
+3050;no;sin música;brillante;no;sí;sí;artístico
+3051;no;calmada;tenue;no;sí;sí;industrial
+3052;sí;sin música;brillante;no;sí;sí;vintage
+3053;sí;sin música;tenue;sí;sí;no;artístico
+3054;no;alegre;brillante;no;no;no;vintage
+3055;no;calmada;brillante;sí;no;no;vintage
+3056;sí;calmada;tenue;sí;no;sí;industrial
+3057;sí;alegre;brillante;sí;no;no;minimalista
+3058;sí;alegre;cálida;no;no;sí;moderno
+3059;sí;sin música;cálida;sí;no;no;minimalista
+3060;no;calmada;tenue;no;sí;sí;artístico
+3061;no;calmada;brillante;no;no;no;minimalista
+3062;no;calmada;tenue;sí;no;no;vintage
+3063;no;alegre;brillante;no;no;sí;vintage
+3064;sí;sin música;tenue;sí;sí;sí;moderno
+3065;sí;alegre;brillante;no;sí;no;minimalista
+3066;no;alegre;tenue;sí;sí;sí;moderno
+3067;no;alegre;tenue;no;sí;sí;industrial
+3068;no;calmada;cálida;no;no;sí;minimalista
+3069;sí;calmada;brillante;no;no;no;vintage
+3070;no;sin música;cálida;no;no;sí;industrial
+3071;no;alegre;cálida;sí;no;sí;artístico
+3072;no;calmada;cálida;no;sí;sí;rústico
+3073;no;alegre;brillante;sí;sí;no;minimalista
+3074;sí;calmada;tenue;no;no;no;moderno
+3075;sí;alegre;brillante;no;no;sí;industrial
+3076;sí;calmada;brillante;no;sí;sí;moderno
+3077;sí;alegre;cálida;sí;no;no;industrial
+3078;no;calmada;brillante;sí;sí;sí;moderno
+3079;sí;calmada;cálida;sí;no;sí;industrial
+3080;no;alegre;tenue;no;sí;no;rústico
+3081;no;alegre;cálida;sí;sí;no;industrial
+3082;no;sin música;brillante;no;sí;no;minimalista
+3083;sí;calmada;cálida;no;no;sí;minimalista
+3084;sí;calmada;brillante;sí;sí;no;moderno
+3085;sí;sin música;cálida;no;sí;no;industrial
+3086;sí;calmada;brillante;sí;sí;no;artístico
+3087;sí;alegre;tenue;no;sí;no;rústico
+3088;sí;sin música;tenue;no;no;sí;moderno
+3089;no;calmada;brillante;no;no;no;moderno
+3090;sí;calmada;cálida;no;sí;sí;vintage
+3091;no;calmada;brillante;no;sí;sí;vintage
+3092;no;alegre;tenue;sí;sí;sí;moderno
+3093;no;calmada;cálida;no;no;sí;industrial
+3094;no;alegre;tenue;sí;no;sí;rústico
+3095;sí;sin música;cálida;sí;sí;no;vintage
+3096;sí;sin música;tenue;no;no;no;minimalista
+3097;no;sin música;tenue;no;no;sí;artístico
+3098;sí;alegre;cálida;sí;no;no;rústico
+3099;no;sin música;brillante;sí;no;no;rústico
+3100;sí;calmada;cálida;no;sí;no;minimalista
+3101;no;alegre;tenue;no;sí;sí;rústico
+3102;sí;alegre;tenue;no;sí;no;moderno
+3103;sí;calmada;brillante;no;sí;no;artístico
+3104;no;calmada;tenue;no;no;sí;rústico
+3105;no;calmada;brillante;sí;no;no;industrial
+3106;no;calmada;brillante;sí;sí;sí;moderno
+3107;sí;sin música;cálida;no;sí;no;industrial
+3108;no;calmada;tenue;no;no;no;artístico
+3109;no;alegre;brillante;sí;no;no;industrial
+3110;no;calmada;cálida;sí;no;no;rústico
+3111;no;calmada;tenue;sí;sí;sí;industrial
+3112;sí;alegre;tenue;sí;sí;no;moderno
+3113;sí;alegre;brillante;no;sí;no;vintage
+3114;no;sin música;cálida;sí;sí;no;rústico
+3115;no;alegre;brillante;no;sí;sí;artístico
+3116;no;calmada;tenue;no;sí;sí;moderno
+3117;sí;calmada;cálida;sí;no;sí;minimalista
+3118;no;alegre;cálida;no;sí;sí;rústico
+3119;sí;alegre;tenue;no;no;sí;minimalista
+3120;sí;sin música;cálida;no;sí;sí;vintage
+3121;sí;alegre;cálida;no;no;no;vintage
+3122;no;alegre;brillante;no;no;sí;minimalista
+3123;sí;alegre;brillante;sí;sí;no;rústico
+3124;sí;calmada;tenue;no;sí;sí;industrial
+3125;sí;calmada;cálida;no;no;no;vintage
+3126;sí;sin música;cálida;sí;no;no;moderno
+3127;sí;sin música;cálida;no;no;sí;vintage
+3128;no;sin música;brillante;sí;no;sí;rústico
+3129;no;calmada;tenue;no;sí;sí;rústico
+3130;sí;alegre;cálida;sí;sí;no;vintage
+3131;no;alegre;tenue;no;no;sí;moderno
+3132;sí;sin música;tenue;no;sí;sí;vintage
+3133;sí;sin música;brillante;no;sí;no;rústico
+3134;no;alegre;brillante;no;sí;no;moderno
+3135;no;sin música;brillante;sí;sí;no;artístico
+3136;sí;alegre;cálida;no;no;sí;vintage
+3137;no;alegre;cálida;no;no;sí;rústico
+3138;no;calmada;brillante;no;no;no;moderno
+3139;no;sin música;cálida;no;no;no;minimalista
+3140;sí;calmada;cálida;no;no;sí;artístico
+3141;sí;calmada;tenue;no;no;sí;vintage
+3142;sí;alegre;tenue;sí;sí;no;minimalista
+3143;no;sin música;cálida;no;sí;sí;minimalista
+3144;no;calmada;tenue;no;no;no;moderno
+3145;sí;sin música;brillante;no;sí;sí;artístico
+3146;no;sin música;cálida;sí;no;no;artístico
+3147;sí;alegre;cálida;no;sí;no;artístico
+3148;sí;calmada;cálida;sí;sí;sí;minimalista
+3149;no;alegre;brillante;sí;no;no;artístico
+3150;sí;sin música;cálida;no;sí;no;artístico
+3151;no;calmada;tenue;sí;no;no;vintage
+3152;no;calmada;cálida;no;sí;sí;artístico
+3153;sí;alegre;tenue;sí;no;no;rústico
+3154;sí;alegre;cálida;no;sí;no;rústico
+3155;no;alegre;tenue;no;sí;no;minimalista
+3156;sí;alegre;tenue;sí;no;sí;industrial
+3157;no;alegre;brillante;no;no;no;minimalista
+3158;sí;sin música;brillante;sí;no;sí;vintage
+3159;sí;sin música;cálida;sí;sí;no;vintage
+3160;sí;sin música;cálida;sí;sí;sí;minimalista
+3161;sí;calmada;cálida;sí;sí;sí;rústico
+3162;no;calmada;brillante;sí;sí;no;moderno
+3163;no;sin música;tenue;sí;no;no;minimalista
+3164;sí;sin música;tenue;sí;no;no;artístico
+3165;sí;calmada;cálida;no;no;sí;artístico
+3166;sí;sin música;brillante;sí;no;sí;industrial
+3167;no;calmada;cálida;sí;sí;no;rústico
+3168;no;calmada;cálida;sí;sí;sí;moderno
+3169;sí;calmada;tenue;sí;no;no;vintage
+3170;sí;alegre;brillante;sí;sí;sí;moderno
+3171;no;sin música;brillante;sí;sí;sí;industrial
+3172;sí;sin música;cálida;sí;no;sí;vintage
+3173;no;calmada;brillante;no;no;no;industrial
+3174;sí;sin música;tenue;no;no;sí;moderno
+3175;sí;alegre;tenue;sí;sí;sí;minimalista
+3176;sí;calmada;cálida;sí;no;no;moderno
+3177;sí;sin música;brillante;no;sí;no;moderno
+3178;sí;sin música;brillante;sí;no;no;moderno
+3179;no;calmada;brillante;sí;sí;no;industrial
+3180;no;sin música;cálida;no;no;sí;rústico
+3181;sí;sin música;brillante;no;no;sí;industrial
+3182;sí;sin música;cálida;sí;no;no;rústico
+3183;sí;alegre;cálida;no;no;no;vintage
+3184;no;calmada;tenue;sí;no;no;moderno
+3185;no;calmada;tenue;no;sí;no;artístico
+3186;sí;calmada;tenue;sí;no;no;rústico
+3187;sí;alegre;brillante;sí;sí;sí;minimalista
+3188;sí;alegre;cálida;sí;sí;no;moderno
+3189;sí;alegre;brillante;no;sí;no;moderno
+3190;no;sin música;cálida;no;sí;no;artístico
+3191;sí;sin música;tenue;no;sí;sí;rústico
+3192;sí;calmada;cálida;sí;sí;sí;moderno
+3193;no;alegre;brillante;no;sí;no;moderno
+3194;sí;sin música;cálida;sí;sí;sí;rústico
+3195;no;alegre;brillante;sí;no;no;minimalista
+3196;sí;sin música;tenue;sí;sí;no;vintage
+3197;sí;calmada;brillante;no;no;sí;minimalista
+3198;no;alegre;brillante;sí;sí;no;artístico
+3199;sí;alegre;tenue;sí;no;sí;industrial
+3200;no;alegre;brillante;no;no;no;rústico
+3201;sí;calmada;brillante;sí;sí;no;vintage
+3202;no;alegre;cálida;no;sí;sí;minimalista
+3203;sí;alegre;cálida;sí;sí;no;minimalista
+3204;sí;alegre;tenue;sí;no;no;rústico
+3205;sí;calmada;tenue;no;sí;sí;artístico
+3206;no;sin música;brillante;sí;no;no;artístico
+3207;no;alegre;tenue;sí;no;no;minimalista
+3208;no;alegre;cálida;no;no;no;industrial
+3209;sí;calmada;brillante;sí;no;sí;artístico
+3210;no;calmada;cálida;no;sí;sí;vintage
+3211;no;sin música;cálida;sí;sí;sí;artístico
+3212;no;sin música;cálida;sí;no;sí;moderno
+3213;sí;calmada;brillante;sí;no;sí;minimalista
+3214;sí;calmada;tenue;sí;sí;sí;industrial
+3215;no;calmada;cálida;sí;no;no;artístico
+3216;no;sin música;cálida;sí;no;no;vintage
+3217;sí;alegre;tenue;no;no;no;rústico
+3218;sí;calmada;tenue;sí;sí;no;artístico
+3219;no;alegre;cálida;no;no;no;vintage
+3220;no;calmada;tenue;no;sí;sí;vintage
+3221;no;calmada;tenue;no;sí;sí;industrial
+3222;sí;calmada;tenue;sí;no;sí;rústico
+3223;no;sin música;brillante;no;no;no;moderno
+3224;sí;calmada;tenue;no;sí;no;vintage
+3225;sí;alegre;tenue;sí;no;no;minimalista
+3226;no;calmada;brillante;no;sí;no;vintage
+3227;no;sin música;brillante;no;no;sí;minimalista
+3228;no;alegre;brillante;no;no;no;minimalista
+3229;no;sin música;brillante;sí;sí;no;rústico
+3230;sí;alegre;brillante;no;sí;no;rústico
+3231;sí;alegre;brillante;sí;no;sí;rústico
+3232;no;sin música;brillante;sí;sí;no;minimalista
+3233;sí;alegre;cálida;sí;no;no;rústico
+3234;sí;alegre;tenue;no;no;sí;moderno
+3235;no;calmada;cálida;no;no;sí;rústico
+3236;no;alegre;cálida;no;no;no;industrial
+3237;no;alegre;cálida;no;no;sí;industrial
+3238;no;sin música;tenue;no;sí;no;vintage
+3239;sí;sin música;brillante;no;sí;no;minimalista
+3240;sí;alegre;cálida;no;no;no;vintage
+3241;no;calmada;tenue;no;no;no;rústico
+3242;no;sin música;brillante;sí;sí;no;vintage
+3243;sí;calmada;tenue;sí;no;sí;rústico
+3244;no;sin música;cálida;sí;no;no;vintage
+3245;sí;calmada;cálida;sí;sí;no;minimalista
+3246;sí;alegre;cálida;no;sí;sí;moderno
+3247;no;sin música;brillante;no;sí;sí;rústico
+3248;sí;calmada;cálida;sí;sí;sí;rústico
+3249;no;calmada;cálida;no;no;no;moderno
+3250;sí;alegre;tenue;no;sí;no;moderno
+3251;sí;alegre;cálida;no;no;no;industrial
+3252;sí;sin música;brillante;sí;sí;sí;vintage
+3253;sí;sin música;brillante;sí;sí;no;industrial
+3254;sí;sin música;brillante;sí;sí;sí;moderno
+3255;no;alegre;brillante;sí;sí;sí;moderno
+3256;no;sin música;cálida;no;no;no;artístico
+3257;sí;sin música;cálida;sí;sí;sí;minimalista
+3258;sí;calmada;brillante;sí;sí;no;industrial
+3259;sí;sin música;brillante;sí;sí;sí;rústico
+3260;no;calmada;cálida;sí;sí;sí;minimalista
+3261;no;sin música;tenue;sí;no;sí;artístico
+3262;no;alegre;tenue;no;no;sí;moderno
+3263;no;calmada;tenue;no;no;no;rústico
+3264;no;calmada;cálida;no;no;sí;industrial
+3265;no;calmada;brillante;sí;sí;no;industrial
+3266;no;alegre;cálida;sí;no;sí;vintage
+3267;no;sin música;cálida;sí;no;no;vintage
+3268;no;sin música;brillante;sí;no;sí;rústico
+3269;no;calmada;cálida;sí;sí;sí;industrial
+3270;no;alegre;tenue;sí;no;sí;artístico
+3271;sí;calmada;brillante;no;sí;sí;artístico
+3272;no;sin música;tenue;no;sí;no;vintage
+3273;sí;calmada;tenue;no;no;sí;rústico
+3274;no;sin música;tenue;sí;no;no;minimalista
+3275;sí;alegre;tenue;no;no;no;industrial
+3276;sí;calmada;tenue;no;no;no;industrial
+3277;sí;alegre;brillante;sí;sí;no;artístico
+3278;sí;sin música;tenue;sí;no;sí;moderno
+3279;no;alegre;brillante;sí;no;no;rústico
+3280;no;sin música;brillante;no;no;no;artístico
+3281;sí;alegre;brillante;sí;sí;no;vintage
+3282;sí;alegre;tenue;no;sí;sí;industrial
+3283;no;calmada;tenue;no;no;sí;moderno
+3284;no;calmada;brillante;no;no;sí;minimalista
+3285;no;alegre;brillante;sí;sí;no;rústico
+3286;no;alegre;cálida;sí;sí;sí;artístico
+3287;no;calmada;brillante;no;no;sí;rústico
+3288;sí;alegre;cálida;sí;sí;no;minimalista
+3289;sí;alegre;cálida;sí;no;no;industrial
+3290;sí;sin música;tenue;sí;no;no;minimalista
+3291;sí;calmada;cálida;no;sí;no;artístico
+3292;sí;sin música;brillante;sí;sí;no;rústico
+3293;no;alegre;tenue;no;sí;sí;rústico
+3294;sí;calmada;tenue;sí;no;sí;minimalista
+3295;sí;sin música;cálida;sí;sí;no;vintage
+3296;sí;sin música;cálida;no;no;sí;minimalista
+3297;sí;alegre;cálida;sí;sí;sí;vintage
+3298;no;calmada;tenue;no;sí;sí;moderno
+3299;no;alegre;brillante;sí;no;sí;industrial
+3300;sí;alegre;cálida;no;no;no;minimalista
+3301;no;calmada;brillante;sí;sí;sí;industrial
+3302;no;calmada;tenue;no;sí;no;artístico
+3303;sí;calmada;cálida;no;no;sí;rústico
+3304;sí;alegre;brillante;sí;sí;no;vintage
+3305;sí;alegre;tenue;sí;sí;sí;industrial
+3306;sí;sin música;brillante;no;no;no;artístico
+3307;sí;sin música;tenue;sí;sí;sí;vintage
+3308;no;sin música;tenue;sí;no;sí;vintage
+3309;sí;alegre;cálida;sí;no;no;minimalista
+3310;no;calmada;tenue;no;no;no;artístico
+3311;no;sin música;tenue;no;sí;no;vintage
+3312;no;alegre;tenue;sí;no;no;minimalista
+3313;sí;calmada;tenue;sí;no;sí;industrial
+3314;sí;sin música;brillante;sí;no;no;minimalista
+3315;sí;calmada;tenue;no;no;sí;moderno
+3316;sí;sin música;tenue;sí;sí;sí;moderno
+3317;no;alegre;brillante;sí;no;sí;moderno
+3318;no;sin música;tenue;no;sí;no;rústico
+3319;no;calmada;cálida;sí;no;sí;rústico
+3320;sí;sin música;tenue;no;sí;no;minimalista
+3321;sí;alegre;brillante;no;sí;no;industrial
+3322;sí;calmada;cálida;sí;no;sí;industrial
+3323;no;alegre;brillante;no;no;sí;vintage
+3324;no;calmada;tenue;sí;no;sí;rústico
+3325;sí;sin música;cálida;no;sí;no;vintage
+3326;no;calmada;cálida;no;sí;sí;minimalista
+3327;no;sin música;brillante;no;sí;sí;rústico
+3328;no;calmada;brillante;sí;sí;sí;rústico
+3329;sí;calmada;brillante;no;no;no;vintage
+3330;sí;calmada;cálida;no;no;sí;artístico
+3331;sí;calmada;cálida;sí;no;sí;moderno
+3332;no;alegre;tenue;sí;no;no;industrial
+3333;no;calmada;brillante;no;sí;no;minimalista
+3334;no;sin música;brillante;no;sí;no;industrial
+3335;sí;alegre;brillante;no;no;sí;artístico
+3336;no;alegre;brillante;no;sí;sí;rústico
+3337;sí;sin música;brillante;no;no;sí;minimalista
+3338;no;alegre;brillante;sí;no;no;minimalista
+3339;no;calmada;brillante;sí;no;no;artístico
+3340;sí;calmada;tenue;sí;no;sí;minimalista
+3341;no;calmada;brillante;sí;sí;no;minimalista
+3342;no;alegre;cálida;sí;sí;sí;artístico
+3343;no;calmada;brillante;no;no;no;moderno
+3344;sí;alegre;tenue;no;no;no;minimalista
+3345;no;alegre;tenue;sí;sí;sí;moderno
+3346;sí;sin música;brillante;no;no;sí;rústico
+3347;no;calmada;cálida;sí;sí;sí;artístico
+3348;no;calmada;brillante;sí;sí;no;vintage
+3349;no;calmada;cálida;no;no;sí;artístico
+3350;sí;alegre;brillante;no;no;sí;artístico
+3351;sí;alegre;tenue;no;no;sí;industrial
+3352;no;sin música;brillante;no;sí;no;moderno
+3353;no;calmada;tenue;no;sí;no;minimalista
+3354;no;alegre;brillante;sí;sí;no;industrial
+3355;sí;sin música;tenue;sí;no;sí;industrial
+3356;sí;calmada;cálida;sí;sí;sí;industrial
+3357;sí;calmada;brillante;sí;sí;sí;industrial
+3358;sí;calmada;brillante;no;no;sí;rústico
+3359;sí;sin música;tenue;no;no;no;industrial
+3360;no;sin música;tenue;sí;sí;no;artístico
+3361;sí;sin música;brillante;no;no;no;moderno
+3362;no;alegre;cálida;no;sí;no;industrial
+3363;no;calmada;cálida;no;sí;sí;artístico
+3364;sí;sin música;cálida;sí;sí;sí;moderno
+3365;no;sin música;cálida;no;sí;no;industrial
+3366;no;sin música;tenue;no;sí;no;rústico
+3367;sí;alegre;tenue;sí;sí;sí;vintage
+3368;sí;alegre;cálida;no;sí;no;vintage
+3369;sí;calmada;brillante;sí;no;no;industrial
+3370;sí;calmada;tenue;sí;no;no;industrial
+3371;no;calmada;cálida;no;no;sí;vintage
+3372;no;sin música;cálida;sí;sí;no;minimalista
+3373;no;calmada;brillante;sí;no;sí;vintage
+3374;no;sin música;cálida;sí;sí;sí;rústico
+3375;no;alegre;cálida;sí;no;sí;artístico
+3376;sí;alegre;brillante;sí;sí;sí;rústico
+3377;no;sin música;brillante;sí;sí;sí;artístico
+3378;no;alegre;cálida;sí;sí;sí;vintage
+3379;no;sin música;cálida;sí;sí;sí;industrial
+3380;sí;sin música;brillante;no;sí;no;moderno
+3381;no;alegre;cálida;no;sí;no;rústico
+3382;sí;alegre;brillante;no;no;sí;moderno
+3383;sí;alegre;cálida;no;sí;sí;industrial
+3384;sí;calmada;brillante;sí;sí;no;moderno
+3385;sí;sin música;brillante;sí;sí;no;rústico
+3386;no;alegre;tenue;no;no;sí;moderno
+3387;sí;sin música;tenue;sí;no;no;rústico
+3388;no;alegre;brillante;no;no;no;industrial
+3389;sí;alegre;tenue;no;no;no;minimalista
+3390;sí;calmada;brillante;no;sí;no;artístico
+3391;no;alegre;brillante;sí;sí;sí;vintage
+3392;no;calmada;brillante;sí;sí;no;vintage
+3393;sí;sin música;cálida;sí;no;no;industrial
+3394;no;alegre;tenue;no;no;sí;industrial
+3395;no;alegre;brillante;sí;sí;no;vintage
+3396;sí;sin música;tenue;sí;no;no;artístico
+3397;sí;calmada;brillante;sí;no;sí;minimalista
+3398;sí;sin música;tenue;sí;no;sí;rústico
+3399;sí;alegre;brillante;no;sí;no;rústico
+3400;no;calmada;brillante;no;no;no;industrial
+3401;sí;calmada;cálida;no;sí;sí;minimalista
+3402;sí;calmada;cálida;no;sí;no;industrial
+3403;sí;sin música;brillante;sí;no;sí;vintage
+3404;no;calmada;brillante;no;sí;sí;minimalista
+3405;no;sin música;cálida;sí;sí;no;artístico
+3406;no;calmada;cálida;sí;sí;no;industrial
+3407;sí;calmada;cálida;sí;no;no;vintage
+3408;no;calmada;brillante;no;sí;sí;moderno
+3409;no;alegre;cálida;sí;no;no;vintage
+3410;no;alegre;cálida;no;no;no;vintage
+3411;no;calmada;tenue;sí;no;sí;moderno
+3412;sí;alegre;tenue;sí;no;sí;industrial
+3413;no;alegre;tenue;no;no;no;minimalista
+3414;sí;alegre;cálida;no;no;sí;minimalista
+3415;sí;alegre;cálida;no;sí;sí;moderno
+3416;sí;calmada;brillante;sí;no;sí;industrial
+3417;no;calmada;cálida;no;no;no;vintage
+3418;no;calmada;cálida;sí;no;sí;vintage
+3419;sí;alegre;brillante;sí;no;no;vintage
+3420;no;alegre;tenue;no;sí;sí;minimalista
+3421;no;alegre;cálida;sí;no;no;minimalista
+3422;no;calmada;cálida;sí;no;sí;minimalista
+3423;no;calmada;brillante;no;sí;no;moderno
+3424;sí;sin música;cálida;sí;no;no;moderno
+3425;sí;calmada;brillante;sí;no;no;minimalista
+3426;no;sin música;tenue;no;no;no;rústico
+3427;no;alegre;brillante;sí;no;no;industrial
+3428;no;alegre;brillante;sí;sí;no;moderno
+3429;sí;alegre;tenue;no;sí;no;moderno
+3430;no;calmada;tenue;sí;no;no;artístico
+3431;no;calmada;cálida;no;sí;no;rústico
+3432;sí;alegre;brillante;sí;sí;sí;industrial
+3433;no;alegre;brillante;no;sí;no;minimalista
+3434;no;alegre;cálida;no;sí;sí;industrial
+3435;no;calmada;tenue;no;no;no;industrial
+3436;no;alegre;cálida;no;no;sí;moderno
+3437;no;alegre;brillante;sí;no;sí;minimalista
+3438;sí;sin música;cálida;no;sí;sí;moderno
+3439;sí;alegre;brillante;sí;sí;sí;minimalista
+3440;sí;sin música;cálida;no;sí;sí;rústico
+3441;sí;calmada;tenue;no;sí;sí;vintage
+3442;sí;sin música;tenue;sí;sí;sí;moderno
+3443;sí;alegre;brillante;no;no;no;minimalista
+3444;no;calmada;tenue;sí;sí;sí;moderno
+3445;no;sin música;brillante;no;no;no;industrial
+3446;sí;alegre;cálida;no;sí;sí;minimalista
+3447;no;calmada;tenue;no;sí;no;industrial
+3448;no;sin música;brillante;sí;no;no;artístico
+3449;sí;calmada;cálida;no;no;no;vintage
+3450;sí;alegre;tenue;no;sí;no;rústico
+3451;no;alegre;tenue;sí;no;no;vintage
+3452;no;calmada;tenue;no;sí;sí;vintage
+3453;no;calmada;cálida;sí;no;no;minimalista
+3454;sí;calmada;tenue;no;sí;no;minimalista
+3455;no;sin música;brillante;sí;no;no;vintage
+3456;sí;alegre;tenue;no;no;no;moderno
+3457;sí;calmada;brillante;sí;no;sí;rústico
+3458;sí;calmada;cálida;no;no;sí;industrial
+3459;no;sin música;brillante;no;sí;sí;industrial
+3460;no;calmada;cálida;sí;sí;sí;vintage
+3461;sí;alegre;tenue;no;sí;no;rústico
+3462;sí;alegre;tenue;no;no;no;rústico
+3463;sí;calmada;tenue;no;no;sí;industrial
+3464;sí;sin música;tenue;no;no;sí;rústico
+3465;sí;calmada;tenue;no;no;sí;artístico
+3466;no;sin música;cálida;no;no;no;moderno
+3467;sí;alegre;cálida;sí;sí;sí;vintage
+3468;no;sin música;tenue;sí;no;no;vintage
+3469;sí;alegre;brillante;sí;sí;no;rústico
+3470;sí;alegre;tenue;no;no;no;moderno
+3471;sí;alegre;cálida;sí;no;no;artístico
+3472;no;calmada;tenue;no;no;no;vintage
+3473;sí;alegre;tenue;no;no;no;moderno
+3474;sí;sin música;brillante;sí;sí;no;artístico
+3475;sí;alegre;cálida;no;no;sí;vintage
+3476;no;calmada;tenue;no;sí;no;artístico
+3477;sí;calmada;brillante;sí;sí;no;minimalista
+3478;sí;calmada;brillante;sí;no;sí;moderno
+3479;sí;alegre;tenue;no;no;no;rústico
+3480;sí;alegre;brillante;no;no;sí;minimalista
+3481;sí;sin música;cálida;no;sí;sí;minimalista
+3482;no;alegre;brillante;sí;no;no;vintage
+3483;no;alegre;tenue;sí;sí;no;vintage
+3484;no;alegre;tenue;sí;no;no;artístico
+3485;no;calmada;brillante;sí;sí;sí;rústico
+3486;sí;calmada;cálida;sí;sí;no;industrial
+3487;no;alegre;brillante;sí;sí;sí;minimalista
+3488;sí;calmada;brillante;no;no;sí;industrial
+3489;sí;sin música;cálida;no;sí;sí;moderno
+3490;no;sin música;cálida;no;sí;sí;minimalista
+3491;no;sin música;brillante;no;no;no;minimalista
+3492;no;alegre;cálida;no;sí;sí;minimalista
+3493;no;alegre;cálida;no;no;sí;minimalista
+3494;no;calmada;tenue;no;no;sí;vintage
+3495;sí;alegre;brillante;sí;sí;sí;artístico
+3496;no;calmada;tenue;sí;no;no;rústico
+3497;no;alegre;tenue;sí;no;sí;industrial
+3498;sí;calmada;brillante;sí;sí;sí;moderno
+3499;no;calmada;cálida;sí;sí;no;vintage
+3500;no;sin música;cálida;sí;sí;sí;rústico
+3501;sí;sin música;cálida;no;no;no;moderno
+3502;no;sin música;cálida;no;sí;sí;artístico
+3503;sí;alegre;tenue;sí;no;sí;vintage
+3504;sí;sin música;cálida;sí;no;no;industrial
+3505;sí;calmada;tenue;sí;sí;sí;industrial
+3506;sí;alegre;brillante;no;no;no;artístico
+3507;no;alegre;cálida;no;no;no;moderno
+3508;sí;calmada;tenue;sí;no;no;artístico
+3509;sí;alegre;tenue;sí;sí;no;industrial
+3510;no;calmada;cálida;sí;no;sí;vintage
+3511;no;calmada;brillante;no;no;no;industrial
+3512;no;calmada;tenue;sí;no;no;industrial
+3513;no;calmada;cálida;no;no;sí;minimalista
+3514;no;alegre;tenue;sí;sí;no;minimalista
+3515;no;alegre;tenue;no;no;no;artístico
+3516;no;alegre;tenue;sí;no;no;minimalista
+3517;no;sin música;tenue;sí;no;no;vintage
+3518;no;alegre;cálida;sí;no;no;industrial
+3519;no;alegre;tenue;sí;sí;sí;artístico
+3520;sí;alegre;tenue;sí;no;no;moderno
+3521;sí;alegre;cálida;sí;sí;no;moderno
+3522;no;sin música;cálida;no;no;sí;artístico
+3523;no;sin música;tenue;sí;no;sí;minimalista
+3524;sí;sin música;cálida;sí;sí;sí;rústico
+3525;sí;sin música;brillante;sí;no;sí;rústico
+3526;sí;calmada;brillante;no;sí;no;artístico
+3527;sí;calmada;tenue;no;sí;sí;moderno
+3528;no;alegre;cálida;sí;sí;no;rústico
+3529;sí;calmada;brillante;no;no;no;vintage
+3530;no;sin música;tenue;sí;no;sí;artístico
+3531;sí;calmada;tenue;no;no;sí;moderno
+3532;no;sin música;brillante;no;no;sí;moderno
+3533;sí;alegre;tenue;no;sí;no;vintage
+3534;sí;calmada;cálida;no;no;no;minimalista
+3535;no;alegre;brillante;no;no;no;artístico
+3536;no;sin música;cálida;sí;sí;no;vintage
+3537;no;alegre;cálida;no;sí;sí;industrial
+3538;no;alegre;cálida;no;no;sí;moderno
+3539;no;calmada;tenue;sí;no;sí;artístico
+3540;sí;sin música;brillante;sí;no;no;moderno
+3541;no;sin música;tenue;sí;sí;sí;minimalista
+3542;no;sin música;brillante;sí;sí;sí;artístico
+3543;no;calmada;cálida;sí;sí;no;minimalista
+3544;sí;calmada;tenue;no;no;sí;industrial
+3545;no;alegre;brillante;no;sí;no;rústico
+3546;sí;sin música;cálida;sí;sí;no;moderno
+3547;sí;alegre;brillante;sí;no;sí;vintage
+3548;no;calmada;tenue;no;no;no;rústico
+3549;no;calmada;cálida;no;no;sí;minimalista
+3550;sí;alegre;brillante;sí;no;no;rústico
+3551;sí;calmada;cálida;sí;no;no;industrial
+3552;no;calmada;cálida;no;sí;sí;rústico
+3553;no;calmada;tenue;no;no;no;minimalista
+3554;no;alegre;cálida;sí;no;no;rústico
+3555;no;sin música;brillante;no;sí;no;moderno
+3556;sí;sin música;cálida;sí;no;sí;artístico
+3557;sí;sin música;brillante;sí;no;no;rústico
+3558;no;sin música;tenue;sí;no;no;vintage
+3559;no;alegre;tenue;sí;sí;sí;moderno
+3560;no;alegre;brillante;no;no;sí;moderno
+3561;no;sin música;brillante;no;no;sí;minimalista
+3562;no;calmada;tenue;no;no;sí;artístico
+3563;sí;alegre;brillante;sí;no;no;industrial
+3564;no;sin música;brillante;sí;sí;no;minimalista
+3565;no;sin música;brillante;no;no;no;moderno
+3566;no;calmada;tenue;sí;sí;sí;industrial
+3567;sí;alegre;cálida;no;sí;no;minimalista
+3568;sí;sin música;cálida;sí;sí;no;minimalista
+3569;sí;calmada;tenue;no;sí;no;moderno
+3570;sí;sin música;cálida;sí;no;no;minimalista
+3571;no;calmada;brillante;no;no;sí;minimalista
+3572;sí;alegre;brillante;no;no;sí;minimalista
+3573;sí;calmada;brillante;no;sí;no;vintage
+3574;sí;sin música;brillante;no;sí;no;industrial
+3575;no;calmada;brillante;no;sí;sí;moderno
+3576;no;alegre;tenue;no;no;no;artístico
+3577;no;sin música;brillante;sí;no;sí;rústico
+3578;no;calmada;tenue;sí;sí;no;industrial
+3579;sí;sin música;cálida;no;no;sí;artístico
+3580;no;alegre;tenue;sí;sí;no;minimalista
+3581;sí;sin música;tenue;sí;sí;sí;vintage
+3582;sí;calmada;cálida;no;no;sí;minimalista
+3583;no;alegre;cálida;sí;no;sí;vintage
+3584;no;sin música;tenue;sí;no;no;industrial
+3585;no;alegre;cálida;sí;sí;no;vintage
+3586;no;sin música;tenue;no;no;no;artístico
+3587;sí;calmada;tenue;no;sí;no;rústico
+3588;sí;alegre;brillante;sí;sí;sí;minimalista
+3589;sí;sin música;tenue;no;no;no;moderno
+3590;no;alegre;brillante;no;sí;no;artístico
+3591;sí;calmada;cálida;no;sí;no;artístico
+3592;no;alegre;brillante;sí;sí;sí;moderno
+3593;sí;calmada;tenue;no;no;sí;rústico
+3594;sí;calmada;tenue;sí;sí;no;rústico
+3595;no;sin música;tenue;no;sí;sí;vintage
+3596;no;sin música;brillante;sí;no;no;artístico
+3597;sí;sin música;brillante;sí;no;no;artístico
+3598;sí;alegre;brillante;no;no;no;artístico
+3599;no;alegre;brillante;sí;sí;no;rústico
+3600;no;sin música;cálida;sí;no;no;moderno
+3601;sí;alegre;tenue;sí;no;sí;industrial
+3602;no;alegre;cálida;sí;no;no;moderno
+3603;sí;alegre;tenue;sí;sí;no;moderno
+3604;no;alegre;tenue;sí;sí;no;minimalista
+3605;no;calmada;brillante;sí;no;no;minimalista
+3606;no;sin música;tenue;sí;no;sí;vintage
+3607;sí;alegre;brillante;sí;sí;no;moderno
+3608;sí;calmada;tenue;no;sí;no;moderno
+3609;sí;sin música;tenue;no;no;sí;moderno
+3610;sí;sin música;tenue;sí;no;no;vintage
+3611;no;sin música;brillante;no;sí;sí;minimalista
+3612;no;alegre;tenue;no;no;no;vintage
+3613;no;sin música;brillante;no;sí;no;rústico
+3614;sí;sin música;brillante;sí;sí;sí;moderno
+3615;no;alegre;tenue;sí;sí;sí;moderno
+3616;sí;calmada;cálida;no;sí;sí;moderno
+3617;no;sin música;cálida;sí;no;no;artístico
+3618;sí;alegre;tenue;no;sí;sí;moderno
+3619;no;calmada;tenue;sí;sí;no;minimalista
+3620;no;alegre;brillante;no;sí;no;vintage
+3621;no;alegre;brillante;sí;sí;sí;rústico
+3622;sí;sin música;tenue;sí;no;no;industrial
+3623;sí;alegre;tenue;no;no;sí;vintage
+3624;sí;calmada;tenue;sí;no;no;industrial
+3625;no;alegre;tenue;sí;no;sí;industrial
+3626;no;sin música;cálida;sí;no;no;artístico
+3627;sí;alegre;cálida;sí;sí;sí;moderno
+3628;no;calmada;tenue;no;no;sí;minimalista
+3629;no;sin música;brillante;sí;no;no;vintage
+3630;no;sin música;tenue;no;sí;no;moderno
+3631;no;alegre;tenue;no;sí;no;artístico
+3632;no;sin música;cálida;no;sí;no;rústico
+3633;sí;calmada;tenue;no;no;sí;rústico
+3634;no;alegre;brillante;sí;sí;sí;minimalista
+3635;sí;sin música;cálida;sí;sí;no;moderno
+3636;sí;calmada;tenue;sí;sí;no;artístico
+3637;no;sin música;tenue;sí;no;no;artístico
+3638;no;calmada;cálida;no;no;sí;vintage
+3639;sí;calmada;tenue;no;no;sí;rústico
+3640;no;calmada;brillante;sí;no;no;minimalista
+3641;no;sin música;cálida;sí;no;sí;rústico
+3642;sí;sin música;cálida;no;sí;no;artístico
+3643;no;alegre;brillante;sí;sí;no;vintage
+3644;sí;sin música;cálida;sí;sí;sí;industrial
+3645;sí;sin música;tenue;no;no;no;industrial
+3646;sí;alegre;tenue;no;sí;no;vintage
+3647;no;sin música;tenue;no;no;sí;vintage
+3648;no;sin música;brillante;sí;no;no;rústico
+3649;sí;sin música;brillante;sí;no;sí;minimalista
+3650;sí;calmada;tenue;sí;sí;no;vintage
+3651;no;calmada;brillante;no;no;no;artístico
+3652;no;sin música;cálida;no;no;no;rústico
+3653;no;alegre;cálida;no;sí;sí;moderno
+3654;sí;calmada;tenue;sí;no;sí;artístico
+3655;no;sin música;cálida;no;no;sí;minimalista
+3656;sí;sin música;tenue;sí;no;no;moderno
+3657;sí;sin música;cálida;no;no;no;industrial
+3658;sí;calmada;tenue;no;no;no;industrial
+3659;sí;calmada;brillante;no;sí;no;industrial
+3660;no;calmada;cálida;sí;sí;sí;vintage
+3661;no;sin música;tenue;sí;no;no;rústico
+3662;no;alegre;brillante;sí;no;sí;artístico
+3663;no;sin música;tenue;no;sí;no;artístico
+3664;no;calmada;brillante;no;sí;sí;rústico
+3665;no;sin música;tenue;sí;no;no;artístico
+3666;no;calmada;cálida;no;no;no;minimalista
+3667;no;sin música;tenue;sí;no;no;moderno
+3668;no;alegre;cálida;no;sí;sí;artístico
+3669;no;sin música;brillante;no;no;sí;moderno
+3670;sí;alegre;tenue;no;no;sí;minimalista
+3671;sí;alegre;brillante;no;sí;sí;rústico
+3672;sí;alegre;cálida;sí;sí;no;minimalista
+3673;sí;sin música;tenue;sí;no;sí;rústico
+3674;sí;sin música;brillante;sí;no;sí;industrial
+3675;sí;alegre;tenue;sí;no;sí;vintage
+3676;no;sin música;cálida;sí;no;no;rústico
+3677;no;sin música;tenue;sí;sí;sí;vintage
+3678;sí;sin música;tenue;no;sí;sí;moderno
+3679;sí;calmada;brillante;no;no;no;artístico
+3680;sí;calmada;cálida;sí;sí;sí;rústico
+3681;sí;calmada;cálida;no;sí;no;moderno
+3682;no;calmada;brillante;no;sí;sí;rústico
+3683;sí;sin música;brillante;no;no;no;artístico
+3684;no;calmada;tenue;no;sí;sí;moderno
+3685;no;sin música;brillante;no;no;no;vintage
+3686;no;alegre;brillante;no;no;no;moderno
+3687;no;sin música;cálida;no;no;sí;industrial
+3688;sí;alegre;brillante;sí;no;no;industrial
+3689;sí;calmada;cálida;sí;no;sí;industrial
+3690;sí;calmada;brillante;no;no;no;artístico
+3691;sí;calmada;cálida;sí;no;sí;rústico
+3692;no;alegre;cálida;sí;no;sí;artístico
+3693;no;sin música;tenue;sí;no;sí;vintage
+3694;no;alegre;brillante;no;sí;sí;minimalista
+3695;sí;alegre;cálida;no;no;no;moderno
+3696;sí;sin música;cálida;sí;sí;sí;rústico
+3697;sí;calmada;tenue;no;no;no;rústico
+3698;no;sin música;tenue;sí;no;sí;minimalista
+3699;sí;sin música;cálida;sí;sí;no;minimalista
+3700;no;calmada;tenue;no;no;no;vintage
+3701;no;calmada;brillante;no;sí;sí;industrial
+3702;no;alegre;brillante;no;no;sí;rústico
+3703;no;sin música;cálida;no;no;sí;minimalista
+3704;no;calmada;tenue;sí;no;no;moderno
+3705;sí;alegre;cálida;no;sí;sí;minimalista
+3706;sí;sin música;tenue;no;no;sí;industrial
+3707;sí;calmada;brillante;sí;no;sí;rústico
+3708;sí;calmada;brillante;sí;no;no;moderno
+3709;sí;calmada;brillante;no;sí;sí;rústico
+3710;sí;sin música;cálida;sí;sí;sí;artístico
+3711;sí;sin música;brillante;sí;sí;no;industrial
+3712;sí;alegre;cálida;no;no;no;rústico
+3713;sí;sin música;cálida;sí;no;no;rústico
+3714;no;sin música;brillante;sí;sí;sí;minimalista
+3715;sí;sin música;cálida;no;sí;sí;vintage
+3716;sí;alegre;cálida;no;no;sí;industrial
+3717;sí;alegre;brillante;sí;no;no;moderno
+3718;no;calmada;brillante;no;no;sí;vintage
+3719;sí;alegre;brillante;sí;no;no;vintage
+3720;sí;calmada;brillante;sí;sí;no;rústico
+3721;no;calmada;tenue;no;sí;sí;industrial
+3722;no;sin música;brillante;no;no;no;artístico
+3723;sí;calmada;brillante;sí;no;sí;rústico
+3724;no;sin música;brillante;sí;sí;sí;artístico
+3725;sí;calmada;cálida;sí;sí;no;artístico
+3726;no;sin música;cálida;sí;no;no;vintage
+3727;no;alegre;tenue;sí;no;no;moderno
+3728;no;sin música;tenue;sí;sí;no;artístico
+3729;no;sin música;cálida;no;no;no;moderno
+3730;no;alegre;tenue;no;sí;sí;minimalista
+3731;sí;calmada;brillante;sí;no;no;industrial
+3732;sí;sin música;brillante;sí;sí;sí;artístico
+3733;no;sin música;cálida;no;no;no;artístico
+3734;no;sin música;brillante;sí;no;no;industrial
+3735;sí;calmada;brillante;no;sí;no;minimalista
+3736;sí;calmada;tenue;sí;no;no;minimalista
+3737;sí;alegre;tenue;no;sí;no;minimalista
+3738;no;alegre;tenue;no;no;no;vintage
+3739;sí;alegre;tenue;sí;no;no;moderno
+3740;no;calmada;brillante;sí;sí;sí;industrial
+3741;no;sin música;cálida;no;sí;no;industrial
+3742;sí;alegre;brillante;sí;sí;sí;rústico
+3743;sí;alegre;cálida;no;no;no;rústico
+3744;no;sin música;brillante;no;sí;no;artístico
+3745;sí;alegre;brillante;no;no;no;minimalista
+3746;sí;sin música;brillante;no;sí;sí;artístico
+3747;no;sin música;tenue;sí;sí;no;rústico
+3748;sí;alegre;brillante;no;no;sí;minimalista
+3749;sí;sin música;brillante;no;no;sí;vintage
+3750;sí;calmada;brillante;no;sí;no;rústico
+3751;sí;alegre;tenue;no;no;sí;vintage
+3752;sí;calmada;brillante;sí;no;no;minimalista
+3753;no;calmada;tenue;no;sí;sí;rústico
+3754;sí;calmada;cálida;no;no;sí;artístico
+3755;no;calmada;cálida;sí;sí;no;artístico
+3756;no;calmada;brillante;sí;no;no;minimalista
+3757;no;sin música;tenue;sí;no;no;artístico
+3758;sí;calmada;cálida;sí;no;no;moderno
+3759;sí;sin música;cálida;no;no;sí;moderno
+3760;no;sin música;cálida;no;sí;no;rústico
+3761;no;calmada;brillante;no;no;no;artístico
+3762;sí;sin música;cálida;no;no;no;vintage
+3763;sí;alegre;cálida;sí;sí;sí;artístico
+3764;sí;alegre;brillante;sí;no;sí;rústico
+3765;no;alegre;brillante;no;no;no;vintage
+3766;no;alegre;cálida;sí;sí;sí;vintage
+3767;sí;sin música;brillante;sí;no;no;industrial
+3768;no;sin música;tenue;sí;sí;sí;minimalista
+3769;no;calmada;brillante;sí;sí;sí;rústico
+3770;no;sin música;brillante;no;no;no;moderno
+3771;no;calmada;tenue;no;sí;no;moderno
+3772;sí;sin música;tenue;sí;sí;no;minimalista
+3773;sí;alegre;cálida;no;sí;no;vintage
+3774;sí;sin música;tenue;no;sí;sí;minimalista
+3775;sí;calmada;cálida;sí;no;no;industrial
+3776;sí;calmada;tenue;no;sí;no;minimalista
+3777;sí;alegre;cálida;no;sí;no;minimalista
+3778;sí;alegre;tenue;sí;no;sí;vintage
+3779;sí;sin música;brillante;sí;sí;no;vintage
+3780;sí;alegre;brillante;no;no;no;artístico
+3781;no;sin música;tenue;sí;sí;no;minimalista
+3782;sí;sin música;tenue;no;no;sí;vintage
+3783;sí;alegre;cálida;no;sí;no;moderno
+3784;sí;alegre;brillante;sí;sí;sí;industrial
+3785;no;alegre;brillante;no;no;sí;minimalista
+3786;sí;sin música;tenue;no;sí;sí;vintage
+3787;no;alegre;brillante;sí;sí;sí;minimalista
+3788;no;alegre;cálida;sí;sí;sí;rústico
+3789;sí;calmada;cálida;sí;no;no;vintage
+3790;sí;alegre;brillante;no;no;no;rústico
+3791;no;alegre;tenue;sí;no;sí;vintage
+3792;no;alegre;brillante;no;no;no;minimalista
+3793;sí;sin música;cálida;sí;no;no;moderno
+3794;no;calmada;tenue;no;no;sí;vintage
+3795;sí;alegre;cálida;sí;no;no;moderno
+3796;sí;alegre;tenue;sí;sí;no;minimalista
+3797;sí;calmada;cálida;no;sí;no;moderno
+3798;no;sin música;tenue;sí;sí;no;minimalista
+3799;no;sin música;tenue;no;no;no;moderno
+3800;no;alegre;tenue;sí;sí;sí;rústico
+3801;sí;calmada;brillante;sí;no;sí;vintage
+3802;no;calmada;brillante;no;sí;no;vintage
+3803;no;alegre;tenue;no;sí;no;artístico
+3804;sí;alegre;tenue;sí;sí;no;moderno
+3805;no;alegre;brillante;no;no;sí;rústico
+3806;no;alegre;brillante;sí;sí;sí;vintage
+3807;sí;alegre;brillante;no;no;sí;industrial
+3808;sí;sin música;cálida;no;no;no;rústico
+3809;sí;sin música;tenue;no;sí;no;industrial
+3810;sí;sin música;cálida;no;no;no;moderno
+3811;sí;alegre;brillante;sí;sí;sí;vintage
+3812;sí;sin música;tenue;sí;no;no;industrial
+3813;sí;calmada;tenue;no;sí;sí;moderno
+3814;no;sin música;tenue;sí;sí;sí;industrial
+3815;sí;calmada;brillante;no;no;sí;moderno
+3816;sí;sin música;brillante;sí;no;no;rústico
+3817;sí;calmada;tenue;sí;no;no;rústico
+3818;sí;sin música;tenue;sí;sí;no;vintage
+3819;no;alegre;cálida;sí;sí;no;industrial
+3820;no;sin música;tenue;no;no;sí;artístico
+3821;no;sin música;brillante;sí;no;sí;vintage
+3822;no;calmada;tenue;sí;sí;no;industrial
+3823;sí;alegre;tenue;no;sí;no;moderno
+3824;sí;sin música;cálida;no;no;sí;minimalista
+3825;no;calmada;cálida;no;sí;sí;artístico
+3826;sí;calmada;brillante;sí;sí;no;rústico
+3827;no;calmada;cálida;no;sí;sí;artístico
+3828;sí;alegre;brillante;sí;sí;no;minimalista
+3829;sí;calmada;tenue;sí;sí;sí;minimalista
+3830;no;calmada;brillante;no;sí;sí;artístico
+3831;no;sin música;tenue;sí;no;no;minimalista
+3832;sí;alegre;tenue;no;sí;sí;minimalista
+3833;sí;sin música;tenue;no;no;no;rústico
+3834;sí;calmada;tenue;no;no;sí;vintage
+3835;sí;sin música;brillante;sí;no;no;artístico
+3836;no;calmada;brillante;sí;sí;no;minimalista
+3837;no;alegre;tenue;sí;no;no;rústico
+3838;no;sin música;cálida;sí;sí;no;moderno
+3839;no;alegre;brillante;no;sí;no;vintage
+3840;sí;sin música;cálida;no;sí;sí;rústico
+3841;sí;sin música;cálida;no;no;sí;rústico
+3842;sí;sin música;cálida;no;no;sí;industrial
+3843;sí;calmada;tenue;no;no;no;artístico
+3844;sí;calmada;brillante;no;sí;sí;vintage
+3845;sí;calmada;brillante;sí;no;sí;moderno
+3846;sí;sin música;cálida;no;no;no;industrial
+3847;sí;alegre;tenue;no;sí;sí;rústico
+3848;sí;alegre;cálida;no;no;sí;artístico
+3849;sí;sin música;tenue;sí;no;sí;industrial
+3850;sí;sin música;cálida;no;no;sí;vintage
+3851;sí;alegre;brillante;no;no;no;minimalista
+3852;no;calmada;tenue;sí;sí;no;artístico
+3853;sí;sin música;cálida;sí;sí;sí;moderno
+3854;no;sin música;brillante;no;no;sí;artístico
+3855;sí;sin música;tenue;no;no;no;minimalista
+3856;sí;calmada;brillante;no;no;no;vintage
+3857;no;alegre;cálida;no;sí;no;artístico
+3858;no;calmada;tenue;sí;no;sí;artístico
+3859;no;alegre;tenue;no;sí;no;rústico
+3860;sí;alegre;brillante;no;no;no;minimalista
+3861;no;sin música;tenue;no;no;sí;artístico
+3862;no;calmada;tenue;sí;sí;sí;rústico
+3863;no;calmada;brillante;no;no;no;rústico
+3864;no;sin música;brillante;no;sí;no;industrial
+3865;sí;alegre;tenue;sí;sí;no;moderno
+3866;sí;sin música;brillante;sí;no;no;vintage
+3867;sí;alegre;brillante;sí;no;sí;minimalista
+3868;sí;calmada;brillante;sí;sí;no;rústico
+3869;sí;calmada;cálida;no;sí;no;minimalista
+3870;sí;alegre;tenue;sí;no;no;vintage
+3871;sí;calmada;cálida;sí;sí;sí;vintage
+3872;sí;alegre;cálida;no;sí;sí;industrial
+3873;sí;sin música;brillante;sí;no;no;moderno
+3874;no;calmada;cálida;no;sí;sí;moderno
+3875;sí;sin música;tenue;sí;no;sí;rústico
+3876;sí;calmada;tenue;no;no;no;moderno
+3877;no;calmada;brillante;no;no;sí;vintage
+3878;sí;alegre;cálida;sí;no;no;moderno
+3879;no;sin música;cálida;sí;sí;sí;industrial
+3880;no;alegre;cálida;sí;no;sí;vintage
+3881;no;sin música;brillante;sí;sí;no;artístico
+3882;no;calmada;cálida;no;sí;sí;artístico
+3883;sí;sin música;brillante;sí;no;no;industrial
+3884;no;calmada;cálida;no;no;no;vintage
+3885;no;calmada;brillante;no;no;no;industrial
+3886;sí;alegre;cálida;no;no;sí;rústico
+3887;no;alegre;tenue;sí;no;sí;industrial
+3888;no;calmada;brillante;no;no;no;moderno
+3889;sí;calmada;brillante;no;no;no;vintage
+3890;sí;alegre;brillante;no;sí;no;rústico
+3891;sí;calmada;tenue;no;sí;sí;rústico
+3892;sí;alegre;brillante;sí;sí;sí;rústico
+3893;no;sin música;brillante;sí;sí;sí;moderno
+3894;no;alegre;brillante;no;no;no;rústico
+3895;sí;sin música;brillante;no;sí;sí;artístico

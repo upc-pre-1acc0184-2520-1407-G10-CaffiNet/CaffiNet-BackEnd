@@ -1,0 +1,401 @@
+id_productos;nombre_producto;tipo;precio;vegano
+1;Tarta de manzana;postre;15;no
+2;Quiche de espinaca;comida;23;no
+3;Ensalada fresca;comida;12,5;sí
+4;Matcha Latte;bebida;7,5;sí
+5;Croissant;postre;24;sí
+6;Ensalada fresca;comida;20,5;sí
+7;Sandwich vegetariano;comida;4,3;sí
+8;Brownie;postre;24,5;sí
+9;Chocolate caliente;bebida;7,5;no
+10;Sandwich vegetariano;comida;4,5;sí
+11;Aeropress;bebida;9,5;sí
+12;Sandwich de pollo;comida;22;no
+13;Sandwich de pollo;comida;3,4;no
+14;Wrap de falafel;comida;24;sí
+15;Tostada con palta;comida;2,6;sí
+16;Cold Brew;bebida;2,4;no
+17;Tarta de manzana;postre;24,5;no
+18;Galleta de avena;postre;4,8;sí
+19;Sandwich de pollo;comida;19,5;no
+20;Té verde;bebida;9,5;sí
+21;Galleta de avena;postre;15,5;sí
+22;Mocha;bebida;1,9;sí
+23;Matcha Latte;bebida;8;no
+24;Churros con chocolate;postre;16;no
+25;Té negro;bebida;8,5;no
+26;Wrap de falafel;comida;3,2;sí
+27;Croissant;postre;3,4;no
+28;Frappé de café;bebida;2,7;no
+29;Jugo de naranja natural;bebida;5;sí
+30;Pastel de chocolate;postre;23,5;no
+31;Chocolate caliente;bebida;2,7;no
+32;Cappuccino;bebida;7;no
+33;Brownie;postre;18,5;no
+34;Flat White;bebida;2,2;sí
+35;Churros con chocolate;postre;16;no
+36;Ensalada fresca;comida;5,4;sí
+37;Ensalada fresca;comida;23,5;sí
+38;Smoothie de frutos rojos;bebida;9;no
+39;Cheesecake;postre;24;sí
+40;Cappuccino;bebida;9;sí
+41;Limonada con hierbabuena;bebida;7;no
+42;Wrap de falafel;comida;18;sí
+43;Mocha;bebida;10;sí
+44;Bagel con salmón;comida;10;no
+45;Pastel de chocolate;postre;24;no
+46;Moka Italiana;bebida;2;no
+47;Brownie;postre;19,5;no
+48;Cheesecake;postre;15,5;sí
+49;Cheesecake;postre;4,5;sí
+50;Latte;bebida;1,3;no
+51;Pastel de chocolate;postre;6,4;no
+52;Croissant;postre;17,5;sí
+53;Sandwich vegetariano;comida;14,5;sí
+54;Tarta de manzana;postre;21;no
+55;Bagel con salmón;comida;18;no
+56;Prensa Francesa;bebida;7,5;no
+57;Tostada con palta;comida;14,5;sí
+58;Croissant;postre;4,5;sí
+59;Brownie;postre;7,5;sí
+60;Brownie;postre;19;no
+61;Sandwich de pollo;comida;21;no
+62;Iced Latte;bebida;8,5;sí
+63;Iced Latte;bebida;7,5;sí
+64;Galleta de avena;postre;21,5;no
+65;Tostada con palta;comida;13,5;sí
+66;Smoothie de frutos rojos;bebida;6,5;no
+67;Prensa Francesa;bebida;9,5;no
+68;Jugo de naranja natural;bebida;5;no
+69;Churros con chocolate;postre;7,2;no
+70;Ensalada fresca;comida;13;sí
+71;Ensalada fresca;comida;17,5;sí
+72;Sandwich de pollo;comida;24,5;no
+73;Alfajor;postre;21,5;no
+74;Croissant;postre;7,1;sí
+75;Aeropress;bebida;5,5;sí
+76;Muffin de arándanos;postre;23,5;sí
+77;Sandwich vegetariano;comida;16,5;sí
+78;Quiche de espinaca;comida;11;sí
+79;Espresso;bebida;6,5;sí
+80;Churros con chocolate;postre;22;no
+81;Muffin de arándanos;postre;18;no
+82;Bagel con salmón;comida;22,5;no
+83;Galleta de avena;postre;6,8;sí
+84;Smoothie de frutos rojos;bebida;7;sí
+85;Iced Latte;bebida;7;no
+86;Latte;bebida;1,5;sí
+87;Churros con chocolate;postre;5,2;no
+88;Churros con chocolate;postre;3,4;no
+89;Sandwich vegetariano;comida;20;sí
+90;Cold Brew;bebida;2;no
+91;Cold Brew;bebida;10;sí
+92;Alfajor;postre;19,5;no
+93;Churros con chocolate;postre;17,5;no
+94;Brownie;postre;17;sí
+95;Churros con chocolate;postre;18;no
+96;Tarta de manzana;postre;6,3;sí
+97;Croissant;postre;19;sí
+98;Prensa Francesa;bebida;1,8;no
+99;Sandwich de pollo;comida;7,4;no
+100;Chocolate caliente;bebida;6,5;no
+101;Quiche de espinaca;comida;19;no
+102;Jugo de naranja natural;bebida;9;no
+103;Matcha Latte;bebida;2,4;sí
+104;Galleta de avena;postre;22;sí
+105;Tostada con palta;comida;3,6;sí
+106;Cappuccino;bebida;7;sí
+107;Brownie;postre;3,9;sí
+108;Wrap de falafel;comida;4,5;sí
+109;Brownie;postre;4,8;sí
+110;V60;bebida;5;no
+111;Alfajor;postre;4,9;sí
+112;Limonada con hierbabuena;bebida;9;no
+113;Galleta de avena;postre;22,5;no
+114;Moka Italiana;bebida;9,5;sí
+115;V60;bebida;1,7;no
+116;Muffin de arándanos;postre;18;no
+117;Cheesecake;postre;4,4;sí
+118;Wrap de falafel;comida;21,5;sí
+119;Churros con chocolate;postre;24,5;no
+120;Tostada con palta;comida;15,5;sí
+121;Churros con chocolate;postre;24,5;no
+122;Tostada con palta;comida;18;sí
+123;Bagel con salmón;comida;22,5;no
+124;Sandwich vegetariano;comida;17;sí
+125;Limonada con hierbabuena;bebida;6,5;sí
+126;Sandwich vegetariano;comida;10;sí
+127;Matcha Latte;bebida;1,2;sí
+128;Brownie;postre;18;no
+129;Té verde;bebida;10;no
+130;Brownie;postre;20,5;sí
+131;Sandwich de pollo;comida;11,5;no
+132;Ensalada fresca;comida;17;sí
+133;Espresso;bebida;7,5;sí
+134;Té negro;bebida;8,5;sí
+135;Galleta de avena;postre;17,5;no
+136;Ensalada fresca;comida;10;sí
+137;Muffin de arándanos;postre;19;no
+138;Bagel con salmón;comida;17;no
+139;Espresso;bebida;2,8;sí
+140;Frappé de café;bebida;1,3;sí
+141;Moka Italiana;bebida;6,5;sí
+142;Americano;bebida;8,5;no
+143;Aeropress;bebida;1,6;sí
+144;Flat White;bebida;7,5;sí
+145;Tostada con palta;comida;3,2;sí
+146;Latte;bebida;9;sí
+147;Chocolate caliente;bebida;9;no
+148;Limonada con hierbabuena;bebida;2,2;sí
+149;Cheesecake;postre;20,5;no
+150;Espresso;bebida;6;no
+151;Cheesecake;postre;15,5;no
+152;V60;bebida;8;sí
+153;Quiche de espinaca;comida;5,1;sí
+154;Mocha;bebida;5,5;no
+155;Moka Italiana;bebida;5,5;sí
+156;Ensalada fresca;comida;12;sí
+157;Jugo de naranja natural;bebida;7;sí
+158;Aeropress;bebida;5,5;no
+159;Aeropress;bebida;9,5;sí
+160;Bagel con salmón;comida;10,5;no
+161;Wrap de falafel;comida;7,2;sí
+162;Quiche de espinaca;comida;6,6;no
+163;Cheesecake;postre;22,5;sí
+164;Flat White;bebida;8;sí
+165;Cheesecake;postre;23,5;no
+166;Cold Brew;bebida;5,5;no
+167;Latte;bebida;8,5;sí
+168;Alfajor;postre;18,5;no
+169;Cheesecake;postre;4,4;no
+170;V60;bebida;8;no
+171;Moka Italiana;bebida;9;no
+172;Cheesecake;postre;18,5;no
+173;Flat White;bebida;7;sí
+174;Pastel de chocolate;postre;19;no
+175;Americano;bebida;7;no
+176;Té verde;bebida;5,5;no
+177;Bagel con salmón;comida;16;no
+178;Flat White;bebida;7;sí
+179;Frappé de café;bebida;5,5;sí
+180;Sandwich vegetariano;comida;14,5;sí
+181;Tostada con palta;comida;2,9;sí
+182;Brownie;postre;6,9;sí
+183;Americano;bebida;5;no
+184;Churros con chocolate;postre;19;no
+185;Muffin de arándanos;postre;17,5;sí
+186;Frappé de café;bebida;8,5;no
+187;V60;bebida;2,5;no
+188;Jugo de naranja natural;bebida;8;sí
+189;Quiche de espinaca;comida;11,5;no
+190;Galleta de avena;postre;20;no
+191;Aeropress;bebida;2,1;sí
+192;Ensalada fresca;comida;6,4;sí
+193;Wrap de falafel;comida;12,5;sí
+194;Quiche de espinaca;comida;14;sí
+195;Croissant;postre;21;no
+196;Ensalada fresca;comida;15,5;sí
+197;Bagel con salmón;comida;2;no
+198;Matcha Latte;bebida;6;sí
+199;Bagel con salmón;comida;3,2;no
+200;Tarta de manzana;postre;4,9;no
+201;Wrap de falafel;comida;3,4;sí
+202;Cappuccino;bebida;5;no
+203;Smoothie de frutos rojos;bebida;10;no
+204;Sandwich de pollo;comida;4,3;no
+205;Sandwich vegetariano;comida;17,5;sí
+206;Ensalada fresca;comida;4,2;sí
+207;Latte;bebida;1,7;no
+208;Pastel de chocolate;postre;20;no
+209;Pastel de chocolate;postre;24;no
+210;Pastel de chocolate;postre;5,7;no
+211;Bagel con salmón;comida;23,5;no
+212;Sandwich de pollo;comida;10;no
+213;Chocolate caliente;bebida;6,5;no
+214;Tarta de manzana;postre;24,5;no
+215;Sandwich de pollo;comida;4,1;no
+216;Croissant;postre;18,5;no
+217;Limonada con hierbabuena;bebida;8,5;sí
+218;Muffin de arándanos;postre;5,4;no
+219;Sandwich de pollo;comida;16,5;no
+220;Chocolate caliente;bebida;1,8;no
+221;Aeropress;bebida;7;sí
+222;Alfajor;postre;6,6;sí
+223;Moka Italiana;bebida;7;sí
+224;Prensa Francesa;bebida;5,5;sí
+225;Cheesecake;postre;20,5;sí
+226;Croissant;postre;16;no
+227;Prensa Francesa;bebida;7;sí
+228;Alfajor;postre;16;no
+229;Bagel con salmón;comida;3,5;no
+230;Flat White;bebida;1,2;sí
+231;Sandwich de pollo;comida;22,5;no
+232;Ensalada fresca;comida;4,8;sí
+233;Jugo de naranja natural;bebida;5,5;sí
+234;Ensalada fresca;comida;18,5;sí
+235;V60;bebida;10;sí
+236;Sandwich vegetariano;comida;3,4;sí
+237;Muffin de arándanos;postre;24,5;no
+238;Sandwich vegetariano;comida;13;sí
+239;Galleta de avena;postre;15,5;no
+240;Jugo de naranja natural;bebida;3;no
+241;Smoothie de frutos rojos;bebida;9,5;no
+242;Alfajor;postre;6,6;no
+243;Matcha Latte;bebida;9;no
+244;Wrap de falafel;comida;6;sí
+245;Brownie;postre;4,8;no
+246;Ensalada fresca;comida;19;sí
+247;Galleta de avena;postre;20;sí
+248;Bagel con salmón;comida;22,5;no
+249;Jugo de naranja natural;bebida;6;sí
+250;Pastel de chocolate;postre;7,2;no
+251;Pastel de chocolate;postre;19;no
+252;Chocolate caliente;bebida;9;no
+253;Sandwich de pollo;comida;3,6;no
+254;Jugo de naranja natural;bebida;7,5;no
+255;Sandwich de pollo;comida;18,5;no
+256;Moka Italiana;bebida;8;sí
+257;Muffin de arándanos;postre;7,4;no
+258;Wrap de falafel;comida;3,4;sí
+259;V60;bebida;5;no
+260;Sandwich de pollo;comida;22,5;no
+261;Ensalada fresca;comida;16,5;sí
+262;Latte;bebida;1,8;no
+263;Pastel de chocolate;postre;3;no
+264;Brownie;postre;23,5;sí
+265;Tostada con palta;comida;23,5;sí
+266;Smoothie de frutos rojos;bebida;1,7;sí
+267;Smoothie de frutos rojos;bebida;7;sí
+268;Wrap de falafel;comida;17;sí
+269;Pastel de chocolate;postre;21;no
+270;Churros con chocolate;postre;6,4;no
+271;Wrap de falafel;comida;23,5;sí
+272;Muffin de arándanos;postre;3,4;sí
+273;Matcha Latte;bebida;1,7;sí
+274;Churros con chocolate;postre;5;no
+275;Cold Brew;bebida;2,7;sí
+276;Quiche de espinaca;comida;13,5;no
+277;Aeropress;bebida;2,5;no
+278;Brownie;postre;16,5;no
+279;Wrap de falafel;comida;11;sí
+280;Sandwich vegetariano;comida;12;sí
+281;Bagel con salmón;comida;11,5;no
+282;Croissant;postre;16,5;sí
+283;Flat White;bebida;9,5;sí
+284;Prensa Francesa;bebida;8,5;sí
+285;Bagel con salmón;comida;3,3;no
+286;Muffin de arándanos;postre;5,7;sí
+287;Churros con chocolate;postre;4,2;no
+288;Cold Brew;bebida;6;sí
+289;Tostada con palta;comida;23;sí
+290;Té verde;bebida;8;sí
+291;Alfajor;postre;5,8;sí
+292;Muffin de arándanos;postre;15;sí
+293;Quiche de espinaca;comida;15;no
+294;Té verde;bebida;6;sí
+295;Ensalada fresca;comida;19,5;sí
+296;Espresso;bebida;6,5;sí
+297;V60;bebida;10;sí
+298;Quiche de espinaca;comida;4,9;sí
+299;Croissant;postre;6,4;no
+300;Brownie;postre;19;no
+301;Cheesecake;postre;24;sí
+302;Jugo de naranja natural;bebida;9,5;no
+303;Galleta de avena;postre;22,5;no
+304;Latte;bebida;9;no
+305;Moka Italiana;bebida;7;no
+306;V60;bebida;2,5;sí
+307;Pastel de chocolate;postre;17,5;no
+308;Sandwich vegetariano;comida;11;sí
+309;Limonada con hierbabuena;bebida;2,2;sí
+310;Frappé de café;bebida;7,5;no
+311;Churros con chocolate;postre;22,5;no
+312;Chocolate caliente;bebida;2,2;no
+313;Smoothie de frutos rojos;bebida;7;sí
+314;Brownie;postre;22;no
+315;Iced Latte;bebida;7,5;sí
+316;Ensalada fresca;comida;12,5;sí
+317;Cold Brew;bebida;6,5;no
+318;Frappé de café;bebida;1,7;no
+319;V60;bebida;8,5;no
+320;Latte;bebida;9,5;sí
+321;Cold Brew;bebida;1,1;no
+322;Churros con chocolate;postre;19,5;no
+323;Tarta de manzana;postre;20;sí
+324;Sandwich vegetariano;comida;16,5;sí
+325;Bagel con salmón;comida;12,5;no
+326;Alfajor;postre;23,5;no
+327;Sandwich vegetariano;comida;22,5;sí
+328;Cheesecake;postre;5,1;sí
+329;Tarta de manzana;postre;4,4;no
+330;Muffin de arándanos;postre;20;no
+331;Ensalada fresca;comida;12,5;sí
+332;Pastel de chocolate;postre;20,5;no
+333;Churros con chocolate;postre;19,5;no
+334;Pastel de chocolate;postre;17,5;no
+335;Churros con chocolate;postre;18,5;no
+336;Churros con chocolate;postre;19,5;no
+337;Croissant;postre;19,5;sí
+338;Wrap de falafel;comida;22,5;sí
+339;Galleta de avena;postre;18,5;sí
+340;Pastel de chocolate;postre;18,5;no
+341;Frappé de café;bebida;2,5;sí
+342;Alfajor;postre;23;sí
+343;Ensalada fresca;comida;19,5;sí
+344;Galleta de avena;postre;19;no
+345;Tostada con palta;comida;17;sí
+346;Alfajor;postre;20,5;sí
+347;Prensa Francesa;bebida;7,5;no
+348;Frappé de café;bebida;6;sí
+349;Americano;bebida;9,5;sí
+350;Sandwich vegetariano;comida;5,1;sí
+351;Sandwich de pollo;comida;23;no
+352;Muffin de arándanos;postre;19,5;sí
+353;Tarta de manzana;postre;19,5;sí
+354;Tostada con palta;comida;6;sí
+355;Americano;bebida;6,5;sí
+356;Muffin de arándanos;postre;22;sí
+357;Espresso;bebida;9;no
+358;V60;bebida;10;no
+359;Americano;bebida;8;no
+360;Ensalada fresca;comida;11,5;sí
+361;Tarta de manzana;postre;17;sí
+362;Wrap de falafel;comida;24,5;sí
+363;Sandwich vegetariano;comida;24,5;sí
+364;Muffin de arándanos;postre;6,8;sí
+365;Iced Latte;bebida;5,5;sí
+366;Croissant;postre;4,5;no
+367;Tarta de manzana;postre;22,5;no
+368;Té negro;bebida;9,5;no
+369;Prensa Francesa;bebida;2,5;no
+370;Croissant;postre;21,5;sí
+371;Mocha;bebida;5,5;no
+372;Tarta de manzana;postre;3,4;sí
+373;Latte;bebida;7;no
+374;Jugo de naranja natural;bebida;3;no
+375;Cheesecake;postre;19;no
+376;Jugo de naranja natural;bebida;8;sí
+377;Ensalada fresca;comida;20,5;sí
+378;Muffin de arándanos;postre;23;sí
+379;Sandwich vegetariano;comida;13;sí
+380;Muffin de arándanos;postre;23;sí
+381;Croissant;postre;18,5;sí
+382;Bagel con salmón;comida;16,5;no
+383;Brownie;postre;22,5;sí
+384;Galleta de avena;postre;21;no
+385;Pastel de chocolate;postre;21,5;no
+386;Wrap de falafel;comida;25;sí
+387;Sandwich vegetariano;comida;6,1;sí
+388;Pastel de chocolate;postre;7,2;no
+389;Cheesecake;postre;19,5;no
+390;Wrap de falafel;comida;22,5;sí
+391;Wrap de falafel;comida;12,5;sí
+392;Americano;bebida;7;sí
+393;Flat White;bebida;1,2;no
+394;Galleta de avena;postre;3,6;no
+395;Prensa Francesa;bebida;5;sí
+396;Quiche de espinaca;comida;19;no
+397;Chocolate caliente;bebida;1,5;no
+398;Quiche de espinaca;comida;18;no
+399;Ensalada fresca;comida;19,5;sí
+400;Croissant;postre;15,5;no

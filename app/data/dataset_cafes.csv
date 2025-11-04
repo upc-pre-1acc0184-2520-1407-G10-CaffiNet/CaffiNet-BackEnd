@@ -1,0 +1,2001 @@
+id_cafes;nombre;pais;variedad;presentacion;notas_sabor;altitud
+1;Colibrí del Viento 1;Colombia;Pacamara;molido;terroso|especias|chocolate;1300–1600 msnm
+2;Alma Verde 2;Ecuador;Typica;cápsula;cítrico|floral|miel;1000–1400 msnm
+3;Perla del Alba 3;El Salvador;Caturra;grano;caramelo|nuez|chocolate;1400–1800 msnm
+4;Colibrí Nevada 4;México;Villalobos;cápsula;terroso|especias|chocolate;1700–2100 msnm
+5;Sol del Cacao 5;Nicaragua;Typica;grano;terroso|especias|chocolate;1500–1900 msnm
+6;Puerta del Horizonte 6;Perú;Mundo Novo;cápsula;panela|frutal|cacao;1500–1900 msnm
+7;Cumbre del Valle Sagrado 7;Guatemala;Typica;grano;caramelo|nuez|chocolate;900–1200 msnm
+8;Cumbre del Río 8;México;Castillo;cápsula;frutal|miel|cítrico;1500–1900 msnm
+9;Puerta del Horizonte Azul 9;El Salvador;Villalobos;molido;cítrico|floral|miel;1400–1800 msnm
+10;Jaguar Real 10;Guatemala;Caturra;grano;chocolate|nuez|vainilla;1300–1600 msnm
+11;Puerta del Viento 11;Colombia;Catuai;grano;frutal|miel|cítrico;1200–1500 msnm
+12;Cosecha Dorada 12;México;Caturra;grano;cítrico|floral|miel;1200–1500 msnm
+13;Aurora del Norte 13;El Salvador;Maragogipe;cápsula;frutal|chocolate|floral;1700–2100 msnm
+14;Mirador del Encanto Andino 14;Perú;Villalobos;cápsula;terroso|especias|chocolate;1500–1900 msnm
+15;Montaña del Sur 15;Nicaragua;Caturra;cápsula;frutal|chocolate|floral;1700–2100 msnm
+16;Sol Mística 16;Costa Rica;Mundo Novo;cápsula;terroso|especias|chocolate;1000–1400 msnm
+17;Travesía del Sur 17;Bolivia;Bourbon;cápsula;chocolate|nuez|vainilla;1500–1900 msnm
+18;Mística Suprema 18;Ecuador;Maragogipe;cápsula;frutal|caramelo|vino tinto;1400–1800 msnm
+19;Aroma del Volcán 19;Ecuador;Typica;grano;frutal|caramelo|vino tinto;900–1200 msnm
+20;Brisa del Mar 20;Costa Rica;Maragogipe;grano;frutal|chocolate|floral;1500–1900 msnm
+21;Valle del Cóndor 21;Costa Rica;Typica;cápsula;terroso|especias|chocolate;900–1200 msnm
+22;Estrella del Corazón 22;Bolivia;Castillo;molido;caramelo|nuez|chocolate;900–1200 msnm
+23;Travesía del Encanto Andino 23;Ecuador;Mundo Novo;cápsula;frutal|chocolate|floral;1400–1800 msnm
+24;Selva del Horizonte 24;Bolivia;Geisha;grano;frutal|chocolate|floral;1400–1800 msnm
+25;Cumbre del Horizonte Dorado 25;México;Catuai;molido;caramelo|nuez|chocolate;1300–1600 msnm
+26;Cedro del Jaguar 26;Colombia;Geisha;cápsula;frutal|caramelo|vino tinto;1500–1900 msnm
+27;Mirador Verde 27;Costa Rica;Maragogipe;cápsula;floral|jazmín|cítrico;900–1200 msnm
+28;Estrella del Bosque Alto 28;Ecuador;Maragogipe;cápsula;frutal|miel|cítrico;1600–2000 msnm
+29;Cedro del Bosque Alto 29;Honduras;Maragogipe;molido;floral|jazmín|cítrico;900–1200 msnm
+30;Cacao del Corazón 30;Nicaragua;Pacamara;grano;frutal|chocolate|floral;1600–2000 msnm
+31;Fuente del Horizonte 31;El Salvador;Villalobos;grano;cítrico|floral|miel;1200–1500 msnm
+32;Puerta del Oeste 32;Costa Rica;Mundo Novo;molido;frutal|caramelo|vino tinto;1000–1400 msnm
+33;Sol del Alba 33;El Salvador;Castillo;grano;terroso|especias|chocolate;1300–1600 msnm
+34;Perla Clásica 34;Costa Rica;Caturra;molido;frutal|caramelo|vino tinto;1200–1500 msnm
+35;Fuego del Mar 35;Brasil;Villalobos;cápsula;frutal|caramelo|vino tinto;1000–1400 msnm
+36;Cedro del Ande 36;Ecuador;Typica;grano;frutal|caramelo|vino tinto;1300–1600 msnm
+37;Sierra del Horizonte Azul 37;Bolivia;Villalobos;cápsula;frutal|miel|cítrico;1400–1800 msnm
+38;Sol Verde 38;Honduras;Villalobos;cápsula;caramelo|nuez|chocolate;1400–1800 msnm
+39;Horizonte del Horizonte Azul 39;Bolivia;Typica;molido;terroso|especias|chocolate;1000–1400 msnm
+40;Valle del Paraíso 40;Bolivia;Maragogipe;cápsula;caramelo|nuez|chocolate;1600–2000 msnm
+41;Fuente del Trópico 41;Nicaragua;Mundo Novo;grano;terroso|especias|chocolate;1200–1500 msnm
+42;Altura del Cóndor 42;Bolivia;Pacamara;molido;floral|jazmín|cítrico;1300–1600 msnm
+43;Cedro Nevada 43;Nicaragua;Typica;molido;frutal|miel|cítrico;1700–2100 msnm
+44;Camino del Sol Naciente 44;El Salvador;Villalobos;molido;floral|té negro|frutal;1000–1400 msnm
+45;Cedro del Trópico 45;El Salvador;Bourbon;grano;floral|té negro|frutal;1400–1800 msnm
+46;Valle del Mundo 46;Costa Rica;Maragogipe;grano;floral|té negro|frutal;1500–1900 msnm
+47;Fuente del Mar 47;El Salvador;Villalobos;grano;frutal|miel|cítrico;1600–2000 msnm
+48;Brisa del Horizonte Azul 48;Guatemala;Pacamara;grano;caramelo|nuez|chocolate;1200–1500 msnm
+49;Perla del Horizonte Dorado 49;Honduras;Catuai;molido;chocolate|nuez|vainilla;1600–2000 msnm
+50;Sendero del Valle Sagrado 50;Guatemala;Caturra;grano;frutal|chocolate|floral;1400–1800 msnm
+51;Cóndor del Valle 51;Guatemala;Mundo Novo;grano;terroso|especias|chocolate;1600–2000 msnm
+52;Sol del Camino 52;Nicaragua;Caturra;molido;terroso|especias|chocolate;900–1200 msnm
+53;Trueno del Volcán 53;Colombia;Bourbon;molido;floral|jazmín|cítrico;900–1200 msnm
+54;Brisa Verde 54;México;Mundo Novo;cápsula;floral|jazmín|cítrico;900–1200 msnm
+55;Nube del Oro 55;Perú;Villalobos;grano;frutal|miel|cítrico;1600–2000 msnm
+56;Río del Bosque Alto 56;El Salvador;Castillo;cápsula;chocolate|nuez|vainilla;1700–2100 msnm
+57;Perla del Sur 57;Colombia;Catuai;grano;floral|té negro|frutal;1300–1600 msnm
+58;Cascada del Norte 58;Colombia;Typica;molido;caramelo|nuez|chocolate;1500–1900 msnm
+59;Perla Encantada 59;Brasil;Castillo;molido;terroso|especias|chocolate;1300–1600 msnm
+60;Reserva del Oeste 60;México;Mundo Novo;grano;caramelo|nuez|chocolate;1400–1800 msnm
+61;Cumbre del Bosque 61;Perú;Villalobos;grano;chocolate|nuez|vainilla;1400–1800 msnm
+62;Colibrí del Valle Sagrado 62;Nicaragua;Villalobos;molido;floral|té negro|frutal;1600–2000 msnm
+63;Mirador del Río Grande 63;Brasil;Mundo Novo;cápsula;terroso|especias|chocolate;900–1200 msnm
+64;Cascada Real 64;Honduras;Catuai;grano;chocolate|nuez|vainilla;1500–1900 msnm
+65;Rayo del Este 65;Ecuador;Mundo Novo;molido;frutal|chocolate|floral;900–1200 msnm
+66;Estrella Andina 66;Bolivia;Villalobos;grano;terroso|especias|chocolate;1500–1900 msnm
+67;Perla del Encanto Andino 67;Guatemala;Mundo Novo;cápsula;floral|té negro|frutal;1200–1500 msnm
+68;Ceiba Tropical 68;Nicaragua;Geisha;grano;terroso|especias|chocolate;1000–1400 msnm
+69;Río del Espíritu 69;México;Maragogipe;molido;floral|té negro|frutal;1400–1800 msnm
+70;Sol del Café 70;Costa Rica;Catuai;molido;cítrico|floral|miel;1700–2100 msnm
+71;Jaguar del Volcán 71;Guatemala;Pacamara;grano;panela|frutal|cacao;1400–1800 msnm
+72;Fuente del Viento 72;Nicaragua;Geisha;molido;frutal|miel|cítrico;900–1200 msnm
+73;Altura del Bosque Alto 73;Honduras;Pacamara;molido;frutal|chocolate|floral;1400–1800 msnm
+74;Aroma del Sur 74;Guatemala;Catuai;grano;chocolate|nuez|vainilla;1600–2000 msnm
+75;Fuente del Volcán 75;Nicaragua;Pacamara;molido;frutal|caramelo|vino tinto;1200–1500 msnm
+76;Fuente Suprema 76;Bolivia;Mundo Novo;cápsula;floral|jazmín|cítrico;1300–1600 msnm
+77;Tesoro del Paraíso 77;Guatemala;Geisha;grano;panela|frutal|cacao;1700–2100 msnm
+78;Guacamayo del Café 78;Costa Rica;Catuai;grano;caramelo|nuez|chocolate;900–1200 msnm
+79;Maíz del Café 79;Colombia;Caturra;molido;panela|frutal|cacao;1500–1900 msnm
+80;Corazón del Café 80;Honduras;Villalobos;molido;caramelo|nuez|chocolate;1200–1500 msnm
+81;Valle del Cacao 81;Colombia;Maragogipe;molido;frutal|caramelo|vino tinto;1600–2000 msnm
+82;Cóndor del Camino 82;Ecuador;Catuai;cápsula;panela|frutal|cacao;900–1200 msnm
+83;Sierra del Oeste 83;Ecuador;Geisha;cápsula;frutal|chocolate|floral;1000–1400 msnm
+84;Guacamayo del Amanecer 84;Guatemala;Caturra;molido;panela|frutal|cacao;1200–1500 msnm
+85;Fuente del Oeste 85;Bolivia;Bourbon;grano;frutal|miel|cítrico;1500–1900 msnm
+86;Quetzal del Maíz 86;Guatemala;Castillo;grano;chocolate|nuez|vainilla;1000–1400 msnm
+87;Sol del Volcán 87;Bolivia;Maragogipe;molido;cítrico|floral|miel;1400–1800 msnm
+88;Encanto Tropical 88;El Salvador;Bourbon;molido;frutal|chocolate|floral;1500–1900 msnm
+89;Fuente del Cóndor 89;Costa Rica;Typica;grano;frutal|chocolate|floral;1200–1500 msnm
+90;Joya del Tesoro 90;Brasil;Caturra;grano;terroso|especias|chocolate;1000–1400 msnm
+91;Leyenda del Lago 91;Costa Rica;Caturra;grano;terroso|especias|chocolate;1300–1600 msnm
+92;Sierra del Valle Sagrado 92;Brasil;Bourbon;molido;panela|frutal|cacao;1200–1500 msnm
+93;Fuente del Camino 93;Colombia;Villalobos;grano;floral|jazmín|cítrico;900–1200 msnm
+94;Luz del Cóndor 94;Costa Rica;Catuai;grano;panela|frutal|cacao;1400–1800 msnm
+95;Perla Nevada 95;Bolivia;Mundo Novo;molido;frutal|caramelo|vino tinto;1000–1400 msnm
+96;Luz del Valle 96;México;Typica;molido;floral|jazmín|cítrico;1200–1500 msnm
+97;Rincón del Café 97;Nicaragua;Mundo Novo;molido;frutal|miel|cítrico;1700–2100 msnm
+98;Valle del Alba 98;Perú;Caturra;grano;floral|jazmín|cítrico;1300–1600 msnm
+99;Valle Mística 99;Costa Rica;Bourbon;molido;frutal|chocolate|floral;1500–1900 msnm
+100;Mirador Nevada 100;Costa Rica;Catuai;cápsula;terroso|especias|chocolate;1600–2000 msnm
+101;Rincón del Paraíso 101;Costa Rica;Villalobos;cápsula;terroso|especias|chocolate;1600–2000 msnm
+102;Cedro del Maíz 102;Honduras;Bourbon;molido;panela|frutal|cacao;1600–2000 msnm
+103;Corazón Andina 103;Costa Rica;Villalobos;grano;panela|frutal|cacao;1600–2000 msnm
+104;Flor del Bosque 104;Bolivia;Bourbon;cápsula;chocolate|nuez|vainilla;1300–1600 msnm
+105;Aurora del Horizonte Azul 105;Honduras;Geisha;molido;terroso|especias|chocolate;1000–1400 msnm
+106;Cumbre del Bosque Alto 106;Guatemala;Bourbon;grano;terroso|especias|chocolate;1000–1400 msnm
+107;Rincón del Horizonte Azul 107;El Salvador;Maragogipe;cápsula;frutal|chocolate|floral;1000–1400 msnm
+108;Vereda del Este 108;Brasil;Pacamara;molido;floral|té negro|frutal;1400–1800 msnm
+109;Montaña del Jaguar 109;Bolivia;Castillo;molido;floral|jazmín|cítrico;900–1200 msnm
+110;Leyenda del Tesoro 110;Brasil;Geisha;cápsula;terroso|especias|chocolate;1500–1900 msnm
+111;Rayo del Café Especial 111;Nicaragua;Typica;grano;panela|frutal|cacao;1400–1800 msnm
+112;Mirador del Valle 112;Brasil;Typica;molido;floral|jazmín|cítrico;900–1200 msnm
+113;Esencia del Cóndor 113;Ecuador;Pacamara;cápsula;floral|té negro|frutal;900–1200 msnm
+114;Joya del Oeste 114;Bolivia;Typica;cápsula;frutal|caramelo|vino tinto;1700–2100 msnm
+115;Puerta del Maíz 115;Brasil;Catuai;cápsula;cítrico|floral|miel;900–1200 msnm
+116;Mística Andina 116;Honduras;Geisha;grano;cítrico|floral|miel;1200–1500 msnm
+117;Jaguar del Río Grande 117;Bolivia;Geisha;grano;terroso|especias|chocolate;900–1200 msnm
+118;Leyenda del Sol Naciente 118;El Salvador;Castillo;cápsula;frutal|miel|cítrico;1700–2100 msnm
+119;Puerta del Amanecer 119;México;Geisha;grano;chocolate|nuez|vainilla;1700–2100 msnm
+120;Joya del Ande 120;Bolivia;Catuai;grano;floral|jazmín|cítrico;1600–2000 msnm
+121;Reserva del Cóndor 121;México;Bourbon;grano;cítrico|floral|miel;1200–1500 msnm
+122;Cascada del Mar 122;El Salvador;Bourbon;grano;floral|té negro|frutal;1500–1900 msnm
+123;Cóndor del Nevado 123;El Salvador;Typica;molido;chocolate|nuez|vainilla;1700–2100 msnm
+124;Selva del Sur 124;Ecuador;Geisha;cápsula;terroso|especias|chocolate;900–1200 msnm
+125;Cóndor del Río Grande 125;Brasil;Geisha;cápsula;panela|frutal|cacao;1200–1500 msnm
+126;Flor del Cóndor 126;Costa Rica;Caturra;cápsula;panela|frutal|cacao;1300–1600 msnm
+127;Estrella del Sur 127;Honduras;Bourbon;grano;frutal|caramelo|vino tinto;1700–2100 msnm
+128;Reserva del Ande 128;Costa Rica;Maragogipe;cápsula;floral|jazmín|cítrico;1300–1600 msnm
+129;Brisa del Este 129;Honduras;Villalobos;grano;frutal|miel|cítrico;1000–1400 msnm
+130;Ceiba del Trópico 130;El Salvador;Villalobos;grano;panela|frutal|cacao;900–1200 msnm
+131;Cóndor del Trópico 131;Colombia;Maragogipe;molido;caramelo|nuez|chocolate;1400–1800 msnm
+132;Ceiba del Oro 132;Costa Rica;Castillo;grano;chocolate|nuez|vainilla;1300–1600 msnm
+133;Cascada del Valle Sagrado 133;Ecuador;Mundo Novo;molido;chocolate|nuez|vainilla;1300–1600 msnm
+134;Raíces del Horizonte 134;Brasil;Mundo Novo;grano;chocolate|nuez|vainilla;1400–1800 msnm
+135;Altura del Amanecer 135;Costa Rica;Pacamara;molido;cítrico|floral|miel;1200–1500 msnm
+136;Alma Dorada 136;El Salvador;Maragogipe;cápsula;frutal|caramelo|vino tinto;1000–1400 msnm
+137;Cacao Tropical 137;Perú;Catuai;cápsula;panela|frutal|cacao;1600–2000 msnm
+138;Cedro del Oro 138;Colombia;Maragogipe;molido;frutal|caramelo|vino tinto;1600–2000 msnm
+139;Brisa Real 139;Brasil;Mundo Novo;molido;panela|frutal|cacao;1400–1800 msnm
+140;Leyenda del Trueno 140;Ecuador;Caturra;grano;frutal|chocolate|floral;1700–2100 msnm
+141;Camino del Río 141;Bolivia;Caturra;grano;panela|frutal|cacao;1700–2100 msnm
+142;Perla del Nevado 142;México;Typica;grano;panela|frutal|cacao;1400–1800 msnm
+143;Sendero del Encanto Andino 143;El Salvador;Castillo;molido;floral|té negro|frutal;1600–2000 msnm
+144;Cacao del Río 144;Colombia;Catuai;cápsula;frutal|chocolate|floral;1000–1400 msnm
+145;Cacao del Sol Naciente 145;Perú;Geisha;cápsula;panela|frutal|cacao;900–1200 msnm
+146;Aroma del Trueno 146;Ecuador;Mundo Novo;grano;frutal|miel|cítrico;1600–2000 msnm
+147;Río del Tesoro 147;Honduras;Pacamara;cápsula;caramelo|nuez|chocolate;1700–2100 msnm
+148;Selva Tropical 148;Brasil;Catuai;cápsula;frutal|miel|cítrico;1700–2100 msnm
+149;Valle del Valle Sagrado 149;Ecuador;Catuai;molido;frutal|chocolate|floral;1300–1600 msnm
+150;Fuego del Mundo 150;Colombia;Geisha;cápsula;floral|té negro|frutal;1600–2000 msnm
+151;Cumbre del Nevado 151;Nicaragua;Geisha;grano;chocolate|nuez|vainilla;1500–1900 msnm
+152;Mirador del Alba 152;Brasil;Geisha;grano;cítrico|floral|miel;1400–1800 msnm
+153;Sendero del Horizonte 153;Brasil;Typica;cápsula;frutal|miel|cítrico;1600–2000 msnm
+154;Rayo del Río 154;México;Bourbon;cápsula;terroso|especias|chocolate;1200–1500 msnm
+155;Horizonte del Espíritu 155;Perú;Bourbon;molido;frutal|miel|cítrico;900–1200 msnm
+156;Fuego del Corazón 156;Costa Rica;Caturra;cápsula;frutal|miel|cítrico;1700–2100 msnm
+157;Alma del Valle Sagrado 157;Brasil;Castillo;grano;frutal|caramelo|vino tinto;1700–2100 msnm
+158;Corazón del Río 158;Honduras;Catuai;molido;frutal|chocolate|floral;1500–1900 msnm
+159;Rincón Andina 159;Perú;Castillo;molido;chocolate|nuez|vainilla;1600–2000 msnm
+160;Brisa del Sol 160;Nicaragua;Villalobos;cápsula;floral|jazmín|cítrico;1500–1900 msnm
+161;Mirador Dorada 161;Perú;Geisha;grano;terroso|especias|chocolate;1300–1600 msnm
+162;Reserva Encantada 162;Guatemala;Villalobos;molido;cítrico|floral|miel;1500–1900 msnm
+163;Selva del Volcán 163;El Salvador;Caturra;grano;chocolate|nuez|vainilla;1000–1400 msnm
+164;Corazón del Mundo 164;Honduras;Bourbon;grano;terroso|especias|chocolate;1600–2000 msnm
+165;Cedro del Camino 165;México;Pacamara;grano;terroso|especias|chocolate;1400–1800 msnm
+166;Sol del Mundo 166;Colombia;Maragogipe;cápsula;caramelo|nuez|chocolate;1200–1500 msnm
+167;Trueno del Paraíso 167;El Salvador;Geisha;grano;frutal|caramelo|vino tinto;1600–2000 msnm
+168;Joya Nevada 168;Nicaragua;Caturra;grano;cítrico|floral|miel;900–1200 msnm
+169;Mirador del Trópico 169;Honduras;Caturra;molido;floral|té negro|frutal;1200–1500 msnm
+170;Leyenda Nevada 170;Ecuador;Maragogipe;cápsula;frutal|caramelo|vino tinto;1700–2100 msnm
+171;Brisa del Trueno 171;Bolivia;Castillo;molido;frutal|miel|cítrico;1400–1800 msnm
+172;Valle del Volcán 172;Nicaragua;Bourbon;cápsula;frutal|chocolate|floral;1400–1800 msnm
+173;Horizonte del Bosque 173;Costa Rica;Villalobos;cápsula;chocolate|nuez|vainilla;1500–1900 msnm
+174;Joya del Nevado 174;Costa Rica;Catuai;grano;frutal|chocolate|floral;1300–1600 msnm
+175;Sierra del Café Especial 175;Honduras;Mundo Novo;cápsula;frutal|miel|cítrico;1300–1600 msnm
+176;Granito del Oro 176;Colombia;Caturra;grano;cítrico|floral|miel;1500–1900 msnm
+177;Tesoro del Encanto 177;Perú;Caturra;cápsula;frutal|miel|cítrico;1600–2000 msnm
+178;Nube del Maíz 178;Perú;Catuai;cápsula;chocolate|nuez|vainilla;1500–1900 msnm
+179;Mística Verde 179;Guatemala;Catuai;molido;floral|té negro|frutal;1200–1500 msnm
+180;Cedro del Horizonte Dorado 180;Colombia;Bourbon;cápsula;terroso|especias|chocolate;1000–1400 msnm
+181;Cedro del Corazón 181;México;Pacamara;grano;caramelo|nuez|chocolate;1200–1500 msnm
+182;Trueno del Sol 182;México;Catuai;cápsula;chocolate|nuez|vainilla;1500–1900 msnm
+183;Brisa del Tesoro 183;Ecuador;Villalobos;cápsula;frutal|chocolate|floral;1300–1600 msnm
+184;Camino del Sur 184;Guatemala;Catuai;cápsula;caramelo|nuez|chocolate;1300–1600 msnm
+185;Raíces del Ande 185;México;Villalobos;grano;frutal|chocolate|floral;1000–1400 msnm
+186;Valle Dorada 186;Costa Rica;Villalobos;molido;caramelo|nuez|chocolate;1200–1500 msnm
+187;Rayo del Alba 187;Guatemala;Villalobos;molido;caramelo|nuez|chocolate;1300–1600 msnm
+188;Esencia del Espíritu 188;El Salvador;Bourbon;grano;floral|jazmín|cítrico;1700–2100 msnm
+189;Cacao del Café 189;Ecuador;Maragogipe;molido;chocolate|nuez|vainilla;900–1200 msnm
+190;Luz del Mar 190;Nicaragua;Caturra;grano;panela|frutal|cacao;1700–2100 msnm
+191;Brisa del Jaguar 191;Bolivia;Geisha;cápsula;floral|té negro|frutal;1000–1400 msnm
+192;Travesía del Horizonte Azul 192;Nicaragua;Villalobos;molido;frutal|miel|cítrico;1500–1900 msnm
+193;Joya Tropical 193;Costa Rica;Caturra;grano;frutal|caramelo|vino tinto;1700–2100 msnm
+194;Alma del Ande 194;Honduras;Villalobos;grano;chocolate|nuez|vainilla;1500–1900 msnm
+195;Altura del Oro 195;Perú;Bourbon;cápsula;terroso|especias|chocolate;1700–2100 msnm
+196;Joya del Río 196;Brasil;Maragogipe;molido;floral|té negro|frutal;1200–1500 msnm
+197;Cosecha del Bosque Alto 197;Bolivia;Bourbon;molido;panela|frutal|cacao;1500–1900 msnm
+198;Travesía del Trueno 198;Costa Rica;Typica;grano;chocolate|nuez|vainilla;1400–1800 msnm
+199;Corazón Dorada 199;Colombia;Catuai;cápsula;terroso|especias|chocolate;1400–1800 msnm
+200;Corazón del Camino 200;Nicaragua;Villalobos;molido;floral|jazmín|cítrico;1700–2100 msnm
+201;Cacao del Lago 201;Bolivia;Typica;grano;terroso|especias|chocolate;1600–2000 msnm
+202;Montaña del Corazón 202;Brasil;Typica;grano;floral|jazmín|cítrico;1500–1900 msnm
+203;Jaguar del Camino 203;Brasil;Pacamara;grano;caramelo|nuez|chocolate;1000–1400 msnm
+204;Luz del Río 204;Nicaragua;Caturra;grano;frutal|caramelo|vino tinto;1400–1800 msnm
+205;Flor del Viento 205;Nicaragua;Mundo Novo;cápsula;panela|frutal|cacao;1200–1500 msnm
+206;Río Nevada 206;Honduras;Bourbon;molido;frutal|chocolate|floral;1600–2000 msnm
+207;Montaña del Río Grande 207;Honduras;Geisha;molido;frutal|miel|cítrico;1700–2100 msnm
+208;Cascada Verde 208;Ecuador;Typica;grano;cítrico|floral|miel;1700–2100 msnm
+209;Cascada del Cacao 209;Bolivia;Castillo;grano;cítrico|floral|miel;1400–1800 msnm
+210;Montaña del Espíritu 210;Nicaragua;Mundo Novo;cápsula;cítrico|floral|miel;1200–1500 msnm
+211;Quetzal del Horizonte 211;Colombia;Geisha;grano;frutal|miel|cítrico;1000–1400 msnm
+212;Luz del Sol 212;Honduras;Castillo;cápsula;panela|frutal|cacao;1700–2100 msnm
+213;Reserva del Mar 213;El Salvador;Caturra;molido;panela|frutal|cacao;1700–2100 msnm
+214;Montaña Real 214;El Salvador;Typica;cápsula;chocolate|nuez|vainilla;1500–1900 msnm
+215;Camino del Bosque 215;Colombia;Mundo Novo;molido;terroso|especias|chocolate;1400–1800 msnm
+216;Sendero del Horizonte Azul 216;Costa Rica;Geisha;molido;caramelo|nuez|chocolate;900–1200 msnm
+217;Altura Verde 217;Brasil;Catuai;grano;floral|té negro|frutal;900–1200 msnm
+218;Vereda del Valle Sagrado 218;Colombia;Castillo;grano;frutal|chocolate|floral;1000–1400 msnm
+219;Aroma del Espíritu 219;Ecuador;Catuai;grano;panela|frutal|cacao;1700–2100 msnm
+220;Ceiba del Paraíso 220;Nicaragua;Villalobos;grano;cítrico|floral|miel;1400–1800 msnm
+221;Travesía del Valle Sagrado 221;México;Villalobos;cápsula;panela|frutal|cacao;1500–1900 msnm
+222;Camino del Café Especial 222;México;Mundo Novo;molido;panela|frutal|cacao;1200–1500 msnm
+223;Mística del Horizonte 223;El Salvador;Pacamara;grano;floral|té negro|frutal;1500–1900 msnm
+224;Cascada del Café 224;Bolivia;Caturra;molido;floral|jazmín|cítrico;1700–2100 msnm
+225;Aurora del Río Grande 225;Colombia;Castillo;grano;floral|jazmín|cítrico;900–1200 msnm
+226;Selva del Amanecer 226;El Salvador;Villalobos;molido;frutal|miel|cítrico;1700–2100 msnm
+227;Travesía del Encanto 227;Colombia;Maragogipe;grano;floral|jazmín|cítrico;1700–2100 msnm
+228;Guacamayo del Valle Sagrado 228;Brasil;Villalobos;molido;terroso|especias|chocolate;1400–1800 msnm
+229;Altura del Sol 229;Perú;Bourbon;grano;terroso|especias|chocolate;900–1200 msnm
+230;Flor del Volcán 230;México;Bourbon;cápsula;caramelo|nuez|chocolate;1000–1400 msnm
+231;Vereda del Mundo 231;Guatemala;Castillo;cápsula;caramelo|nuez|chocolate;1500–1900 msnm
+232;Luz del Alba 232;Nicaragua;Caturra;cápsula;panela|frutal|cacao;1500–1900 msnm
+233;Sendero Real 233;Honduras;Caturra;grano;caramelo|nuez|chocolate;900–1200 msnm
+234;Rayo del Paraíso 234;El Salvador;Typica;cápsula;frutal|miel|cítrico;1200–1500 msnm
+235;Joya del Jaguar 235;Guatemala;Geisha;grano;floral|té negro|frutal;1400–1800 msnm
+236;Vereda Nevada 236;Ecuador;Typica;cápsula;terroso|especias|chocolate;1300–1600 msnm
+237;Fuente del Nevado 237;Colombia;Caturra;grano;panela|frutal|cacao;1200–1500 msnm
+238;Altura del Café 238;Nicaragua;Catuai;grano;terroso|especias|chocolate;1300–1600 msnm
+239;Sierra del Cacao 239;Ecuador;Typica;grano;frutal|miel|cítrico;1400–1800 msnm
+240;Altura del Alba 240;Bolivia;Geisha;cápsula;frutal|miel|cítrico;1500–1900 msnm
+241;Selva del Tesoro 241;Bolivia;Castillo;cápsula;frutal|caramelo|vino tinto;1700–2100 msnm
+242;Rayo Clásica 242;México;Villalobos;molido;frutal|caramelo|vino tinto;1500–1900 msnm
+243;Travesía Mística 243;Costa Rica;Castillo;cápsula;frutal|caramelo|vino tinto;1000–1400 msnm
+244;Colibrí del Cacao 244;Costa Rica;Geisha;grano;cítrico|floral|miel;1200–1500 msnm
+245;Joya del Oro 245;Nicaragua;Mundo Novo;molido;frutal|caramelo|vino tinto;1500–1900 msnm
+246;Corazón Verde 246;Guatemala;Catuai;grano;frutal|caramelo|vino tinto;1400–1800 msnm
+247;Ceiba del Valle 247;Brasil;Pacamara;grano;frutal|miel|cítrico;1600–2000 msnm
+248;Brisa del Oeste 248;Ecuador;Maragogipe;grano;cítrico|floral|miel;1000–1400 msnm
+249;Sendero Andina 249;Costa Rica;Maragogipe;molido;cítrico|floral|miel;1500–1900 msnm
+250;Sierra Real 250;Guatemala;Bourbon;grano;frutal|caramelo|vino tinto;1700–2100 msnm
+251;Brisa del Viento 251;El Salvador;Mundo Novo;grano;frutal|miel|cítrico;1400–1800 msnm
+252;Jaguar del Corazón 252;Ecuador;Bourbon;grano;panela|frutal|cacao;1700–2100 msnm
+253;Ceiba del Mundo 253;Honduras;Villalobos;grano;chocolate|nuez|vainilla;1300–1600 msnm
+254;Reserva Mística 254;Costa Rica;Typica;molido;panela|frutal|cacao;1600–2000 msnm
+255;Encanto Mística 255;Bolivia;Bourbon;cápsula;terroso|especias|chocolate;1400–1800 msnm
+256;Rayo del Bosque Alto 256;México;Typica;molido;terroso|especias|chocolate;1200–1500 msnm
+257;Selva del Lago 257;Brasil;Bourbon;cápsula;panela|frutal|cacao;1200–1500 msnm
+258;Cedro Verde 258;Honduras;Caturra;molido;chocolate|nuez|vainilla;1600–2000 msnm
+259;Alma del Nevado 259;Costa Rica;Mundo Novo;grano;frutal|miel|cítrico;1400–1800 msnm
+260;Fuego Dorada 260;Colombia;Villalobos;molido;frutal|miel|cítrico;900–1200 msnm
+261;Cacao del Este 261;Colombia;Mundo Novo;cápsula;floral|jazmín|cítrico;1500–1900 msnm
+262;Aroma del Sol 262;Bolivia;Bourbon;molido;cítrico|floral|miel;1400–1800 msnm
+263;Rincón Mística 263;Ecuador;Castillo;molido;frutal|caramelo|vino tinto;1200–1500 msnm
+264;Tesoro del Oeste 264;Perú;Catuai;grano;frutal|caramelo|vino tinto;1400–1800 msnm
+265;Mirador del Café Especial 265;México;Typica;molido;frutal|caramelo|vino tinto;1000–1400 msnm
+266;Guacamayo del Oro 266;Brasil;Caturra;molido;frutal|caramelo|vino tinto;1200–1500 msnm
+267;Rayo del Sol 267;México;Geisha;grano;chocolate|nuez|vainilla;1200–1500 msnm
+268;Flor del Espíritu 268;Bolivia;Villalobos;cápsula;floral|jazmín|cítrico;1000–1400 msnm
+269;Fuente del Encanto 269;Perú;Bourbon;molido;frutal|caramelo|vino tinto;1500–1900 msnm
+270;Nube del Sur 270;Colombia;Typica;grano;terroso|especias|chocolate;1600–2000 msnm
+271;Rayo del Trópico 271;Colombia;Maragogipe;cápsula;frutal|miel|cítrico;1500–1900 msnm
+272;Leyenda del Río 272;Brasil;Castillo;molido;cítrico|floral|miel;900–1200 msnm
+273;Travesía del Valle 273;Guatemala;Castillo;molido;terroso|especias|chocolate;1400–1800 msnm
+274;Montaña del Cacao 274;Brasil;Pacamara;cápsula;floral|jazmín|cítrico;900–1200 msnm
+275;Tesoro del Norte 275;Ecuador;Caturra;grano;frutal|chocolate|floral;1300–1600 msnm
+276;Aroma del Jaguar 276;Honduras;Typica;cápsula;frutal|chocolate|floral;1000–1400 msnm
+277;Trueno del Corazón 277;Colombia;Villalobos;molido;terroso|especias|chocolate;1700–2100 msnm
+278;Joya del Alba 278;Bolivia;Pacamara;cápsula;chocolate|nuez|vainilla;1000–1400 msnm
+279;Trueno Tropical 279;Ecuador;Pacamara;cápsula;frutal|miel|cítrico;1500–1900 msnm
+280;Quetzal del Este 280;Nicaragua;Pacamara;cápsula;caramelo|nuez|chocolate;1700–2100 msnm
+281;Cedro del Sol Naciente 281;Brasil;Caturra;cápsula;panela|frutal|cacao;900–1200 msnm
+282;Cacao del Río Grande 282;Costa Rica;Mundo Novo;molido;terroso|especias|chocolate;1500–1900 msnm
+283;Ceiba del Viento 283;Nicaragua;Villalobos;cápsula;floral|té negro|frutal;1400–1800 msnm
+284;Leyenda del Viento 284;El Salvador;Catuai;cápsula;frutal|caramelo|vino tinto;1200–1500 msnm
+285;Mirador del Sol 285;Costa Rica;Geisha;cápsula;terroso|especias|chocolate;900–1200 msnm
+286;Quetzal Real 286;Brasil;Maragogipe;molido;floral|jazmín|cítrico;1000–1400 msnm
+287;Granito del Horizonte Dorado 287;México;Castillo;molido;floral|té negro|frutal;1300–1600 msnm
+288;Rayo del Maíz 288;Perú;Maragogipe;grano;panela|frutal|cacao;1300–1600 msnm
+289;Reserva del Sol 289;Ecuador;Mundo Novo;molido;floral|jazmín|cítrico;1500–1900 msnm
+290;Quetzal del Valle Sagrado 290;Bolivia;Pacamara;cápsula;caramelo|nuez|chocolate;1000–1400 msnm
+291;Río del Nevado 291;Ecuador;Mundo Novo;molido;frutal|miel|cítrico;1700–2100 msnm
+292;Sendero del Ande 292;Honduras;Maragogipe;cápsula;cítrico|floral|miel;1000–1400 msnm
+293;Granito del Camino 293;Guatemala;Maragogipe;cápsula;terroso|especias|chocolate;1000–1400 msnm
+294;Encanto Andina 294;Guatemala;Catuai;cápsula;caramelo|nuez|chocolate;1000–1400 msnm
+295;Esencia del Encanto Andino 295;Colombia;Catuai;cápsula;frutal|caramelo|vino tinto;1700–2100 msnm
+296;Quetzal Clásica 296;Ecuador;Geisha;molido;frutal|caramelo|vino tinto;1500–1900 msnm
+297;Perla del Horizonte 297;Colombia;Typica;grano;terroso|especias|chocolate;1400–1800 msnm
+298;Granito del Café Especial 298;Honduras;Mundo Novo;grano;frutal|miel|cítrico;1600–2000 msnm
+299;Corazón del Mar 299;Guatemala;Catuai;cápsula;caramelo|nuez|chocolate;1500–1900 msnm
+300;Mística del Encanto Andino 300;Ecuador;Bourbon;cápsula;frutal|chocolate|floral;1000–1400 msnm
+301;Selva del Río 301;México;Pacamara;molido;frutal|caramelo|vino tinto;1600–2000 msnm
+302;Río del Cóndor 302;Honduras;Maragogipe;grano;panela|frutal|cacao;1700–2100 msnm
+303;Rayo del Horizonte 303;Bolivia;Mundo Novo;molido;frutal|chocolate|floral;1000–1400 msnm
+304;Colibrí del Río Grande 304;El Salvador;Typica;molido;chocolate|nuez|vainilla;900–1200 msnm
+305;Trueno del Encanto Andino 305;Guatemala;Villalobos;cápsula;panela|frutal|cacao;1300–1600 msnm
+306;Sol del Lago 306;México;Bourbon;molido;frutal|chocolate|floral;900–1200 msnm
+307;Horizonte del Mar 307;El Salvador;Villalobos;grano;frutal|miel|cítrico;1000–1400 msnm
+308;Travesía del Cóndor 308;Nicaragua;Mundo Novo;cápsula;frutal|chocolate|floral;1000–1400 msnm
+309;Guacamayo Clásica 309;Ecuador;Caturra;molido;panela|frutal|cacao;1200–1500 msnm
+310;Mirador del Norte 310;Perú;Mundo Novo;grano;floral|jazmín|cítrico;1000–1400 msnm
+311;Esencia del Oro 311;Nicaragua;Pacamara;cápsula;panela|frutal|cacao;1000–1400 msnm
+312;Cacao del Mar 312;Perú;Pacamara;cápsula;cítrico|floral|miel;1500–1900 msnm
+313;Aroma del Este 313;Colombia;Typica;molido;floral|té negro|frutal;1600–2000 msnm
+314;Alma del Viento 314;Honduras;Maragogipe;cápsula;panela|frutal|cacao;1200–1500 msnm
+315;Corazón Clásica 315;Bolivia;Catuai;cápsula;cítrico|floral|miel;1200–1500 msnm
+316;Flor del Valle 316;El Salvador;Pacamara;molido;frutal|chocolate|floral;1200–1500 msnm
+317;Perla Suprema 317;Bolivia;Mundo Novo;grano;frutal|chocolate|floral;1400–1800 msnm
+318;Cascada Tropical 318;Guatemala;Caturra;molido;floral|té negro|frutal;1600–2000 msnm
+319;Encanto del Viento 319;Costa Rica;Geisha;molido;frutal|caramelo|vino tinto;1500–1900 msnm
+320;Joya del Corazón 320;Nicaragua;Villalobos;molido;cítrico|floral|miel;1400–1800 msnm
+321;Colibrí del Sol 321;El Salvador;Bourbon;grano;panela|frutal|cacao;1400–1800 msnm
+322;Corazón del Espíritu 322;Perú;Catuai;grano;frutal|chocolate|floral;1400–1800 msnm
+323;Valle del Horizonte Dorado 323;Honduras;Pacamara;grano;cítrico|floral|miel;1700–2100 msnm
+324;Sierra Verde 324;Honduras;Bourbon;molido;floral|té negro|frutal;1700–2100 msnm
+325;Río Clásica 325;Perú;Pacamara;grano;caramelo|nuez|chocolate;900–1200 msnm
+326;Cedro Encantada 326;Brasil;Catuai;molido;frutal|caramelo|vino tinto;1000–1400 msnm
+327;Fuego del Este 327;Costa Rica;Pacamara;molido;terroso|especias|chocolate;900–1200 msnm
+328;Tesoro del Amanecer 328;Perú;Typica;cápsula;panela|frutal|cacao;1500–1900 msnm
+329;Quetzal del Ande 329;Honduras;Villalobos;cápsula;frutal|miel|cítrico;1200–1500 msnm
+330;Corazón del Valle Sagrado 330;El Salvador;Catuai;cápsula;chocolate|nuez|vainilla;1200–1500 msnm
+331;Montaña del Paraíso 331;Bolivia;Mundo Novo;grano;chocolate|nuez|vainilla;1600–2000 msnm
+332;Fuente del Oro 332;Colombia;Pacamara;molido;cítrico|floral|miel;900–1200 msnm
+333;Camino Suprema 333;Guatemala;Geisha;cápsula;panela|frutal|cacao;1600–2000 msnm
+334;Encanto Nevada 334;Costa Rica;Bourbon;grano;frutal|chocolate|floral;1200–1500 msnm
+335;Leyenda Verde 335;Nicaragua;Typica;grano;terroso|especias|chocolate;900–1200 msnm
+336;Colibrí Dorada 336;Bolivia;Maragogipe;molido;chocolate|nuez|vainilla;1500–1900 msnm
+337;Horizonte del Tesoro 337;Honduras;Pacamara;molido;frutal|miel|cítrico;1500–1900 msnm
+338;Rincón Verde 338;Perú;Bourbon;grano;frutal|miel|cítrico;1600–2000 msnm
+339;Río del Sol 339;México;Typica;grano;caramelo|nuez|chocolate;1000–1400 msnm
+340;Cedro Dorada 340;Nicaragua;Catuai;molido;frutal|miel|cítrico;1300–1600 msnm
+341;Nube del Horizonte 341;México;Mundo Novo;molido;caramelo|nuez|chocolate;1000–1400 msnm
+342;Maíz del Lago 342;Ecuador;Castillo;grano;cítrico|floral|miel;1600–2000 msnm
+343;Cedro del Amanecer 343;Ecuador;Villalobos;grano;frutal|miel|cítrico;1500–1900 msnm
+344;Sendero del Nevado 344;Bolivia;Castillo;cápsula;chocolate|nuez|vainilla;1700–2100 msnm
+345;Montaña Clásica 345;México;Geisha;molido;panela|frutal|cacao;1700–2100 msnm
+346;Esencia del Sol Naciente 346;Honduras;Villalobos;cápsula;cítrico|floral|miel;1500–1900 msnm
+347;Aroma Suprema 347;Guatemala;Typica;molido;frutal|chocolate|floral;1700–2100 msnm
+348;Cumbre del Este 348;Bolivia;Castillo;cápsula;panela|frutal|cacao;1400–1800 msnm
+349;Flor del Trópico 349;Colombia;Villalobos;molido;frutal|chocolate|floral;900–1200 msnm
+350;Quetzal del Tesoro 350;Costa Rica;Typica;molido;cítrico|floral|miel;1700–2100 msnm
+351;Alma del Tesoro 351;Bolivia;Mundo Novo;molido;frutal|chocolate|floral;1000–1400 msnm
+352;Montaña Mística 352;México;Villalobos;grano;caramelo|nuez|chocolate;1600–2000 msnm
+353;Nube del Horizonte Dorado 353;Ecuador;Caturra;grano;panela|frutal|cacao;1600–2000 msnm
+354;Sierra Suprema 354;Brasil;Bourbon;molido;panela|frutal|cacao;1300–1600 msnm
+355;Travesía Nevada 355;Bolivia;Bourbon;molido;caramelo|nuez|chocolate;1500–1900 msnm
+356;Selva del Nevado 356;Ecuador;Bourbon;cápsula;panela|frutal|cacao;1200–1500 msnm
+357;Luz del Horizonte 357;Brasil;Castillo;molido;frutal|caramelo|vino tinto;900–1200 msnm
+358;Reserva del Corazón 358;Brasil;Caturra;cápsula;frutal|caramelo|vino tinto;1700–2100 msnm
+359;Camino del Maíz 359;Honduras;Castillo;molido;frutal|caramelo|vino tinto;1000–1400 msnm
+360;Trueno Nevada 360;Bolivia;Castillo;grano;caramelo|nuez|chocolate;1200–1500 msnm
+361;Cedro del Paraíso 361;Bolivia;Catuai;molido;frutal|chocolate|floral;1400–1800 msnm
+362;Trueno del Mundo 362;México;Pacamara;grano;terroso|especias|chocolate;1700–2100 msnm
+363;Aurora del Nevado 363;Costa Rica;Typica;cápsula;frutal|miel|cítrico;1400–1800 msnm
+364;Corazón del Cóndor 364;Guatemala;Catuai;cápsula;panela|frutal|cacao;1700–2100 msnm
+365;Rayo del Mundo 365;Perú;Bourbon;molido;panela|frutal|cacao;1300–1600 msnm
+366;Fuego del Río 366;Honduras;Pacamara;molido;frutal|caramelo|vino tinto;1500–1900 msnm
+367;Sol del Norte 367;Nicaragua;Castillo;cápsula;frutal|miel|cítrico;1700–2100 msnm
+368;Guacamayo Suprema 368;Ecuador;Caturra;grano;chocolate|nuez|vainilla;1600–2000 msnm
+369;Corazón del Amanecer 369;Ecuador;Typica;molido;floral|té negro|frutal;1700–2100 msnm
+370;Tesoro del Valle 370;Guatemala;Castillo;molido;floral|jazmín|cítrico;1000–1400 msnm
+371;Sierra del Sur 371;Colombia;Maragogipe;cápsula;frutal|chocolate|floral;1200–1500 msnm
+372;Aurora del Bosque 372;El Salvador;Bourbon;grano;floral|té negro|frutal;1600–2000 msnm
+373;Flor del Trueno 373;Bolivia;Bourbon;cápsula;terroso|especias|chocolate;1300–1600 msnm
+374;Cascada Nevada 374;Perú;Castillo;molido;cítrico|floral|miel;1400–1800 msnm
+375;Brisa del Bosque 375;Costa Rica;Maragogipe;cápsula;frutal|miel|cítrico;1000–1400 msnm
+376;Perla del Río Grande 376;Costa Rica;Bourbon;grano;terroso|especias|chocolate;1600–2000 msnm
+377;Aroma del Valle 377;Colombia;Villalobos;molido;panela|frutal|cacao;900–1200 msnm
+378;Flor del Río Grande 378;México;Mundo Novo;molido;chocolate|nuez|vainilla;900–1200 msnm
+379;Joya del Mundo 379;Guatemala;Bourbon;cápsula;floral|té negro|frutal;1400–1800 msnm
+380;Alma del Alba 380;Colombia;Bourbon;grano;floral|jazmín|cítrico;1700–2100 msnm
+381;Sierra del Ande 381;Honduras;Castillo;cápsula;chocolate|nuez|vainilla;1500–1900 msnm
+382;Encanto del Sol 382;Nicaragua;Catuai;molido;caramelo|nuez|chocolate;1600–2000 msnm
+383;Maíz del Horizonte 383;Colombia;Pacamara;molido;caramelo|nuez|chocolate;1200–1500 msnm
+384;Aurora del Oeste 384;Colombia;Villalobos;cápsula;chocolate|nuez|vainilla;1500–1900 msnm
+385;Sierra del Paraíso 385;Perú;Castillo;molido;frutal|chocolate|floral;1700–2100 msnm
+386;Brisa del Horizonte 386;Bolivia;Typica;cápsula;caramelo|nuez|chocolate;1600–2000 msnm
+387;Encanto Dorada 387;Nicaragua;Castillo;cápsula;panela|frutal|cacao;1500–1900 msnm
+388;Fuente del Sur 388;Perú;Typica;molido;chocolate|nuez|vainilla;1300–1600 msnm
+389;Sendero del Bosque Alto 389;Costa Rica;Pacamara;cápsula;caramelo|nuez|chocolate;1500–1900 msnm
+390;Selva del Sol 390;Ecuador;Caturra;grano;floral|jazmín|cítrico;1600–2000 msnm
+391;Travesía Tropical 391;Nicaragua;Catuai;molido;panela|frutal|cacao;1700–2100 msnm
+392;Sendero del Corazón 392;Perú;Geisha;grano;cítrico|floral|miel;1500–1900 msnm
+393;Aroma del Mundo 393;Ecuador;Catuai;molido;terroso|especias|chocolate;1500–1900 msnm
+394;Encanto del Trueno 394;Colombia;Maragogipe;grano;panela|frutal|cacao;1500–1900 msnm
+395;Trueno del Bosque 395;Brasil;Typica;grano;frutal|caramelo|vino tinto;1400–1800 msnm
+396;Cascada del Paraíso 396;Costa Rica;Bourbon;molido;terroso|especias|chocolate;1500–1900 msnm
+397;Aurora del Viento 397;Bolivia;Geisha;grano;frutal|miel|cítrico;1300–1600 msnm
+398;Horizonte del Encanto Andino 398;Ecuador;Bourbon;molido;floral|té negro|frutal;900–1200 msnm
+399;Selva del Valle 399;Costa Rica;Geisha;grano;floral|té negro|frutal;1000–1400 msnm
+400;Sierra del Jaguar 400;Brasil;Catuai;grano;frutal|chocolate|floral;1300–1600 msnm
+401;Alma del Trópico 401;Nicaragua;Bourbon;cápsula;caramelo|nuez|chocolate;1400–1800 msnm
+402;Flor del Este 402;Ecuador;Castillo;molido;chocolate|nuez|vainilla;900–1200 msnm
+403;Cóndor del Amanecer 403;Honduras;Castillo;cápsula;panela|frutal|cacao;1600–2000 msnm
+404;Leyenda Tropical 404;Nicaragua;Castillo;molido;frutal|chocolate|floral;1700–2100 msnm
+405;Cóndor del Corazón 405;El Salvador;Typica;molido;floral|jazmín|cítrico;1000–1400 msnm
+406;Camino Dorada 406;Brasil;Villalobos;grano;frutal|caramelo|vino tinto;1400–1800 msnm
+407;Perla del Oro 407;Costa Rica;Villalobos;cápsula;panela|frutal|cacao;1700–2100 msnm
+408;Cumbre Mística 408;Colombia;Catuai;grano;floral|jazmín|cítrico;1200–1500 msnm
+409;Camino del Valle Sagrado 409;Honduras;Mundo Novo;molido;floral|té negro|frutal;1700–2100 msnm
+410;Jaguar del Amanecer 410;México;Castillo;molido;floral|jazmín|cítrico;1000–1400 msnm
+411;Mirador del Camino 411;El Salvador;Maragogipe;molido;floral|jazmín|cítrico;1400–1800 msnm
+412;Aurora Clásica 412;Costa Rica;Castillo;grano;floral|jazmín|cítrico;900–1200 msnm
+413;Luz del Volcán 413;Nicaragua;Mundo Novo;molido;floral|jazmín|cítrico;1400–1800 msnm
+414;Cóndor del Sol Naciente 414;Nicaragua;Maragogipe;cápsula;chocolate|nuez|vainilla;1500–1900 msnm
+415;Rincón del Horizonte Dorado 415;Honduras;Bourbon;molido;frutal|caramelo|vino tinto;1600–2000 msnm
+416;Granito del Sol 416;El Salvador;Typica;molido;frutal|miel|cítrico;1300–1600 msnm
+417;Flor del Sol 417;Costa Rica;Villalobos;cápsula;chocolate|nuez|vainilla;1300–1600 msnm
+418;Valle del Río 418;El Salvador;Villalobos;cápsula;cítrico|floral|miel;1600–2000 msnm
+419;Leyenda del Horizonte Azul 419;Nicaragua;Mundo Novo;molido;frutal|chocolate|floral;1400–1800 msnm
+420;Luz Mística 420;Perú;Bourbon;cápsula;panela|frutal|cacao;1400–1800 msnm
+421;Mirador Mística 421;Colombia;Mundo Novo;cápsula;cítrico|floral|miel;1300–1600 msnm
+422;Esencia Clásica 422;Guatemala;Mundo Novo;grano;chocolate|nuez|vainilla;1400–1800 msnm
+423;Horizonte del Nevado 423;Nicaragua;Catuai;molido;caramelo|nuez|chocolate;1500–1900 msnm
+424;Fuente del Café Especial 424;Bolivia;Caturra;molido;terroso|especias|chocolate;1600–2000 msnm
+425;Camino del Viento 425;Perú;Typica;grano;frutal|miel|cítrico;1500–1900 msnm
+426;Aroma Tropical 426;México;Caturra;molido;floral|té negro|frutal;1200–1500 msnm
+427;Jaguar del Horizonte Azul 427;El Salvador;Castillo;molido;frutal|miel|cítrico;1400–1800 msnm
+428;Nube Andina 428;Nicaragua;Bourbon;cápsula;floral|jazmín|cítrico;1600–2000 msnm
+429;Horizonte Andina 429;El Salvador;Pacamara;molido;terroso|especias|chocolate;900–1200 msnm
+430;Río Real 430;Guatemala;Maragogipe;cápsula;cítrico|floral|miel;1200–1500 msnm
+431;Altura del Café Especial 431;Perú;Castillo;cápsula;floral|té negro|frutal;1000–1400 msnm
+432;Sol del Tesoro 432;México;Pacamara;cápsula;floral|té negro|frutal;1200–1500 msnm
+433;Mirador del Bosque Alto 433;Bolivia;Mundo Novo;cápsula;cítrico|floral|miel;1000–1400 msnm
+434;Joya del Bosque Alto 434;Guatemala;Catuai;molido;floral|té negro|frutal;1600–2000 msnm
+435;Mirador del Mundo 435;Ecuador;Pacamara;grano;caramelo|nuez|chocolate;1600–2000 msnm
+436;Altura del Horizonte 436;Bolivia;Bourbon;molido;floral|té negro|frutal;1200–1500 msnm
+437;Cacao Verde 437;Costa Rica;Castillo;grano;frutal|miel|cítrico;900–1200 msnm
+438;Camino Real 438;Bolivia;Villalobos;cápsula;chocolate|nuez|vainilla;1400–1800 msnm
+439;Joya del Lago 439;Bolivia;Geisha;molido;caramelo|nuez|chocolate;1500–1900 msnm
+440;Sierra del Mundo 440;Perú;Caturra;molido;terroso|especias|chocolate;1000–1400 msnm
+441;Granito del Encanto Andino 441;Guatemala;Mundo Novo;grano;frutal|miel|cítrico;1600–2000 msnm
+442;Tesoro del Horizonte Azul 442;Guatemala;Villalobos;cápsula;panela|frutal|cacao;1400–1800 msnm
+443;Travesía del Ande 443;Honduras;Geisha;cápsula;frutal|miel|cítrico;1200–1500 msnm
+444;Maíz del Sol 444;El Salvador;Mundo Novo;grano;frutal|chocolate|floral;1200–1500 msnm
+445;Fuego del Cóndor 445;El Salvador;Catuai;cápsula;floral|té negro|frutal;1500–1900 msnm
+446;Mística del Encanto 446;Bolivia;Geisha;cápsula;frutal|chocolate|floral;1200–1500 msnm
+447;Maíz del Este 447;Colombia;Caturra;grano;frutal|miel|cítrico;1500–1900 msnm
+448;Joya Mística 448;Perú;Catuai;cápsula;caramelo|nuez|chocolate;1500–1900 msnm
+449;Río del Sol Naciente 449;Perú;Pacamara;molido;panela|frutal|cacao;1200–1500 msnm
+450;Tesoro Suprema 450;Guatemala;Typica;molido;floral|jazmín|cítrico;1300–1600 msnm
+451;Maíz del Trueno 451;México;Geisha;cápsula;frutal|chocolate|floral;1000–1400 msnm
+452;Rincón del Bosque 452;Honduras;Geisha;cápsula;caramelo|nuez|chocolate;1400–1800 msnm
+453;Selva Real 453;Brasil;Maragogipe;molido;frutal|chocolate|floral;900–1200 msnm
+454;Colibrí del Encanto 454;El Salvador;Pacamara;grano;frutal|chocolate|floral;1200–1500 msnm
+455;Estrella del Volcán 455;México;Catuai;cápsula;frutal|miel|cítrico;1600–2000 msnm
+456;Joya del Cóndor 456;México;Bourbon;cápsula;floral|jazmín|cítrico;1200–1500 msnm
+457;Joya del Camino 457;Nicaragua;Castillo;grano;panela|frutal|cacao;1200–1500 msnm
+458;Río del Oro 458;Costa Rica;Maragogipe;cápsula;frutal|miel|cítrico;1300–1600 msnm
+459;Aurora del Jaguar 459;Ecuador;Typica;grano;frutal|caramelo|vino tinto;1600–2000 msnm
+460;Río del Norte 460;Costa Rica;Typica;cápsula;chocolate|nuez|vainilla;1600–2000 msnm
+461;Vereda del Trópico 461;Guatemala;Pacamara;molido;chocolate|nuez|vainilla;1700–2100 msnm
+462;Reserva del Valle 462;Ecuador;Caturra;grano;frutal|chocolate|floral;1200–1500 msnm
+463;Cumbre Dorada 463;Honduras;Maragogipe;molido;cítrico|floral|miel;1200–1500 msnm
+464;Aurora del Mar 464;Guatemala;Bourbon;molido;frutal|caramelo|vino tinto;1200–1500 msnm
+465;Alma Suprema 465;Ecuador;Castillo;cápsula;frutal|caramelo|vino tinto;1300–1600 msnm
+466;Sol del Jaguar 466;Brasil;Castillo;cápsula;cítrico|floral|miel;900–1200 msnm
+467;Estrella del Mundo 467;Costa Rica;Maragogipe;molido;frutal|miel|cítrico;1000–1400 msnm
+468;Luz del Este 468;Costa Rica;Bourbon;molido;caramelo|nuez|chocolate;1400–1800 msnm
+469;Travesía del Maíz 469;Brasil;Geisha;molido;terroso|especias|chocolate;1000–1400 msnm
+470;Montaña del Trópico 470;Brasil;Villalobos;cápsula;cítrico|floral|miel;1000–1400 msnm
+471;Granito del Tesoro 471;Perú;Villalobos;cápsula;terroso|especias|chocolate;1600–2000 msnm
+472;Raíces del Valle Sagrado 472;Colombia;Typica;molido;floral|jazmín|cítrico;1300–1600 msnm
+473;Jaguar del Cacao 473;El Salvador;Geisha;molido;panela|frutal|cacao;1600–2000 msnm
+474;Esencia del Trueno 474;Guatemala;Castillo;grano;frutal|miel|cítrico;1200–1500 msnm
+475;Alma del Lago 475;Bolivia;Villalobos;molido;frutal|caramelo|vino tinto;1600–2000 msnm
+476;Tesoro del Este 476;México;Maragogipe;grano;terroso|especias|chocolate;1000–1400 msnm
+477;Rincón Clásica 477;Ecuador;Typica;cápsula;chocolate|nuez|vainilla;1700–2100 msnm
+478;Rayo Suprema 478;Bolivia;Castillo;molido;cítrico|floral|miel;1500–1900 msnm
+479;Raíces del Río Grande 479;Ecuador;Villalobos;molido;cítrico|floral|miel;1000–1400 msnm
+480;Quetzal del Cacao 480;Ecuador;Mundo Novo;grano;chocolate|nuez|vainilla;1400–1800 msnm
+481;Brisa del Paraíso 481;Bolivia;Geisha;molido;cítrico|floral|miel;1600–2000 msnm
+482;Alma del Cacao 482;Honduras;Castillo;cápsula;floral|té negro|frutal;1700–2100 msnm
+483;Tesoro del Oro 483;Guatemala;Castillo;grano;terroso|especias|chocolate;900–1200 msnm
+484;Rincón del Bosque Alto 484;Honduras;Typica;cápsula;panela|frutal|cacao;1500–1900 msnm
+485;Colibrí del Jaguar 485;Brasil;Catuai;molido;panela|frutal|cacao;1700–2100 msnm
+486;Jaguar del Oro 486;Guatemala;Villalobos;cápsula;frutal|caramelo|vino tinto;1200–1500 msnm
+487;Aurora Tropical 487;Honduras;Typica;grano;panela|frutal|cacao;1500–1900 msnm
+488;Fuego del Sol 488;Colombia;Bourbon;cápsula;chocolate|nuez|vainilla;900–1200 msnm
+489;Sierra del Río 489;México;Castillo;molido;cítrico|floral|miel;1500–1900 msnm
+490;Corazón del Sur 490;Bolivia;Catuai;molido;cítrico|floral|miel;1500–1900 msnm
+491;Travesía del Jaguar 491;Honduras;Geisha;molido;panela|frutal|cacao;1000–1400 msnm
+492;Sol del Sol 492;Ecuador;Mundo Novo;molido;frutal|caramelo|vino tinto;900–1200 msnm
+493;Cedro del Este 493;Guatemala;Mundo Novo;molido;frutal|miel|cítrico;900–1200 msnm
+494;Altura Dorada 494;Nicaragua;Pacamara;grano;terroso|especias|chocolate;900–1200 msnm
+495;Selva del Encanto Andino 495;Colombia;Castillo;grano;terroso|especias|chocolate;1700–2100 msnm
+496;Joya del Maíz 496;Honduras;Pacamara;grano;caramelo|nuez|chocolate;900–1200 msnm
+497;Puerta del Oro 497;Costa Rica;Maragogipe;molido;terroso|especias|chocolate;1200–1500 msnm
+498;Jaguar Tropical 498;Honduras;Catuai;grano;panela|frutal|cacao;1000–1400 msnm
+499;Nube del Cóndor 499;Brasil;Geisha;molido;frutal|chocolate|floral;1500–1900 msnm
+500;Encanto del Jaguar 500;Ecuador;Villalobos;grano;floral|té negro|frutal;1200–1500 msnm
+501;Colibrí del Viento 501;Costa Rica;Bourbon;grano;terroso|especias|chocolate;1500–1900 msnm
+502;Alma Verde 502;Ecuador;Villalobos;grano;panela|frutal|cacao;1600–2000 msnm
+503;Perla del Alba 503;Bolivia;Pacamara;grano;caramelo|nuez|chocolate;1000–1400 msnm
+504;Colibrí Nevada 504;Brasil;Castillo;grano;terroso|especias|chocolate;1300–1600 msnm
+505;Sol del Cacao 505;Colombia;Castillo;molido;floral|té negro|frutal;1000–1400 msnm
+506;Puerta del Horizonte 506;Bolivia;Villalobos;cápsula;cítrico|floral|miel;1500–1900 msnm
+507;Cumbre del Valle Sagrado 507;Perú;Maragogipe;grano;terroso|especias|chocolate;1400–1800 msnm
+508;Cumbre del Río 508;Honduras;Geisha;cápsula;floral|jazmín|cítrico;1300–1600 msnm
+509;Puerta del Horizonte Azul 509;Colombia;Maragogipe;grano;panela|frutal|cacao;1000–1400 msnm
+510;Jaguar Real 510;Honduras;Geisha;grano;cítrico|floral|miel;1000–1400 msnm
+511;Puerta del Viento 511;Brasil;Bourbon;grano;caramelo|nuez|chocolate;1400–1800 msnm
+512;Cosecha Dorada 512;Brasil;Mundo Novo;grano;floral|té negro|frutal;1400–1800 msnm
+513;Aurora del Norte 513;Guatemala;Mundo Novo;molido;chocolate|nuez|vainilla;1600–2000 msnm
+514;Mirador del Encanto Andino 514;Honduras;Villalobos;cápsula;chocolate|nuez|vainilla;1400–1800 msnm
+515;Montaña del Sur 515;Honduras;Bourbon;grano;floral|jazmín|cítrico;1300–1600 msnm
+516;Sol Mística 516;Guatemala;Catuai;molido;frutal|caramelo|vino tinto;900–1200 msnm
+517;Travesía del Sur 517;Perú;Bourbon;cápsula;floral|té negro|frutal;1500–1900 msnm
+518;Mística Suprema 518;Brasil;Villalobos;cápsula;terroso|especias|chocolate;1700–2100 msnm
+519;Aroma del Volcán 519;Costa Rica;Maragogipe;molido;cítrico|floral|miel;1500–1900 msnm
+520;Brisa del Mar 520;México;Maragogipe;grano;frutal|miel|cítrico;1700–2100 msnm
+521;Valle del Cóndor 521;Guatemala;Caturra;cápsula;cítrico|floral|miel;1200–1500 msnm
+522;Estrella del Corazón 522;Bolivia;Bourbon;molido;panela|frutal|cacao;1400–1800 msnm
+523;Travesía del Encanto Andino 523;El Salvador;Typica;molido;frutal|caramelo|vino tinto;1500–1900 msnm
+524;Selva del Horizonte 524;Brasil;Pacamara;cápsula;panela|frutal|cacao;900–1200 msnm
+525;Cumbre del Horizonte Dorado 525;México;Castillo;grano;floral|jazmín|cítrico;1500–1900 msnm
+526;Cedro del Jaguar 526;Ecuador;Catuai;molido;chocolate|nuez|vainilla;1600–2000 msnm
+527;Mirador Verde 527;Guatemala;Castillo;molido;floral|té negro|frutal;900–1200 msnm
+528;Estrella del Bosque Alto 528;México;Geisha;cápsula;caramelo|nuez|chocolate;1200–1500 msnm
+529;Cedro del Bosque Alto 529;Guatemala;Caturra;molido;chocolate|nuez|vainilla;1200–1500 msnm
+530;Cacao del Corazón 530;Honduras;Geisha;molido;frutal|miel|cítrico;1600–2000 msnm
+531;Fuente del Horizonte 531;Costa Rica;Geisha;cápsula;floral|té negro|frutal;1500–1900 msnm
+532;Puerta del Oeste 532;Honduras;Castillo;grano;caramelo|nuez|chocolate;1300–1600 msnm
+533;Sol del Alba 533;Costa Rica;Caturra;grano;panela|frutal|cacao;1600–2000 msnm
+534;Perla Clásica 534;Perú;Villalobos;grano;floral|té negro|frutal;1200–1500 msnm
+535;Fuego del Mar 535;Guatemala;Castillo;molido;chocolate|nuez|vainilla;900–1200 msnm
+536;Cedro del Ande 536;Ecuador;Villalobos;grano;caramelo|nuez|chocolate;1200–1500 msnm
+537;Sierra del Horizonte Azul 537;Ecuador;Maragogipe;molido;caramelo|nuez|chocolate;1600–2000 msnm
+538;Sol Verde 538;Ecuador;Bourbon;grano;floral|jazmín|cítrico;1600–2000 msnm
+539;Horizonte del Horizonte Azul 539;Ecuador;Pacamara;molido;frutal|miel|cítrico;1000–1400 msnm
+540;Valle del Paraíso 540;Bolivia;Maragogipe;cápsula;frutal|caramelo|vino tinto;1300–1600 msnm
+541;Fuente del Trópico 541;Honduras;Caturra;cápsula;floral|té negro|frutal;900–1200 msnm
+542;Altura del Cóndor 542;Bolivia;Caturra;molido;cítrico|floral|miel;1300–1600 msnm
+543;Cedro Nevada 543;El Salvador;Maragogipe;molido;chocolate|nuez|vainilla;1700–2100 msnm
+544;Camino del Sol Naciente 544;Nicaragua;Catuai;molido;caramelo|nuez|chocolate;900–1200 msnm
+545;Cedro del Trópico 545;El Salvador;Pacamara;molido;floral|jazmín|cítrico;1500–1900 msnm
+546;Valle del Mundo 546;Honduras;Catuai;grano;panela|frutal|cacao;900–1200 msnm
+547;Fuente del Mar 547;Ecuador;Maragogipe;grano;frutal|chocolate|floral;1700–2100 msnm
+548;Brisa del Horizonte Azul 548;Guatemala;Castillo;molido;frutal|caramelo|vino tinto;1000–1400 msnm
+549;Perla del Horizonte Dorado 549;Honduras;Pacamara;cápsula;chocolate|nuez|vainilla;1700–2100 msnm
+550;Sendero del Valle Sagrado 550;Honduras;Caturra;cápsula;floral|té negro|frutal;1200–1500 msnm
+551;Cóndor del Valle 551;Brasil;Caturra;cápsula;terroso|especias|chocolate;1500–1900 msnm
+552;Sol del Camino 552;Brasil;Castillo;grano;panela|frutal|cacao;1600–2000 msnm
+553;Trueno del Volcán 553;Nicaragua;Villalobos;cápsula;frutal|caramelo|vino tinto;1500–1900 msnm
+554;Brisa Verde 554;El Salvador;Mundo Novo;grano;panela|frutal|cacao;1700–2100 msnm
+555;Nube del Oro 555;Brasil;Geisha;grano;frutal|chocolate|floral;900–1200 msnm
+556;Río del Bosque Alto 556;Bolivia;Geisha;grano;terroso|especias|chocolate;1000–1400 msnm
+557;Perla del Sur 557;Brasil;Pacamara;molido;chocolate|nuez|vainilla;1300–1600 msnm
+558;Cascada del Norte 558;Costa Rica;Castillo;molido;cítrico|floral|miel;1700–2100 msnm
+559;Perla Encantada 559;Brasil;Pacamara;grano;cítrico|floral|miel;1200–1500 msnm
+560;Reserva del Oeste 560;El Salvador;Villalobos;grano;floral|jazmín|cítrico;1500–1900 msnm
+561;Cumbre del Bosque 561;Guatemala;Maragogipe;cápsula;floral|jazmín|cítrico;1300–1600 msnm
+562;Colibrí del Valle Sagrado 562;Brasil;Pacamara;grano;caramelo|nuez|chocolate;1300–1600 msnm
+563;Mirador del Río Grande 563;Ecuador;Catuai;grano;caramelo|nuez|chocolate;1200–1500 msnm
+564;Cascada Real 564;México;Pacamara;molido;frutal|caramelo|vino tinto;1300–1600 msnm
+565;Rayo del Este 565;Perú;Geisha;molido;frutal|caramelo|vino tinto;1500–1900 msnm
+566;Estrella Andina 566;Ecuador;Catuai;grano;frutal|miel|cítrico;1300–1600 msnm
+567;Perla del Encanto Andino 567;Brasil;Maragogipe;grano;panela|frutal|cacao;900–1200 msnm
+568;Ceiba Tropical 568;Guatemala;Pacamara;grano;cítrico|floral|miel;1000–1400 msnm
+569;Río del Espíritu 569;Ecuador;Catuai;cápsula;floral|jazmín|cítrico;1000–1400 msnm
+570;Sol del Café 570;Perú;Maragogipe;grano;caramelo|nuez|chocolate;1000–1400 msnm
+571;Jaguar del Volcán 571;México;Pacamara;grano;floral|té negro|frutal;1000–1400 msnm
+572;Fuente del Viento 572;Brasil;Geisha;grano;terroso|especias|chocolate;1500–1900 msnm
+573;Altura del Bosque Alto 573;Colombia;Pacamara;molido;frutal|miel|cítrico;1000–1400 msnm
+574;Aroma del Sur 574;Honduras;Pacamara;cápsula;caramelo|nuez|chocolate;1500–1900 msnm
+575;Fuente del Volcán 575;México;Castillo;cápsula;cítrico|floral|miel;1300–1600 msnm
+576;Fuente Suprema 576;Honduras;Typica;cápsula;panela|frutal|cacao;1000–1400 msnm
+577;Tesoro del Paraíso 577;Costa Rica;Mundo Novo;molido;frutal|caramelo|vino tinto;1500–1900 msnm
+578;Guacamayo del Café 578;Bolivia;Mundo Novo;molido;floral|jazmín|cítrico;1500–1900 msnm
+579;Maíz del Café 579;Honduras;Catuai;cápsula;chocolate|nuez|vainilla;1600–2000 msnm
+580;Corazón del Café 580;Costa Rica;Mundo Novo;cápsula;terroso|especias|chocolate;1500–1900 msnm
+581;Valle del Cacao 581;Guatemala;Bourbon;grano;frutal|chocolate|floral;1600–2000 msnm
+582;Cóndor del Camino 582;Costa Rica;Typica;cápsula;frutal|caramelo|vino tinto;1500–1900 msnm
+583;Sierra del Oeste 583;Perú;Caturra;molido;caramelo|nuez|chocolate;1600–2000 msnm
+584;Guacamayo del Amanecer 584;Bolivia;Pacamara;molido;panela|frutal|cacao;1600–2000 msnm
+585;Fuente del Oeste 585;Honduras;Caturra;cápsula;panela|frutal|cacao;1000–1400 msnm
+586;Quetzal del Maíz 586;México;Maragogipe;cápsula;cítrico|floral|miel;1400–1800 msnm
+587;Sol del Volcán 587;Perú;Bourbon;grano;chocolate|nuez|vainilla;1500–1900 msnm
+588;Encanto Tropical 588;Honduras;Catuai;cápsula;panela|frutal|cacao;1600–2000 msnm
+589;Fuente del Cóndor 589;Colombia;Bourbon;grano;frutal|miel|cítrico;1200–1500 msnm
+590;Joya del Tesoro 590;Honduras;Bourbon;molido;panela|frutal|cacao;1700–2100 msnm
+591;Leyenda del Lago 591;México;Geisha;cápsula;floral|jazmín|cítrico;1700–2100 msnm
+592;Sierra del Valle Sagrado 592;Ecuador;Caturra;grano;panela|frutal|cacao;1400–1800 msnm
+593;Fuente del Camino 593;Colombia;Typica;cápsula;frutal|chocolate|floral;1600–2000 msnm
+594;Luz del Cóndor 594;El Salvador;Caturra;cápsula;cítrico|floral|miel;1400–1800 msnm
+595;Perla Nevada 595;Ecuador;Villalobos;cápsula;frutal|chocolate|floral;1700–2100 msnm
+596;Luz del Valle 596;México;Geisha;molido;terroso|especias|chocolate;900–1200 msnm
+597;Rincón del Café 597;Nicaragua;Typica;grano;panela|frutal|cacao;1600–2000 msnm
+598;Valle del Alba 598;Ecuador;Maragogipe;cápsula;frutal|miel|cítrico;1600–2000 msnm
+599;Valle Mística 599;Perú;Catuai;cápsula;floral|té negro|frutal;1600–2000 msnm
+600;Mirador Nevada 600;México;Maragogipe;grano;chocolate|nuez|vainilla;1000–1400 msnm
+601;Rincón del Paraíso 601;Nicaragua;Geisha;cápsula;panela|frutal|cacao;1700–2100 msnm
+602;Cedro del Maíz 602;México;Villalobos;grano;floral|jazmín|cítrico;1200–1500 msnm
+603;Corazón Andina 603;Ecuador;Pacamara;molido;floral|té negro|frutal;1400–1800 msnm
+604;Flor del Bosque 604;Perú;Bourbon;molido;frutal|miel|cítrico;1600–2000 msnm
+605;Aurora del Horizonte Azul 605;Honduras;Maragogipe;molido;caramelo|nuez|chocolate;900–1200 msnm
+606;Cumbre del Bosque Alto 606;Ecuador;Bourbon;cápsula;cítrico|floral|miel;1600–2000 msnm
+607;Rincón del Horizonte Azul 607;El Salvador;Catuai;cápsula;floral|jazmín|cítrico;1500–1900 msnm
+608;Vereda del Este 608;Costa Rica;Maragogipe;molido;chocolate|nuez|vainilla;1500–1900 msnm
+609;Montaña del Jaguar 609;Costa Rica;Catuai;grano;frutal|chocolate|floral;1500–1900 msnm
+610;Leyenda del Tesoro 610;Brasil;Caturra;cápsula;panela|frutal|cacao;1600–2000 msnm
+611;Rayo del Café Especial 611;Brasil;Castillo;grano;chocolate|nuez|vainilla;1600–2000 msnm
+612;Mirador del Valle 612;Colombia;Caturra;cápsula;cítrico|floral|miel;1000–1400 msnm
+613;Esencia del Cóndor 613;Guatemala;Typica;grano;chocolate|nuez|vainilla;1300–1600 msnm
+614;Joya del Oeste 614;Ecuador;Pacamara;grano;floral|té negro|frutal;900–1200 msnm
+615;Puerta del Maíz 615;Honduras;Typica;molido;cítrico|floral|miel;1400–1800 msnm
+616;Mística Andina 616;Colombia;Mundo Novo;cápsula;frutal|caramelo|vino tinto;1700–2100 msnm
+617;Jaguar del Río Grande 617;Costa Rica;Maragogipe;molido;floral|jazmín|cítrico;1700–2100 msnm
+618;Leyenda del Sol Naciente 618;Bolivia;Mundo Novo;grano;caramelo|nuez|chocolate;1600–2000 msnm
+619;Puerta del Amanecer 619;Honduras;Bourbon;cápsula;floral|té negro|frutal;1400–1800 msnm
+620;Joya del Ande 620;Bolivia;Castillo;cápsula;chocolate|nuez|vainilla;900–1200 msnm
+621;Reserva del Cóndor 621;México;Caturra;grano;terroso|especias|chocolate;1500–1900 msnm
+622;Cascada del Mar 622;Ecuador;Maragogipe;molido;panela|frutal|cacao;1200–1500 msnm
+623;Cóndor del Nevado 623;Guatemala;Maragogipe;molido;frutal|chocolate|floral;1300–1600 msnm
+624;Selva del Sur 624;Guatemala;Geisha;cápsula;frutal|miel|cítrico;1000–1400 msnm
+625;Cóndor del Río Grande 625;México;Villalobos;molido;frutal|miel|cítrico;1500–1900 msnm
+626;Flor del Cóndor 626;Guatemala;Villalobos;molido;floral|jazmín|cítrico;1200–1500 msnm
+627;Estrella del Sur 627;Honduras;Bourbon;grano;cítrico|floral|miel;900–1200 msnm
+628;Reserva del Ande 628;Guatemala;Pacamara;molido;caramelo|nuez|chocolate;1400–1800 msnm
+629;Brisa del Este 629;Honduras;Mundo Novo;grano;cítrico|floral|miel;1500–1900 msnm
+630;Ceiba del Trópico 630;Bolivia;Bourbon;grano;terroso|especias|chocolate;1600–2000 msnm
+631;Cóndor del Trópico 631;Ecuador;Villalobos;cápsula;frutal|caramelo|vino tinto;1400–1800 msnm
+632;Ceiba del Oro 632;Nicaragua;Catuai;cápsula;frutal|miel|cítrico;1600–2000 msnm
+633;Cascada del Valle Sagrado 633;Perú;Catuai;cápsula;frutal|miel|cítrico;1700–2100 msnm
+634;Raíces del Horizonte 634;Colombia;Villalobos;molido;frutal|caramelo|vino tinto;1700–2100 msnm
+635;Altura del Amanecer 635;México;Caturra;molido;panela|frutal|cacao;1400–1800 msnm
+636;Alma Dorada 636;Guatemala;Mundo Novo;molido;terroso|especias|chocolate;1400–1800 msnm
+637;Cacao Tropical 637;Guatemala;Bourbon;cápsula;frutal|caramelo|vino tinto;1300–1600 msnm
+638;Cedro del Oro 638;Colombia;Pacamara;grano;caramelo|nuez|chocolate;1400–1800 msnm
+639;Brisa Real 639;Guatemala;Bourbon;molido;frutal|caramelo|vino tinto;1400–1800 msnm
+640;Leyenda del Trueno 640;México;Bourbon;grano;panela|frutal|cacao;1500–1900 msnm
+641;Camino del Río 641;Ecuador;Villalobos;grano;panela|frutal|cacao;1200–1500 msnm
+642;Perla del Nevado 642;Colombia;Maragogipe;molido;floral|jazmín|cítrico;1600–2000 msnm
+643;Sendero del Encanto Andino 643;Brasil;Bourbon;molido;frutal|miel|cítrico;1600–2000 msnm
+644;Cacao del Río 644;Perú;Typica;grano;terroso|especias|chocolate;1700–2100 msnm
+645;Cacao del Sol Naciente 645;El Salvador;Maragogipe;cápsula;frutal|caramelo|vino tinto;1700–2100 msnm
+646;Aroma del Trueno 646;Costa Rica;Castillo;cápsula;floral|té negro|frutal;1000–1400 msnm
+647;Río del Tesoro 647;Guatemala;Typica;cápsula;frutal|miel|cítrico;1200–1500 msnm
+648;Selva Tropical 648;Guatemala;Maragogipe;cápsula;frutal|chocolate|floral;1400–1800 msnm
+649;Valle del Valle Sagrado 649;Nicaragua;Castillo;cápsula;floral|jazmín|cítrico;1200–1500 msnm
+650;Fuego del Mundo 650;Nicaragua;Pacamara;cápsula;panela|frutal|cacao;1700–2100 msnm
+651;Cumbre del Nevado 651;Honduras;Pacamara;molido;panela|frutal|cacao;1600–2000 msnm
+652;Mirador del Alba 652;Colombia;Catuai;grano;frutal|caramelo|vino tinto;1500–1900 msnm
+653;Sendero del Horizonte 653;El Salvador;Pacamara;grano;floral|té negro|frutal;1600–2000 msnm
+654;Rayo del Río 654;Ecuador;Bourbon;molido;cítrico|floral|miel;1300–1600 msnm
+655;Horizonte del Espíritu 655;Honduras;Mundo Novo;cápsula;panela|frutal|cacao;1400–1800 msnm
+656;Fuego del Corazón 656;Bolivia;Caturra;cápsula;panela|frutal|cacao;1300–1600 msnm
+657;Alma del Valle Sagrado 657;Brasil;Caturra;cápsula;frutal|miel|cítrico;1200–1500 msnm
+658;Corazón del Río 658;Brasil;Catuai;molido;terroso|especias|chocolate;1700–2100 msnm
+659;Rincón Andina 659;Ecuador;Typica;cápsula;terroso|especias|chocolate;1600–2000 msnm
+660;Brisa del Sol 660;Colombia;Catuai;cápsula;floral|jazmín|cítrico;900–1200 msnm
+661;Mirador Dorada 661;Ecuador;Mundo Novo;grano;floral|jazmín|cítrico;1500–1900 msnm
+662;Reserva Encantada 662;Brasil;Castillo;grano;floral|té negro|frutal;1400–1800 msnm
+663;Selva del Volcán 663;Costa Rica;Bourbon;grano;floral|jazmín|cítrico;1000–1400 msnm
+664;Corazón del Mundo 664;El Salvador;Catuai;molido;panela|frutal|cacao;1300–1600 msnm
+665;Cedro del Camino 665;Ecuador;Caturra;cápsula;frutal|miel|cítrico;1700–2100 msnm
+666;Sol del Mundo 666;Honduras;Catuai;grano;chocolate|nuez|vainilla;1700–2100 msnm
+667;Trueno del Paraíso 667;Ecuador;Bourbon;molido;chocolate|nuez|vainilla;1300–1600 msnm
+668;Joya Nevada 668;México;Maragogipe;grano;frutal|miel|cítrico;1300–1600 msnm
+669;Mirador del Trópico 669;Brasil;Maragogipe;grano;frutal|caramelo|vino tinto;900–1200 msnm
+670;Leyenda Nevada 670;México;Mundo Novo;cápsula;floral|jazmín|cítrico;1300–1600 msnm
+671;Brisa del Trueno 671;Bolivia;Villalobos;grano;frutal|chocolate|floral;900–1200 msnm
+672;Valle del Volcán 672;Brasil;Castillo;molido;frutal|chocolate|floral;900–1200 msnm
+673;Horizonte del Bosque 673;El Salvador;Catuai;cápsula;caramelo|nuez|chocolate;1500–1900 msnm
+674;Joya del Nevado 674;Nicaragua;Pacamara;molido;chocolate|nuez|vainilla;1500–1900 msnm
+675;Sierra del Café Especial 675;Brasil;Geisha;cápsula;terroso|especias|chocolate;900–1200 msnm
+676;Granito del Oro 676;Ecuador;Mundo Novo;cápsula;panela|frutal|cacao;1700–2100 msnm
+677;Tesoro del Encanto 677;Colombia;Caturra;cápsula;frutal|chocolate|floral;1300–1600 msnm
+678;Nube del Maíz 678;Honduras;Geisha;grano;panela|frutal|cacao;900–1200 msnm
+679;Mística Verde 679;Colombia;Villalobos;grano;floral|té negro|frutal;1500–1900 msnm
+680;Cedro del Horizonte Dorado 680;Costa Rica;Castillo;grano;chocolate|nuez|vainilla;1700–2100 msnm
+681;Cedro del Corazón 681;El Salvador;Catuai;grano;chocolate|nuez|vainilla;1300–1600 msnm
+682;Trueno del Sol 682;Guatemala;Bourbon;cápsula;floral|jazmín|cítrico;1600–2000 msnm
+683;Brisa del Tesoro 683;Brasil;Mundo Novo;molido;floral|jazmín|cítrico;1700–2100 msnm
+684;Camino del Sur 684;Bolivia;Mundo Novo;cápsula;floral|jazmín|cítrico;1300–1600 msnm
+685;Raíces del Ande 685;Brasil;Bourbon;molido;cítrico|floral|miel;1200–1500 msnm
+686;Valle Dorada 686;Nicaragua;Maragogipe;grano;cítrico|floral|miel;1400–1800 msnm
+687;Rayo del Alba 687;Guatemala;Bourbon;grano;cítrico|floral|miel;1700–2100 msnm
+688;Esencia del Espíritu 688;Nicaragua;Caturra;cápsula;terroso|especias|chocolate;1000–1400 msnm
+689;Cacao del Café 689;Colombia;Catuai;molido;caramelo|nuez|chocolate;1500–1900 msnm
+690;Luz del Mar 690;Ecuador;Maragogipe;cápsula;chocolate|nuez|vainilla;1500–1900 msnm
+691;Brisa del Jaguar 691;Honduras;Mundo Novo;cápsula;cítrico|floral|miel;1300–1600 msnm
+692;Travesía del Horizonte Azul 692;Brasil;Caturra;cápsula;floral|té negro|frutal;1200–1500 msnm
+693;Joya Tropical 693;Colombia;Bourbon;grano;chocolate|nuez|vainilla;1200–1500 msnm
+694;Alma del Ande 694;México;Mundo Novo;cápsula;frutal|caramelo|vino tinto;1600–2000 msnm
+695;Altura del Oro 695;Honduras;Bourbon;cápsula;floral|jazmín|cítrico;1600–2000 msnm
+696;Joya del Río 696;Brasil;Bourbon;cápsula;floral|té negro|frutal;1300–1600 msnm
+697;Cosecha del Bosque Alto 697;Guatemala;Bourbon;molido;terroso|especias|chocolate;1200–1500 msnm
+698;Travesía del Trueno 698;Bolivia;Maragogipe;grano;cítrico|floral|miel;1600–2000 msnm
+699;Corazón Dorada 699;Perú;Maragogipe;grano;cítrico|floral|miel;1500–1900 msnm
+700;Corazón del Camino 700;Ecuador;Villalobos;molido;cítrico|floral|miel;1000–1400 msnm
+701;Cacao del Lago 701;México;Maragogipe;cápsula;floral|jazmín|cítrico;1000–1400 msnm
+702;Montaña del Corazón 702;Colombia;Castillo;cápsula;panela|frutal|cacao;1700–2100 msnm
+703;Jaguar del Camino 703;México;Maragogipe;molido;chocolate|nuez|vainilla;1200–1500 msnm
+704;Luz del Río 704;Guatemala;Villalobos;grano;frutal|miel|cítrico;1200–1500 msnm
+705;Flor del Viento 705;Brasil;Maragogipe;grano;panela|frutal|cacao;1500–1900 msnm
+706;Río Nevada 706;El Salvador;Typica;grano;cítrico|floral|miel;1000–1400 msnm
+707;Montaña del Río Grande 707;México;Villalobos;grano;frutal|caramelo|vino tinto;1300–1600 msnm
+708;Cascada Verde 708;Colombia;Bourbon;grano;frutal|miel|cítrico;1700–2100 msnm
+709;Cascada del Cacao 709;Ecuador;Typica;grano;caramelo|nuez|chocolate;1600–2000 msnm
+710;Montaña del Espíritu 710;México;Caturra;molido;frutal|miel|cítrico;1700–2100 msnm
+711;Quetzal del Horizonte 711;Guatemala;Pacamara;molido;panela|frutal|cacao;1400–1800 msnm
+712;Luz del Sol 712;Honduras;Maragogipe;cápsula;caramelo|nuez|chocolate;1500–1900 msnm
+713;Reserva del Mar 713;Nicaragua;Geisha;grano;panela|frutal|cacao;1600–2000 msnm
+714;Montaña Real 714;Ecuador;Bourbon;grano;terroso|especias|chocolate;1000–1400 msnm
+715;Camino del Bosque 715;Nicaragua;Catuai;molido;floral|té negro|frutal;900–1200 msnm
+716;Sendero del Horizonte Azul 716;Ecuador;Mundo Novo;grano;frutal|chocolate|floral;1500–1900 msnm
+717;Altura Verde 717;Nicaragua;Geisha;grano;floral|jazmín|cítrico;1600–2000 msnm
+718;Vereda del Valle Sagrado 718;Perú;Bourbon;cápsula;chocolate|nuez|vainilla;1500–1900 msnm
+719;Aroma del Espíritu 719;Colombia;Pacamara;cápsula;chocolate|nuez|vainilla;1300–1600 msnm
+720;Ceiba del Paraíso 720;Colombia;Pacamara;cápsula;frutal|chocolate|floral;1700–2100 msnm
+721;Travesía del Valle Sagrado 721;México;Maragogipe;cápsula;frutal|chocolate|floral;1400–1800 msnm
+722;Camino del Café Especial 722;Honduras;Pacamara;grano;cítrico|floral|miel;1500–1900 msnm
+723;Mística del Horizonte 723;Honduras;Villalobos;molido;caramelo|nuez|chocolate;1400–1800 msnm
+724;Cascada del Café 724;El Salvador;Catuai;grano;frutal|miel|cítrico;1300–1600 msnm
+725;Aurora del Río Grande 725;Costa Rica;Villalobos;molido;frutal|chocolate|floral;1300–1600 msnm
+726;Selva del Amanecer 726;Bolivia;Castillo;grano;frutal|miel|cítrico;900–1200 msnm
+727;Travesía del Encanto 727;Costa Rica;Geisha;grano;frutal|miel|cítrico;1600–2000 msnm
+728;Guacamayo del Valle Sagrado 728;México;Villalobos;grano;cítrico|floral|miel;1600–2000 msnm
+729;Altura del Sol 729;Guatemala;Mundo Novo;grano;frutal|caramelo|vino tinto;1700–2100 msnm
+730;Flor del Volcán 730;Honduras;Catuai;grano;terroso|especias|chocolate;1000–1400 msnm
+731;Vereda del Mundo 731;Honduras;Caturra;molido;caramelo|nuez|chocolate;1500–1900 msnm
+732;Luz del Alba 732;Honduras;Catuai;cápsula;caramelo|nuez|chocolate;900–1200 msnm
+733;Sendero Real 733;Guatemala;Castillo;molido;frutal|miel|cítrico;1300–1600 msnm
+734;Rayo del Paraíso 734;El Salvador;Caturra;grano;caramelo|nuez|chocolate;1500–1900 msnm
+735;Joya del Jaguar 735;Honduras;Geisha;cápsula;frutal|caramelo|vino tinto;1500–1900 msnm
+736;Vereda Nevada 736;Honduras;Maragogipe;grano;caramelo|nuez|chocolate;1000–1400 msnm
+737;Fuente del Nevado 737;Colombia;Castillo;cápsula;frutal|chocolate|floral;1700–2100 msnm
+738;Altura del Café 738;El Salvador;Bourbon;molido;panela|frutal|cacao;1200–1500 msnm
+739;Sierra del Cacao 739;Perú;Bourbon;molido;floral|té negro|frutal;1200–1500 msnm
+740;Altura del Alba 740;Perú;Geisha;molido;panela|frutal|cacao;1500–1900 msnm
+741;Selva del Tesoro 741;Nicaragua;Geisha;molido;chocolate|nuez|vainilla;1700–2100 msnm
+742;Rayo Clásica 742;México;Bourbon;molido;chocolate|nuez|vainilla;1500–1900 msnm
+743;Travesía Mística 743;Colombia;Villalobos;grano;frutal|chocolate|floral;1000–1400 msnm
+744;Colibrí del Cacao 744;Costa Rica;Typica;molido;chocolate|nuez|vainilla;900–1200 msnm
+745;Joya del Oro 745;Honduras;Typica;grano;cítrico|floral|miel;1000–1400 msnm
+746;Corazón Verde 746;Costa Rica;Castillo;grano;terroso|especias|chocolate;1000–1400 msnm
+747;Ceiba del Valle 747;El Salvador;Maragogipe;molido;floral|jazmín|cítrico;1300–1600 msnm
+748;Brisa del Oeste 748;Guatemala;Mundo Novo;cápsula;panela|frutal|cacao;900–1200 msnm
+749;Sendero Andina 749;El Salvador;Mundo Novo;cápsula;panela|frutal|cacao;1300–1600 msnm
+750;Sierra Real 750;Bolivia;Typica;cápsula;floral|jazmín|cítrico;1000–1400 msnm
+751;Brisa del Viento 751;Honduras;Geisha;molido;frutal|miel|cítrico;1500–1900 msnm
+752;Jaguar del Corazón 752;Perú;Castillo;molido;cítrico|floral|miel;1600–2000 msnm
+753;Ceiba del Mundo 753;El Salvador;Catuai;cápsula;panela|frutal|cacao;1700–2100 msnm
+754;Reserva Mística 754;Guatemala;Geisha;molido;floral|jazmín|cítrico;1000–1400 msnm
+755;Encanto Mística 755;Costa Rica;Villalobos;molido;chocolate|nuez|vainilla;1700–2100 msnm
+756;Rayo del Bosque Alto 756;Honduras;Pacamara;grano;frutal|chocolate|floral;1200–1500 msnm
+757;Selva del Lago 757;Costa Rica;Catuai;molido;frutal|chocolate|floral;1400–1800 msnm
+758;Cedro Verde 758;Colombia;Bourbon;cápsula;frutal|chocolate|floral;1700–2100 msnm
+759;Alma del Nevado 759;Bolivia;Pacamara;grano;cítrico|floral|miel;1700–2100 msnm
+760;Fuego Dorada 760;Ecuador;Geisha;cápsula;frutal|miel|cítrico;1700–2100 msnm
+761;Cacao del Este 761;El Salvador;Villalobos;grano;frutal|miel|cítrico;1500–1900 msnm
+762;Aroma del Sol 762;Costa Rica;Bourbon;molido;frutal|chocolate|floral;1300–1600 msnm
+763;Rincón Mística 763;México;Villalobos;grano;chocolate|nuez|vainilla;1700–2100 msnm
+764;Tesoro del Oeste 764;Bolivia;Villalobos;molido;cítrico|floral|miel;1000–1400 msnm
+765;Mirador del Café Especial 765;Perú;Castillo;grano;frutal|caramelo|vino tinto;1500–1900 msnm
+766;Guacamayo del Oro 766;Bolivia;Villalobos;grano;chocolate|nuez|vainilla;1300–1600 msnm
+767;Rayo del Sol 767;Perú;Catuai;molido;terroso|especias|chocolate;1000–1400 msnm
+768;Flor del Espíritu 768;Colombia;Caturra;cápsula;cítrico|floral|miel;1500–1900 msnm
+769;Fuente del Encanto 769;Ecuador;Catuai;molido;frutal|miel|cítrico;1000–1400 msnm
+770;Nube del Sur 770;México;Mundo Novo;grano;frutal|chocolate|floral;1000–1400 msnm
+771;Rayo del Trópico 771;México;Geisha;cápsula;frutal|chocolate|floral;1700–2100 msnm
+772;Leyenda del Río 772;Ecuador;Bourbon;molido;caramelo|nuez|chocolate;1200–1500 msnm
+773;Travesía del Valle 773;Bolivia;Mundo Novo;molido;floral|jazmín|cítrico;1200–1500 msnm
+774;Montaña del Cacao 774;Honduras;Castillo;cápsula;chocolate|nuez|vainilla;1200–1500 msnm
+775;Tesoro del Norte 775;Ecuador;Catuai;molido;frutal|miel|cítrico;900–1200 msnm
+776;Aroma del Jaguar 776;Colombia;Typica;cápsula;frutal|miel|cítrico;1400–1800 msnm
+777;Trueno del Corazón 777;Bolivia;Villalobos;cápsula;cítrico|floral|miel;1300–1600 msnm
+778;Joya del Alba 778;El Salvador;Geisha;cápsula;frutal|chocolate|floral;900–1200 msnm
+779;Trueno Tropical 779;Honduras;Caturra;molido;caramelo|nuez|chocolate;1200–1500 msnm
+780;Quetzal del Este 780;México;Pacamara;grano;frutal|chocolate|floral;900–1200 msnm
+781;Cedro del Sol Naciente 781;Costa Rica;Caturra;cápsula;frutal|miel|cítrico;1400–1800 msnm
+782;Cacao del Río Grande 782;El Salvador;Catuai;grano;frutal|caramelo|vino tinto;1700–2100 msnm
+783;Ceiba del Viento 783;Nicaragua;Castillo;molido;chocolate|nuez|vainilla;1000–1400 msnm
+784;Leyenda del Viento 784;Perú;Geisha;molido;panela|frutal|cacao;900–1200 msnm
+785;Mirador del Sol 785;Ecuador;Typica;molido;floral|jazmín|cítrico;1400–1800 msnm
+786;Quetzal Real 786;Nicaragua;Bourbon;molido;frutal|caramelo|vino tinto;1600–2000 msnm
+787;Granito del Horizonte Dorado 787;Honduras;Castillo;cápsula;frutal|miel|cítrico;1300–1600 msnm
+788;Rayo del Maíz 788;Colombia;Catuai;molido;frutal|chocolate|floral;1400–1800 msnm
+789;Reserva del Sol 789;Perú;Pacamara;molido;frutal|caramelo|vino tinto;900–1200 msnm
+790;Quetzal del Valle Sagrado 790;Nicaragua;Castillo;grano;floral|jazmín|cítrico;900–1200 msnm
+791;Río del Nevado 791;Ecuador;Pacamara;cápsula;panela|frutal|cacao;1200–1500 msnm
+792;Sendero del Ande 792;Ecuador;Mundo Novo;cápsula;frutal|miel|cítrico;1700–2100 msnm
+793;Granito del Camino 793;Costa Rica;Caturra;cápsula;cítrico|floral|miel;1500–1900 msnm
+794;Encanto Andina 794;Brasil;Maragogipe;cápsula;caramelo|nuez|chocolate;1500–1900 msnm
+795;Esencia del Encanto Andino 795;Costa Rica;Maragogipe;grano;cítrico|floral|miel;1700–2100 msnm
+796;Quetzal Clásica 796;Colombia;Catuai;cápsula;frutal|caramelo|vino tinto;1400–1800 msnm
+797;Perla del Horizonte 797;Costa Rica;Typica;grano;frutal|caramelo|vino tinto;1500–1900 msnm
+798;Granito del Café Especial 798;Ecuador;Bourbon;molido;frutal|caramelo|vino tinto;1500–1900 msnm
+799;Corazón del Mar 799;Brasil;Bourbon;cápsula;chocolate|nuez|vainilla;1300–1600 msnm
+800;Mística del Encanto Andino 800;Brasil;Maragogipe;grano;terroso|especias|chocolate;1200–1500 msnm
+801;Selva del Río 801;México;Bourbon;molido;frutal|miel|cítrico;1600–2000 msnm
+802;Río del Cóndor 802;México;Geisha;grano;frutal|chocolate|floral;1300–1600 msnm
+803;Rayo del Horizonte 803;Bolivia;Catuai;cápsula;floral|jazmín|cítrico;1500–1900 msnm
+804;Colibrí del Río Grande 804;Ecuador;Pacamara;cápsula;terroso|especias|chocolate;1600–2000 msnm
+805;Trueno del Encanto Andino 805;Bolivia;Bourbon;molido;floral|té negro|frutal;1300–1600 msnm
+806;Sol del Lago 806;Honduras;Mundo Novo;grano;floral|té negro|frutal;1500–1900 msnm
+807;Horizonte del Mar 807;Perú;Bourbon;cápsula;floral|jazmín|cítrico;1200–1500 msnm
+808;Travesía del Cóndor 808;Colombia;Villalobos;molido;floral|jazmín|cítrico;1400–1800 msnm
+809;Guacamayo Clásica 809;Nicaragua;Mundo Novo;cápsula;floral|té negro|frutal;1200–1500 msnm
+810;Mirador del Norte 810;México;Geisha;molido;caramelo|nuez|chocolate;900–1200 msnm
+811;Esencia del Oro 811;Guatemala;Villalobos;cápsula;frutal|miel|cítrico;1600–2000 msnm
+812;Cacao del Mar 812;México;Pacamara;grano;floral|jazmín|cítrico;1500–1900 msnm
+813;Aroma del Este 813;Bolivia;Catuai;cápsula;chocolate|nuez|vainilla;1500–1900 msnm
+814;Alma del Viento 814;Bolivia;Geisha;grano;terroso|especias|chocolate;1300–1600 msnm
+815;Corazón Clásica 815;Colombia;Castillo;molido;floral|té negro|frutal;1200–1500 msnm
+816;Flor del Valle 816;Colombia;Bourbon;grano;frutal|miel|cítrico;900–1200 msnm
+817;Perla Suprema 817;Honduras;Castillo;molido;frutal|miel|cítrico;1200–1500 msnm
+818;Cascada Tropical 818;Ecuador;Typica;molido;frutal|chocolate|floral;1700–2100 msnm
+819;Encanto del Viento 819;Honduras;Bourbon;cápsula;cítrico|floral|miel;1700–2100 msnm
+820;Joya del Corazón 820;Costa Rica;Pacamara;grano;floral|jazmín|cítrico;1500–1900 msnm
+821;Colibrí del Sol 821;Guatemala;Castillo;grano;frutal|caramelo|vino tinto;900–1200 msnm
+822;Corazón del Espíritu 822;Perú;Villalobos;molido;frutal|chocolate|floral;1200–1500 msnm
+823;Valle del Horizonte Dorado 823;Perú;Castillo;molido;floral|té negro|frutal;1000–1400 msnm
+824;Sierra Verde 824;Brasil;Bourbon;molido;frutal|miel|cítrico;1000–1400 msnm
+825;Río Clásica 825;Bolivia;Maragogipe;molido;chocolate|nuez|vainilla;1300–1600 msnm
+826;Cedro Encantada 826;El Salvador;Pacamara;cápsula;frutal|chocolate|floral;1700–2100 msnm
+827;Fuego del Este 827;El Salvador;Maragogipe;grano;panela|frutal|cacao;1600–2000 msnm
+828;Tesoro del Amanecer 828;El Salvador;Mundo Novo;molido;floral|jazmín|cítrico;1000–1400 msnm
+829;Quetzal del Ande 829;México;Geisha;grano;panela|frutal|cacao;1000–1400 msnm
+830;Corazón del Valle Sagrado 830;México;Catuai;cápsula;floral|jazmín|cítrico;1300–1600 msnm
+831;Montaña del Paraíso 831;Guatemala;Pacamara;grano;frutal|chocolate|floral;1600–2000 msnm
+832;Fuente del Oro 832;El Salvador;Mundo Novo;molido;frutal|miel|cítrico;1600–2000 msnm
+833;Camino Suprema 833;Ecuador;Caturra;molido;chocolate|nuez|vainilla;1500–1900 msnm
+834;Encanto Nevada 834;Bolivia;Castillo;molido;frutal|chocolate|floral;900–1200 msnm
+835;Leyenda Verde 835;México;Typica;cápsula;frutal|caramelo|vino tinto;1400–1800 msnm
+836;Colibrí Dorada 836;Ecuador;Villalobos;molido;frutal|chocolate|floral;900–1200 msnm
+837;Horizonte del Tesoro 837;Ecuador;Bourbon;cápsula;cítrico|floral|miel;900–1200 msnm
+838;Rincón Verde 838;Honduras;Caturra;grano;chocolate|nuez|vainilla;1000–1400 msnm
+839;Río del Sol 839;Ecuador;Catuai;grano;caramelo|nuez|chocolate;1700–2100 msnm
+840;Cedro Dorada 840;Colombia;Caturra;cápsula;chocolate|nuez|vainilla;1200–1500 msnm
+841;Nube del Horizonte 841;México;Castillo;grano;frutal|chocolate|floral;1000–1400 msnm
+842;Maíz del Lago 842;México;Castillo;molido;terroso|especias|chocolate;1200–1500 msnm
+843;Cedro del Amanecer 843;Nicaragua;Typica;grano;caramelo|nuez|chocolate;900–1200 msnm
+844;Sendero del Nevado 844;Honduras;Castillo;grano;cítrico|floral|miel;1500–1900 msnm
+845;Montaña Clásica 845;Bolivia;Pacamara;molido;panela|frutal|cacao;1600–2000 msnm
+846;Esencia del Sol Naciente 846;Costa Rica;Mundo Novo;grano;terroso|especias|chocolate;1200–1500 msnm
+847;Aroma Suprema 847;Brasil;Castillo;molido;frutal|chocolate|floral;1300–1600 msnm
+848;Cumbre del Este 848;Ecuador;Castillo;grano;floral|jazmín|cítrico;1500–1900 msnm
+849;Flor del Trópico 849;Honduras;Typica;grano;panela|frutal|cacao;1700–2100 msnm
+850;Quetzal del Tesoro 850;Costa Rica;Pacamara;molido;caramelo|nuez|chocolate;1700–2100 msnm
+851;Alma del Tesoro 851;Costa Rica;Mundo Novo;molido;panela|frutal|cacao;1500–1900 msnm
+852;Montaña Mística 852;Bolivia;Villalobos;cápsula;frutal|miel|cítrico;1400–1800 msnm
+853;Nube del Horizonte Dorado 853;Costa Rica;Bourbon;molido;chocolate|nuez|vainilla;1300–1600 msnm
+854;Sierra Suprema 854;Guatemala;Catuai;cápsula;chocolate|nuez|vainilla;1300–1600 msnm
+855;Travesía Nevada 855;Honduras;Catuai;grano;panela|frutal|cacao;1300–1600 msnm
+856;Selva del Nevado 856;Brasil;Pacamara;molido;floral|té negro|frutal;1600–2000 msnm
+857;Luz del Horizonte 857;México;Maragogipe;molido;caramelo|nuez|chocolate;1200–1500 msnm
+858;Reserva del Corazón 858;Colombia;Mundo Novo;molido;floral|té negro|frutal;1200–1500 msnm
+859;Camino del Maíz 859;Guatemala;Caturra;molido;caramelo|nuez|chocolate;900–1200 msnm
+860;Trueno Nevada 860;Honduras;Catuai;cápsula;panela|frutal|cacao;1200–1500 msnm
+861;Cedro del Paraíso 861;Honduras;Pacamara;grano;floral|té negro|frutal;1700–2100 msnm
+862;Trueno del Mundo 862;Brasil;Typica;cápsula;floral|té negro|frutal;900–1200 msnm
+863;Aurora del Nevado 863;Brasil;Typica;molido;caramelo|nuez|chocolate;1300–1600 msnm
+864;Corazón del Cóndor 864;Bolivia;Castillo;grano;floral|té negro|frutal;1600–2000 msnm
+865;Rayo del Mundo 865;Bolivia;Mundo Novo;molido;floral|té negro|frutal;1700–2100 msnm
+866;Fuego del Río 866;Guatemala;Typica;grano;floral|jazmín|cítrico;1500–1900 msnm
+867;Sol del Norte 867;Brasil;Pacamara;grano;frutal|caramelo|vino tinto;1200–1500 msnm
+868;Guacamayo Suprema 868;Perú;Geisha;grano;floral|jazmín|cítrico;1700–2100 msnm
+869;Corazón del Amanecer 869;Brasil;Geisha;molido;caramelo|nuez|chocolate;1200–1500 msnm
+870;Tesoro del Valle 870;Perú;Caturra;molido;terroso|especias|chocolate;1000–1400 msnm
+871;Sierra del Sur 871;Honduras;Catuai;molido;terroso|especias|chocolate;1600–2000 msnm
+872;Aurora del Bosque 872;Honduras;Catuai;molido;frutal|chocolate|floral;1000–1400 msnm
+873;Flor del Trueno 873;Nicaragua;Maragogipe;grano;caramelo|nuez|chocolate;1600–2000 msnm
+874;Cascada Nevada 874;México;Pacamara;grano;terroso|especias|chocolate;1400–1800 msnm
+875;Brisa del Bosque 875;Perú;Caturra;cápsula;frutal|caramelo|vino tinto;1700–2100 msnm
+876;Perla del Río Grande 876;El Salvador;Maragogipe;molido;floral|té negro|frutal;1000–1400 msnm
+877;Aroma del Valle 877;Honduras;Pacamara;grano;chocolate|nuez|vainilla;1500–1900 msnm
+878;Flor del Río Grande 878;México;Castillo;grano;panela|frutal|cacao;1400–1800 msnm
+879;Joya del Mundo 879;México;Bourbon;grano;frutal|chocolate|floral;1500–1900 msnm
+880;Alma del Alba 880;México;Maragogipe;cápsula;cítrico|floral|miel;1200–1500 msnm
+881;Sierra del Ande 881;México;Geisha;grano;frutal|chocolate|floral;1000–1400 msnm
+882;Encanto del Sol 882;Honduras;Geisha;grano;caramelo|nuez|chocolate;1300–1600 msnm
+883;Maíz del Horizonte 883;Perú;Bourbon;grano;floral|té negro|frutal;1000–1400 msnm
+884;Aurora del Oeste 884;Nicaragua;Geisha;cápsula;frutal|chocolate|floral;1400–1800 msnm
+885;Sierra del Paraíso 885;Nicaragua;Bourbon;grano;caramelo|nuez|chocolate;1000–1400 msnm
+886;Brisa del Horizonte 886;Bolivia;Maragogipe;molido;cítrico|floral|miel;1300–1600 msnm
+887;Encanto Dorada 887;Ecuador;Catuai;grano;terroso|especias|chocolate;1400–1800 msnm
+888;Fuente del Sur 888;Perú;Typica;grano;frutal|caramelo|vino tinto;1700–2100 msnm
+889;Sendero del Bosque Alto 889;Colombia;Mundo Novo;cápsula;cítrico|floral|miel;1500–1900 msnm
+890;Selva del Sol 890;Colombia;Villalobos;cápsula;frutal|miel|cítrico;1300–1600 msnm
+891;Travesía Tropical 891;Nicaragua;Typica;grano;frutal|chocolate|floral;1700–2100 msnm
+892;Sendero del Corazón 892;Colombia;Geisha;cápsula;frutal|chocolate|floral;1600–2000 msnm
+893;Aroma del Mundo 893;Costa Rica;Catuai;grano;panela|frutal|cacao;1000–1400 msnm
+894;Encanto del Trueno 894;Brasil;Mundo Novo;grano;floral|jazmín|cítrico;1700–2100 msnm
+895;Trueno del Bosque 895;Ecuador;Catuai;molido;chocolate|nuez|vainilla;1000–1400 msnm
+896;Cascada del Paraíso 896;Brasil;Typica;molido;floral|té negro|frutal;1400–1800 msnm
+897;Aurora del Viento 897;Brasil;Bourbon;grano;terroso|especias|chocolate;1400–1800 msnm
+898;Horizonte del Encanto Andino 898;Brasil;Bourbon;molido;cítrico|floral|miel;1400–1800 msnm
+899;Selva del Valle 899;Ecuador;Villalobos;grano;frutal|caramelo|vino tinto;1600–2000 msnm
+900;Sierra del Jaguar 900;Perú;Villalobos;cápsula;caramelo|nuez|chocolate;1600–2000 msnm
+901;Alma del Trópico 901;Bolivia;Typica;grano;frutal|chocolate|floral;1300–1600 msnm
+902;Flor del Este 902;Nicaragua;Geisha;molido;terroso|especias|chocolate;1400–1800 msnm
+903;Cóndor del Amanecer 903;Colombia;Geisha;cápsula;panela|frutal|cacao;1700–2100 msnm
+904;Leyenda Tropical 904;México;Geisha;molido;frutal|caramelo|vino tinto;900–1200 msnm
+905;Cóndor del Corazón 905;Perú;Mundo Novo;molido;chocolate|nuez|vainilla;1600–2000 msnm
+906;Camino Dorada 906;Colombia;Maragogipe;grano;cítrico|floral|miel;900–1200 msnm
+907;Perla del Oro 907;Costa Rica;Maragogipe;molido;chocolate|nuez|vainilla;1500–1900 msnm
+908;Cumbre Mística 908;Honduras;Catuai;grano;panela|frutal|cacao;1600–2000 msnm
+909;Camino del Valle Sagrado 909;Bolivia;Bourbon;grano;frutal|chocolate|floral;1700–2100 msnm
+910;Jaguar del Amanecer 910;Costa Rica;Villalobos;molido;frutal|caramelo|vino tinto;1700–2100 msnm
+911;Mirador del Camino 911;Costa Rica;Castillo;cápsula;frutal|miel|cítrico;1200–1500 msnm
+912;Aurora Clásica 912;Honduras;Geisha;molido;caramelo|nuez|chocolate;1200–1500 msnm
+913;Luz del Volcán 913;Perú;Maragogipe;cápsula;panela|frutal|cacao;1400–1800 msnm
+914;Cóndor del Sol Naciente 914;Perú;Bourbon;grano;floral|jazmín|cítrico;1200–1500 msnm
+915;Rincón del Horizonte Dorado 915;Guatemala;Maragogipe;grano;terroso|especias|chocolate;1400–1800 msnm
+916;Granito del Sol 916;Brasil;Typica;molido;frutal|miel|cítrico;1600–2000 msnm
+917;Flor del Sol 917;Brasil;Pacamara;molido;caramelo|nuez|chocolate;1300–1600 msnm
+918;Valle del Río 918;Bolivia;Pacamara;grano;cítrico|floral|miel;1600–2000 msnm
+919;Leyenda del Horizonte Azul 919;Colombia;Typica;grano;cítrico|floral|miel;1500–1900 msnm
+920;Luz Mística 920;Colombia;Geisha;grano;chocolate|nuez|vainilla;900–1200 msnm
+921;Mirador Mística 921;México;Caturra;grano;panela|frutal|cacao;900–1200 msnm
+922;Esencia Clásica 922;Nicaragua;Castillo;cápsula;floral|té negro|frutal;1600–2000 msnm
+923;Horizonte del Nevado 923;Honduras;Bourbon;molido;frutal|chocolate|floral;1000–1400 msnm
+924;Fuente del Café Especial 924;Honduras;Mundo Novo;cápsula;frutal|caramelo|vino tinto;900–1200 msnm
+925;Camino del Viento 925;Ecuador;Bourbon;cápsula;terroso|especias|chocolate;1300–1600 msnm
+926;Aroma Tropical 926;Bolivia;Typica;molido;terroso|especias|chocolate;1500–1900 msnm
+927;Jaguar del Horizonte Azul 927;Guatemala;Mundo Novo;molido;cítrico|floral|miel;1200–1500 msnm
+928;Nube Andina 928;Honduras;Castillo;molido;cítrico|floral|miel;1200–1500 msnm
+929;Horizonte Andina 929;Honduras;Pacamara;molido;caramelo|nuez|chocolate;1300–1600 msnm
+930;Río Real 930;Honduras;Geisha;cápsula;chocolate|nuez|vainilla;1200–1500 msnm
+931;Altura del Café Especial 931;Honduras;Catuai;molido;cítrico|floral|miel;1500–1900 msnm
+932;Sol del Tesoro 932;Guatemala;Caturra;grano;terroso|especias|chocolate;1500–1900 msnm
+933;Mirador del Bosque Alto 933;Brasil;Maragogipe;molido;caramelo|nuez|chocolate;1400–1800 msnm
+934;Joya del Bosque Alto 934;El Salvador;Bourbon;grano;frutal|chocolate|floral;1300–1600 msnm
+935;Mirador del Mundo 935;Honduras;Castillo;grano;caramelo|nuez|chocolate;1400–1800 msnm
+936;Altura del Horizonte 936;El Salvador;Pacamara;molido;panela|frutal|cacao;1600–2000 msnm
+937;Cacao Verde 937;Colombia;Castillo;cápsula;caramelo|nuez|chocolate;1400–1800 msnm
+938;Camino Real 938;Ecuador;Castillo;grano;frutal|chocolate|floral;1200–1500 msnm
+939;Joya del Lago 939;Costa Rica;Mundo Novo;molido;caramelo|nuez|chocolate;1700–2100 msnm
+940;Sierra del Mundo 940;Bolivia;Bourbon;molido;frutal|chocolate|floral;900–1200 msnm
+941;Granito del Encanto Andino 941;Perú;Maragogipe;cápsula;frutal|chocolate|floral;1400–1800 msnm
+942;Tesoro del Horizonte Azul 942;Brasil;Maragogipe;grano;floral|jazmín|cítrico;1300–1600 msnm
+943;Travesía del Ande 943;Colombia;Pacamara;grano;panela|frutal|cacao;1700–2100 msnm
+944;Maíz del Sol 944;Guatemala;Bourbon;cápsula;floral|jazmín|cítrico;1300–1600 msnm
+945;Fuego del Cóndor 945;El Salvador;Maragogipe;cápsula;panela|frutal|cacao;1500–1900 msnm
+946;Mística del Encanto 946;Guatemala;Typica;grano;frutal|miel|cítrico;1500–1900 msnm
+947;Maíz del Este 947;Costa Rica;Typica;grano;chocolate|nuez|vainilla;1600–2000 msnm
+948;Joya Mística 948;Honduras;Mundo Novo;grano;caramelo|nuez|chocolate;900–1200 msnm
+949;Río del Sol Naciente 949;Guatemala;Typica;cápsula;floral|jazmín|cítrico;1700–2100 msnm
+950;Tesoro Suprema 950;Brasil;Catuai;cápsula;cítrico|floral|miel;1700–2100 msnm
+951;Maíz del Trueno 951;Honduras;Mundo Novo;molido;caramelo|nuez|chocolate;1500–1900 msnm
+952;Rincón del Bosque 952;Ecuador;Mundo Novo;cápsula;cítrico|floral|miel;1000–1400 msnm
+953;Selva Real 953;El Salvador;Typica;cápsula;frutal|caramelo|vino tinto;1400–1800 msnm
+954;Colibrí del Encanto 954;Perú;Geisha;cápsula;floral|té negro|frutal;1600–2000 msnm
+955;Estrella del Volcán 955;El Salvador;Villalobos;grano;frutal|miel|cítrico;1000–1400 msnm
+956;Joya del Cóndor 956;Brasil;Caturra;molido;chocolate|nuez|vainilla;1000–1400 msnm
+957;Joya del Camino 957;Brasil;Geisha;grano;cítrico|floral|miel;1700–2100 msnm
+958;Río del Oro 958;Nicaragua;Caturra;molido;floral|jazmín|cítrico;1400–1800 msnm
+959;Aurora del Jaguar 959;Costa Rica;Maragogipe;grano;floral|té negro|frutal;1200–1500 msnm
+960;Río del Norte 960;El Salvador;Villalobos;cápsula;frutal|chocolate|floral;1400–1800 msnm
+961;Vereda del Trópico 961;Ecuador;Catuai;grano;frutal|miel|cítrico;1300–1600 msnm
+962;Reserva del Valle 962;Costa Rica;Mundo Novo;cápsula;frutal|miel|cítrico;1400–1800 msnm
+963;Cumbre Dorada 963;Nicaragua;Bourbon;molido;floral|té negro|frutal;1500–1900 msnm
+964;Aurora del Mar 964;Perú;Castillo;molido;frutal|miel|cítrico;900–1200 msnm
+965;Alma Suprema 965;Costa Rica;Caturra;molido;cítrico|floral|miel;1500–1900 msnm
+966;Sol del Jaguar 966;Brasil;Geisha;cápsula;floral|jazmín|cítrico;1400–1800 msnm
+967;Estrella del Mundo 967;Nicaragua;Bourbon;molido;frutal|miel|cítrico;1700–2100 msnm
+968;Luz del Este 968;Ecuador;Maragogipe;cápsula;frutal|miel|cítrico;1300–1600 msnm
+969;Travesía del Maíz 969;Perú;Castillo;grano;floral|jazmín|cítrico;900–1200 msnm
+970;Montaña del Trópico 970;Brasil;Catuai;molido;floral|jazmín|cítrico;1200–1500 msnm
+971;Granito del Tesoro 971;Perú;Catuai;molido;panela|frutal|cacao;1700–2100 msnm
+972;Raíces del Valle Sagrado 972;Guatemala;Typica;molido;chocolate|nuez|vainilla;1700–2100 msnm
+973;Jaguar del Cacao 973;Honduras;Pacamara;molido;terroso|especias|chocolate;1400–1800 msnm
+974;Esencia del Trueno 974;Honduras;Bourbon;cápsula;caramelo|nuez|chocolate;1200–1500 msnm
+975;Alma del Lago 975;Perú;Typica;cápsula;frutal|caramelo|vino tinto;1000–1400 msnm
+976;Tesoro del Este 976;Colombia;Catuai;molido;chocolate|nuez|vainilla;1700–2100 msnm
+977;Rincón Clásica 977;México;Mundo Novo;grano;floral|jazmín|cítrico;1300–1600 msnm
+978;Rayo Suprema 978;Honduras;Maragogipe;grano;frutal|chocolate|floral;1500–1900 msnm
+979;Raíces del Río Grande 979;Nicaragua;Villalobos;molido;floral|jazmín|cítrico;1400–1800 msnm
+980;Quetzal del Cacao 980;Bolivia;Catuai;cápsula;frutal|miel|cítrico;900–1200 msnm
+981;Brisa del Paraíso 981;Costa Rica;Bourbon;molido;chocolate|nuez|vainilla;1700–2100 msnm
+982;Alma del Cacao 982;Costa Rica;Villalobos;grano;panela|frutal|cacao;1200–1500 msnm
+983;Tesoro del Oro 983;El Salvador;Geisha;grano;caramelo|nuez|chocolate;1300–1600 msnm
+984;Rincón del Bosque Alto 984;Guatemala;Typica;cápsula;frutal|chocolate|floral;1000–1400 msnm
+985;Colibrí del Jaguar 985;Nicaragua;Pacamara;grano;frutal|miel|cítrico;1000–1400 msnm
+986;Jaguar del Oro 986;Guatemala;Typica;molido;terroso|especias|chocolate;900–1200 msnm
+987;Aurora Tropical 987;México;Castillo;cápsula;chocolate|nuez|vainilla;1000–1400 msnm
+988;Fuego del Sol 988;Honduras;Pacamara;cápsula;frutal|miel|cítrico;1200–1500 msnm
+989;Sierra del Río 989;Nicaragua;Villalobos;cápsula;frutal|chocolate|floral;1200–1500 msnm
+990;Corazón del Sur 990;Guatemala;Typica;molido;floral|té negro|frutal;900–1200 msnm
+991;Travesía del Jaguar 991;Ecuador;Pacamara;cápsula;caramelo|nuez|chocolate;1500–1900 msnm
+992;Sol del Sol 992;Honduras;Castillo;grano;floral|jazmín|cítrico;1600–2000 msnm
+993;Cedro del Este 993;Colombia;Castillo;grano;frutal|miel|cítrico;1700–2100 msnm
+994;Altura Dorada 994;Guatemala;Geisha;grano;cítrico|floral|miel;1700–2100 msnm
+995;Selva del Encanto Andino 995;Ecuador;Geisha;grano;caramelo|nuez|chocolate;1400–1800 msnm
+996;Joya del Maíz 996;Bolivia;Catuai;cápsula;cítrico|floral|miel;1400–1800 msnm
+997;Puerta del Oro 997;México;Pacamara;cápsula;panela|frutal|cacao;900–1200 msnm
+998;Jaguar Tropical 998;Colombia;Typica;grano;frutal|caramelo|vino tinto;1200–1500 msnm
+999;Nube del Cóndor 999;Colombia;Catuai;molido;cítrico|floral|miel;1200–1500 msnm
+1000;Encanto del Jaguar 1000;Perú;Catuai;grano;frutal|miel|cítrico;1200–1500 msnm
+1001;Colibrí del Viento 1001;Ecuador;Caturra;cápsula;cítrico|floral|miel;900–1200 msnm
+1002;Alma Verde 1002;México;Catuai;molido;floral|jazmín|cítrico;1700–2100 msnm
+1003;Perla del Alba 1003;México;Maragogipe;grano;frutal|chocolate|floral;900–1200 msnm
+1004;Colibrí Nevada 1004;Colombia;Mundo Novo;molido;cítrico|floral|miel;1500–1900 msnm
+1005;Sol del Cacao 1005;El Salvador;Geisha;molido;floral|té negro|frutal;900–1200 msnm
+1006;Puerta del Horizonte 1006;Ecuador;Catuai;molido;frutal|chocolate|floral;1200–1500 msnm
+1007;Cumbre del Valle Sagrado 1007;Honduras;Maragogipe;molido;cítrico|floral|miel;1200–1500 msnm
+1008;Cumbre del Río 1008;Nicaragua;Bourbon;grano;frutal|miel|cítrico;900–1200 msnm
+1009;Puerta del Horizonte Azul 1009;El Salvador;Caturra;cápsula;frutal|chocolate|floral;1000–1400 msnm
+1010;Jaguar Real 1010;Honduras;Caturra;molido;chocolate|nuez|vainilla;1700–2100 msnm
+1011;Puerta del Viento 1011;Colombia;Typica;molido;floral|jazmín|cítrico;1700–2100 msnm
+1012;Cosecha Dorada 1012;Colombia;Maragogipe;grano;frutal|miel|cítrico;1300–1600 msnm
+1013;Aurora del Norte 1013;Colombia;Geisha;cápsula;caramelo|nuez|chocolate;1500–1900 msnm
+1014;Mirador del Encanto Andino 1014;Costa Rica;Pacamara;molido;chocolate|nuez|vainilla;900–1200 msnm
+1015;Montaña del Sur 1015;México;Mundo Novo;cápsula;caramelo|nuez|chocolate;900–1200 msnm
+1016;Sol Mística 1016;Costa Rica;Geisha;molido;cítrico|floral|miel;900–1200 msnm
+1017;Travesía del Sur 1017;Honduras;Villalobos;grano;frutal|caramelo|vino tinto;1600–2000 msnm
+1018;Mística Suprema 1018;Brasil;Typica;grano;floral|té negro|frutal;1200–1500 msnm
+1019;Aroma del Volcán 1019;Costa Rica;Mundo Novo;molido;frutal|miel|cítrico;1500–1900 msnm
+1020;Brisa del Mar 1020;Colombia;Maragogipe;molido;chocolate|nuez|vainilla;1400–1800 msnm
+1021;Valle del Cóndor 1021;Colombia;Geisha;cápsula;floral|té negro|frutal;1300–1600 msnm
+1022;Estrella del Corazón 1022;Guatemala;Geisha;cápsula;panela|frutal|cacao;1600–2000 msnm
+1023;Travesía del Encanto Andino 1023;Costa Rica;Villalobos;molido;terroso|especias|chocolate;900–1200 msnm
+1024;Selva del Horizonte 1024;Brasil;Geisha;molido;panela|frutal|cacao;1700–2100 msnm
+1025;Cumbre del Horizonte Dorado 1025;Brasil;Catuai;cápsula;chocolate|nuez|vainilla;1400–1800 msnm
+1026;Cedro del Jaguar 1026;Perú;Geisha;molido;frutal|chocolate|floral;1200–1500 msnm
+1027;Mirador Verde 1027;Costa Rica;Catuai;cápsula;cítrico|floral|miel;1600–2000 msnm
+1028;Estrella del Bosque Alto 1028;Honduras;Pacamara;cápsula;terroso|especias|chocolate;1400–1800 msnm
+1029;Cedro del Bosque Alto 1029;Ecuador;Villalobos;cápsula;chocolate|nuez|vainilla;1400–1800 msnm
+1030;Cacao del Corazón 1030;Nicaragua;Bourbon;molido;frutal|miel|cítrico;1700–2100 msnm
+1031;Fuente del Horizonte 1031;Colombia;Geisha;cápsula;panela|frutal|cacao;1500–1900 msnm
+1032;Puerta del Oeste 1032;Colombia;Mundo Novo;molido;frutal|caramelo|vino tinto;1200–1500 msnm
+1033;Sol del Alba 1033;México;Geisha;molido;chocolate|nuez|vainilla;1200–1500 msnm
+1034;Perla Clásica 1034;Nicaragua;Catuai;cápsula;floral|jazmín|cítrico;1000–1400 msnm
+1035;Fuego del Mar 1035;Nicaragua;Catuai;grano;cítrico|floral|miel;1000–1400 msnm
+1036;Cedro del Ande 1036;El Salvador;Caturra;molido;cítrico|floral|miel;900–1200 msnm
+1037;Sierra del Horizonte Azul 1037;Nicaragua;Bourbon;grano;terroso|especias|chocolate;1200–1500 msnm
+1038;Sol Verde 1038;Nicaragua;Typica;grano;floral|té negro|frutal;1300–1600 msnm
+1039;Horizonte del Horizonte Azul 1039;Guatemala;Villalobos;cápsula;panela|frutal|cacao;1400–1800 msnm
+1040;Valle del Paraíso 1040;Bolivia;Maragogipe;grano;terroso|especias|chocolate;1500–1900 msnm
+1041;Fuente del Trópico 1041;Nicaragua;Maragogipe;molido;caramelo|nuez|chocolate;1300–1600 msnm
+1042;Altura del Cóndor 1042;Nicaragua;Maragogipe;molido;floral|té negro|frutal;1500–1900 msnm
+1043;Cedro Nevada 1043;El Salvador;Catuai;molido;cítrico|floral|miel;900–1200 msnm
+1044;Camino del Sol Naciente 1044;Brasil;Pacamara;grano;chocolate|nuez|vainilla;1300–1600 msnm
+1045;Cedro del Trópico 1045;Perú;Bourbon;cápsula;floral|té negro|frutal;1700–2100 msnm
+1046;Valle del Mundo 1046;Guatemala;Castillo;cápsula;floral|té negro|frutal;1400–1800 msnm
+1047;Fuente del Mar 1047;México;Caturra;cápsula;frutal|miel|cítrico;1200–1500 msnm
+1048;Brisa del Horizonte Azul 1048;Nicaragua;Catuai;molido;chocolate|nuez|vainilla;1600–2000 msnm
+1049;Perla del Horizonte Dorado 1049;Ecuador;Bourbon;grano;chocolate|nuez|vainilla;1200–1500 msnm
+1050;Sendero del Valle Sagrado 1050;Brasil;Caturra;grano;frutal|caramelo|vino tinto;1500–1900 msnm
+1051;Cóndor del Valle 1051;Guatemala;Maragogipe;cápsula;caramelo|nuez|chocolate;900–1200 msnm
+1052;Sol del Camino 1052;Ecuador;Pacamara;cápsula;caramelo|nuez|chocolate;1000–1400 msnm
+1053;Trueno del Volcán 1053;Honduras;Geisha;molido;panela|frutal|cacao;1200–1500 msnm
+1054;Brisa Verde 1054;Nicaragua;Geisha;molido;terroso|especias|chocolate;1400–1800 msnm
+1055;Nube del Oro 1055;El Salvador;Geisha;grano;panela|frutal|cacao;1200–1500 msnm
+1056;Río del Bosque Alto 1056;El Salvador;Typica;molido;panela|frutal|cacao;1500–1900 msnm
+1057;Perla del Sur 1057;Nicaragua;Caturra;grano;frutal|miel|cítrico;1400–1800 msnm
+1058;Cascada del Norte 1058;Guatemala;Geisha;cápsula;frutal|miel|cítrico;1700–2100 msnm
+1059;Perla Encantada 1059;México;Castillo;grano;frutal|miel|cítrico;900–1200 msnm
+1060;Reserva del Oeste 1060;Guatemala;Maragogipe;cápsula;panela|frutal|cacao;1200–1500 msnm
+1061;Cumbre del Bosque 1061;Guatemala;Maragogipe;molido;floral|té negro|frutal;1300–1600 msnm
+1062;Colibrí del Valle Sagrado 1062;Honduras;Catuai;grano;chocolate|nuez|vainilla;1000–1400 msnm
+1063;Mirador del Río Grande 1063;Perú;Villalobos;molido;panela|frutal|cacao;1200–1500 msnm
+1064;Cascada Real 1064;Costa Rica;Catuai;molido;floral|té negro|frutal;900–1200 msnm
+1065;Rayo del Este 1065;Honduras;Villalobos;cápsula;frutal|miel|cítrico;1400–1800 msnm
+1066;Estrella Andina 1066;Bolivia;Geisha;molido;frutal|chocolate|floral;1300–1600 msnm
+1067;Perla del Encanto Andino 1067;El Salvador;Typica;molido;chocolate|nuez|vainilla;1400–1800 msnm
+1068;Ceiba Tropical 1068;Brasil;Mundo Novo;grano;frutal|miel|cítrico;1000–1400 msnm
+1069;Río del Espíritu 1069;Honduras;Geisha;molido;panela|frutal|cacao;1300–1600 msnm
+1070;Sol del Café 1070;Guatemala;Mundo Novo;molido;panela|frutal|cacao;1200–1500 msnm
+1071;Jaguar del Volcán 1071;Guatemala;Mundo Novo;grano;caramelo|nuez|chocolate;1300–1600 msnm
+1072;Fuente del Viento 1072;Bolivia;Catuai;grano;floral|jazmín|cítrico;1300–1600 msnm
+1073;Altura del Bosque Alto 1073;Guatemala;Caturra;molido;caramelo|nuez|chocolate;1600–2000 msnm
+1074;Aroma del Sur 1074;Nicaragua;Mundo Novo;grano;caramelo|nuez|chocolate;1000–1400 msnm
+1075;Fuente del Volcán 1075;Ecuador;Castillo;molido;floral|té negro|frutal;1300–1600 msnm
+1076;Fuente Suprema 1076;Ecuador;Villalobos;grano;chocolate|nuez|vainilla;1000–1400 msnm
+1077;Tesoro del Paraíso 1077;Honduras;Bourbon;cápsula;caramelo|nuez|chocolate;1300–1600 msnm
+1078;Guacamayo del Café 1078;Nicaragua;Bourbon;grano;frutal|miel|cítrico;1700–2100 msnm
+1079;Maíz del Café 1079;México;Maragogipe;grano;floral|té negro|frutal;1200–1500 msnm
+1080;Corazón del Café 1080;Colombia;Castillo;grano;caramelo|nuez|chocolate;1600–2000 msnm
+1081;Valle del Cacao 1081;Honduras;Villalobos;cápsula;cítrico|floral|miel;1600–2000 msnm
+1082;Cóndor del Camino 1082;Ecuador;Typica;molido;floral|té negro|frutal;1600–2000 msnm
+1083;Sierra del Oeste 1083;Honduras;Geisha;grano;cítrico|floral|miel;1400–1800 msnm
+1084;Guacamayo del Amanecer 1084;Colombia;Maragogipe;grano;cítrico|floral|miel;1400–1800 msnm
+1085;Fuente del Oeste 1085;Colombia;Mundo Novo;molido;floral|té negro|frutal;1200–1500 msnm
+1086;Quetzal del Maíz 1086;Ecuador;Geisha;molido;caramelo|nuez|chocolate;900–1200 msnm
+1087;Sol del Volcán 1087;Nicaragua;Bourbon;molido;floral|jazmín|cítrico;1500–1900 msnm
+1088;Encanto Tropical 1088;México;Catuai;grano;cítrico|floral|miel;1200–1500 msnm
+1089;Fuente del Cóndor 1089;Guatemala;Castillo;grano;floral|té negro|frutal;1300–1600 msnm
+1090;Joya del Tesoro 1090;Bolivia;Maragogipe;cápsula;floral|té negro|frutal;900–1200 msnm
+1091;Leyenda del Lago 1091;Nicaragua;Mundo Novo;grano;panela|frutal|cacao;900–1200 msnm
+1092;Sierra del Valle Sagrado 1092;Bolivia;Villalobos;cápsula;chocolate|nuez|vainilla;1600–2000 msnm
+1093;Fuente del Camino 1093;Perú;Catuai;cápsula;frutal|caramelo|vino tinto;1400–1800 msnm
+1094;Luz del Cóndor 1094;Guatemala;Villalobos;molido;chocolate|nuez|vainilla;900–1200 msnm
+1095;Perla Nevada 1095;Nicaragua;Catuai;grano;panela|frutal|cacao;1700–2100 msnm
+1096;Luz del Valle 1096;Brasil;Caturra;molido;terroso|especias|chocolate;900–1200 msnm
+1097;Rincón del Café 1097;Colombia;Geisha;cápsula;panela|frutal|cacao;1700–2100 msnm
+1098;Valle del Alba 1098;Ecuador;Typica;grano;floral|jazmín|cítrico;900–1200 msnm
+1099;Valle Mística 1099;México;Pacamara;grano;floral|té negro|frutal;1600–2000 msnm
+1100;Mirador Nevada 1100;Brasil;Geisha;molido;floral|té negro|frutal;1200–1500 msnm
+1101;Rincón del Paraíso 1101;Ecuador;Caturra;cápsula;frutal|caramelo|vino tinto;1200–1500 msnm
+1102;Cedro del Maíz 1102;Brasil;Maragogipe;cápsula;frutal|miel|cítrico;1400–1800 msnm
+1103;Corazón Andina 1103;Perú;Caturra;molido;floral|jazmín|cítrico;1600–2000 msnm
+1104;Flor del Bosque 1104;México;Typica;cápsula;caramelo|nuez|chocolate;1000–1400 msnm
+1105;Aurora del Horizonte Azul 1105;Costa Rica;Maragogipe;molido;cítrico|floral|miel;1700–2100 msnm
+1106;Cumbre del Bosque Alto 1106;Nicaragua;Castillo;molido;cítrico|floral|miel;1300–1600 msnm
+1107;Rincón del Horizonte Azul 1107;Colombia;Maragogipe;molido;frutal|chocolate|floral;900–1200 msnm
+1108;Vereda del Este 1108;Perú;Mundo Novo;molido;frutal|miel|cítrico;1500–1900 msnm
+1109;Montaña del Jaguar 1109;México;Mundo Novo;grano;terroso|especias|chocolate;1400–1800 msnm
+1110;Leyenda del Tesoro 1110;Brasil;Maragogipe;cápsula;frutal|miel|cítrico;1000–1400 msnm
+1111;Rayo del Café Especial 1111;El Salvador;Mundo Novo;cápsula;frutal|chocolate|floral;1200–1500 msnm
+1112;Mirador del Valle 1112;México;Maragogipe;grano;terroso|especias|chocolate;1600–2000 msnm
+1113;Esencia del Cóndor 1113;Honduras;Castillo;molido;cítrico|floral|miel;1600–2000 msnm
+1114;Joya del Oeste 1114;Brasil;Castillo;cápsula;terroso|especias|chocolate;1600–2000 msnm
+1115;Puerta del Maíz 1115;Brasil;Caturra;molido;frutal|caramelo|vino tinto;1700–2100 msnm
+1116;Mística Andina 1116;Ecuador;Typica;grano;caramelo|nuez|chocolate;1000–1400 msnm
+1117;Jaguar del Río Grande 1117;Costa Rica;Mundo Novo;molido;terroso|especias|chocolate;900–1200 msnm
+1118;Leyenda del Sol Naciente 1118;Colombia;Bourbon;cápsula;chocolate|nuez|vainilla;1400–1800 msnm
+1119;Puerta del Amanecer 1119;Colombia;Pacamara;grano;chocolate|nuez|vainilla;1300–1600 msnm
+1120;Joya del Ande 1120;El Salvador;Typica;grano;caramelo|nuez|chocolate;1000–1400 msnm
+1121;Reserva del Cóndor 1121;México;Geisha;grano;frutal|chocolate|floral;1200–1500 msnm
+1122;Cascada del Mar 1122;México;Bourbon;grano;panela|frutal|cacao;1300–1600 msnm
+1123;Cóndor del Nevado 1123;Colombia;Catuai;cápsula;frutal|chocolate|floral;1700–2100 msnm
+1124;Selva del Sur 1124;Costa Rica;Castillo;cápsula;cítrico|floral|miel;1200–1500 msnm
+1125;Cóndor del Río Grande 1125;Brasil;Maragogipe;cápsula;floral|jazmín|cítrico;900–1200 msnm
+1126;Flor del Cóndor 1126;Bolivia;Typica;cápsula;cítrico|floral|miel;1600–2000 msnm
+1127;Estrella del Sur 1127;Guatemala;Geisha;cápsula;caramelo|nuez|chocolate;1700–2100 msnm
+1128;Reserva del Ande 1128;Bolivia;Typica;molido;terroso|especias|chocolate;1400–1800 msnm
+1129;Brisa del Este 1129;Nicaragua;Caturra;molido;chocolate|nuez|vainilla;1300–1600 msnm
+1130;Ceiba del Trópico 1130;Honduras;Typica;molido;terroso|especias|chocolate;1500–1900 msnm
+1131;Cóndor del Trópico 1131;Ecuador;Bourbon;cápsula;frutal|miel|cítrico;900–1200 msnm
+1132;Ceiba del Oro 1132;Ecuador;Maragogipe;grano;frutal|chocolate|floral;1200–1500 msnm
+1133;Cascada del Valle Sagrado 1133;Guatemala;Castillo;molido;panela|frutal|cacao;1700–2100 msnm
+1134;Raíces del Horizonte 1134;Costa Rica;Catuai;molido;chocolate|nuez|vainilla;1300–1600 msnm
+1135;Altura del Amanecer 1135;Perú;Mundo Novo;grano;frutal|chocolate|floral;1400–1800 msnm
+1136;Alma Dorada 1136;Nicaragua;Pacamara;molido;frutal|miel|cítrico;1200–1500 msnm
+1137;Cacao Tropical 1137;Perú;Maragogipe;cápsula;floral|jazmín|cítrico;1200–1500 msnm
+1138;Cedro del Oro 1138;Costa Rica;Typica;cápsula;chocolate|nuez|vainilla;1600–2000 msnm
+1139;Brisa Real 1139;El Salvador;Pacamara;grano;frutal|caramelo|vino tinto;1300–1600 msnm
+1140;Leyenda del Trueno 1140;Colombia;Mundo Novo;grano;frutal|miel|cítrico;1400–1800 msnm
+1141;Camino del Río 1141;Bolivia;Catuai;molido;panela|frutal|cacao;900–1200 msnm
+1142;Perla del Nevado 1142;Costa Rica;Geisha;molido;chocolate|nuez|vainilla;1500–1900 msnm
+1143;Sendero del Encanto Andino 1143;Perú;Typica;cápsula;frutal|chocolate|floral;1000–1400 msnm
+1144;Cacao del Río 1144;Colombia;Geisha;molido;panela|frutal|cacao;1600–2000 msnm
+1145;Cacao del Sol Naciente 1145;México;Catuai;cápsula;terroso|especias|chocolate;1700–2100 msnm
+1146;Aroma del Trueno 1146;Colombia;Bourbon;grano;cítrico|floral|miel;1300–1600 msnm
+1147;Río del Tesoro 1147;Ecuador;Villalobos;molido;frutal|caramelo|vino tinto;1700–2100 msnm
+1148;Selva Tropical 1148;Bolivia;Bourbon;molido;caramelo|nuez|chocolate;1500–1900 msnm
+1149;Valle del Valle Sagrado 1149;El Salvador;Caturra;grano;frutal|chocolate|floral;1500–1900 msnm
+1150;Fuego del Mundo 1150;Bolivia;Typica;grano;floral|jazmín|cítrico;1400–1800 msnm
+1151;Cumbre del Nevado 1151;El Salvador;Maragogipe;molido;panela|frutal|cacao;1700–2100 msnm
+1152;Mirador del Alba 1152;Bolivia;Caturra;cápsula;floral|jazmín|cítrico;1600–2000 msnm
+1153;Sendero del Horizonte 1153;El Salvador;Caturra;molido;frutal|caramelo|vino tinto;1300–1600 msnm
+1154;Rayo del Río 1154;Colombia;Maragogipe;grano;floral|té negro|frutal;1500–1900 msnm
+1155;Horizonte del Espíritu 1155;Nicaragua;Typica;molido;caramelo|nuez|chocolate;900–1200 msnm
+1156;Fuego del Corazón 1156;Honduras;Pacamara;molido;floral|té negro|frutal;1700–2100 msnm
+1157;Alma del Valle Sagrado 1157;Guatemala;Catuai;grano;panela|frutal|cacao;1500–1900 msnm
+1158;Corazón del Río 1158;Guatemala;Caturra;grano;floral|té negro|frutal;1700–2100 msnm
+1159;Rincón Andina 1159;Colombia;Geisha;cápsula;cítrico|floral|miel;1400–1800 msnm
+1160;Brisa del Sol 1160;Perú;Mundo Novo;cápsula;floral|té negro|frutal;1700–2100 msnm
+1161;Mirador Dorada 1161;Colombia;Castillo;molido;caramelo|nuez|chocolate;1500–1900 msnm
+1162;Reserva Encantada 1162;Ecuador;Maragogipe;molido;floral|té negro|frutal;1000–1400 msnm
+1163;Selva del Volcán 1163;Perú;Mundo Novo;grano;panela|frutal|cacao;1400–1800 msnm
+1164;Corazón del Mundo 1164;México;Catuai;grano;frutal|caramelo|vino tinto;900–1200 msnm
+1165;Cedro del Camino 1165;Honduras;Typica;grano;frutal|chocolate|floral;1500–1900 msnm
+1166;Sol del Mundo 1166;Bolivia;Castillo;molido;floral|jazmín|cítrico;900–1200 msnm
+1167;Trueno del Paraíso 1167;Perú;Pacamara;grano;terroso|especias|chocolate;1200–1500 msnm
+1168;Joya Nevada 1168;Costa Rica;Pacamara;grano;terroso|especias|chocolate;1400–1800 msnm
+1169;Mirador del Trópico 1169;Nicaragua;Catuai;grano;frutal|chocolate|floral;1200–1500 msnm
+1170;Leyenda Nevada 1170;El Salvador;Bourbon;grano;floral|jazmín|cítrico;1700–2100 msnm
+1171;Brisa del Trueno 1171;Guatemala;Typica;grano;floral|té negro|frutal;900–1200 msnm
+1172;Valle del Volcán 1172;Costa Rica;Caturra;grano;floral|té negro|frutal;1500–1900 msnm
+1173;Horizonte del Bosque 1173;Brasil;Villalobos;grano;chocolate|nuez|vainilla;1000–1400 msnm
+1174;Joya del Nevado 1174;El Salvador;Caturra;grano;panela|frutal|cacao;1300–1600 msnm
+1175;Sierra del Café Especial 1175;Ecuador;Maragogipe;cápsula;cítrico|floral|miel;1300–1600 msnm
+1176;Granito del Oro 1176;Ecuador;Typica;grano;frutal|chocolate|floral;1400–1800 msnm
+1177;Tesoro del Encanto 1177;Brasil;Caturra;grano;caramelo|nuez|chocolate;1700–2100 msnm
+1178;Nube del Maíz 1178;Nicaragua;Bourbon;molido;floral|té negro|frutal;1700–2100 msnm
+1179;Mística Verde 1179;México;Castillo;molido;terroso|especias|chocolate;1300–1600 msnm
+1180;Cedro del Horizonte Dorado 1180;Nicaragua;Typica;grano;cítrico|floral|miel;1200–1500 msnm
+1181;Cedro del Corazón 1181;Guatemala;Villalobos;cápsula;terroso|especias|chocolate;1600–2000 msnm
+1182;Trueno del Sol 1182;Costa Rica;Typica;molido;floral|té negro|frutal;1600–2000 msnm
+1183;Brisa del Tesoro 1183;Perú;Catuai;molido;caramelo|nuez|chocolate;1200–1500 msnm
+1184;Camino del Sur 1184;Brasil;Villalobos;molido;floral|jazmín|cítrico;1300–1600 msnm
+1185;Raíces del Ande 1185;México;Catuai;cápsula;frutal|chocolate|floral;1000–1400 msnm
+1186;Valle Dorada 1186;Honduras;Castillo;cápsula;frutal|miel|cítrico;1200–1500 msnm
+1187;Rayo del Alba 1187;Ecuador;Bourbon;molido;caramelo|nuez|chocolate;900–1200 msnm
+1188;Esencia del Espíritu 1188;Nicaragua;Mundo Novo;cápsula;cítrico|floral|miel;1200–1500 msnm
+1189;Cacao del Café 1189;Ecuador;Villalobos;molido;panela|frutal|cacao;1200–1500 msnm
+1190;Luz del Mar 1190;El Salvador;Castillo;molido;floral|jazmín|cítrico;1200–1500 msnm
+1191;Brisa del Jaguar 1191;Brasil;Villalobos;grano;floral|té negro|frutal;1000–1400 msnm
+1192;Travesía del Horizonte Azul 1192;Brasil;Mundo Novo;grano;panela|frutal|cacao;900–1200 msnm
+1193;Joya Tropical 1193;Bolivia;Geisha;cápsula;floral|té negro|frutal;1200–1500 msnm
+1194;Alma del Ande 1194;Honduras;Castillo;grano;floral|té negro|frutal;1300–1600 msnm
+1195;Altura del Oro 1195;Nicaragua;Caturra;grano;floral|té negro|frutal;1300–1600 msnm
+1196;Joya del Río 1196;Bolivia;Maragogipe;molido;cítrico|floral|miel;1400–1800 msnm
+1197;Cosecha del Bosque Alto 1197;Brasil;Catuai;cápsula;floral|té negro|frutal;900–1200 msnm
+1198;Travesía del Trueno 1198;Ecuador;Bourbon;grano;caramelo|nuez|chocolate;1000–1400 msnm
+1199;Corazón Dorada 1199;México;Bourbon;grano;floral|té negro|frutal;1600–2000 msnm
+1200;Corazón del Camino 1200;Nicaragua;Maragogipe;molido;floral|té negro|frutal;1700–2100 msnm
+1201;Cacao del Lago 1201;Brasil;Catuai;grano;cítrico|floral|miel;1300–1600 msnm
+1202;Montaña del Corazón 1202;Ecuador;Catuai;molido;panela|frutal|cacao;1000–1400 msnm
+1203;Jaguar del Camino 1203;Ecuador;Mundo Novo;molido;chocolate|nuez|vainilla;1700–2100 msnm
+1204;Luz del Río 1204;Brasil;Maragogipe;grano;terroso|especias|chocolate;1300–1600 msnm
+1205;Flor del Viento 1205;Bolivia;Bourbon;grano;terroso|especias|chocolate;1700–2100 msnm
+1206;Río Nevada 1206;México;Castillo;cápsula;floral|jazmín|cítrico;1500–1900 msnm
+1207;Montaña del Río Grande 1207;Guatemala;Villalobos;cápsula;panela|frutal|cacao;1700–2100 msnm
+1208;Cascada Verde 1208;Costa Rica;Caturra;grano;caramelo|nuez|chocolate;1000–1400 msnm
+1209;Cascada del Cacao 1209;Guatemala;Villalobos;cápsula;frutal|caramelo|vino tinto;1200–1500 msnm
+1210;Montaña del Espíritu 1210;Honduras;Pacamara;cápsula;frutal|chocolate|floral;900–1200 msnm
+1211;Quetzal del Horizonte 1211;Costa Rica;Catuai;grano;panela|frutal|cacao;1600–2000 msnm
+1212;Luz del Sol 1212;Costa Rica;Bourbon;grano;floral|jazmín|cítrico;1400–1800 msnm
+1213;Reserva del Mar 1213;Nicaragua;Caturra;molido;frutal|miel|cítrico;1500–1900 msnm
+1214;Montaña Real 1214;Guatemala;Castillo;grano;floral|té negro|frutal;1700–2100 msnm
+1215;Camino del Bosque 1215;México;Catuai;molido;frutal|chocolate|floral;1300–1600 msnm
+1216;Sendero del Horizonte Azul 1216;México;Maragogipe;molido;frutal|miel|cítrico;1700–2100 msnm
+1217;Altura Verde 1217;México;Bourbon;cápsula;terroso|especias|chocolate;1400–1800 msnm
+1218;Vereda del Valle Sagrado 1218;Brasil;Caturra;molido;terroso|especias|chocolate;1600–2000 msnm
+1219;Aroma del Espíritu 1219;Honduras;Geisha;grano;frutal|caramelo|vino tinto;1500–1900 msnm
+1220;Ceiba del Paraíso 1220;Perú;Villalobos;grano;floral|té negro|frutal;1700–2100 msnm
+1221;Travesía del Valle Sagrado 1221;Ecuador;Pacamara;cápsula;panela|frutal|cacao;900–1200 msnm
+1222;Camino del Café Especial 1222;Honduras;Bourbon;cápsula;floral|jazmín|cítrico;1000–1400 msnm
+1223;Mística del Horizonte 1223;Bolivia;Castillo;molido;floral|jazmín|cítrico;1500–1900 msnm
+1224;Cascada del Café 1224;Ecuador;Castillo;cápsula;terroso|especias|chocolate;1400–1800 msnm
+1225;Aurora del Río Grande 1225;Ecuador;Pacamara;grano;frutal|chocolate|floral;1400–1800 msnm
+1226;Selva del Amanecer 1226;Guatemala;Mundo Novo;cápsula;frutal|caramelo|vino tinto;1300–1600 msnm
+1227;Travesía del Encanto 1227;México;Castillo;grano;frutal|miel|cítrico;1000–1400 msnm
+1228;Guacamayo del Valle Sagrado 1228;El Salvador;Geisha;cápsula;frutal|caramelo|vino tinto;1300–1600 msnm
+1229;Altura del Sol 1229;Ecuador;Villalobos;cápsula;chocolate|nuez|vainilla;1300–1600 msnm
+1230;Flor del Volcán 1230;México;Geisha;molido;frutal|chocolate|floral;1000–1400 msnm
+1231;Vereda del Mundo 1231;Guatemala;Bourbon;cápsula;cítrico|floral|miel;1300–1600 msnm
+1232;Luz del Alba 1232;Colombia;Geisha;molido;frutal|miel|cítrico;1500–1900 msnm
+1233;Sendero Real 1233;México;Castillo;molido;floral|jazmín|cítrico;1700–2100 msnm
+1234;Rayo del Paraíso 1234;Ecuador;Caturra;cápsula;chocolate|nuez|vainilla;1600–2000 msnm
+1235;Joya del Jaguar 1235;Guatemala;Mundo Novo;cápsula;frutal|miel|cítrico;1600–2000 msnm
+1236;Vereda Nevada 1236;El Salvador;Typica;grano;chocolate|nuez|vainilla;1500–1900 msnm
+1237;Fuente del Nevado 1237;Perú;Pacamara;grano;panela|frutal|cacao;1700–2100 msnm
+1238;Altura del Café 1238;Guatemala;Mundo Novo;cápsula;terroso|especias|chocolate;1600–2000 msnm
+1239;Sierra del Cacao 1239;Nicaragua;Pacamara;grano;floral|jazmín|cítrico;1500–1900 msnm
+1240;Altura del Alba 1240;Colombia;Pacamara;cápsula;cítrico|floral|miel;1500–1900 msnm
+1241;Selva del Tesoro 1241;Bolivia;Villalobos;cápsula;floral|jazmín|cítrico;1600–2000 msnm
+1242;Rayo Clásica 1242;Bolivia;Pacamara;molido;frutal|miel|cítrico;1000–1400 msnm
+1243;Travesía Mística 1243;Bolivia;Catuai;cápsula;floral|té negro|frutal;1700–2100 msnm
+1244;Colibrí del Cacao 1244;Colombia;Typica;cápsula;frutal|miel|cítrico;1000–1400 msnm
+1245;Joya del Oro 1245;El Salvador;Typica;molido;chocolate|nuez|vainilla;1200–1500 msnm
+1246;Corazón Verde 1246;Brasil;Geisha;cápsula;terroso|especias|chocolate;1200–1500 msnm
+1247;Ceiba del Valle 1247;El Salvador;Typica;cápsula;caramelo|nuez|chocolate;1500–1900 msnm
+1248;Brisa del Oeste 1248;Brasil;Castillo;molido;frutal|chocolate|floral;900–1200 msnm
+1249;Sendero Andina 1249;México;Villalobos;grano;panela|frutal|cacao;1700–2100 msnm
+1250;Sierra Real 1250;Colombia;Caturra;molido;panela|frutal|cacao;1700–2100 msnm
+1251;Brisa del Viento 1251;Honduras;Pacamara;molido;floral|té negro|frutal;1700–2100 msnm
+1252;Jaguar del Corazón 1252;Nicaragua;Maragogipe;molido;frutal|miel|cítrico;1700–2100 msnm
+1253;Ceiba del Mundo 1253;Perú;Caturra;cápsula;frutal|caramelo|vino tinto;1700–2100 msnm
+1254;Reserva Mística 1254;Colombia;Villalobos;grano;terroso|especias|chocolate;900–1200 msnm
+1255;Encanto Mística 1255;Brasil;Villalobos;cápsula;caramelo|nuez|chocolate;1000–1400 msnm
+1256;Rayo del Bosque Alto 1256;Brasil;Geisha;molido;frutal|chocolate|floral;1500–1900 msnm
+1257;Selva del Lago 1257;Honduras;Villalobos;cápsula;frutal|miel|cítrico;1200–1500 msnm
+1258;Cedro Verde 1258;Bolivia;Mundo Novo;grano;caramelo|nuez|chocolate;1500–1900 msnm
+1259;Alma del Nevado 1259;Honduras;Caturra;cápsula;panela|frutal|cacao;1200–1500 msnm
+1260;Fuego Dorada 1260;Colombia;Caturra;molido;frutal|miel|cítrico;1200–1500 msnm
+1261;Cacao del Este 1261;Colombia;Pacamara;cápsula;floral|té negro|frutal;900–1200 msnm
+1262;Aroma del Sol 1262;Costa Rica;Typica;cápsula;floral|té negro|frutal;900–1200 msnm
+1263;Rincón Mística 1263;Brasil;Catuai;grano;frutal|chocolate|floral;1600–2000 msnm
+1264;Tesoro del Oeste 1264;Guatemala;Castillo;grano;panela|frutal|cacao;1600–2000 msnm
+1265;Mirador del Café Especial 1265;Costa Rica;Maragogipe;molido;caramelo|nuez|chocolate;1200–1500 msnm
+1266;Guacamayo del Oro 1266;Guatemala;Bourbon;molido;caramelo|nuez|chocolate;1700–2100 msnm
+1267;Rayo del Sol 1267;Guatemala;Typica;cápsula;terroso|especias|chocolate;1600–2000 msnm
+1268;Flor del Espíritu 1268;Honduras;Typica;grano;cítrico|floral|miel;1400–1800 msnm
+1269;Fuente del Encanto 1269;Brasil;Mundo Novo;molido;cítrico|floral|miel;1600–2000 msnm
+1270;Nube del Sur 1270;Brasil;Bourbon;grano;frutal|chocolate|floral;1600–2000 msnm
+1271;Rayo del Trópico 1271;Guatemala;Geisha;molido;panela|frutal|cacao;1500–1900 msnm
+1272;Leyenda del Río 1272;Perú;Typica;grano;terroso|especias|chocolate;900–1200 msnm
+1273;Travesía del Valle 1273;Nicaragua;Villalobos;molido;frutal|caramelo|vino tinto;1700–2100 msnm
+1274;Montaña del Cacao 1274;Bolivia;Mundo Novo;cápsula;chocolate|nuez|vainilla;1300–1600 msnm
+1275;Tesoro del Norte 1275;Honduras;Castillo;cápsula;chocolate|nuez|vainilla;1600–2000 msnm
+1276;Aroma del Jaguar 1276;Honduras;Catuai;molido;frutal|chocolate|floral;1700–2100 msnm
+1277;Trueno del Corazón 1277;Brasil;Villalobos;grano;frutal|chocolate|floral;1200–1500 msnm
+1278;Joya del Alba 1278;Brasil;Geisha;grano;chocolate|nuez|vainilla;900–1200 msnm
+1279;Trueno Tropical 1279;El Salvador;Catuai;grano;caramelo|nuez|chocolate;1000–1400 msnm
+1280;Quetzal del Este 1280;México;Mundo Novo;molido;frutal|miel|cítrico;1600–2000 msnm
+1281;Cedro del Sol Naciente 1281;Costa Rica;Bourbon;grano;frutal|chocolate|floral;1300–1600 msnm
+1282;Cacao del Río Grande 1282;Guatemala;Catuai;molido;frutal|miel|cítrico;1600–2000 msnm
+1283;Ceiba del Viento 1283;Honduras;Typica;cápsula;panela|frutal|cacao;1600–2000 msnm
+1284;Leyenda del Viento 1284;Costa Rica;Typica;molido;cítrico|floral|miel;900–1200 msnm
+1285;Mirador del Sol 1285;El Salvador;Maragogipe;molido;panela|frutal|cacao;1500–1900 msnm
+1286;Quetzal Real 1286;Colombia;Catuai;cápsula;terroso|especias|chocolate;1700–2100 msnm
+1287;Granito del Horizonte Dorado 1287;Costa Rica;Typica;molido;caramelo|nuez|chocolate;1700–2100 msnm
+1288;Rayo del Maíz 1288;México;Castillo;cápsula;panela|frutal|cacao;900–1200 msnm
+1289;Reserva del Sol 1289;Ecuador;Villalobos;cápsula;floral|té negro|frutal;1600–2000 msnm
+1290;Quetzal del Valle Sagrado 1290;Colombia;Pacamara;cápsula;frutal|chocolate|floral;1600–2000 msnm
+1291;Río del Nevado 1291;Brasil;Mundo Novo;molido;cítrico|floral|miel;900–1200 msnm
+1292;Sendero del Ande 1292;Costa Rica;Villalobos;molido;caramelo|nuez|chocolate;1000–1400 msnm
+1293;Granito del Camino 1293;Honduras;Catuai;molido;frutal|chocolate|floral;1000–1400 msnm
+1294;Encanto Andina 1294;Colombia;Bourbon;cápsula;frutal|caramelo|vino tinto;1700–2100 msnm
+1295;Esencia del Encanto Andino 1295;Colombia;Mundo Novo;cápsula;frutal|caramelo|vino tinto;1000–1400 msnm
+1296;Quetzal Clásica 1296;Colombia;Catuai;grano;panela|frutal|cacao;1600–2000 msnm
+1297;Perla del Horizonte 1297;México;Typica;grano;frutal|miel|cítrico;1700–2100 msnm
+1298;Granito del Café Especial 1298;Ecuador;Bourbon;cápsula;frutal|miel|cítrico;1600–2000 msnm
+1299;Corazón del Mar 1299;México;Bourbon;grano;panela|frutal|cacao;1600–2000 msnm
+1300;Mística del Encanto Andino 1300;Honduras;Caturra;molido;caramelo|nuez|chocolate;1600–2000 msnm
+1301;Selva del Río 1301;Brasil;Villalobos;cápsula;frutal|caramelo|vino tinto;1200–1500 msnm
+1302;Río del Cóndor 1302;México;Caturra;cápsula;caramelo|nuez|chocolate;1200–1500 msnm
+1303;Rayo del Horizonte 1303;Costa Rica;Caturra;cápsula;chocolate|nuez|vainilla;1000–1400 msnm
+1304;Colibrí del Río Grande 1304;Guatemala;Villalobos;cápsula;floral|jazmín|cítrico;1700–2100 msnm
+1305;Trueno del Encanto Andino 1305;Guatemala;Maragogipe;molido;caramelo|nuez|chocolate;900–1200 msnm
+1306;Sol del Lago 1306;México;Bourbon;molido;floral|té negro|frutal;1400–1800 msnm
+1307;Horizonte del Mar 1307;Colombia;Typica;grano;caramelo|nuez|chocolate;1500–1900 msnm
+1308;Travesía del Cóndor 1308;Bolivia;Villalobos;grano;floral|té negro|frutal;1300–1600 msnm
+1309;Guacamayo Clásica 1309;El Salvador;Typica;cápsula;frutal|chocolate|floral;1700–2100 msnm
+1310;Mirador del Norte 1310;México;Geisha;cápsula;terroso|especias|chocolate;1400–1800 msnm
+1311;Esencia del Oro 1311;México;Villalobos;cápsula;caramelo|nuez|chocolate;1000–1400 msnm
+1312;Cacao del Mar 1312;Ecuador;Typica;cápsula;frutal|chocolate|floral;1000–1400 msnm
+1313;Aroma del Este 1313;Perú;Pacamara;grano;floral|té negro|frutal;900–1200 msnm
+1314;Alma del Viento 1314;Nicaragua;Castillo;grano;frutal|caramelo|vino tinto;1400–1800 msnm
+1315;Corazón Clásica 1315;México;Mundo Novo;molido;panela|frutal|cacao;1700–2100 msnm
+1316;Flor del Valle 1316;Bolivia;Bourbon;cápsula;floral|jazmín|cítrico;1400–1800 msnm
+1317;Perla Suprema 1317;Bolivia;Bourbon;molido;terroso|especias|chocolate;900–1200 msnm
+1318;Cascada Tropical 1318;Ecuador;Geisha;cápsula;floral|jazmín|cítrico;900–1200 msnm
+1319;Encanto del Viento 1319;Ecuador;Catuai;grano;caramelo|nuez|chocolate;900–1200 msnm
+1320;Joya del Corazón 1320;Perú;Maragogipe;cápsula;frutal|miel|cítrico;1500–1900 msnm
+1321;Colibrí del Sol 1321;El Salvador;Typica;grano;cítrico|floral|miel;1200–1500 msnm
+1322;Corazón del Espíritu 1322;México;Bourbon;grano;chocolate|nuez|vainilla;900–1200 msnm
+1323;Valle del Horizonte Dorado 1323;Perú;Villalobos;molido;panela|frutal|cacao;900–1200 msnm
+1324;Sierra Verde 1324;México;Caturra;grano;frutal|caramelo|vino tinto;1400–1800 msnm
+1325;Río Clásica 1325;Honduras;Mundo Novo;molido;terroso|especias|chocolate;900–1200 msnm
+1326;Cedro Encantada 1326;México;Maragogipe;grano;frutal|caramelo|vino tinto;1500–1900 msnm
+1327;Fuego del Este 1327;Guatemala;Villalobos;molido;caramelo|nuez|chocolate;1400–1800 msnm
+1328;Tesoro del Amanecer 1328;Ecuador;Caturra;cápsula;frutal|chocolate|floral;1300–1600 msnm
+1329;Quetzal del Ande 1329;Brasil;Catuai;cápsula;chocolate|nuez|vainilla;1200–1500 msnm
+1330;Corazón del Valle Sagrado 1330;Bolivia;Caturra;molido;panela|frutal|cacao;1200–1500 msnm
+1331;Montaña del Paraíso 1331;Brasil;Pacamara;molido;frutal|caramelo|vino tinto;1500–1900 msnm
+1332;Fuente del Oro 1332;Honduras;Castillo;cápsula;terroso|especias|chocolate;900–1200 msnm
+1333;Camino Suprema 1333;Ecuador;Pacamara;molido;chocolate|nuez|vainilla;900–1200 msnm
+1334;Encanto Nevada 1334;Nicaragua;Pacamara;cápsula;frutal|miel|cítrico;1400–1800 msnm
+1335;Leyenda Verde 1335;Ecuador;Typica;molido;cítrico|floral|miel;1700–2100 msnm
+1336;Colibrí Dorada 1336;Honduras;Castillo;grano;frutal|caramelo|vino tinto;1300–1600 msnm
+1337;Horizonte del Tesoro 1337;Colombia;Typica;grano;cítrico|floral|miel;1000–1400 msnm
+1338;Rincón Verde 1338;Ecuador;Mundo Novo;grano;terroso|especias|chocolate;1700–2100 msnm
+1339;Río del Sol 1339;Costa Rica;Villalobos;grano;frutal|caramelo|vino tinto;1500–1900 msnm
+1340;Cedro Dorada 1340;Brasil;Pacamara;cápsula;caramelo|nuez|chocolate;900–1200 msnm
+1341;Nube del Horizonte 1341;El Salvador;Villalobos;grano;frutal|chocolate|floral;1600–2000 msnm
+1342;Maíz del Lago 1342;Perú;Bourbon;molido;floral|jazmín|cítrico;1700–2100 msnm
+1343;Cedro del Amanecer 1343;Colombia;Caturra;grano;floral|té negro|frutal;1000–1400 msnm
+1344;Sendero del Nevado 1344;Costa Rica;Typica;cápsula;panela|frutal|cacao;900–1200 msnm
+1345;Montaña Clásica 1345;Bolivia;Typica;molido;caramelo|nuez|chocolate;1200–1500 msnm
+1346;Esencia del Sol Naciente 1346;Honduras;Bourbon;grano;frutal|miel|cítrico;1200–1500 msnm
+1347;Aroma Suprema 1347;Ecuador;Bourbon;cápsula;chocolate|nuez|vainilla;1300–1600 msnm
+1348;Cumbre del Este 1348;Nicaragua;Mundo Novo;cápsula;floral|té negro|frutal;1200–1500 msnm
+1349;Flor del Trópico 1349;Bolivia;Maragogipe;cápsula;frutal|caramelo|vino tinto;1000–1400 msnm
+1350;Quetzal del Tesoro 1350;Brasil;Bourbon;grano;frutal|caramelo|vino tinto;1700–2100 msnm
+1351;Alma del Tesoro 1351;México;Mundo Novo;cápsula;chocolate|nuez|vainilla;1300–1600 msnm
+1352;Montaña Mística 1352;Colombia;Geisha;molido;cítrico|floral|miel;900–1200 msnm
+1353;Nube del Horizonte Dorado 1353;México;Catuai;molido;floral|té negro|frutal;1200–1500 msnm
+1354;Sierra Suprema 1354;Nicaragua;Pacamara;cápsula;frutal|miel|cítrico;1700–2100 msnm
+1355;Travesía Nevada 1355;Nicaragua;Mundo Novo;cápsula;frutal|chocolate|floral;1400–1800 msnm
+1356;Selva del Nevado 1356;El Salvador;Villalobos;molido;frutal|chocolate|floral;1600–2000 msnm
+1357;Luz del Horizonte 1357;Perú;Catuai;molido;floral|té negro|frutal;1400–1800 msnm
+1358;Reserva del Corazón 1358;Perú;Geisha;grano;frutal|caramelo|vino tinto;1000–1400 msnm
+1359;Camino del Maíz 1359;Perú;Pacamara;grano;frutal|miel|cítrico;1200–1500 msnm
+1360;Trueno Nevada 1360;Colombia;Geisha;cápsula;floral|té negro|frutal;1200–1500 msnm
+1361;Cedro del Paraíso 1361;Ecuador;Catuai;cápsula;panela|frutal|cacao;1400–1800 msnm
+1362;Trueno del Mundo 1362;El Salvador;Castillo;molido;terroso|especias|chocolate;1400–1800 msnm
+1363;Aurora del Nevado 1363;Ecuador;Catuai;grano;cítrico|floral|miel;900–1200 msnm
+1364;Corazón del Cóndor 1364;Brasil;Castillo;grano;terroso|especias|chocolate;1200–1500 msnm
+1365;Rayo del Mundo 1365;Costa Rica;Castillo;grano;terroso|especias|chocolate;1000–1400 msnm
+1366;Fuego del Río 1366;Costa Rica;Typica;molido;floral|jazmín|cítrico;1500–1900 msnm
+1367;Sol del Norte 1367;Costa Rica;Mundo Novo;cápsula;frutal|miel|cítrico;1700–2100 msnm
+1368;Guacamayo Suprema 1368;El Salvador;Catuai;grano;caramelo|nuez|chocolate;1500–1900 msnm
+1369;Corazón del Amanecer 1369;Honduras;Villalobos;cápsula;panela|frutal|cacao;1400–1800 msnm
+1370;Tesoro del Valle 1370;Brasil;Pacamara;cápsula;frutal|miel|cítrico;1600–2000 msnm
+1371;Sierra del Sur 1371;Nicaragua;Mundo Novo;grano;terroso|especias|chocolate;1300–1600 msnm
+1372;Aurora del Bosque 1372;Ecuador;Geisha;molido;caramelo|nuez|chocolate;1500–1900 msnm
+1373;Flor del Trueno 1373;El Salvador;Bourbon;grano;terroso|especias|chocolate;1200–1500 msnm
+1374;Cascada Nevada 1374;Guatemala;Pacamara;molido;frutal|miel|cítrico;1500–1900 msnm
+1375;Brisa del Bosque 1375;Nicaragua;Villalobos;cápsula;frutal|caramelo|vino tinto;1000–1400 msnm
+1376;Perla del Río Grande 1376;Nicaragua;Mundo Novo;grano;floral|té negro|frutal;1400–1800 msnm
+1377;Aroma del Valle 1377;El Salvador;Mundo Novo;cápsula;terroso|especias|chocolate;1700–2100 msnm
+1378;Flor del Río Grande 1378;Ecuador;Geisha;grano;floral|té negro|frutal;1500–1900 msnm
+1379;Joya del Mundo 1379;Honduras;Catuai;grano;floral|jazmín|cítrico;1700–2100 msnm
+1380;Alma del Alba 1380;Guatemala;Bourbon;grano;cítrico|floral|miel;900–1200 msnm
+1381;Sierra del Ande 1381;Honduras;Geisha;cápsula;chocolate|nuez|vainilla;1300–1600 msnm
+1382;Encanto del Sol 1382;Colombia;Caturra;molido;frutal|miel|cítrico;1000–1400 msnm
+1383;Maíz del Horizonte 1383;Guatemala;Castillo;cápsula;panela|frutal|cacao;1600–2000 msnm
+1384;Aurora del Oeste 1384;Honduras;Maragogipe;grano;frutal|chocolate|floral;1600–2000 msnm
+1385;Sierra del Paraíso 1385;Costa Rica;Geisha;grano;floral|té negro|frutal;1500–1900 msnm
+1386;Brisa del Horizonte 1386;Nicaragua;Villalobos;cápsula;floral|té negro|frutal;1000–1400 msnm
+1387;Encanto Dorada 1387;Nicaragua;Catuai;cápsula;caramelo|nuez|chocolate;1200–1500 msnm
+1388;Fuente del Sur 1388;Bolivia;Castillo;grano;floral|jazmín|cítrico;900–1200 msnm
+1389;Sendero del Bosque Alto 1389;México;Typica;grano;floral|jazmín|cítrico;1300–1600 msnm
+1390;Selva del Sol 1390;Brasil;Catuai;cápsula;floral|jazmín|cítrico;1200–1500 msnm
+1391;Travesía Tropical 1391;Perú;Bourbon;cápsula;terroso|especias|chocolate;1500–1900 msnm
+1392;Sendero del Corazón 1392;México;Catuai;cápsula;frutal|chocolate|floral;1300–1600 msnm
+1393;Aroma del Mundo 1393;Brasil;Pacamara;grano;cítrico|floral|miel;900–1200 msnm
+1394;Encanto del Trueno 1394;Bolivia;Catuai;grano;cítrico|floral|miel;1400–1800 msnm
+1395;Trueno del Bosque 1395;Bolivia;Villalobos;grano;panela|frutal|cacao;1400–1800 msnm
+1396;Cascada del Paraíso 1396;Bolivia;Caturra;cápsula;floral|té negro|frutal;1200–1500 msnm
+1397;Aurora del Viento 1397;Brasil;Geisha;molido;terroso|especias|chocolate;1000–1400 msnm
+1398;Horizonte del Encanto Andino 1398;México;Villalobos;cápsula;floral|té negro|frutal;1500–1900 msnm
+1399;Selva del Valle 1399;Nicaragua;Geisha;molido;caramelo|nuez|chocolate;1600–2000 msnm
+1400;Sierra del Jaguar 1400;Costa Rica;Castillo;cápsula;chocolate|nuez|vainilla;1500–1900 msnm
+1401;Alma del Trópico 1401;México;Geisha;molido;panela|frutal|cacao;900–1200 msnm
+1402;Flor del Este 1402;Honduras;Maragogipe;grano;terroso|especias|chocolate;1500–1900 msnm
+1403;Cóndor del Amanecer 1403;Guatemala;Bourbon;molido;frutal|caramelo|vino tinto;1700–2100 msnm
+1404;Leyenda Tropical 1404;Perú;Castillo;molido;frutal|chocolate|floral;1700–2100 msnm
+1405;Cóndor del Corazón 1405;Perú;Geisha;cápsula;chocolate|nuez|vainilla;1500–1900 msnm
+1406;Camino Dorada 1406;Honduras;Villalobos;grano;panela|frutal|cacao;1500–1900 msnm
+1407;Perla del Oro 1407;Costa Rica;Geisha;cápsula;frutal|miel|cítrico;1700–2100 msnm
+1408;Cumbre Mística 1408;Nicaragua;Catuai;grano;chocolate|nuez|vainilla;1000–1400 msnm
+1409;Camino del Valle Sagrado 1409;México;Pacamara;molido;frutal|caramelo|vino tinto;1400–1800 msnm
+1410;Jaguar del Amanecer 1410;El Salvador;Caturra;molido;frutal|caramelo|vino tinto;1500–1900 msnm
+1411;Mirador del Camino 1411;Costa Rica;Typica;grano;terroso|especias|chocolate;1600–2000 msnm
+1412;Aurora Clásica 1412;El Salvador;Geisha;molido;floral|jazmín|cítrico;900–1200 msnm
+1413;Luz del Volcán 1413;Colombia;Mundo Novo;cápsula;frutal|caramelo|vino tinto;1300–1600 msnm
+1414;Cóndor del Sol Naciente 1414;El Salvador;Mundo Novo;grano;cítrico|floral|miel;1200–1500 msnm
+1415;Rincón del Horizonte Dorado 1415;Nicaragua;Villalobos;grano;frutal|caramelo|vino tinto;900–1200 msnm
+1416;Granito del Sol 1416;Bolivia;Caturra;molido;panela|frutal|cacao;900–1200 msnm
+1417;Flor del Sol 1417;Nicaragua;Geisha;molido;frutal|miel|cítrico;1700–2100 msnm
+1418;Valle del Río 1418;Guatemala;Typica;grano;floral|té negro|frutal;900–1200 msnm
+1419;Leyenda del Horizonte Azul 1419;Nicaragua;Maragogipe;molido;frutal|caramelo|vino tinto;1700–2100 msnm
+1420;Luz Mística 1420;Brasil;Villalobos;cápsula;cítrico|floral|miel;1500–1900 msnm
+1421;Mirador Mística 1421;El Salvador;Catuai;grano;frutal|caramelo|vino tinto;900–1200 msnm
+1422;Esencia Clásica 1422;Colombia;Geisha;molido;panela|frutal|cacao;1700–2100 msnm
+1423;Horizonte del Nevado 1423;El Salvador;Villalobos;cápsula;terroso|especias|chocolate;900–1200 msnm
+1424;Fuente del Café Especial 1424;Brasil;Geisha;cápsula;chocolate|nuez|vainilla;1600–2000 msnm
+1425;Camino del Viento 1425;Brasil;Pacamara;cápsula;cítrico|floral|miel;1700–2100 msnm
+1426;Aroma Tropical 1426;Honduras;Geisha;molido;floral|jazmín|cítrico;1000–1400 msnm
+1427;Jaguar del Horizonte Azul 1427;Guatemala;Mundo Novo;cápsula;floral|té negro|frutal;1500–1900 msnm
+1428;Nube Andina 1428;Colombia;Mundo Novo;cápsula;floral|té negro|frutal;1200–1500 msnm
+1429;Horizonte Andina 1429;Honduras;Maragogipe;molido;chocolate|nuez|vainilla;1300–1600 msnm
+1430;Río Real 1430;Bolivia;Mundo Novo;molido;caramelo|nuez|chocolate;1000–1400 msnm
+1431;Altura del Café Especial 1431;Costa Rica;Pacamara;molido;chocolate|nuez|vainilla;900–1200 msnm
+1432;Sol del Tesoro 1432;Nicaragua;Bourbon;molido;terroso|especias|chocolate;1200–1500 msnm
+1433;Mirador del Bosque Alto 1433;Guatemala;Castillo;cápsula;terroso|especias|chocolate;1500–1900 msnm
+1434;Joya del Bosque Alto 1434;Bolivia;Pacamara;cápsula;floral|jazmín|cítrico;1600–2000 msnm
+1435;Mirador del Mundo 1435;Nicaragua;Typica;grano;frutal|miel|cítrico;1300–1600 msnm
+1436;Altura del Horizonte 1436;Costa Rica;Typica;grano;chocolate|nuez|vainilla;1000–1400 msnm
+1437;Cacao Verde 1437;Ecuador;Geisha;cápsula;floral|té negro|frutal;1000–1400 msnm
+1438;Camino Real 1438;Brasil;Pacamara;molido;cítrico|floral|miel;1700–2100 msnm
+1439;Joya del Lago 1439;Ecuador;Villalobos;cápsula;caramelo|nuez|chocolate;1500–1900 msnm
+1440;Sierra del Mundo 1440;Guatemala;Typica;molido;chocolate|nuez|vainilla;1500–1900 msnm
+1441;Granito del Encanto Andino 1441;Perú;Bourbon;molido;cítrico|floral|miel;1500–1900 msnm
+1442;Tesoro del Horizonte Azul 1442;Colombia;Pacamara;cápsula;panela|frutal|cacao;1500–1900 msnm
+1443;Travesía del Ande 1443;Ecuador;Caturra;cápsula;terroso|especias|chocolate;1400–1800 msnm
+1444;Maíz del Sol 1444;Ecuador;Maragogipe;cápsula;cítrico|floral|miel;1200–1500 msnm
+1445;Fuego del Cóndor 1445;México;Castillo;cápsula;caramelo|nuez|chocolate;1500–1900 msnm
+1446;Mística del Encanto 1446;El Salvador;Bourbon;grano;floral|té negro|frutal;1000–1400 msnm
+1447;Maíz del Este 1447;Guatemala;Catuai;molido;panela|frutal|cacao;1700–2100 msnm
+1448;Joya Mística 1448;Honduras;Geisha;grano;frutal|caramelo|vino tinto;1600–2000 msnm
+1449;Río del Sol Naciente 1449;Guatemala;Catuai;grano;cítrico|floral|miel;1700–2100 msnm
+1450;Tesoro Suprema 1450;Perú;Caturra;cápsula;floral|té negro|frutal;900–1200 msnm
+1451;Maíz del Trueno 1451;Nicaragua;Villalobos;molido;frutal|chocolate|floral;1200–1500 msnm
+1452;Rincón del Bosque 1452;Perú;Catuai;cápsula;floral|jazmín|cítrico;1400–1800 msnm
+1453;Selva Real 1453;Guatemala;Catuai;grano;panela|frutal|cacao;1600–2000 msnm
+1454;Colibrí del Encanto 1454;Bolivia;Villalobos;grano;panela|frutal|cacao;1000–1400 msnm
+1455;Estrella del Volcán 1455;Guatemala;Geisha;grano;frutal|caramelo|vino tinto;1300–1600 msnm
+1456;Joya del Cóndor 1456;México;Typica;grano;cítrico|floral|miel;1200–1500 msnm
+1457;Joya del Camino 1457;Bolivia;Maragogipe;cápsula;chocolate|nuez|vainilla;900–1200 msnm
+1458;Río del Oro 1458;Perú;Caturra;grano;floral|té negro|frutal;1700–2100 msnm
+1459;Aurora del Jaguar 1459;Guatemala;Maragogipe;molido;frutal|caramelo|vino tinto;1300–1600 msnm
+1460;Río del Norte 1460;El Salvador;Caturra;grano;frutal|miel|cítrico;900–1200 msnm
+1461;Vereda del Trópico 1461;Colombia;Maragogipe;molido;terroso|especias|chocolate;1400–1800 msnm
+1462;Reserva del Valle 1462;Honduras;Catuai;cápsula;floral|té negro|frutal;1400–1800 msnm
+1463;Cumbre Dorada 1463;México;Pacamara;cápsula;frutal|miel|cítrico;1000–1400 msnm
+1464;Aurora del Mar 1464;Brasil;Catuai;cápsula;panela|frutal|cacao;1600–2000 msnm
+1465;Alma Suprema 1465;Bolivia;Caturra;molido;chocolate|nuez|vainilla;1300–1600 msnm
+1466;Sol del Jaguar 1466;Brasil;Maragogipe;cápsula;chocolate|nuez|vainilla;900–1200 msnm
+1467;Estrella del Mundo 1467;Nicaragua;Catuai;cápsula;caramelo|nuez|chocolate;1500–1900 msnm
+1468;Luz del Este 1468;Nicaragua;Villalobos;molido;caramelo|nuez|chocolate;1000–1400 msnm
+1469;Travesía del Maíz 1469;Bolivia;Maragogipe;cápsula;terroso|especias|chocolate;1400–1800 msnm
+1470;Montaña del Trópico 1470;Guatemala;Villalobos;molido;cítrico|floral|miel;1200–1500 msnm
+1471;Granito del Tesoro 1471;Bolivia;Catuai;cápsula;chocolate|nuez|vainilla;1000–1400 msnm
+1472;Raíces del Valle Sagrado 1472;México;Geisha;cápsula;floral|jazmín|cítrico;1600–2000 msnm
+1473;Jaguar del Cacao 1473;Colombia;Caturra;cápsula;frutal|chocolate|floral;1600–2000 msnm
+1474;Esencia del Trueno 1474;Costa Rica;Maragogipe;grano;frutal|chocolate|floral;1000–1400 msnm
+1475;Alma del Lago 1475;Ecuador;Typica;cápsula;frutal|miel|cítrico;1700–2100 msnm
+1476;Tesoro del Este 1476;Brasil;Pacamara;grano;cítrico|floral|miel;1700–2100 msnm
+1477;Rincón Clásica 1477;Guatemala;Geisha;molido;frutal|caramelo|vino tinto;1400–1800 msnm
+1478;Rayo Suprema 1478;Colombia;Geisha;cápsula;frutal|caramelo|vino tinto;1300–1600 msnm
+1479;Raíces del Río Grande 1479;Honduras;Mundo Novo;grano;frutal|chocolate|floral;1000–1400 msnm
+1480;Quetzal del Cacao 1480;Bolivia;Geisha;cápsula;frutal|miel|cítrico;1700–2100 msnm
+1481;Brisa del Paraíso 1481;Ecuador;Caturra;molido;frutal|chocolate|floral;1400–1800 msnm
+1482;Alma del Cacao 1482;Brasil;Typica;molido;floral|té negro|frutal;1400–1800 msnm
+1483;Tesoro del Oro 1483;Bolivia;Pacamara;cápsula;frutal|chocolate|floral;1300–1600 msnm
+1484;Rincón del Bosque Alto 1484;Guatemala;Castillo;cápsula;caramelo|nuez|chocolate;1400–1800 msnm
+1485;Colibrí del Jaguar 1485;Ecuador;Catuai;cápsula;chocolate|nuez|vainilla;1300–1600 msnm
+1486;Jaguar del Oro 1486;Ecuador;Castillo;grano;floral|jazmín|cítrico;1600–2000 msnm
+1487;Aurora Tropical 1487;El Salvador;Bourbon;molido;caramelo|nuez|chocolate;900–1200 msnm
+1488;Fuego del Sol 1488;Bolivia;Villalobos;grano;frutal|chocolate|floral;1500–1900 msnm
+1489;Sierra del Río 1489;Honduras;Catuai;cápsula;cítrico|floral|miel;1300–1600 msnm
+1490;Corazón del Sur 1490;Colombia;Geisha;molido;frutal|miel|cítrico;1600–2000 msnm
+1491;Travesía del Jaguar 1491;Costa Rica;Maragogipe;grano;frutal|miel|cítrico;1000–1400 msnm
+1492;Sol del Sol 1492;Ecuador;Villalobos;molido;frutal|caramelo|vino tinto;1400–1800 msnm
+1493;Cedro del Este 1493;Nicaragua;Mundo Novo;molido;frutal|chocolate|floral;1700–2100 msnm
+1494;Altura Dorada 1494;Ecuador;Mundo Novo;cápsula;panela|frutal|cacao;1400–1800 msnm
+1495;Selva del Encanto Andino 1495;Costa Rica;Castillo;grano;caramelo|nuez|chocolate;1400–1800 msnm
+1496;Joya del Maíz 1496;Colombia;Castillo;cápsula;frutal|chocolate|floral;1600–2000 msnm
+1497;Puerta del Oro 1497;Costa Rica;Geisha;cápsula;panela|frutal|cacao;1600–2000 msnm
+1498;Jaguar Tropical 1498;Honduras;Maragogipe;grano;terroso|especias|chocolate;1700–2100 msnm
+1499;Nube del Cóndor 1499;Guatemala;Typica;molido;panela|frutal|cacao;1300–1600 msnm
+1500;Encanto del Jaguar 1500;Brasil;Caturra;grano;chocolate|nuez|vainilla;1200–1500 msnm
+1501;Colibrí del Viento 1501;Costa Rica;Pacamara;molido;floral|té negro|frutal;1200–1500 msnm
+1502;Alma Verde 1502;Bolivia;Pacamara;grano;floral|jazmín|cítrico;900–1200 msnm
+1503;Perla del Alba 1503;Bolivia;Maragogipe;grano;caramelo|nuez|chocolate;1000–1400 msnm
+1504;Colibrí Nevada 1504;Honduras;Bourbon;cápsula;frutal|chocolate|floral;1000–1400 msnm
+1505;Sol del Cacao 1505;México;Castillo;grano;cítrico|floral|miel;1400–1800 msnm
+1506;Puerta del Horizonte 1506;Costa Rica;Geisha;molido;frutal|chocolate|floral;1500–1900 msnm
+1507;Cumbre del Valle Sagrado 1507;El Salvador;Bourbon;cápsula;caramelo|nuez|chocolate;1700–2100 msnm
+1508;Cumbre del Río 1508;Nicaragua;Catuai;cápsula;frutal|miel|cítrico;900–1200 msnm
+1509;Puerta del Horizonte Azul 1509;Guatemala;Typica;cápsula;frutal|chocolate|floral;1000–1400 msnm
+1510;Jaguar Real 1510;Perú;Geisha;cápsula;frutal|miel|cítrico;1300–1600 msnm
+1511;Puerta del Viento 1511;Honduras;Catuai;grano;floral|té negro|frutal;1300–1600 msnm
+1512;Cosecha Dorada 1512;Colombia;Caturra;grano;floral|té negro|frutal;1200–1500 msnm
+1513;Aurora del Norte 1513;Honduras;Pacamara;grano;cítrico|floral|miel;1000–1400 msnm
+1514;Mirador del Encanto Andino 1514;Perú;Castillo;grano;chocolate|nuez|vainilla;1200–1500 msnm
+1515;Montaña del Sur 1515;Bolivia;Geisha;grano;frutal|chocolate|floral;1200–1500 msnm
+1516;Sol Mística 1516;Brasil;Catuai;molido;cítrico|floral|miel;1000–1400 msnm
+1517;Travesía del Sur 1517;Perú;Bourbon;molido;terroso|especias|chocolate;1700–2100 msnm
+1518;Mística Suprema 1518;Costa Rica;Maragogipe;grano;frutal|miel|cítrico;1300–1600 msnm
+1519;Aroma del Volcán 1519;Brasil;Maragogipe;grano;floral|té negro|frutal;1700–2100 msnm
+1520;Brisa del Mar 1520;Nicaragua;Catuai;cápsula;frutal|caramelo|vino tinto;1300–1600 msnm
+1521;Valle del Cóndor 1521;Ecuador;Typica;molido;frutal|miel|cítrico;1600–2000 msnm
+1522;Estrella del Corazón 1522;Perú;Catuai;cápsula;frutal|miel|cítrico;900–1200 msnm
+1523;Travesía del Encanto Andino 1523;México;Pacamara;molido;cítrico|floral|miel;1700–2100 msnm
+1524;Selva del Horizonte 1524;Costa Rica;Maragogipe;molido;chocolate|nuez|vainilla;1400–1800 msnm
+1525;Cumbre del Horizonte Dorado 1525;México;Caturra;cápsula;frutal|chocolate|floral;1300–1600 msnm
+1526;Cedro del Jaguar 1526;Bolivia;Mundo Novo;molido;frutal|miel|cítrico;1500–1900 msnm
+1527;Mirador Verde 1527;Guatemala;Bourbon;grano;floral|jazmín|cítrico;1300–1600 msnm
+1528;Estrella del Bosque Alto 1528;México;Maragogipe;molido;chocolate|nuez|vainilla;1700–2100 msnm
+1529;Cedro del Bosque Alto 1529;Ecuador;Maragogipe;cápsula;panela|frutal|cacao;1200–1500 msnm
+1530;Cacao del Corazón 1530;Brasil;Bourbon;molido;frutal|caramelo|vino tinto;1000–1400 msnm
+1531;Fuente del Horizonte 1531;Brasil;Villalobos;grano;terroso|especias|chocolate;1200–1500 msnm
+1532;Puerta del Oeste 1532;Ecuador;Catuai;grano;floral|jazmín|cítrico;1300–1600 msnm
+1533;Sol del Alba 1533;El Salvador;Maragogipe;grano;cítrico|floral|miel;1300–1600 msnm
+1534;Perla Clásica 1534;El Salvador;Maragogipe;cápsula;chocolate|nuez|vainilla;900–1200 msnm
+1535;Fuego del Mar 1535;Costa Rica;Typica;grano;frutal|miel|cítrico;900–1200 msnm
+1536;Cedro del Ande 1536;Bolivia;Villalobos;molido;terroso|especias|chocolate;1300–1600 msnm
+1537;Sierra del Horizonte Azul 1537;Guatemala;Catuai;grano;caramelo|nuez|chocolate;1600–2000 msnm
+1538;Sol Verde 1538;Nicaragua;Catuai;molido;frutal|chocolate|floral;1700–2100 msnm
+1539;Horizonte del Horizonte Azul 1539;El Salvador;Pacamara;molido;terroso|especias|chocolate;1000–1400 msnm
+1540;Valle del Paraíso 1540;El Salvador;Typica;molido;floral|té negro|frutal;900–1200 msnm
+1541;Fuente del Trópico 1541;Perú;Caturra;molido;frutal|chocolate|floral;1000–1400 msnm
+1542;Altura del Cóndor 1542;Brasil;Pacamara;molido;floral|jazmín|cítrico;1700–2100 msnm
+1543;Cedro Nevada 1543;El Salvador;Catuai;molido;terroso|especias|chocolate;1200–1500 msnm
+1544;Camino del Sol Naciente 1544;Colombia;Pacamara;grano;chocolate|nuez|vainilla;1400–1800 msnm
+1545;Cedro del Trópico 1545;Perú;Caturra;molido;cítrico|floral|miel;1700–2100 msnm
+1546;Valle del Mundo 1546;Ecuador;Bourbon;cápsula;frutal|caramelo|vino tinto;1600–2000 msnm
+1547;Fuente del Mar 1547;Honduras;Villalobos;molido;floral|té negro|frutal;1200–1500 msnm
+1548;Brisa del Horizonte Azul 1548;Nicaragua;Catuai;grano;floral|jazmín|cítrico;1700–2100 msnm
+1549;Perla del Horizonte Dorado 1549;México;Geisha;cápsula;cítrico|floral|miel;900–1200 msnm
+1550;Sendero del Valle Sagrado 1550;México;Maragogipe;molido;frutal|chocolate|floral;900–1200 msnm
+1551;Cóndor del Valle 1551;Guatemala;Villalobos;molido;panela|frutal|cacao;1000–1400 msnm
+1552;Sol del Camino 1552;El Salvador;Caturra;grano;floral|té negro|frutal;900–1200 msnm
+1553;Trueno del Volcán 1553;Nicaragua;Typica;molido;caramelo|nuez|chocolate;1300–1600 msnm
+1554;Brisa Verde 1554;Honduras;Pacamara;grano;chocolate|nuez|vainilla;1700–2100 msnm
+1555;Nube del Oro 1555;Costa Rica;Maragogipe;molido;terroso|especias|chocolate;1200–1500 msnm
+1556;Río del Bosque Alto 1556;El Salvador;Catuai;molido;panela|frutal|cacao;900–1200 msnm
+1557;Perla del Sur 1557;México;Caturra;grano;cítrico|floral|miel;1600–2000 msnm
+1558;Cascada del Norte 1558;Ecuador;Castillo;grano;frutal|miel|cítrico;1300–1600 msnm
+1559;Perla Encantada 1559;Colombia;Villalobos;grano;caramelo|nuez|chocolate;1700–2100 msnm
+1560;Reserva del Oeste 1560;Nicaragua;Pacamara;cápsula;panela|frutal|cacao;1000–1400 msnm
+1561;Cumbre del Bosque 1561;El Salvador;Mundo Novo;grano;cítrico|floral|miel;1500–1900 msnm
+1562;Colibrí del Valle Sagrado 1562;Guatemala;Maragogipe;molido;chocolate|nuez|vainilla;900–1200 msnm
+1563;Mirador del Río Grande 1563;Colombia;Catuai;molido;floral|jazmín|cítrico;1500–1900 msnm
+1564;Cascada Real 1564;Colombia;Pacamara;grano;chocolate|nuez|vainilla;1200–1500 msnm
+1565;Rayo del Este 1565;Bolivia;Maragogipe;grano;floral|jazmín|cítrico;900–1200 msnm
+1566;Estrella Andina 1566;México;Pacamara;grano;frutal|miel|cítrico;1600–2000 msnm
+1567;Perla del Encanto Andino 1567;Guatemala;Mundo Novo;grano;frutal|caramelo|vino tinto;1300–1600 msnm
+1568;Ceiba Tropical 1568;Honduras;Catuai;cápsula;panela|frutal|cacao;1600–2000 msnm
+1569;Río del Espíritu 1569;Brasil;Caturra;molido;terroso|especias|chocolate;900–1200 msnm
+1570;Sol del Café 1570;Honduras;Castillo;molido;floral|jazmín|cítrico;1000–1400 msnm
+1571;Jaguar del Volcán 1571;El Salvador;Catuai;cápsula;floral|jazmín|cítrico;1000–1400 msnm
+1572;Fuente del Viento 1572;Nicaragua;Typica;grano;terroso|especias|chocolate;1600–2000 msnm
+1573;Altura del Bosque Alto 1573;Colombia;Mundo Novo;molido;floral|jazmín|cítrico;900–1200 msnm
+1574;Aroma del Sur 1574;Guatemala;Mundo Novo;cápsula;cítrico|floral|miel;1700–2100 msnm
+1575;Fuente del Volcán 1575;Colombia;Villalobos;cápsula;panela|frutal|cacao;1300–1600 msnm
+1576;Fuente Suprema 1576;Brasil;Maragogipe;grano;cítrico|floral|miel;1600–2000 msnm
+1577;Tesoro del Paraíso 1577;Bolivia;Castillo;molido;chocolate|nuez|vainilla;1600–2000 msnm
+1578;Guacamayo del Café 1578;Perú;Typica;cápsula;chocolate|nuez|vainilla;1500–1900 msnm
+1579;Maíz del Café 1579;México;Catuai;grano;panela|frutal|cacao;1000–1400 msnm
+1580;Corazón del Café 1580;Colombia;Bourbon;grano;cítrico|floral|miel;1300–1600 msnm
+1581;Valle del Cacao 1581;Brasil;Typica;molido;cítrico|floral|miel;1600–2000 msnm
+1582;Cóndor del Camino 1582;Colombia;Catuai;cápsula;cítrico|floral|miel;1700–2100 msnm
+1583;Sierra del Oeste 1583;Bolivia;Bourbon;grano;frutal|chocolate|floral;1600–2000 msnm
+1584;Guacamayo del Amanecer 1584;Guatemala;Castillo;cápsula;frutal|miel|cítrico;1700–2100 msnm
+1585;Fuente del Oeste 1585;Nicaragua;Catuai;cápsula;cítrico|floral|miel;1200–1500 msnm
+1586;Quetzal del Maíz 1586;Ecuador;Castillo;molido;frutal|miel|cítrico;1300–1600 msnm
+1587;Sol del Volcán 1587;Ecuador;Catuai;grano;chocolate|nuez|vainilla;1400–1800 msnm
+1588;Encanto Tropical 1588;Colombia;Bourbon;molido;frutal|miel|cítrico;1300–1600 msnm
+1589;Fuente del Cóndor 1589;Costa Rica;Catuai;grano;frutal|chocolate|floral;900–1200 msnm
+1590;Joya del Tesoro 1590;Bolivia;Pacamara;cápsula;panela|frutal|cacao;1500–1900 msnm
+1591;Leyenda del Lago 1591;México;Caturra;grano;caramelo|nuez|chocolate;1000–1400 msnm
+1592;Sierra del Valle Sagrado 1592;Bolivia;Mundo Novo;grano;floral|jazmín|cítrico;1000–1400 msnm
+1593;Fuente del Camino 1593;Honduras;Mundo Novo;molido;frutal|caramelo|vino tinto;900–1200 msnm
+1594;Luz del Cóndor 1594;Costa Rica;Villalobos;grano;floral|té negro|frutal;1400–1800 msnm
+1595;Perla Nevada 1595;Brasil;Typica;cápsula;floral|jazmín|cítrico;1700–2100 msnm
+1596;Luz del Valle 1596;Costa Rica;Pacamara;molido;floral|té negro|frutal;1500–1900 msnm
+1597;Rincón del Café 1597;Honduras;Bourbon;grano;frutal|miel|cítrico;1300–1600 msnm
+1598;Valle del Alba 1598;Costa Rica;Typica;cápsula;frutal|miel|cítrico;1400–1800 msnm
+1599;Valle Mística 1599;El Salvador;Geisha;grano;chocolate|nuez|vainilla;900–1200 msnm
+1600;Mirador Nevada 1600;México;Pacamara;molido;terroso|especias|chocolate;1500–1900 msnm
+1601;Rincón del Paraíso 1601;Honduras;Maragogipe;molido;frutal|caramelo|vino tinto;1200–1500 msnm
+1602;Cedro del Maíz 1602;Nicaragua;Mundo Novo;cápsula;caramelo|nuez|chocolate;1300–1600 msnm
+1603;Corazón Andina 1603;Guatemala;Caturra;molido;caramelo|nuez|chocolate;1400–1800 msnm
+1604;Flor del Bosque 1604;Colombia;Pacamara;grano;floral|jazmín|cítrico;1600–2000 msnm
+1605;Aurora del Horizonte Azul 1605;Guatemala;Mundo Novo;cápsula;frutal|miel|cítrico;1400–1800 msnm
+1606;Cumbre del Bosque Alto 1606;Honduras;Caturra;molido;frutal|miel|cítrico;1500–1900 msnm
+1607;Rincón del Horizonte Azul 1607;Bolivia;Catuai;cápsula;frutal|miel|cítrico;1200–1500 msnm
+1608;Vereda del Este 1608;Costa Rica;Caturra;molido;frutal|caramelo|vino tinto;1400–1800 msnm
+1609;Montaña del Jaguar 1609;El Salvador;Mundo Novo;cápsula;caramelo|nuez|chocolate;1500–1900 msnm
+1610;Leyenda del Tesoro 1610;México;Villalobos;molido;panela|frutal|cacao;1200–1500 msnm
+1611;Rayo del Café Especial 1611;Costa Rica;Pacamara;cápsula;frutal|miel|cítrico;1700–2100 msnm
+1612;Mirador del Valle 1612;México;Geisha;grano;frutal|caramelo|vino tinto;1500–1900 msnm
+1613;Esencia del Cóndor 1613;Honduras;Caturra;cápsula;cítrico|floral|miel;900–1200 msnm
+1614;Joya del Oeste 1614;Nicaragua;Caturra;grano;caramelo|nuez|chocolate;1600–2000 msnm
+1615;Puerta del Maíz 1615;Colombia;Mundo Novo;cápsula;floral|té negro|frutal;1500–1900 msnm
+1616;Mística Andina 1616;Nicaragua;Bourbon;molido;frutal|miel|cítrico;1400–1800 msnm
+1617;Jaguar del Río Grande 1617;Costa Rica;Geisha;molido;frutal|miel|cítrico;900–1200 msnm
+1618;Leyenda del Sol Naciente 1618;Colombia;Maragogipe;grano;chocolate|nuez|vainilla;1700–2100 msnm
+1619;Puerta del Amanecer 1619;Perú;Geisha;molido;panela|frutal|cacao;900–1200 msnm
+1620;Joya del Ande 1620;Bolivia;Maragogipe;cápsula;frutal|miel|cítrico;900–1200 msnm
+1621;Reserva del Cóndor 1621;Honduras;Caturra;molido;floral|té negro|frutal;1300–1600 msnm
+1622;Cascada del Mar 1622;Honduras;Villalobos;molido;floral|jazmín|cítrico;1000–1400 msnm
+1623;Cóndor del Nevado 1623;Nicaragua;Caturra;molido;frutal|caramelo|vino tinto;900–1200 msnm
+1624;Selva del Sur 1624;Perú;Caturra;grano;frutal|caramelo|vino tinto;1300–1600 msnm
+1625;Cóndor del Río Grande 1625;Colombia;Caturra;molido;chocolate|nuez|vainilla;1500–1900 msnm
+1626;Flor del Cóndor 1626;México;Maragogipe;cápsula;caramelo|nuez|chocolate;1400–1800 msnm
+1627;Estrella del Sur 1627;Honduras;Catuai;cápsula;frutal|miel|cítrico;1700–2100 msnm
+1628;Reserva del Ande 1628;Guatemala;Mundo Novo;grano;frutal|miel|cítrico;900–1200 msnm
+1629;Brisa del Este 1629;Bolivia;Geisha;cápsula;caramelo|nuez|chocolate;1700–2100 msnm
+1630;Ceiba del Trópico 1630;El Salvador;Maragogipe;cápsula;frutal|chocolate|floral;1700–2100 msnm
+1631;Cóndor del Trópico 1631;Perú;Pacamara;cápsula;frutal|chocolate|floral;1600–2000 msnm
+1632;Ceiba del Oro 1632;México;Mundo Novo;cápsula;panela|frutal|cacao;1000–1400 msnm
+1633;Cascada del Valle Sagrado 1633;Brasil;Catuai;grano;caramelo|nuez|chocolate;1500–1900 msnm
+1634;Raíces del Horizonte 1634;Perú;Castillo;cápsula;frutal|miel|cítrico;1000–1400 msnm
+1635;Altura del Amanecer 1635;Guatemala;Castillo;molido;chocolate|nuez|vainilla;1600–2000 msnm
+1636;Alma Dorada 1636;México;Villalobos;molido;terroso|especias|chocolate;900–1200 msnm
+1637;Cacao Tropical 1637;Perú;Castillo;grano;terroso|especias|chocolate;1300–1600 msnm
+1638;Cedro del Oro 1638;México;Villalobos;grano;floral|té negro|frutal;1500–1900 msnm
+1639;Brisa Real 1639;Nicaragua;Bourbon;cápsula;frutal|chocolate|floral;1300–1600 msnm
+1640;Leyenda del Trueno 1640;Guatemala;Castillo;cápsula;floral|jazmín|cítrico;900–1200 msnm
+1641;Camino del Río 1641;Brasil;Bourbon;grano;caramelo|nuez|chocolate;1200–1500 msnm
+1642;Perla del Nevado 1642;México;Mundo Novo;cápsula;terroso|especias|chocolate;1400–1800 msnm
+1643;Sendero del Encanto Andino 1643;Guatemala;Catuai;cápsula;chocolate|nuez|vainilla;1200–1500 msnm
+1644;Cacao del Río 1644;El Salvador;Geisha;cápsula;chocolate|nuez|vainilla;1700–2100 msnm
+1645;Cacao del Sol Naciente 1645;Costa Rica;Mundo Novo;grano;floral|jazmín|cítrico;1400–1800 msnm
+1646;Aroma del Trueno 1646;México;Pacamara;molido;chocolate|nuez|vainilla;1400–1800 msnm
+1647;Río del Tesoro 1647;Colombia;Catuai;cápsula;caramelo|nuez|chocolate;1600–2000 msnm
+1648;Selva Tropical 1648;Honduras;Villalobos;cápsula;caramelo|nuez|chocolate;1300–1600 msnm
+1649;Valle del Valle Sagrado 1649;México;Bourbon;molido;floral|té negro|frutal;1000–1400 msnm
+1650;Fuego del Mundo 1650;Colombia;Geisha;cápsula;terroso|especias|chocolate;1700–2100 msnm
+1651;Cumbre del Nevado 1651;Brasil;Typica;molido;chocolate|nuez|vainilla;1200–1500 msnm
+1652;Mirador del Alba 1652;Nicaragua;Caturra;molido;panela|frutal|cacao;900–1200 msnm
+1653;Sendero del Horizonte 1653;Guatemala;Catuai;grano;frutal|chocolate|floral;1500–1900 msnm
+1654;Rayo del Río 1654;Costa Rica;Castillo;cápsula;cítrico|floral|miel;1200–1500 msnm
+1655;Horizonte del Espíritu 1655;Perú;Maragogipe;grano;floral|jazmín|cítrico;1000–1400 msnm
+1656;Fuego del Corazón 1656;Guatemala;Castillo;grano;frutal|chocolate|floral;1000–1400 msnm
+1657;Alma del Valle Sagrado 1657;Brasil;Mundo Novo;molido;chocolate|nuez|vainilla;1000–1400 msnm
+1658;Corazón del Río 1658;Ecuador;Caturra;grano;frutal|miel|cítrico;900–1200 msnm
+1659;Rincón Andina 1659;Brasil;Mundo Novo;cápsula;terroso|especias|chocolate;1700–2100 msnm
+1660;Brisa del Sol 1660;Guatemala;Geisha;molido;panela|frutal|cacao;1300–1600 msnm
+1661;Mirador Dorada 1661;Bolivia;Castillo;grano;terroso|especias|chocolate;1000–1400 msnm
+1662;Reserva Encantada 1662;Bolivia;Typica;grano;frutal|chocolate|floral;1000–1400 msnm
+1663;Selva del Volcán 1663;El Salvador;Typica;molido;chocolate|nuez|vainilla;1300–1600 msnm
+1664;Corazón del Mundo 1664;Nicaragua;Caturra;molido;panela|frutal|cacao;1300–1600 msnm
+1665;Cedro del Camino 1665;Honduras;Castillo;grano;floral|té negro|frutal;1600–2000 msnm
+1666;Sol del Mundo 1666;Nicaragua;Villalobos;cápsula;frutal|caramelo|vino tinto;1000–1400 msnm
+1667;Trueno del Paraíso 1667;Costa Rica;Maragogipe;cápsula;frutal|caramelo|vino tinto;1400–1800 msnm
+1668;Joya Nevada 1668;Ecuador;Bourbon;grano;caramelo|nuez|chocolate;1400–1800 msnm
+1669;Mirador del Trópico 1669;Colombia;Bourbon;grano;frutal|miel|cítrico;1000–1400 msnm
+1670;Leyenda Nevada 1670;México;Villalobos;cápsula;frutal|chocolate|floral;900–1200 msnm
+1671;Brisa del Trueno 1671;Perú;Villalobos;cápsula;frutal|chocolate|floral;1500–1900 msnm
+1672;Valle del Volcán 1672;Brasil;Maragogipe;molido;panela|frutal|cacao;1600–2000 msnm
+1673;Horizonte del Bosque 1673;México;Pacamara;grano;frutal|caramelo|vino tinto;1300–1600 msnm
+1674;Joya del Nevado 1674;Bolivia;Castillo;grano;panela|frutal|cacao;1700–2100 msnm
+1675;Sierra del Café Especial 1675;Nicaragua;Villalobos;grano;caramelo|nuez|chocolate;1300–1600 msnm
+1676;Granito del Oro 1676;Nicaragua;Castillo;cápsula;frutal|caramelo|vino tinto;900–1200 msnm
+1677;Tesoro del Encanto 1677;Costa Rica;Pacamara;grano;floral|té negro|frutal;1400–1800 msnm
+1678;Nube del Maíz 1678;Ecuador;Maragogipe;molido;floral|jazmín|cítrico;1000–1400 msnm
+1679;Mística Verde 1679;Nicaragua;Catuai;cápsula;floral|té negro|frutal;1000–1400 msnm
+1680;Cedro del Horizonte Dorado 1680;Guatemala;Catuai;cápsula;chocolate|nuez|vainilla;1300–1600 msnm
+1681;Cedro del Corazón 1681;El Salvador;Caturra;grano;frutal|miel|cítrico;1600–2000 msnm
+1682;Trueno del Sol 1682;Brasil;Bourbon;grano;floral|té negro|frutal;1300–1600 msnm
+1683;Brisa del Tesoro 1683;Costa Rica;Maragogipe;cápsula;terroso|especias|chocolate;1500–1900 msnm
+1684;Camino del Sur 1684;Ecuador;Geisha;grano;frutal|chocolate|floral;1600–2000 msnm
+1685;Raíces del Ande 1685;Nicaragua;Pacamara;molido;floral|té negro|frutal;1700–2100 msnm
+1686;Valle Dorada 1686;Colombia;Caturra;cápsula;floral|té negro|frutal;1600–2000 msnm
+1687;Rayo del Alba 1687;Honduras;Pacamara;molido;floral|té negro|frutal;1300–1600 msnm
+1688;Esencia del Espíritu 1688;Colombia;Pacamara;molido;frutal|chocolate|floral;1000–1400 msnm
+1689;Cacao del Café 1689;Guatemala;Mundo Novo;grano;floral|té negro|frutal;1200–1500 msnm
+1690;Luz del Mar 1690;Nicaragua;Catuai;cápsula;chocolate|nuez|vainilla;1000–1400 msnm
+1691;Brisa del Jaguar 1691;Guatemala;Catuai;molido;panela|frutal|cacao;1000–1400 msnm
+1692;Travesía del Horizonte Azul 1692;Nicaragua;Pacamara;grano;terroso|especias|chocolate;1500–1900 msnm
+1693;Joya Tropical 1693;Costa Rica;Catuai;cápsula;cítrico|floral|miel;1200–1500 msnm
+1694;Alma del Ande 1694;Brasil;Caturra;grano;caramelo|nuez|chocolate;1700–2100 msnm
+1695;Altura del Oro 1695;Costa Rica;Castillo;cápsula;frutal|miel|cítrico;1700–2100 msnm
+1696;Joya del Río 1696;Bolivia;Typica;molido;panela|frutal|cacao;1700–2100 msnm
+1697;Cosecha del Bosque Alto 1697;Costa Rica;Pacamara;cápsula;frutal|miel|cítrico;1200–1500 msnm
+1698;Travesía del Trueno 1698;Costa Rica;Caturra;molido;floral|té negro|frutal;1300–1600 msnm
+1699;Corazón Dorada 1699;Nicaragua;Mundo Novo;molido;cítrico|floral|miel;1200–1500 msnm
+1700;Corazón del Camino 1700;México;Maragogipe;molido;terroso|especias|chocolate;900–1200 msnm
+1701;Cacao del Lago 1701;Guatemala;Castillo;grano;caramelo|nuez|chocolate;1200–1500 msnm
+1702;Montaña del Corazón 1702;El Salvador;Castillo;molido;frutal|chocolate|floral;1500–1900 msnm
+1703;Jaguar del Camino 1703;Brasil;Bourbon;cápsula;panela|frutal|cacao;1200–1500 msnm
+1704;Luz del Río 1704;Bolivia;Pacamara;grano;caramelo|nuez|chocolate;1400–1800 msnm
+1705;Flor del Viento 1705;Ecuador;Castillo;molido;floral|jazmín|cítrico;1500–1900 msnm
+1706;Río Nevada 1706;Perú;Typica;cápsula;frutal|caramelo|vino tinto;1700–2100 msnm
+1707;Montaña del Río Grande 1707;Ecuador;Maragogipe;grano;frutal|miel|cítrico;1000–1400 msnm
+1708;Cascada Verde 1708;Perú;Caturra;molido;floral|té negro|frutal;1000–1400 msnm
+1709;Cascada del Cacao 1709;Costa Rica;Pacamara;cápsula;panela|frutal|cacao;1300–1600 msnm
+1710;Montaña del Espíritu 1710;Guatemala;Castillo;molido;floral|té negro|frutal;1200–1500 msnm
+1711;Quetzal del Horizonte 1711;Perú;Maragogipe;molido;frutal|chocolate|floral;1700–2100 msnm
+1712;Luz del Sol 1712;Perú;Catuai;grano;floral|jazmín|cítrico;1400–1800 msnm
+1713;Reserva del Mar 1713;Colombia;Catuai;molido;cítrico|floral|miel;1500–1900 msnm
+1714;Montaña Real 1714;Colombia;Caturra;molido;cítrico|floral|miel;1700–2100 msnm
+1715;Camino del Bosque 1715;Bolivia;Geisha;grano;terroso|especias|chocolate;1300–1600 msnm
+1716;Sendero del Horizonte Azul 1716;Honduras;Maragogipe;grano;cítrico|floral|miel;1000–1400 msnm
+1717;Altura Verde 1717;México;Pacamara;cápsula;terroso|especias|chocolate;1300–1600 msnm
+1718;Vereda del Valle Sagrado 1718;Perú;Castillo;grano;chocolate|nuez|vainilla;900–1200 msnm
+1719;Aroma del Espíritu 1719;México;Villalobos;grano;frutal|caramelo|vino tinto;1300–1600 msnm
+1720;Ceiba del Paraíso 1720;El Salvador;Castillo;molido;terroso|especias|chocolate;1500–1900 msnm
+1721;Travesía del Valle Sagrado 1721;Guatemala;Caturra;grano;frutal|caramelo|vino tinto;900–1200 msnm
+1722;Camino del Café Especial 1722;Guatemala;Caturra;grano;terroso|especias|chocolate;1500–1900 msnm
+1723;Mística del Horizonte 1723;Honduras;Bourbon;cápsula;floral|té negro|frutal;1200–1500 msnm
+1724;Cascada del Café 1724;Nicaragua;Villalobos;molido;frutal|chocolate|floral;1400–1800 msnm
+1725;Aurora del Río Grande 1725;México;Castillo;cápsula;floral|té negro|frutal;1000–1400 msnm
+1726;Selva del Amanecer 1726;Bolivia;Mundo Novo;molido;terroso|especias|chocolate;1000–1400 msnm
+1727;Travesía del Encanto 1727;Costa Rica;Mundo Novo;cápsula;caramelo|nuez|chocolate;1600–2000 msnm
+1728;Guacamayo del Valle Sagrado 1728;Ecuador;Caturra;grano;floral|té negro|frutal;1600–2000 msnm
+1729;Altura del Sol 1729;Perú;Catuai;grano;terroso|especias|chocolate;1400–1800 msnm
+1730;Flor del Volcán 1730;México;Catuai;molido;floral|jazmín|cítrico;1700–2100 msnm
+1731;Vereda del Mundo 1731;Ecuador;Caturra;molido;panela|frutal|cacao;1300–1600 msnm
+1732;Luz del Alba 1732;Brasil;Caturra;cápsula;cítrico|floral|miel;1700–2100 msnm
+1733;Sendero Real 1733;Guatemala;Typica;molido;caramelo|nuez|chocolate;1000–1400 msnm
+1734;Rayo del Paraíso 1734;Costa Rica;Pacamara;molido;panela|frutal|cacao;1000–1400 msnm
+1735;Joya del Jaguar 1735;Colombia;Typica;grano;terroso|especias|chocolate;1200–1500 msnm
+1736;Vereda Nevada 1736;Guatemala;Typica;cápsula;frutal|chocolate|floral;1400–1800 msnm
+1737;Fuente del Nevado 1737;Perú;Pacamara;molido;frutal|caramelo|vino tinto;1000–1400 msnm
+1738;Altura del Café 1738;Bolivia;Caturra;grano;terroso|especias|chocolate;1500–1900 msnm
+1739;Sierra del Cacao 1739;Perú;Geisha;molido;terroso|especias|chocolate;1000–1400 msnm
+1740;Altura del Alba 1740;Costa Rica;Typica;molido;cítrico|floral|miel;1000–1400 msnm
+1741;Selva del Tesoro 1741;Nicaragua;Typica;cápsula;floral|jazmín|cítrico;1000–1400 msnm
+1742;Rayo Clásica 1742;Honduras;Geisha;grano;cítrico|floral|miel;1200–1500 msnm
+1743;Travesía Mística 1743;Brasil;Villalobos;cápsula;cítrico|floral|miel;1400–1800 msnm
+1744;Colibrí del Cacao 1744;El Salvador;Caturra;molido;cítrico|floral|miel;1700–2100 msnm
+1745;Joya del Oro 1745;Perú;Maragogipe;grano;frutal|caramelo|vino tinto;1200–1500 msnm
+1746;Corazón Verde 1746;Ecuador;Mundo Novo;molido;caramelo|nuez|chocolate;1300–1600 msnm
+1747;Ceiba del Valle 1747;Honduras;Typica;cápsula;panela|frutal|cacao;1700–2100 msnm
+1748;Brisa del Oeste 1748;Brasil;Catuai;grano;panela|frutal|cacao;1200–1500 msnm
+1749;Sendero Andina 1749;Honduras;Castillo;cápsula;chocolate|nuez|vainilla;900–1200 msnm
+1750;Sierra Real 1750;Guatemala;Caturra;grano;panela|frutal|cacao;900–1200 msnm
+1751;Brisa del Viento 1751;Costa Rica;Catuai;grano;frutal|caramelo|vino tinto;900–1200 msnm
+1752;Jaguar del Corazón 1752;Bolivia;Villalobos;molido;frutal|miel|cítrico;1200–1500 msnm
+1753;Ceiba del Mundo 1753;Guatemala;Castillo;molido;chocolate|nuez|vainilla;1400–1800 msnm
+1754;Reserva Mística 1754;Ecuador;Castillo;cápsula;floral|jazmín|cítrico;1400–1800 msnm
+1755;Encanto Mística 1755;Perú;Castillo;grano;frutal|caramelo|vino tinto;1300–1600 msnm
+1756;Rayo del Bosque Alto 1756;Colombia;Typica;cápsula;frutal|miel|cítrico;1000–1400 msnm
+1757;Selva del Lago 1757;Perú;Mundo Novo;cápsula;caramelo|nuez|chocolate;1300–1600 msnm
+1758;Cedro Verde 1758;Colombia;Typica;molido;frutal|chocolate|floral;1200–1500 msnm
+1759;Alma del Nevado 1759;Honduras;Catuai;grano;floral|té negro|frutal;900–1200 msnm
+1760;Fuego Dorada 1760;El Salvador;Caturra;grano;floral|jazmín|cítrico;1600–2000 msnm
+1761;Cacao del Este 1761;Perú;Catuai;grano;panela|frutal|cacao;1600–2000 msnm
+1762;Aroma del Sol 1762;Nicaragua;Caturra;cápsula;floral|jazmín|cítrico;1400–1800 msnm
+1763;Rincón Mística 1763;Colombia;Villalobos;grano;terroso|especias|chocolate;1500–1900 msnm
+1764;Tesoro del Oeste 1764;Honduras;Castillo;molido;caramelo|nuez|chocolate;1200–1500 msnm
+1765;Mirador del Café Especial 1765;Honduras;Geisha;grano;terroso|especias|chocolate;1700–2100 msnm
+1766;Guacamayo del Oro 1766;Honduras;Geisha;molido;frutal|chocolate|floral;1400–1800 msnm
+1767;Rayo del Sol 1767;Colombia;Geisha;grano;terroso|especias|chocolate;1400–1800 msnm
+1768;Flor del Espíritu 1768;Bolivia;Castillo;cápsula;floral|jazmín|cítrico;1200–1500 msnm
+1769;Fuente del Encanto 1769;Costa Rica;Typica;grano;frutal|miel|cítrico;1300–1600 msnm
+1770;Nube del Sur 1770;Nicaragua;Pacamara;cápsula;panela|frutal|cacao;1200–1500 msnm
+1771;Rayo del Trópico 1771;Guatemala;Typica;cápsula;frutal|caramelo|vino tinto;1300–1600 msnm
+1772;Leyenda del Río 1772;México;Typica;cápsula;terroso|especias|chocolate;1600–2000 msnm
+1773;Travesía del Valle 1773;El Salvador;Maragogipe;molido;frutal|caramelo|vino tinto;1600–2000 msnm
+1774;Montaña del Cacao 1774;Brasil;Villalobos;cápsula;floral|té negro|frutal;1300–1600 msnm
+1775;Tesoro del Norte 1775;Colombia;Caturra;molido;panela|frutal|cacao;1500–1900 msnm
+1776;Aroma del Jaguar 1776;Guatemala;Caturra;grano;panela|frutal|cacao;1600–2000 msnm
+1777;Trueno del Corazón 1777;Ecuador;Villalobos;molido;frutal|caramelo|vino tinto;1700–2100 msnm
+1778;Joya del Alba 1778;Nicaragua;Caturra;grano;caramelo|nuez|chocolate;1600–2000 msnm
+1779;Trueno Tropical 1779;El Salvador;Villalobos;grano;caramelo|nuez|chocolate;900–1200 msnm
+1780;Quetzal del Este 1780;Nicaragua;Pacamara;grano;frutal|miel|cítrico;1600–2000 msnm
+1781;Cedro del Sol Naciente 1781;Colombia;Maragogipe;cápsula;floral|jazmín|cítrico;1000–1400 msnm
+1782;Cacao del Río Grande 1782;Honduras;Pacamara;molido;caramelo|nuez|chocolate;1000–1400 msnm
+1783;Ceiba del Viento 1783;Colombia;Pacamara;grano;frutal|caramelo|vino tinto;900–1200 msnm
+1784;Leyenda del Viento 1784;Bolivia;Caturra;cápsula;floral|té negro|frutal;1400–1800 msnm
+1785;Mirador del Sol 1785;El Salvador;Caturra;grano;frutal|caramelo|vino tinto;1300–1600 msnm
+1786;Quetzal Real 1786;México;Mundo Novo;cápsula;chocolate|nuez|vainilla;900–1200 msnm
+1787;Granito del Horizonte Dorado 1787;Colombia;Castillo;grano;frutal|caramelo|vino tinto;1500–1900 msnm
+1788;Rayo del Maíz 1788;Perú;Mundo Novo;cápsula;frutal|miel|cítrico;1200–1500 msnm
+1789;Reserva del Sol 1789;Guatemala;Bourbon;grano;frutal|caramelo|vino tinto;1400–1800 msnm
+1790;Quetzal del Valle Sagrado 1790;Perú;Geisha;grano;chocolate|nuez|vainilla;1700–2100 msnm
+1791;Río del Nevado 1791;Bolivia;Pacamara;grano;chocolate|nuez|vainilla;1300–1600 msnm
+1792;Sendero del Ande 1792;México;Catuai;cápsula;chocolate|nuez|vainilla;1400–1800 msnm
+1793;Granito del Camino 1793;Honduras;Mundo Novo;grano;frutal|miel|cítrico;1200–1500 msnm
+1794;Encanto Andina 1794;México;Villalobos;cápsula;terroso|especias|chocolate;1700–2100 msnm
+1795;Esencia del Encanto Andino 1795;Colombia;Typica;cápsula;floral|té negro|frutal;1500–1900 msnm
+1796;Quetzal Clásica 1796;Brasil;Maragogipe;grano;caramelo|nuez|chocolate;1500–1900 msnm
+1797;Perla del Horizonte 1797;Honduras;Pacamara;cápsula;cítrico|floral|miel;900–1200 msnm
+1798;Granito del Café Especial 1798;Nicaragua;Maragogipe;molido;terroso|especias|chocolate;1700–2100 msnm
+1799;Corazón del Mar 1799;El Salvador;Geisha;molido;panela|frutal|cacao;1000–1400 msnm
+1800;Mística del Encanto Andino 1800;México;Mundo Novo;grano;floral|té negro|frutal;1000–1400 msnm
+1801;Selva del Río 1801;Honduras;Caturra;grano;floral|jazmín|cítrico;900–1200 msnm
+1802;Río del Cóndor 1802;Ecuador;Villalobos;grano;caramelo|nuez|chocolate;1000–1400 msnm
+1803;Rayo del Horizonte 1803;Nicaragua;Mundo Novo;grano;frutal|chocolate|floral;1700–2100 msnm
+1804;Colibrí del Río Grande 1804;Bolivia;Pacamara;molido;floral|té negro|frutal;1300–1600 msnm
+1805;Trueno del Encanto Andino 1805;Bolivia;Bourbon;grano;frutal|caramelo|vino tinto;1300–1600 msnm
+1806;Sol del Lago 1806;Brasil;Caturra;grano;frutal|caramelo|vino tinto;1300–1600 msnm
+1807;Horizonte del Mar 1807;Nicaragua;Geisha;molido;frutal|chocolate|floral;1700–2100 msnm
+1808;Travesía del Cóndor 1808;Colombia;Villalobos;grano;caramelo|nuez|chocolate;1300–1600 msnm
+1809;Guacamayo Clásica 1809;México;Bourbon;molido;floral|jazmín|cítrico;1300–1600 msnm
+1810;Mirador del Norte 1810;Costa Rica;Castillo;grano;caramelo|nuez|chocolate;1500–1900 msnm
+1811;Esencia del Oro 1811;Bolivia;Typica;cápsula;cítrico|floral|miel;1500–1900 msnm
+1812;Cacao del Mar 1812;Guatemala;Bourbon;grano;cítrico|floral|miel;1700–2100 msnm
+1813;Aroma del Este 1813;Nicaragua;Pacamara;cápsula;frutal|chocolate|floral;1000–1400 msnm
+1814;Alma del Viento 1814;Perú;Pacamara;grano;caramelo|nuez|chocolate;900–1200 msnm
+1815;Corazón Clásica 1815;El Salvador;Maragogipe;cápsula;cítrico|floral|miel;1400–1800 msnm
+1816;Flor del Valle 1816;Ecuador;Villalobos;cápsula;terroso|especias|chocolate;1600–2000 msnm
+1817;Perla Suprema 1817;Guatemala;Typica;molido;frutal|chocolate|floral;1300–1600 msnm
+1818;Cascada Tropical 1818;Brasil;Castillo;cápsula;caramelo|nuez|chocolate;1000–1400 msnm
+1819;Encanto del Viento 1819;México;Mundo Novo;molido;cítrico|floral|miel;900–1200 msnm
+1820;Joya del Corazón 1820;Brasil;Catuai;molido;floral|té negro|frutal;1000–1400 msnm
+1821;Colibrí del Sol 1821;Nicaragua;Maragogipe;grano;chocolate|nuez|vainilla;900–1200 msnm
+1822;Corazón del Espíritu 1822;Honduras;Mundo Novo;cápsula;frutal|caramelo|vino tinto;1000–1400 msnm
+1823;Valle del Horizonte Dorado 1823;Brasil;Mundo Novo;grano;floral|jazmín|cítrico;1200–1500 msnm
+1824;Sierra Verde 1824;Colombia;Pacamara;cápsula;floral|jazmín|cítrico;900–1200 msnm
+1825;Río Clásica 1825;Guatemala;Maragogipe;molido;frutal|miel|cítrico;1700–2100 msnm
+1826;Cedro Encantada 1826;Colombia;Pacamara;molido;frutal|caramelo|vino tinto;1500–1900 msnm
+1827;Fuego del Este 1827;Colombia;Villalobos;grano;panela|frutal|cacao;1700–2100 msnm
+1828;Tesoro del Amanecer 1828;Ecuador;Pacamara;grano;frutal|chocolate|floral;1700–2100 msnm
+1829;Quetzal del Ande 1829;Costa Rica;Typica;molido;floral|jazmín|cítrico;1700–2100 msnm
+1830;Corazón del Valle Sagrado 1830;Bolivia;Bourbon;molido;caramelo|nuez|chocolate;1400–1800 msnm
+1831;Montaña del Paraíso 1831;El Salvador;Catuai;molido;floral|té negro|frutal;1200–1500 msnm
+1832;Fuente del Oro 1832;Ecuador;Pacamara;grano;chocolate|nuez|vainilla;1400–1800 msnm
+1833;Camino Suprema 1833;Nicaragua;Villalobos;molido;frutal|caramelo|vino tinto;1200–1500 msnm
+1834;Encanto Nevada 1834;Costa Rica;Maragogipe;molido;panela|frutal|cacao;1700–2100 msnm
+1835;Leyenda Verde 1835;Honduras;Castillo;cápsula;panela|frutal|cacao;1400–1800 msnm
+1836;Colibrí Dorada 1836;Honduras;Geisha;molido;frutal|caramelo|vino tinto;1500–1900 msnm
+1837;Horizonte del Tesoro 1837;Ecuador;Maragogipe;cápsula;floral|té negro|frutal;900–1200 msnm
+1838;Rincón Verde 1838;Honduras;Maragogipe;cápsula;floral|té negro|frutal;1300–1600 msnm
+1839;Río del Sol 1839;Costa Rica;Maragogipe;grano;cítrico|floral|miel;1700–2100 msnm
+1840;Cedro Dorada 1840;México;Mundo Novo;cápsula;cítrico|floral|miel;1400–1800 msnm
+1841;Nube del Horizonte 1841;Costa Rica;Typica;molido;frutal|miel|cítrico;1300–1600 msnm
+1842;Maíz del Lago 1842;Perú;Typica;cápsula;frutal|chocolate|floral;1000–1400 msnm
+1843;Cedro del Amanecer 1843;México;Pacamara;cápsula;frutal|miel|cítrico;1700–2100 msnm
+1844;Sendero del Nevado 1844;México;Bourbon;cápsula;cítrico|floral|miel;900–1200 msnm
+1845;Montaña Clásica 1845;México;Catuai;molido;chocolate|nuez|vainilla;1000–1400 msnm
+1846;Esencia del Sol Naciente 1846;Nicaragua;Castillo;cápsula;panela|frutal|cacao;1200–1500 msnm
+1847;Aroma Suprema 1847;México;Typica;grano;frutal|miel|cítrico;1600–2000 msnm
+1848;Cumbre del Este 1848;Honduras;Villalobos;molido;cítrico|floral|miel;1700–2100 msnm
+1849;Flor del Trópico 1849;Colombia;Caturra;molido;chocolate|nuez|vainilla;1500–1900 msnm
+1850;Quetzal del Tesoro 1850;México;Typica;grano;frutal|miel|cítrico;1400–1800 msnm
+1851;Alma del Tesoro 1851;Brasil;Maragogipe;cápsula;frutal|chocolate|floral;1200–1500 msnm
+1852;Montaña Mística 1852;Nicaragua;Geisha;molido;cítrico|floral|miel;1400–1800 msnm
+1853;Nube del Horizonte Dorado 1853;Nicaragua;Geisha;molido;chocolate|nuez|vainilla;1200–1500 msnm
+1854;Sierra Suprema 1854;Costa Rica;Castillo;grano;cítrico|floral|miel;900–1200 msnm
+1855;Travesía Nevada 1855;Guatemala;Maragogipe;molido;frutal|caramelo|vino tinto;1700–2100 msnm
+1856;Selva del Nevado 1856;Brasil;Caturra;molido;floral|jazmín|cítrico;1400–1800 msnm
+1857;Luz del Horizonte 1857;Guatemala;Villalobos;grano;frutal|caramelo|vino tinto;1400–1800 msnm
+1858;Reserva del Corazón 1858;Bolivia;Geisha;grano;floral|té negro|frutal;1600–2000 msnm
+1859;Camino del Maíz 1859;Honduras;Typica;molido;panela|frutal|cacao;1200–1500 msnm
+1860;Trueno Nevada 1860;Ecuador;Mundo Novo;molido;frutal|chocolate|floral;1400–1800 msnm
+1861;Cedro del Paraíso 1861;Brasil;Mundo Novo;molido;caramelo|nuez|chocolate;1600–2000 msnm
+1862;Trueno del Mundo 1862;Brasil;Castillo;molido;frutal|chocolate|floral;900–1200 msnm
+1863;Aurora del Nevado 1863;Colombia;Pacamara;molido;caramelo|nuez|chocolate;1400–1800 msnm
+1864;Corazón del Cóndor 1864;Brasil;Castillo;molido;terroso|especias|chocolate;1700–2100 msnm
+1865;Rayo del Mundo 1865;Nicaragua;Villalobos;molido;frutal|miel|cítrico;1300–1600 msnm
+1866;Fuego del Río 1866;México;Caturra;cápsula;chocolate|nuez|vainilla;1600–2000 msnm
+1867;Sol del Norte 1867;México;Caturra;molido;floral|té negro|frutal;1000–1400 msnm
+1868;Guacamayo Suprema 1868;Guatemala;Castillo;grano;floral|jazmín|cítrico;1700–2100 msnm
+1869;Corazón del Amanecer 1869;Bolivia;Mundo Novo;grano;frutal|caramelo|vino tinto;900–1200 msnm
+1870;Tesoro del Valle 1870;México;Bourbon;molido;terroso|especias|chocolate;1700–2100 msnm
+1871;Sierra del Sur 1871;El Salvador;Geisha;molido;caramelo|nuez|chocolate;1000–1400 msnm
+1872;Aurora del Bosque 1872;Perú;Mundo Novo;grano;frutal|chocolate|floral;1000–1400 msnm
+1873;Flor del Trueno 1873;Guatemala;Maragogipe;grano;frutal|chocolate|floral;1500–1900 msnm
+1874;Cascada Nevada 1874;México;Castillo;molido;frutal|caramelo|vino tinto;1500–1900 msnm
+1875;Brisa del Bosque 1875;Costa Rica;Caturra;grano;floral|jazmín|cítrico;1700–2100 msnm
+1876;Perla del Río Grande 1876;Nicaragua;Caturra;grano;floral|jazmín|cítrico;1000–1400 msnm
+1877;Aroma del Valle 1877;Bolivia;Geisha;cápsula;floral|té negro|frutal;1700–2100 msnm
+1878;Flor del Río Grande 1878;Perú;Geisha;molido;chocolate|nuez|vainilla;900–1200 msnm
+1879;Joya del Mundo 1879;Ecuador;Geisha;grano;floral|té negro|frutal;1300–1600 msnm
+1880;Alma del Alba 1880;Bolivia;Villalobos;molido;caramelo|nuez|chocolate;1500–1900 msnm
+1881;Sierra del Ande 1881;Brasil;Catuai;grano;frutal|chocolate|floral;1500–1900 msnm
+1882;Encanto del Sol 1882;Honduras;Catuai;molido;frutal|caramelo|vino tinto;1700–2100 msnm
+1883;Maíz del Horizonte 1883;Colombia;Bourbon;molido;chocolate|nuez|vainilla;900–1200 msnm
+1884;Aurora del Oeste 1884;Nicaragua;Maragogipe;grano;frutal|caramelo|vino tinto;1300–1600 msnm
+1885;Sierra del Paraíso 1885;Bolivia;Mundo Novo;cápsula;chocolate|nuez|vainilla;1600–2000 msnm
+1886;Brisa del Horizonte 1886;Bolivia;Bourbon;grano;floral|té negro|frutal;1300–1600 msnm
+1887;Encanto Dorada 1887;Nicaragua;Bourbon;molido;panela|frutal|cacao;1700–2100 msnm
+1888;Fuente del Sur 1888;Nicaragua;Castillo;grano;panela|frutal|cacao;1400–1800 msnm
+1889;Sendero del Bosque Alto 1889;El Salvador;Maragogipe;cápsula;cítrico|floral|miel;900–1200 msnm
+1890;Selva del Sol 1890;Perú;Geisha;molido;frutal|miel|cítrico;1500–1900 msnm
+1891;Travesía Tropical 1891;El Salvador;Geisha;grano;chocolate|nuez|vainilla;900–1200 msnm
+1892;Sendero del Corazón 1892;Colombia;Geisha;molido;floral|té negro|frutal;1000–1400 msnm
+1893;Aroma del Mundo 1893;Guatemala;Caturra;cápsula;chocolate|nuez|vainilla;1700–2100 msnm
+1894;Encanto del Trueno 1894;Nicaragua;Catuai;grano;frutal|miel|cítrico;900–1200 msnm
+1895;Trueno del Bosque 1895;El Salvador;Maragogipe;cápsula;caramelo|nuez|chocolate;1400–1800 msnm
+1896;Cascada del Paraíso 1896;Costa Rica;Catuai;grano;floral|jazmín|cítrico;1000–1400 msnm
+1897;Aurora del Viento 1897;Honduras;Castillo;grano;chocolate|nuez|vainilla;1200–1500 msnm
+1898;Horizonte del Encanto Andino 1898;Guatemala;Bourbon;molido;panela|frutal|cacao;1700–2100 msnm
+1899;Selva del Valle 1899;Bolivia;Caturra;cápsula;cítrico|floral|miel;900–1200 msnm
+1900;Sierra del Jaguar 1900;Brasil;Castillo;molido;cítrico|floral|miel;1600–2000 msnm
+1901;Alma del Trópico 1901;Honduras;Pacamara;grano;frutal|miel|cítrico;1500–1900 msnm
+1902;Flor del Este 1902;Honduras;Bourbon;cápsula;floral|jazmín|cítrico;1200–1500 msnm
+1903;Cóndor del Amanecer 1903;Honduras;Maragogipe;molido;frutal|caramelo|vino tinto;1700–2100 msnm
+1904;Leyenda Tropical 1904;Perú;Castillo;molido;terroso|especias|chocolate;1600–2000 msnm
+1905;Cóndor del Corazón 1905;Nicaragua;Pacamara;grano;chocolate|nuez|vainilla;1000–1400 msnm
+1906;Camino Dorada 1906;El Salvador;Catuai;molido;frutal|caramelo|vino tinto;1500–1900 msnm
+1907;Perla del Oro 1907;Costa Rica;Pacamara;grano;caramelo|nuez|chocolate;1700–2100 msnm
+1908;Cumbre Mística 1908;Ecuador;Bourbon;cápsula;frutal|caramelo|vino tinto;1600–2000 msnm
+1909;Camino del Valle Sagrado 1909;El Salvador;Villalobos;cápsula;floral|jazmín|cítrico;1400–1800 msnm
+1910;Jaguar del Amanecer 1910;Bolivia;Caturra;grano;frutal|caramelo|vino tinto;1300–1600 msnm
+1911;Mirador del Camino 1911;Nicaragua;Castillo;grano;cítrico|floral|miel;1500–1900 msnm
+1912;Aurora Clásica 1912;Perú;Mundo Novo;molido;cítrico|floral|miel;1500–1900 msnm
+1913;Luz del Volcán 1913;Nicaragua;Geisha;molido;cítrico|floral|miel;1500–1900 msnm
+1914;Cóndor del Sol Naciente 1914;Colombia;Mundo Novo;molido;floral|té negro|frutal;900–1200 msnm
+1915;Rincón del Horizonte Dorado 1915;Bolivia;Bourbon;cápsula;cítrico|floral|miel;900–1200 msnm
+1916;Granito del Sol 1916;El Salvador;Villalobos;cápsula;terroso|especias|chocolate;1200–1500 msnm
+1917;Flor del Sol 1917;Costa Rica;Pacamara;molido;frutal|caramelo|vino tinto;1700–2100 msnm
+1918;Valle del Río 1918;Costa Rica;Mundo Novo;cápsula;frutal|caramelo|vino tinto;1500–1900 msnm
+1919;Leyenda del Horizonte Azul 1919;Costa Rica;Maragogipe;cápsula;caramelo|nuez|chocolate;1300–1600 msnm
+1920;Luz Mística 1920;Bolivia;Caturra;grano;floral|té negro|frutal;1600–2000 msnm
+1921;Mirador Mística 1921;Costa Rica;Bourbon;grano;frutal|chocolate|floral;1500–1900 msnm
+1922;Esencia Clásica 1922;Ecuador;Pacamara;cápsula;frutal|chocolate|floral;1000–1400 msnm
+1923;Horizonte del Nevado 1923;Bolivia;Maragogipe;molido;floral|jazmín|cítrico;900–1200 msnm
+1924;Fuente del Café Especial 1924;Bolivia;Castillo;cápsula;frutal|caramelo|vino tinto;1700–2100 msnm
+1925;Camino del Viento 1925;Ecuador;Pacamara;molido;caramelo|nuez|chocolate;1700–2100 msnm
+1926;Aroma Tropical 1926;Bolivia;Bourbon;cápsula;cítrico|floral|miel;900–1200 msnm
+1927;Jaguar del Horizonte Azul 1927;Honduras;Castillo;grano;panela|frutal|cacao;900–1200 msnm
+1928;Nube Andina 1928;México;Caturra;cápsula;chocolate|nuez|vainilla;1000–1400 msnm
+1929;Horizonte Andina 1929;Guatemala;Maragogipe;molido;caramelo|nuez|chocolate;1700–2100 msnm
+1930;Río Real 1930;Brasil;Geisha;cápsula;terroso|especias|chocolate;900–1200 msnm
+1931;Altura del Café Especial 1931;Honduras;Geisha;cápsula;frutal|chocolate|floral;1400–1800 msnm
+1932;Sol del Tesoro 1932;Perú;Mundo Novo;grano;floral|jazmín|cítrico;1600–2000 msnm
+1933;Mirador del Bosque Alto 1933;Honduras;Typica;grano;panela|frutal|cacao;1000–1400 msnm
+1934;Joya del Bosque Alto 1934;Ecuador;Pacamara;grano;floral|té negro|frutal;1500–1900 msnm
+1935;Mirador del Mundo 1935;Brasil;Mundo Novo;cápsula;frutal|chocolate|floral;1300–1600 msnm
+1936;Altura del Horizonte 1936;Colombia;Typica;cápsula;chocolate|nuez|vainilla;1600–2000 msnm
+1937;Cacao Verde 1937;El Salvador;Geisha;cápsula;floral|jazmín|cítrico;1300–1600 msnm
+1938;Camino Real 1938;Perú;Maragogipe;cápsula;caramelo|nuez|chocolate;1700–2100 msnm
+1939;Joya del Lago 1939;Costa Rica;Castillo;cápsula;floral|té negro|frutal;1500–1900 msnm
+1940;Sierra del Mundo 1940;Perú;Catuai;grano;panela|frutal|cacao;1700–2100 msnm
+1941;Granito del Encanto Andino 1941;Bolivia;Pacamara;grano;terroso|especias|chocolate;1400–1800 msnm
+1942;Tesoro del Horizonte Azul 1942;Costa Rica;Castillo;cápsula;floral|jazmín|cítrico;1700–2100 msnm
+1943;Travesía del Ande 1943;Brasil;Bourbon;molido;terroso|especias|chocolate;1700–2100 msnm
+1944;Maíz del Sol 1944;Brasil;Villalobos;molido;panela|frutal|cacao;1700–2100 msnm
+1945;Fuego del Cóndor 1945;Honduras;Pacamara;molido;frutal|chocolate|floral;1000–1400 msnm
+1946;Mística del Encanto 1946;Perú;Geisha;cápsula;frutal|miel|cítrico;1200–1500 msnm
+1947;Maíz del Este 1947;Colombia;Typica;cápsula;cítrico|floral|miel;1300–1600 msnm
+1948;Joya Mística 1948;El Salvador;Caturra;molido;panela|frutal|cacao;1200–1500 msnm
+1949;Río del Sol Naciente 1949;Perú;Mundo Novo;cápsula;terroso|especias|chocolate;1200–1500 msnm
+1950;Tesoro Suprema 1950;México;Castillo;molido;floral|jazmín|cítrico;1300–1600 msnm
+1951;Maíz del Trueno 1951;Bolivia;Castillo;grano;terroso|especias|chocolate;900–1200 msnm
+1952;Rincón del Bosque 1952;México;Typica;molido;cítrico|floral|miel;1000–1400 msnm
+1953;Selva Real 1953;Guatemala;Catuai;cápsula;frutal|chocolate|floral;1400–1800 msnm
+1954;Colibrí del Encanto 1954;Guatemala;Castillo;grano;frutal|miel|cítrico;1600–2000 msnm
+1955;Estrella del Volcán 1955;Brasil;Bourbon;molido;panela|frutal|cacao;1700–2100 msnm
+1956;Joya del Cóndor 1956;El Salvador;Typica;grano;panela|frutal|cacao;1500–1900 msnm
+1957;Joya del Camino 1957;Colombia;Catuai;molido;chocolate|nuez|vainilla;1000–1400 msnm
+1958;Río del Oro 1958;El Salvador;Maragogipe;molido;terroso|especias|chocolate;1600–2000 msnm
+1959;Aurora del Jaguar 1959;Honduras;Typica;grano;cítrico|floral|miel;1600–2000 msnm
+1960;Río del Norte 1960;Honduras;Bourbon;cápsula;caramelo|nuez|chocolate;1400–1800 msnm
+1961;Vereda del Trópico 1961;Guatemala;Pacamara;cápsula;cítrico|floral|miel;1600–2000 msnm
+1962;Reserva del Valle 1962;Nicaragua;Maragogipe;molido;chocolate|nuez|vainilla;1600–2000 msnm
+1963;Cumbre Dorada 1963;Ecuador;Catuai;grano;cítrico|floral|miel;1400–1800 msnm
+1964;Aurora del Mar 1964;Honduras;Castillo;grano;floral|té negro|frutal;1600–2000 msnm
+1965;Alma Suprema 1965;Ecuador;Geisha;molido;caramelo|nuez|chocolate;1200–1500 msnm
+1966;Sol del Jaguar 1966;Ecuador;Villalobos;molido;panela|frutal|cacao;1600–2000 msnm
+1967;Estrella del Mundo 1967;Costa Rica;Maragogipe;grano;floral|té negro|frutal;1400–1800 msnm
+1968;Luz del Este 1968;Honduras;Villalobos;grano;cítrico|floral|miel;900–1200 msnm
+1969;Travesía del Maíz 1969;Bolivia;Castillo;grano;caramelo|nuez|chocolate;1000–1400 msnm
+1970;Montaña del Trópico 1970;Perú;Catuai;molido;frutal|miel|cítrico;1300–1600 msnm
+1971;Granito del Tesoro 1971;Guatemala;Caturra;cápsula;floral|té negro|frutal;1000–1400 msnm
+1972;Raíces del Valle Sagrado 1972;Bolivia;Typica;cápsula;caramelo|nuez|chocolate;1000–1400 msnm
+1973;Jaguar del Cacao 1973;Ecuador;Catuai;grano;frutal|miel|cítrico;900–1200 msnm
+1974;Esencia del Trueno 1974;México;Catuai;cápsula;floral|jazmín|cítrico;1700–2100 msnm
+1975;Alma del Lago 1975;Perú;Bourbon;molido;frutal|chocolate|floral;1300–1600 msnm
+1976;Tesoro del Este 1976;México;Maragogipe;grano;frutal|caramelo|vino tinto;900–1200 msnm
+1977;Rincón Clásica 1977;Brasil;Geisha;cápsula;panela|frutal|cacao;1400–1800 msnm
+1978;Rayo Suprema 1978;Nicaragua;Geisha;cápsula;terroso|especias|chocolate;1200–1500 msnm
+1979;Raíces del Río Grande 1979;Costa Rica;Pacamara;grano;floral|jazmín|cítrico;1400–1800 msnm
+1980;Quetzal del Cacao 1980;Bolivia;Geisha;molido;floral|té negro|frutal;1400–1800 msnm
+1981;Brisa del Paraíso 1981;Colombia;Villalobos;cápsula;caramelo|nuez|chocolate;1000–1400 msnm
+1982;Alma del Cacao 1982;Guatemala;Geisha;grano;cítrico|floral|miel;1700–2100 msnm
+1983;Tesoro del Oro 1983;Honduras;Castillo;cápsula;frutal|caramelo|vino tinto;1000–1400 msnm
+1984;Rincón del Bosque Alto 1984;Honduras;Caturra;cápsula;panela|frutal|cacao;1500–1900 msnm
+1985;Colibrí del Jaguar 1985;Perú;Typica;cápsula;floral|jazmín|cítrico;900–1200 msnm
+1986;Jaguar del Oro 1986;El Salvador;Pacamara;cápsula;frutal|caramelo|vino tinto;1700–2100 msnm
+1987;Aurora Tropical 1987;Ecuador;Bourbon;molido;panela|frutal|cacao;1600–2000 msnm
+1988;Fuego del Sol 1988;Ecuador;Bourbon;grano;terroso|especias|chocolate;1200–1500 msnm
+1989;Sierra del Río 1989;Colombia;Pacamara;grano;floral|jazmín|cítrico;1500–1900 msnm
+1990;Corazón del Sur 1990;Costa Rica;Maragogipe;cápsula;chocolate|nuez|vainilla;1200–1500 msnm
+1991;Travesía del Jaguar 1991;Nicaragua;Geisha;molido;panela|frutal|cacao;1700–2100 msnm
+1992;Sol del Sol 1992;Ecuador;Maragogipe;cápsula;caramelo|nuez|chocolate;1300–1600 msnm
+1993;Cedro del Este 1993;Honduras;Villalobos;cápsula;frutal|caramelo|vino tinto;1400–1800 msnm
+1994;Altura Dorada 1994;Brasil;Catuai;molido;cítrico|floral|miel;1300–1600 msnm
+1995;Selva del Encanto Andino 1995;Ecuador;Caturra;cápsula;frutal|miel|cítrico;1600–2000 msnm
+1996;Joya del Maíz 1996;Colombia;Maragogipe;grano;caramelo|nuez|chocolate;1200–1500 msnm
+1997;Puerta del Oro 1997;Perú;Pacamara;molido;floral|jazmín|cítrico;1600–2000 msnm
+1998;Jaguar Tropical 1998;Honduras;Typica;grano;floral|té negro|frutal;1000–1400 msnm
+1999;Nube del Cóndor 1999;Ecuador;Pacamara;cápsula;panela|frutal|cacao;1600–2000 msnm
+2000;Encanto del Jaguar 2000;El Salvador;Caturra;molido;frutal|chocolate|floral;1400–1800 msnm
