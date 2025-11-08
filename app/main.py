@@ -1,8 +1,20 @@
-# app/main.py
+# app/main.py - CÓDIGO FINAL CON CORRECCIÓN DE CORS
 from fastapi import FastAPI
+from starlette.middleware.cors import CORSMiddleware  # NECESARIO
 from app.database import init_db
+import uvicorn
 
+# --- CONFIGURACIÓN DE FASTAPI ---
 app = FastAPI(title="Caffinet Backend")
+
+# Esto permite que tu frontend (Flutter Web) se comunique con el backend.
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Permite cualquier origen
+    allow_credentials=True,
+    allow_methods=["*"],  # Permite todos los métodos
+    allow_headers=["*"],
+)
 
 # Inicializa la base de datos y crea tablas si no existen
 init_db()
@@ -44,3 +56,7 @@ app.include_router(historial_busquedas.router, prefix="/historial", tags=["Histo
 @app.get("/")
 def root():
     return {"message": "Backend Caffinet funcionando correctamente"}
+
+# --- BLOQUE DE EJECUCIÓN UVICORN ---
+if __name__ == "__main__":
+    uvicorn.run(app, host="0.0.0.0", port=8000)
