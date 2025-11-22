@@ -2,6 +2,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.database import init_db
+from app.utils import discover
 
 app = FastAPI(title="Caffinet Backend")
 
@@ -60,7 +61,7 @@ app.include_router(
     calificaciones.router, prefix="/calificaciones", tags=["Calificaciones"]
 )
 app.include_router(historial_busquedas.router, prefix="/historial", tags=["Historial"])
-
+app.include_router(discover.router)
 
 @app.get("/")
 def root():

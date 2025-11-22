@@ -1,9 +1,12 @@
 # app/models.py
+from pydantic import BaseModel
 from sqlalchemy import Column, Integer, String, ForeignKey, DateTime, Boolean, Enum, TIMESTAMP
 from sqlalchemy.orm import relationship
 from datetime import datetime
 import enum
 from app.database import Base
+from pydantic import BaseModel
+from typing import Dict, Any, List
 
 # --------------------------
 # Historial de búsquedas
@@ -117,3 +120,30 @@ class Favorito(Base):
 
     usuario = relationship("Usuario", back_populates="favoritos")
     cafeteria = relationship("Cafeteria", back_populates="favoritos")
+
+# --- Entradas (Input) ---
+
+class UserLocation(BaseModel):
+    latitude: float
+    longitude: float
+
+class OptimalRouteRequest(BaseModel):
+    algorithm: str # Dijkstra, Floyd-Warshall, Bellman-Ford
+    user_location: UserLocation
+    filters: Dict[str, Any] # Tags, precios, etc.
+
+# --- Salidas (Output) ---
+
+class CafeRouteItemSchema(BaseModel):
+    cafeteria_id: int
+    name: str
+    latitude: float
+    longitude: float
+    optimal_cost: float
+    distance_km: float
+
+class OptimalRouteResultSchema(BaseModel):
+    ordered_cafeterias: List[CafeRouteItemSchema]
+    selected_algorithm: str
+    big_o_notation: str
+    processing_time_ms: int

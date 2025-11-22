@@ -1,7 +1,11 @@
 from fastapi import APIRouter, Query
-from app.utils.data_loader import df_bebidas, df_cafes_bebidas
+from app.utils.data_loader import DataLoader
 
 router = APIRouter()
+
+# Obtener la instancia Singleton
+data_loader = DataLoader()
+DF_BEBIDAS = data_loader.df_bebidas
 
 @router.get("/")
 def get_bebidas(
@@ -13,7 +17,7 @@ def get_bebidas(
     """
     Devuelve todas las bebidas con filtros opcionales.
     """
-    df = df_bebidas.copy()
+    df = DF_BEBIDAS.copy()
 
     if categoria:
         df = df[df["Categoría"].str.lower() == categoria.lower()]
@@ -28,7 +32,7 @@ def get_bebidas(
 
 @router.get("/{bebida_id}")
 def get_bebida(bebida_id: int):
-    df = df_bebidas[df_bebidas["id_tipo_bebida"] == bebida_id]
+    df = DF_BEBIDAS[DF_BEBIDAS["id_tipo_bebida"] == bebida_id]
     if df.empty:
         return {"message": "Bebida no encontrada"}
     return df.iloc[0].to_dict()

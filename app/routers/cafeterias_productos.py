@@ -1,7 +1,12 @@
 from fastapi import APIRouter, Query
-from app.utils.data_loader import df_cafeterias_productos, df_productos
+from app.utils.data_loader import DataLoader
 
 router = APIRouter()
+
+# Obtener la instancia Singleton
+data_loader = DataLoader()
+DF_CAFETERIAS_PRODUCTOS = data_loader.cafeterias_productos_data
+DF_PRODUCTOS = data_loader.df_productos
 
 @router.get("/{cafeteria_id}")
 def get_cafeteria_productos(
@@ -9,12 +14,12 @@ def get_cafeteria_productos(
     tipo: str = None,
     vegano: bool = None
 ):
-    df = df_cafeterias_productos[df_cafeterias_productos["cafeteria_id"] == cafeteria_id]
+    df = DF_CAFETERIAS_PRODUCTOS[DF_CAFETERIAS_PRODUCTOS["cafeteria_id"] == cafeteria_id]
     if df.empty:
         return {"message": "No hay productos para esta cafetería"}
     
     # Join con productos
-    df = df.merge(df_productos, left_on="producto_id", right_on="id_productos", how="left")
+    df = df.merge(DF_PRODUCTOS, left_on="producto_id", right_on="id_productos", how="left")
     
     # Filtros opcionales
     if tipo:

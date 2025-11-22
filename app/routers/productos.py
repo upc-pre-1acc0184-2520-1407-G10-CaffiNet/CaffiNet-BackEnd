@@ -1,7 +1,11 @@
 from fastapi import APIRouter, Query
-from app.utils.data_loader import df_productos, df_cafeterias_productos
+from app.utils.data_loader import DataLoader
 
 router = APIRouter()
+
+# Obtener la instancia Singleton
+data_loader = DataLoader()
+DF_PRODUCTOS = data_loader.df_productos
 
 @router.get("/")
 def get_productos(
@@ -10,7 +14,7 @@ def get_productos(
     precio_min: float = None,
     precio_max: float = None
 ):
-    df = df_productos.copy()
+    df = DF_PRODUCTOS.copy()
 
     if tipo:
         df = df[df["tipo"].str.lower() == tipo.lower()]
@@ -25,7 +29,7 @@ def get_productos(
 
 @router.get("/{producto_id}")
 def get_producto(producto_id: int):
-    df = df_productos[df_productos["id_productos"] == producto_id]
+    df = DF_PRODUCTOS[DF_PRODUCTOS["id_productos"] == producto_id]
     if df.empty:
         return {"message": "Producto no encontrado"}
     return df.iloc[0].to_dict()
