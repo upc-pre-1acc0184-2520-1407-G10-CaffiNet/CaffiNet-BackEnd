@@ -2,7 +2,7 @@
 from fastapi import APIRouter, HTTPException
 from typing import Dict, Any, List
 from app.models import OptimalRouteRequest, OptimalRouteResultSchema, CafeRouteItemSchema
-from app.utils.cost_calculator import build_preference_graph, haversine_distance
+from app.utils.cost_calculator import build_preference_graph, haversine_distance, get_route_polyline
 from app.utils.graph_algorithms import dijkstra_algorithm, floyd_warshall_algorithm, bellman_ford_algorithm
 
 router = APIRouter(
@@ -66,11 +66,14 @@ def calculate_optimal_route(request: OptimalRouteRequest):
         if not cafe_data:
             continue
             
-        cafe_lat = cafe_data['latitude'] / 10**9 # Desnormalizar
-        cafe_lon = cafe_data['longitude'] / 10**9
+        cafe_lat = cafe_data['latitude'] / 10**7 # Denormalizar (datos estan en 10^7)
+        cafe_lon = cafe_data['longitude'] / 10**7
 
         # Calcular la distancia física real para mostrarla
         distance_km = haversine_distance(user_lat, user_lon, cafe_lat, cafe_lon)
+        
+        # Inicializar con un polyline vacío (se llenará después si es top 20)
+        route_points = []
         
         results_list.append(CafeRouteItemSchema(
             cafeteria_id=cafe_id,
@@ -79,10 +82,26 @@ def calculate_optimal_route(request: OptimalRouteRequest):
             longitude=cafe_lon,
             optimal_cost=optimal_cost,
             distance_km=distance_km,
+            real_route_points=route_points,
         ))
 
     # Ordenar por el Coste Óptimo (menor coste = mejor ruta)
     results_list.sort(key=lambda x: x.optimal_cost)
+    
+    # Limitar a los top 20 mejores resultados (para evitar saturar OSRM)
+    # El frontend puede pedir más en una siguiente consulta si lo necesita
+    MAX_RESULTS = 20
+    results_list = results_list[:MAX_RESULTS]
+    
+    # 4. Obtener polylines solo para los top 20 (paralelizar si es posible)
+    for item in results_list:
+        try:
+            route_points = get_route_polyline(user_lat, user_lon, item.latitude, item.longitude)
+            item.real_route_points = route_points
+        except Exception as e:
+            print(f"Advertencia: No se pudo obtener polyline para cafeteria {item.cafeteria_id}: {e}")
+            # Dejar polyline vacío (fallback)
+            item.real_route_points = []
     
     # 4. Devolver la Respuesta
     return OptimalRouteResultSchema(

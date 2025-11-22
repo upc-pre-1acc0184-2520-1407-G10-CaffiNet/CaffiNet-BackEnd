@@ -6,7 +6,7 @@ from datetime import datetime
 import enum
 from app.database import Base
 from pydantic import BaseModel
-from typing import Dict, Any, List
+from typing import Dict, Any, List, Tuple
 
 # --------------------------
 # Historial de búsquedas
@@ -141,6 +141,7 @@ class CafeRouteItemSchema(BaseModel):
     longitude: float
     optimal_cost: float
     distance_km: float
+    real_route_points: List[Tuple[float, float]] = []  # Array de (lat, lon) desde usuario a cafetería
 
 class OptimalRouteResultSchema(BaseModel):
     ordered_cafeterias: List[CafeRouteItemSchema]
