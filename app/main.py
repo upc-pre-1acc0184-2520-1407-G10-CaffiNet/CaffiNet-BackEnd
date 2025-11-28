@@ -1,11 +1,14 @@
 # app/main.py
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.database import init_db
+from app.database import init_db, SessionLocal
 from app.utils import discover
 
-app = FastAPI(title="Caffinet Backend")
+# importamos Cafeteria y DataLoader para el seeding
+from app.models import Cafeteria
+from app.utils.data_loader import DataLoader
 
+app = FastAPI(title="Caffinet Backend")
 
 app.add_middleware(
     CORSMiddleware,
@@ -62,6 +65,56 @@ app.include_router(
 )
 app.include_router(historial_busquedas.router, prefix="/historial", tags=["Historial"])
 app.include_router(discover.router)
+
+# ==========================
+# Seeding automático de cafeterias
+# ==========================
+def seed_cafeterias_if_empty():
+    """
+    Si la tabla `cafeterias` está vacía, la llena usando el mismo dataset
+    que usa el router de cafeterías (DataLoader.df_cafeterias).
+    """
+    db = SessionLocal()
+    try:
+        count = db.query(Cafeteria).count()
+        if count > 0:
+            print(f"[seed] Tabla cafeterias ya tiene {count} filas. No se hace seeding.")
+            return
+
+        print("[seed] Tabla cafeterias vacía. Cargando dataset y seedéandola...")
+
+        loader = DataLoader()
+        df = loader.df_cafeterias.copy()
+
+        insertados = 0
+
+        for _, row in df.iterrows():
+
+            caf_id = int(row["cafeteria_id"])
+
+            # Por si acaso, aunque la tabla esté vacía
+            existing = db.query(Cafeteria).filter(Cafeteria.id == caf_id).first()
+            if existing:
+                continue
+
+            # Solo necesitamos el id para que las FKs de favoritos/calificaciones funcionen
+            cafeteria = Cafeteria(id=caf_id)
+            db.add(cafeteria)
+            insertados += 1
+
+        db.commit()
+        print(f"[seed] Cafeterías insertadas: {insertados}")
+        print("[seed] Seeding de cafeterias completado ✅")
+
+    finally:
+        db.close()
+
+
+@app.on_event("startup")
+def on_startup():
+    # Se ejecuta automáticamente al levantar el backend
+    seed_cafeterias_if_empty()
+
 
 @app.get("/")
 def root():
